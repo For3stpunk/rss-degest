@@ -140,9 +140,10 @@ def write_rss(items, path="combined.xml"):
 if __name__ == "__main__":
     print("Fetching feeds...")
     all_items = fetch_all()
-    write_html(all_items)
+    write_html(all_items, "combined.html")
+    write_html(all_items, "index.html")   # GitHub Pages serves this at the bare repo URL
     write_rss(all_items)
-    print(f"\nWrote {len(all_items)} items to combined.html and combined.xml")
+    print(f"\nWrote {len(all_items)} items to combined.html, index.html, and combined.xml")
 
 # --- Keeping it fresh ---------------------------------------------------
 # This script is a snapshot: run it, get one merged view, done. To make
