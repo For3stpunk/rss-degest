@@ -3,28 +3,161 @@
   <title>A Character Quiz — Combined Digest</title>
   <link>https://www.acharacterquiz.com</link>
   <description>News, politics, books, history, philosophy, and Chicago — merged into one feed</description>
-  <lastBuildDate>Tue, 04 Aug 2026 22:11:51 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 05 Aug 2026 00:02:39 +0000</lastBuildDate>
   
     <item>
-      <title>[Politics] Abdul El-Sayed wants to find out whether a progressive can win in Michigan.</title>
-      <link>https://www.nytimes.com/live/2026/08/04/us/midterms-elections-michigan-virginia/el-sayed-progressive-win-michigan</link>
+      <title>[News / World] Armed man arrested near Trump&#x27;s golf course ahead of president&#x27;s visit</title>
+      <link>https://www.bbc.co.uk/news/articles/c20jp3mp7lyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>BBC News — World: The arrest happened shortly before President Trump was due to host a fundraising dinner at the coastal golf course in California.</description>
+      <pubDate>Tue, 04 Aug 2026 23:58:16 +0000</pubDate>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c20jp3mp7lyo?at_medium=RSS&amp;at_campaign=rss</guid>
+    </item>
+    <item>
+      <title>[Politics] Shannon Taylor Wins Democratic Primary for Virginia House Race</title>
+      <link>https://www.nytimes.com/2026/08/04/us/politics/taylor-knapp-virginia-primary-election.html</link>
+      <description>NYT — Politics: The Richmond-area district was going to be one of the country’s most competitive in November, before a court threw out a Democrat-drawn redistricting map. Ms. Taylor faces Representative Rob Wittman in November.</description>
+      <pubDate>Tue, 04 Aug 2026 23:53:47 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/04/us/politics/taylor-knapp-virginia-primary-election.html</guid>
+    </item>
+    <item>
+      <title>[Politics] Julian Beaudion Quits Senate Race in South Dakota, Clearing Way for Independent</title>
+      <link>https://www.nytimes.com/2026/08/04/us/politics/julian-beaudion-drops-out-south-dakota.html</link>
+      <description>NYT — Politics: The decision by Julian Beaudion, the Democratic nominee, to leave the race was the third recent withdrawal by a Democratic Senate candidate in a red state.</description>
+      <pubDate>Tue, 04 Aug 2026 23:46:07 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/04/us/politics/julian-beaudion-drops-out-south-dakota.html</guid>
+    </item>
+    <item>
+      <title>[Politics] Luria Wins House Primary in Virginia, Setting Up a Rematch With Kiggans</title>
+      <link>https://www.nytimes.com/2026/08/04/us/politics/luria-virginia-democratic-house-primary.html</link>
+      <description>NYT — Politics: Elaine Luria will face Jennifer Kiggans, the Republican incumbent who defeated her in 2022, in the highly competitive Virginia Beach-area seat. Both are Navy veterans.</description>
+      <pubDate>Tue, 04 Aug 2026 23:36:19 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/04/us/politics/luria-virginia-democratic-house-primary.html</guid>
+    </item>
+    <item>
+      <title>[Politics] Thune on Max Miller allegations: ‘It’s a House matter. It’s a family issue too’</title>
+      <link>https://thehill.com/homenews/senate/6009438-thune-max-miller-house-moreno/</link>
+      <description>The Hill: Senate Majority Leader John Thune (R-S.D.) on Tuesday said the controversy surrounding Rep. Max Miller (R-Ohio) is an issue for the House and Ohio voters to decide, as well as &amp;#8220;a family matter.&amp;#8221; “It&amp;#8217;s a very sad and unfortunate case. It is a family matter, and I just, I don&amp;#8217;t</description>
+      <pubDate>Tue, 04 Aug 2026 23:30:38 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/homenews/senate/6009438-thune-max-miller-house-moreno/</guid>
+    </item>
+    <item>
+      <title>[Politics] What Was on the Minds of Michigan Voters? Many Cited the Economy and Trump.</title>
+      <link>https://www.nytimes.com/2026/08/04/us/politics/michigan-democratic-primary-top-issues.html</link>
+      <description>NYT — Politics: As they cast ballots in the Democratic Senate primary, voters said they were concerned about data centers, health care, Israel and the war with Iran.</description>
+      <pubDate>Tue, 04 Aug 2026 23:30:16 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/04/us/politics/michigan-democratic-primary-top-issues.html</guid>
+    </item>
+    <item>
+      <title>[News / World] Sri Lanka shuts schools as floods and mudslides kill 7</title>
+      <link>https://www.aljazeera.com/news/2026/8/4/sri-lanka-shuts-schools-as-floods-and-mudslides-kill-7?traffic_source=rss</link>
+      <description>Al Jazeera: Torrential rains and flooding have damaged 129 houses and forced the evacuation of nearly 3,500 people, officials say.</description>
+      <pubDate>Tue, 04 Aug 2026 23:27:13 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/8/4/sri-lanka-shuts-schools-as-floods-and-mudslides-kill-7?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] Russia strikes Ukrainian capital Kyiv with ballistic missiles</title>
+      <link>https://www.aljazeera.com/news/2026/8/4/russia-strikes-ukrainian-capital-kyiv-with-ballistic-missiles?traffic_source=rss</link>
+      <description>Al Jazeera: The latest attack comes after at least 27 people were killed in both Russia and Ukraine earlier this week.</description>
+      <pubDate>Tue, 04 Aug 2026 23:24:43 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/8/4/russia-strikes-ukrainian-capital-kyiv-with-ballistic-missiles?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[Politics] When to Expect Results in Michigan, Virginia, Missouri, Washington and Kansas</title>
+      <link>https://www.nytimes.com/2026/08/04/us/politics/results-timing-michigan-virginia-missouri-washington-kansas.html</link>
+      <description>NYT — Politics: Voters will cast ballots in several primaries. Results will most likely be known late Tuesday or early Wednesday.</description>
+      <pubDate>Tue, 04 Aug 2026 23:24:16 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/04/us/politics/results-timing-michigan-virginia-missouri-washington-kansas.html</guid>
+    </item>
+    <item>
+      <title>[Politics] Taylor looks to unseat Wittman in key Virginia House race</title>
+      <link>https://thehill.com/homenews/campaign/6004695-taylor-wittman-virginia-house-race/</link>
+      <description>The Hill: Democrat Shannon Taylor is projected to face off against Rep. Rob Wittman (R-Va.) in a district that would have been a prime pick up for Democrats had their congressional map been implemented this spring, according to Decision Desk HQ. Wittman faced no primary on Tuesday for Virginia’s 1st Congressi</description>
+      <pubDate>Tue, 04 Aug 2026 23:22:11 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/homenews/campaign/6004695-taylor-wittman-virginia-house-race/</guid>
+    </item>
+    <item>
+      <title>[Politics] Kiggans, Luria to duke it out in rematch for battleground Virginia House seat</title>
+      <link>https://thehill.com/homenews/campaign/5986728-kiggans-luria-virginia-house-race/</link>
+      <description>The Hill: Virginia Rep. Jen Kiggans (R-Va.) and her predecessor, former Rep. Elaine Luria (D-Va.), will face off in the November election to represent the state’s 2nd Congressional District.&amp;#160; Since Kiggans unseated Luria in 2022, she has supported President Trump’s key policy objectives during her time i</description>
+      <pubDate>Tue, 04 Aug 2026 23:19:07 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/homenews/campaign/5986728-kiggans-luria-virginia-house-race/</guid>
+    </item>
+    <item>
+      <title>[Politics] Haley Stevens’s accent briefly dominated the Michigan Democratic Senate primary.</title>
+      <link>https://www.nytimes.com/live/2026/08/04/us/midterms-elections-michigan-virginia/haley-stevens-accent-michigan-senate</link>
       <description>NYT — Politics: </description>
-      <pubDate>Tue, 04 Aug 2026 22:07:04 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2026/08/04/us/midterms-elections-michigan-virginia/el-sayed-progressive-win-michigan</guid>
+      <pubDate>Tue, 04 Aug 2026 23:14:58 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2026/08/04/us/midterms-elections-michigan-virginia/haley-stevens-accent-michigan-senate</guid>
     </item>
     <item>
-      <title>[Politics] Inside the Oval Office Showdown Between Trump and Jeanine Pirro</title>
-      <link>https://www.nytimes.com/2026/08/04/us/politics/trump-jeanine-pirro-showdown.html</link>
-      <description>NYT — Politics: Jeanine Pirro, the U.S. attorney for the District of Columbia, told President Trump that his interior secretary, Doug Burgum, had misled him with a self-serving cover story for his own mistakes.</description>
-      <pubDate>Tue, 04 Aug 2026 22:00:04 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/04/us/politics/trump-jeanine-pirro-showdown.html</guid>
+      <title>[Politics] AIPAC Spending Dominates the Michigan Democratic Senate Primary</title>
+      <link>https://www.nytimes.com/2026/08/04/us/politics/michigan-democratic-senate-primary-aipac.html</link>
+      <description>NYT — Politics: Representative Haley Stevens has been backed by tens of millions of dollars, much of it from pro-Israel groups and hidden donors. Her rival, Dr. Abdul El-Sayed, has tried to make that support a liability.</description>
+      <pubDate>Tue, 04 Aug 2026 23:10:05 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/04/us/politics/michigan-democratic-senate-primary-aipac.html</guid>
     </item>
     <item>
-      <title>[Politics] FDA authorizes 4 flavored nicotine pouches</title>
-      <link>https://thehill.com/policy/healthcare/6009152-fda-authorizes-helix-flavored-nicotine-pouches/</link>
-      <description>The Hill: The Food and Drug Administration (FDA) on Tuesday granted marketing authorization to four new flavored nicotine pouches as part of the agency&amp;#8217;s tobacco review pilot program launched last year. Four nicotine pouch products — Rich Berry 2 mg, Cappuccino 2 mg, Cappuccino 4 mg and Autumn Spice 2 m</description>
-      <pubDate>Tue, 04 Aug 2026 21:52:22 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/policy/healthcare/6009152-fda-authorizes-helix-flavored-nicotine-pouches/</guid>
+      <title>[Politics] Pentagon signs deal to expand missile interceptor systems production</title>
+      <link>https://thehill.com/homenews/6009369-pentagon-signs-deal-to-expand-missile-interceptor-systems-production/</link>
+      <description>The Hill: Welcome to The Hill&amp;#8217;s Defense &amp;#038; NatSec newsletter {beacon} Defense &amp;#038;National Security Defense &amp;#038;National Security &amp;#8202; The Big Story&amp;#160; Pentagon signs deal to expand missile interceptor component production The Pentagon announced on Monday that it signed framework agreement</description>
+      <pubDate>Tue, 04 Aug 2026 23:04:48 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/homenews/6009369-pentagon-signs-deal-to-expand-missile-interceptor-systems-production/</guid>
+    </item>
+    <item>
+      <title>[Politics] Rubio leads Vance by 36 points in new 2028 GOP straw poll</title>
+      <link>https://thehill.com/homenews/campaign/6009292-marco-rubio-wins-gop-strawpoll/</link>
+      <description>The Hill: Secretary of State Marco Rubio captured a strong majority of conservatives participating in a 2028 GOP presidential straw poll over the weekend, finishing 36 points ahead of Vice President Vance. The survey of attendees at the Western Conservative Summit in Colorado found that 57 percent of 500-plus</description>
+      <pubDate>Tue, 04 Aug 2026 23:04:00 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/homenews/campaign/6009292-marco-rubio-wins-gop-strawpoll/</guid>
+    </item>
+    <item>
+      <title>[Politics] Live updates: Republicans debate for South Carolina Senate seat; Stevens, El-Sayed duke it out</title>
+      <link>https://thehill.com/homenews/administration/6006945-live-updates-trump-blanche-doj-michigan-primary-south-carolina-gop-debate/</link>
+      <description>The Hill: Michigan voters are at the polls Tuesday to decide which Democrat to back in the Senate race: progressive&amp;#160;Abdul El-Sayed&amp;#160;and moderate Rep.&amp;#160;Haley Stevens&amp;#160;(D-Mich.). There are also key House races to watch in Michigan and Missouri. On Tuesday night, The Hill&amp;#8217;s parent company,</description>
+      <pubDate>Tue, 04 Aug 2026 22:55:54 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/homenews/administration/6006945-live-updates-trump-blanche-doj-michigan-primary-south-carolina-gop-debate/</guid>
+    </item>
+    <item>
+      <title>[Chicago] Man Charged With Murder In Fatal Wrong-Way Crash On Dan Ryan</title>
+      <link>https://blockclubchicago.org/2026/08/04/man-charged-with-murder-in-fatal-wrong-way-crash-on-dan-ryan/</link>
+      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;Illinois State Police block off the entry ramp from 47th Street before an anti-police brutality marched through the Bronzeville neighborhood on August 15, 2020. Initial plans were to march on the Dan Ryan Expressway. | Colin Boyle/Block Club Chicago&quot; class=&quot;attachment-rss-image-siz</description>
+      <pubDate>Tue, 04 Aug 2026 22:54:32 +0000</pubDate>
+      <guid isPermaLink="true">https://blockclubchicago.org/2026/08/04/man-charged-with-murder-in-fatal-wrong-way-crash-on-dan-ryan/</guid>
+    </item>
+    <item>
+      <title>[Politics] Judge Pained as He Grants Dismissal of Jan. 6 Charges Against Oath Keepers</title>
+      <link>https://www.nytimes.com/2026/08/04/us/politics/jan-6-charges-oath-keepers-dismissed.html</link>
+      <description>NYT — Politics: The judge, Amit P. Mehta, blasted the administration’s request for a dismissal in the case, saying it bestowed “unearned grace” on the Oath Keepers defendants “by wiping their records clean.”</description>
+      <pubDate>Tue, 04 Aug 2026 22:42:28 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/04/us/politics/jan-6-charges-oath-keepers-dismissed.html</guid>
+    </item>
+    <item>
+      <title>[Politics] US supply of long-range missiles, THAAD interceptors nearly exhausted: Reports</title>
+      <link>https://thehill.com/policy/defense/6009275-us-missile-interceptor-stocks-dwindling-dangerous/</link>
+      <description>The Hill: The U.S. military’s supply of its premier long-range missiles and interceptors for a key missile defense system are nearly exhausted after over five months of airstrikes against Iran, underscoring worries about U.S. preparedness to fight other conflicts that may emerge around the world, news outlets</description>
+      <pubDate>Tue, 04 Aug 2026 22:19:27 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/policy/defense/6009275-us-missile-interceptor-stocks-dwindling-dangerous/</guid>
+    </item>
+    <item>
+      <title>[Politics] Collins will oppose Blanche, narrowing nominee’s path to confirmation</title>
+      <link>https://thehill.com/homenews/senate/6009239-collins-opposes-blanche-ag-confirmation/</link>
+      <description>The Hill: Sen. Susan Collins (R-Maine), who is facing a tough reelection in a state carried by Democrat Kamala Harris in 2024, announced on Tuesday that she will vote “no” on Todd Blanche’s nomination to serve as attorney general. Collins’s plan to oppose Blanche means he can afford only one more Senate Repub</description>
+      <pubDate>Tue, 04 Aug 2026 22:11:55 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/homenews/senate/6009239-collins-opposes-blanche-ag-confirmation/</guid>
+    </item>
+    <item>
+      <title>[News / World] Elon Musk’s SpaceX reports losses but less than expected</title>
+      <link>https://www.aljazeera.com/economy/2026/8/4/elon-musks-spacex-reports-reports-losses-but-less-than-expected?traffic_source=rss</link>
+      <description>Al Jazeera: Revenue was up more than 90 percent from the same period a year ago, beating analyst expectations.</description>
+      <pubDate>Tue, 04 Aug 2026 22:02:09 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/economy/2026/8/4/elon-musks-spacex-reports-reports-losses-but-less-than-expected?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] SpaceX&#x27;s revenue rises as its once-soaring stock price drifts back to Earth</title>
+      <link>https://www.npr.org/2026/08/04/nx-s1-5918536/spacex-first-earnings-report-since-ipo</link>
+      <description>NPR News: On their first earnings call since SpaceX&#x27;s June public offering, executives said the company is pouring funds into rocket development, Starlink satellites and AI.</description>
+      <pubDate>Tue, 04 Aug 2026 22:02:03 +0000</pubDate>
+      <guid isPermaLink="true">https://www.npr.org/2026/08/04/nx-s1-5918536/spacex-first-earnings-report-since-ipo</guid>
     </item>
     <item>
       <title>[News / World] EU commends Spain&#x27;s &#x27;swift response&#x27; to Ceuta migrant crisis</title>
@@ -34,18 +167,11 @@
       <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&amp;at_campaign=rss</guid>
     </item>
     <item>
-      <title>[Politics] Reflecting Pool reversal brings scrutiny on cases, Pirro’s job security</title>
-      <link>https://thehill.com/regulation/court-battles/6009143-jeanine-pirro-reflecting-pool-cases-vandalism/</link>
-      <description>The Hill: U.S. Attorney Jeanine Pirro’s decision to drop cases against people suspected of damaging the Lincoln Memorial Reflecting Pool has opened a new line of scrutiny around the potential legal ramifications. As lawyers question what federal prosecutors knew and when, some suggested civil rights or defama</description>
-      <pubDate>Tue, 04 Aug 2026 21:41:58 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/regulation/court-battles/6009143-jeanine-pirro-reflecting-pool-cases-vandalism/</guid>
-    </item>
-    <item>
-      <title>[News / World] Projectile sinks Indian-flagged ship off Yemen coast</title>
-      <link>https://www.bbc.co.uk/news/articles/cly84we1y37o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>BBC News — World: All 14 people on board the Indian-flagged vessel were safely rescued, India&#x27;s ministry of external affairs says.</description>
-      <pubDate>Tue, 04 Aug 2026 21:24:50 +0000</pubDate>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cly84we1y37o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <title>[News / World] How the far right weaponised the Ceuta crisis</title>
+      <link>https://www.aljazeera.com/video/newsfeed/2026/8/4/how-the-far-right-weaponised-the-ceuta-crisis?traffic_source=rss</link>
+      <description>Al Jazeera: More than 72 migrants died trying to reach Ceuta, but within hours the tragedy had become a political flashpoint.</description>
+      <pubDate>Tue, 04 Aug 2026 21:32:41 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/8/4/how-the-far-right-weaponised-the-ceuta-crisis?traffic_source=rss</guid>
     </item>
     <item>
       <title>[Philosophy] Mini-Heap</title>
@@ -55,25 +181,11 @@
       <guid isPermaLink="true">https://dailynous.com/2026/08/04/mini-heap-723/</guid>
     </item>
     <item>
-      <title>[Politics] UFC parent company lost $30M on White House fight</title>
-      <link>https://thehill.com/business/6008924-tko-ufc-whitehouse-loss/</link>
-      <description>The Hill: An executive from TKO Group Holdings, the parent company of the UFC, said Monday the firm lost roughly $30 million from its June event at the White House. “With regards to UFC Freedom 250, we incurred significantly higher-than-normal costs, which we partially offset with sold-out global partnerships</description>
-      <pubDate>Tue, 04 Aug 2026 21:13:02 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/business/6008924-tko-ufc-whitehouse-loss/</guid>
-    </item>
-    <item>
       <title>[News / World] Funeral for family killed in US strike on Iran’s Qeshm Island</title>
       <link>https://www.aljazeera.com/video/newsfeed/2026/8/4/funeral-for-family-killed-in-us-strike-on-irans-qeshm-island?traffic_source=rss</link>
       <description>Al Jazeera: The funeral for a couple and their toddler took place after they were killed in the US strike on Iran&amp;#039;s Qeshm Island.</description>
       <pubDate>Tue, 04 Aug 2026 21:11:50 +0000</pubDate>
       <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/8/4/funeral-for-family-killed-in-us-strike-on-irans-qeshm-island?traffic_source=rss</guid>
-    </item>
-    <item>
-      <title>[Politics] Senate funding bill seeks delay of hemp THC ban</title>
-      <link>https://thehill.com/policy/healthcare/6009069-senate-funding-bill-seeks-hemp-thc-ban-delay/</link>
-      <description>The Hill: Makers of hemp THC products were thrown a lifeline when senators in a stopgap spending bill included a delay of a federal ban on their products.&amp;#160; The Senate’s government funding bill set to be considered this week would delay the upcoming prohibition on most hemp-derived THC products until Dec.</description>
-      <pubDate>Tue, 04 Aug 2026 21:11:23 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/policy/healthcare/6009069-senate-funding-bill-seeks-hemp-thc-ban-delay/</guid>
     </item>
     <item>
       <title>[News / World] Death toll rises to 87 in India’s flood-stricken Assam</title>
@@ -90,81 +202,11 @@
       <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/8/4/six-years-on-beirut-blast-families-still-await-justice?traffic_source=rss</guid>
     </item>
     <item>
-      <title>[Politics] Live results: Kansas holds primaries as GOP looks to flip governor’s seat</title>
-      <link>https://thehill.com/homenews/campaign/5987111-live-results-kansas-governor-primary/</link>
-      <description>The Hill: Republicans are looking to flip the Kansas governor&amp;#8217;s mansion this fall, with Democratic Gov. Laura Kelly unable to run for reelection again. President Trump has endorsed state Senate President Ty Masterson in Tuesday&amp;#8217;s GOP primary to replace Kelly, who is term limited. Kansas Secretary </description>
-      <pubDate>Tue, 04 Aug 2026 21:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/homenews/campaign/5987111-live-results-kansas-governor-primary/</guid>
-    </item>
-    <item>
-      <title>[Politics] Live results: Marshall seeks second Senate term in Kansas GOP primary</title>
-      <link>https://thehill.com/homenews/campaign/5987129-live-results-kansas-senate-primary/</link>
-      <description>The Hill: Republican Sen. Roger Marshall is expected to easily secure the GOP nod Tuesday as he seeks a second term representing Kansas in Washington. He faces one challenger, Pond Naramore. On the other side of the aisle, pastor Adam Hamilton leads the crowded Democratic field — even outraising Marshall this</description>
-      <pubDate>Tue, 04 Aug 2026 21:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/homenews/campaign/5987129-live-results-kansas-senate-primary/</guid>
-    </item>
-    <item>
-      <title>[Politics] Live results: Virginia voters set up matchups for vulnerable House seats</title>
-      <link>https://thehill.com/homenews/campaign/6004035-live-results-virginia-house-primary/</link>
-      <description>The Hill: Virginians head to the polls Tuesday to cast their ballots to choose nominees for House races in the Old Dominion State. Virginia Democrats attempted to redraw the state&amp;#8217;s congressional districts following their success in taking back the governor&amp;#8217;s mansion last November. Virginia voters</description>
-      <pubDate>Tue, 04 Aug 2026 21:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/homenews/campaign/6004035-live-results-virginia-house-primary/</guid>
-    </item>
-    <item>
-      <title>[Politics] Live results: Democrats, Republicans compete to replace Whitmer in Michigan gubernatorial primaries</title>
-      <link>https://thehill.com/homenews/campaign/5988721-live-results-michigan-governor-primary/</link>
-      <description>The Hill: Michigan Secretary of State Jocelyn Benson is on track to secure the Democratic nod to replace term-limited Gov. Gretchen Whitmer (D), while three Republicans jockey for the GOP nomination. Benson is expected to easily advance from a Tuesday primary where she faces one challenger. On the other side </description>
-      <pubDate>Tue, 04 Aug 2026 21:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/homenews/campaign/5988721-live-results-michigan-governor-primary/</guid>
-    </item>
-    <item>
       <title>[News / World] National Guard deployment to Washington, DC will cost US roughly $1.4bn</title>
       <link>https://www.aljazeera.com/news/2026/8/4/national-guard-deployment-to-washington-dc-will-cost-us-roughly-1-4bn?traffic_source=rss</link>
       <description>Al Jazeera: The figure offers a glimpse of how much taxpayer money will be spent on a deployment that has been widely criticised.</description>
       <pubDate>Tue, 04 Aug 2026 20:59:33 +0000</pubDate>
       <guid isPermaLink="true">https://www.aljazeera.com/news/2026/8/4/national-guard-deployment-to-washington-dc-will-cost-us-roughly-1-4bn?traffic_source=rss</guid>
-    </item>
-    <item>
-      <title>[News / World] US says deal on reopening Hormuz close as Iran, Oman hold ‘positive’ talks</title>
-      <link>https://www.aljazeera.com/news/2026/8/4/us-says-deal-on-reopening-hormuz-close-as-iran-oman-hold-positive-talks?traffic_source=rss</link>
-      <description>Al Jazeera: Negotiators are working to expand safe shipping through the strait, though key differences remain unresolved.</description>
-      <pubDate>Tue, 04 Aug 2026 20:59:32 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/8/4/us-says-deal-on-reopening-hormuz-close-as-iran-oman-hold-positive-talks?traffic_source=rss</guid>
-    </item>
-    <item>
-      <title>[Politics] Appeals Court Says E.P.A. Cannot Block Billions in Climate Grants</title>
-      <link>https://www.nytimes.com/2026/08/04/climate/epa-climate-grants-appeals-court.html</link>
-      <description>NYT — Politics: The funds have been frozen since early in President Trump’s second term.</description>
-      <pubDate>Tue, 04 Aug 2026 20:58:30 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/04/climate/epa-climate-grants-appeals-court.html</guid>
-    </item>
-    <item>
-      <title>[Politics] A centrist split boosted progressive hopes in a Democratic House primary in Michigan.</title>
-      <link>https://www.nytimes.com/live/2026/08/04/us/midterms-elections-michigan-virginia/how-a-centrist-split-boosted-progressive-hopes-in-a-democratic-house-primary-in-michigan</link>
-      <description>NYT — Politics: </description>
-      <pubDate>Tue, 04 Aug 2026 20:45:03 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2026/08/04/us/midterms-elections-michigan-virginia/how-a-centrist-split-boosted-progressive-hopes-in-a-democratic-house-primary-in-michigan</guid>
-    </item>
-    <item>
-      <title>[News / World] US court deals blow to Trump’s bid to scrap climate grant programme</title>
-      <link>https://www.aljazeera.com/news/2026/8/4/us-court-deals-blow-to-trumps-bid-to-scrap-climate-grant-programme?traffic_source=rss</link>
-      <description>Al Jazeera: A US federal appeals court says EPA likely acted unlawfully in trying to cancel Biden-era clean energy grants.</description>
-      <pubDate>Tue, 04 Aug 2026 20:35:56 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/8/4/us-court-deals-blow-to-trumps-bid-to-scrap-climate-grant-programme?traffic_source=rss</guid>
-    </item>
-    <item>
-      <title>[News / World] How much of a challenge are wildfires to Europe?</title>
-      <link>https://www.aljazeera.com/video/inside-story/2026/8/4/how-much-of-a-challenge-are-wildfires-to-europe?traffic_source=rss</link>
-      <description>Al Jazeera: Rapidly spreading blazes are scorching the continent.</description>
-      <pubDate>Tue, 04 Aug 2026 20:34:38 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/video/inside-story/2026/8/4/how-much-of-a-challenge-are-wildfires-to-europe?traffic_source=rss</guid>
-    </item>
-    <item>
-      <title>[News / World] ‘I wanted to hug whatever remained’: Gaza families’ 3-year wait for funeral</title>
-      <link>https://www.aljazeera.com/news/2026/8/4/i-wanted-to-hug-whatever-remained-gaza-families-3-year-wait-for-funeral?traffic_source=rss</link>
-      <description>Al Jazeera: Thousands gather for mass funeral of 112 members of Abu Shreia and al-Hassaina families killed in 2023 Israeli attack.</description>
-      <pubDate>Tue, 04 Aug 2026 20:32:51 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/8/4/i-wanted-to-hug-whatever-remained-gaza-families-3-year-wait-for-funeral?traffic_source=rss</guid>
     </item>
     <item>
       <title>[News / World] Oregon&#x27;s wildfire season is pushing ranchers to evacuate their cattle</title>
@@ -188,13 +230,6 @@
       <guid isPermaLink="true">https://blockclubchicago.org/2026/08/04/pitchfork-co-founder-conde-nast-appear-to-settle-lawsuit-after-public-legal-battle/</guid>
     </item>
     <item>
-      <title>[Politics] Max Miller Shrugs Off Trump’s Warning and Pushes Ahead in Ohio</title>
-      <link>https://www.nytimes.com/2026/08/04/us/politics/max-miller-ohio-congress-trump.html</link>
-      <description>NYT — Politics: Republicans hoped a shove from President Trump would persuade the embattled congressman to drop his re-election bid in the face of abuse allegations.</description>
-      <pubDate>Tue, 04 Aug 2026 19:49:35 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/04/us/politics/max-miller-ohio-congress-trump.html</guid>
-    </item>
-    <item>
       <title>[News / World] More than 170 migrants rescued after boat catches fire in Channel</title>
       <link>https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&amp;at_campaign=rss</link>
       <description>BBC News — World: The government says all of the migrants, who were attempting to cross to the UK, will be returned to France.</description>
@@ -202,11 +237,11 @@
       <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&amp;at_campaign=rss</guid>
     </item>
     <item>
-      <title>[Politics] When Is My State’s Primary? See 2026 Primary Election Calendar</title>
-      <link>https://www.nytimes.com/live/2026/08/04/us/midterms-elections-michigan-virginia/find-state-primary-election-date</link>
-      <description>NYT — Politics: </description>
-      <pubDate>Tue, 04 Aug 2026 19:45:38 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2026/08/04/us/midterms-elections-michigan-virginia/find-state-primary-election-date</guid>
+      <title>[News / World] House Ethics Committee will investigate Ohio Republican Max Miller</title>
+      <link>https://www.npr.org/2026/08/04/g-s1-137389/max-miller-congress-house-ethics-committee-investigation</link>
+      <description>NPR News: The committee said it was reviewing allegations that Miller &quot;may have engaged in domestic violence.&quot; Miller has denied the allegations, which have swirled around his bid for a third term in Congress.</description>
+      <pubDate>Tue, 04 Aug 2026 19:40:02 +0000</pubDate>
+      <guid isPermaLink="true">https://www.npr.org/2026/08/04/g-s1-137389/max-miller-congress-house-ethics-committee-investigation</guid>
     </item>
     <item>
       <title>[News / World] Arrests in Egypt after people allegedly impersonate judges</title>
@@ -223,25 +258,11 @@
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/04/world/australia/new-zealand-greyhound-racing-ban.html</guid>
     </item>
     <item>
-      <title>[Politics] An Angry Trump Struggles to Understand Iran’s Defiant Leaders</title>
-      <link>https://www.nytimes.com/2026/08/04/us/politics/trump-iran.html</link>
-      <description>NYT — Politics: Iran’s leaders have perplexed several American presidents, perhaps none more than President Trump.</description>
-      <pubDate>Tue, 04 Aug 2026 19:20:37 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/04/us/politics/trump-iran.html</guid>
-    </item>
-    <item>
       <title>[Chicago] Riot Fest Offering Free Tickets To Douglass Park Neighbors At Thursday Event</title>
       <link>https://blockclubchicago.org/2026/08/04/riot-fest-offering-free-tickets-to-douglass-park-neighbors-at-thursday-event/</link>
       <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;681&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2025/09/092125-Riot-Fest-Sunday-Colin-Boyle-3234.jpg?fit=1024%2C681&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figure&gt;Riot Fest is hosting a community ti</description>
       <pubDate>Tue, 04 Aug 2026 19:08:48 +0000</pubDate>
       <guid isPermaLink="true">https://blockclubchicago.org/2026/08/04/riot-fest-offering-free-tickets-to-douglass-park-neighbors-at-thursday-event/</guid>
-    </item>
-    <item>
-      <title>[Politics] Parts of Trump’s New White House Helipad Disassembled, Photos Show</title>
-      <link>https://www.nytimes.com/2026/08/04/us/politics/trump-helipad-white-house-construction.html</link>
-      <description>NYT — Politics: Last week, construction workers had begun to decorate the new South Lawn helipad with a giant presidential seal. By Tuesday, the design was gone.</description>
-      <pubDate>Tue, 04 Aug 2026 19:08:27 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/04/us/politics/trump-helipad-white-house-construction.html</guid>
     </item>
     <item>
       <title>[Chicago] 15 More Chicago Campuses Join Sustainable Community Schools Program</title>
@@ -412,13 +433,6 @@
       <guid isPermaLink="true">https://blockclubchicago.org/2026/08/04/little-village-neighbors-want-justice-for-mother-of-4-killed-in-hit-and-run/</guid>
     </item>
     <item>
-      <title>[Chicago] Teens To Compete For Thousands In Seed Funding To Launch Businesses At ‘Pitch Black’ Competition</title>
-      <link>https://blockclubchicago.org/2026/08/04/teens-compete-for-thousands-in-seed-funding-in-this-weeks-pitch-black-competition/</link>
-      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;683&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2026/08/069A3449.jpg?fit=1024%2C683&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figure&gt;Teens aged 14-18 will wrap their free summer entrepreneurship cours</description>
-      <pubDate>Tue, 04 Aug 2026 13:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://blockclubchicago.org/2026/08/04/teens-compete-for-thousands-in-seed-funding-in-this-weeks-pitch-black-competition/</guid>
-    </item>
-    <item>
       <title>[News / World] Andy Burnham’s First Weeks as UK Prime Minister: TikToks, Podcasts and Promises</title>
       <link>https://www.nytimes.com/2026/08/04/world/europe/andy-burnham-uk-prime-minister.html</link>
       <description>NYT — World: Andy Burnham’s whirlwind of TikToks, podcasts and promises appears to be resonating with some voters. But he faces big decisions about how to pay for it all.</description>
@@ -440,25 +454,11 @@
       <guid isPermaLink="true">https://dailynous.com/2026/08/04/kershnar-case-moving-to-trial-phase/</guid>
     </item>
     <item>
-      <title>[News / World] 5 states hold primaries today. And, Spokane police arrest man connected to wildfire</title>
-      <link>https://www.npr.org/2026/08/04/g-s1-137277/up-first-newsetter-michigan-primaries-todd-blanche-spokane-wildfires-chuck-edwards</link>
-      <description>NPR News: Five state primaries are being held today, and Michigan is a key focus for Democrats who want to see how progressives fare in races. And, a man has been arrested in connection with a Spokane fire.</description>
-      <pubDate>Tue, 04 Aug 2026 11:29:23 +0000</pubDate>
-      <guid isPermaLink="true">https://www.npr.org/2026/08/04/g-s1-137277/up-first-newsetter-michigan-primaries-todd-blanche-spokane-wildfires-chuck-edwards</guid>
-    </item>
-    <item>
       <title>[News / World] Ukraine hits more Wildberries sites as strike kills five in Moscow region</title>
       <link>https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&amp;at_campaign=rss</link>
       <description>BBC News — World: Facilities operated by Russia&#x27;s largest online retailer were also hit in St Petersburg and Tver.</description>
       <pubDate>Tue, 04 Aug 2026 11:19:01 +0000</pubDate>
       <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&amp;at_campaign=rss</guid>
-    </item>
-    <item>
-      <title>[News / World] They&#x27;re a world leader in using drones for healthcare. But drones can&#x27;t do it all</title>
-      <link>https://www.npr.org/2026/08/04/g-s1-136906/drones-healthcare-trump-administration-rwanda</link>
-      <description>NPR News: Drones carrying medical supplies constantly crisscross the skies of Rwanda. The Trump administration is giving a major grant to the effort — and at the same time cutting aid to the country.</description>
-      <pubDate>Tue, 04 Aug 2026 11:05:10 +0000</pubDate>
-      <guid isPermaLink="true">https://www.npr.org/2026/08/04/g-s1-136906/drones-healthcare-trump-administration-rwanda</guid>
     </item>
     <item>
       <title>[Books &amp; Literature] Lit Hub Daily: August 4, 2026</title>
