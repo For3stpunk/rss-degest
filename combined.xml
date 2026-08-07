@@ -3,14 +3,56 @@
   <title>A Character Quiz — Combined Digest</title>
   <link>https://www.acharacterquiz.com</link>
   <description>News, politics, books, history, philosophy, and Chicago — merged into one feed</description>
-  <lastBuildDate>Fri, 07 Aug 2026 21:38:35 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 07 Aug 2026 22:35:00 +0000</lastBuildDate>
   
+    <item>
+      <title>[Politics] They’re Battle-Tested Democrats. Do Voters Care?</title>
+      <link>https://www.nytimes.com/2026/08/07/us/politics/angie-craig-haley-stevens-democrats.html</link>
+      <description>NYT — Politics: Haley Stevens and Angie Craig were celebrated by Democrats in 2018. This year, they’ve faced tough primaries.</description>
+      <pubDate>Fri, 07 Aug 2026 22:29:44 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/07/us/politics/angie-craig-haley-stevens-democrats.html</guid>
+    </item>
+    <item>
+      <title>[News / World] Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies</title>
+      <link>https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>BBC News — World: Italy introduced border controls following an influx of about 78,000 migrants from neighbouring Morocco into the Spanish exclave of Ceuta.</description>
+      <pubDate>Fri, 07 Aug 2026 22:13:55 +0000</pubDate>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&amp;at_campaign=rss</guid>
+    </item>
     <item>
       <title>[News / World] Hunter Biden tells BBC his pardon was &#x27;not good&#x27; for America or his father&#x27;s legacy</title>
       <link>https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>BBC News — World: In a wide-ranging BBC interview, the former president&#x27;s son denied having any interest in running for office and spoke frankly on his father&#x27;s declining health.</description>
-      <pubDate>Fri, 07 Aug 2026 21:32:30 +0000</pubDate>
+      <description>BBC News — World: In a wide-ranging BBC interview, the former president&#x27;s son denied having any interest in running for office and said his father&#x27;s cancer has spread.</description>
+      <pubDate>Fri, 07 Aug 2026 22:07:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&amp;at_campaign=rss</guid>
+    </item>
+    <item>
+      <title>[Politics] Charles S. Faddis, Ex-C.I.A. Officer Who Pushed Conspiracy Theories, Dies at 68</title>
+      <link>https://www.nytimes.com/2026/08/07/books/charles-sam-faddis-dead.html</link>
+      <description>NYT — Politics: After 20 years in the C.I.A., he emerged as an outspoken critic of the agency and as a leader of the election-denial movement in Pennsylvania.</description>
+      <pubDate>Fri, 07 Aug 2026 21:51:56 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/07/books/charles-sam-faddis-dead.html</guid>
+    </item>
+    <item>
+      <title>[News / World] Spain to introduce temporary border checks on visitors from Italy</title>
+      <link>https://www.theguardian.com/world/2026/aug/07/spain-to-introduce-temporary-border-checks-on-visitors-from-italy</link>
+      <description>The Guardian — World: &lt;p&gt;Move comes in response to Rome imposing similar measures after mass migration rush to Ceuta&lt;/p&gt;&lt;p&gt;Spain has announced it will introduce temporary border checks on visitors from Italy in response to Rome imposing similar measures after a mass rush of people from Morocco into Ceuta.&lt;/p&gt;&lt;p&gt;The check</description>
+      <pubDate>Fri, 07 Aug 2026 21:44:38 +0000</pubDate>
+      <guid isPermaLink="true">https://www.theguardian.com/world/2026/aug/07/spain-to-introduce-temporary-border-checks-on-visitors-from-italy</guid>
+    </item>
+    <item>
+      <title>[Politics] Schumer, Despite Party Tensions, Forges Ahead in Fight for Senate</title>
+      <link>https://www.nytimes.com/2026/08/07/us/politics/schumer-senate-midterms.html</link>
+      <description>NYT — Politics: In a phone call this week, the Democratic leader told the new Michigan Senate nominee who had opposed him to just win, working to foster unity ahead of a difficult race.</description>
+      <pubDate>Fri, 07 Aug 2026 21:37:36 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/07/us/politics/schumer-senate-midterms.html</guid>
+    </item>
+    <item>
+      <title>[Politics] Spokesman for Chuck Edwards blasts Ethics panel, report: ‘Not driven by due process’</title>
+      <link>https://thehill.com/homenews/house/6017839-rep-chuck-edwards-spokesman-ethics-panel/</link>
+      <description>The Hill: Rep. Chuck Edwards&amp;#8217;s (R-N.C.) spokesman Paul Shumaker slammed the House Ethics Committee panel that cited him for inappropriate behavior following Edwards dropping his reelection bid for North Carolina’s 11th Congressional District.  In an appearance on PBS’s “State Lines,” Shumaker called out</description>
+      <pubDate>Fri, 07 Aug 2026 21:36:55 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/homenews/house/6017839-rep-chuck-edwards-spokesman-ethics-panel/</guid>
     </item>
     <item>
       <title>[News / World] Thai PM vows to introduce stricter gun laws after eight killed in shooting</title>
@@ -36,7 +78,7 @@
     <item>
       <title>[Politics] Murkowski, Merkley demand answers on Trump’s Smithsonian disclaimers</title>
       <link>https://thehill.com/homenews/senate/6017828-murkowski-merkley-question-smithsonian-signs/</link>
-      <description>The Hill: A bipartisan pair of lawmakers are requesting more information from the Trump administration about its plans to install disclaimers outside of the Smithsonian’s National Museum of American History (NMAH).&amp;#160; GOP Sen. Lisa Murkowski (Alaska) and Democratic Sen. Jeff Merkley (Ore.) — the chair and </description>
+      <description>The Hill: A bipartisan pair of lawmakers are requesting more information from the Trump administration about its plans to install disclaimers outside of the Smithsonian’s National Museum of American History.  GOP Sen. Lisa Murkowski (Alaska) and Democratic Sen. Jeff Merkley (Ore.) — the chair and ranking memb</description>
       <pubDate>Fri, 07 Aug 2026 21:12:59 +0000</pubDate>
       <guid isPermaLink="true">https://thehill.com/homenews/senate/6017828-murkowski-merkley-question-smithsonian-signs/</guid>
     </item>
@@ -46,6 +88,13 @@
       <description>Al Jazeera: South Koreans in Seoul cooled off with a silent disco pool party during a record-breaking heat wave.</description>
       <pubDate>Fri, 07 Aug 2026 21:12:45 +0000</pubDate>
       <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/8/7/south-koreans-beat-the-heat-with-silent-disco-pool-party?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] Sophia Laforteza steps away from Katseye, the second member to depart this year</title>
+      <link>https://www.bbc.co.uk/news/articles/c4g305dz0y9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>BBC News — World: The announcement came comes after fellow bandmate Manon Bannerman went on a hiatus from the ensemble.</description>
+      <pubDate>Fri, 07 Aug 2026 21:05:45 +0000</pubDate>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c4g305dz0y9o?at_medium=RSS&amp;at_campaign=rss</guid>
     </item>
     <item>
       <title>[Politics] Hillary Clinton calls for unity within Democratic Party: ‘It can’t be a one-way street’</title>
@@ -90,13 +139,6 @@
       <guid isPermaLink="true">https://www.aljazeera.com/video/inside-story/2026/8/7/can-diplomacy-end-the-conflict-in-libya?traffic_source=rss</guid>
     </item>
     <item>
-      <title>[News / World] Spain to impose border controls against Italy as row over Ceuta migrant influx intensifies</title>
-      <link>https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>BBC News — World: Italy introduced border controls following an influx of about 78,000 migrants from neighbouring Morocco into the Spanish exclave of Ceuta.</description>
-      <pubDate>Fri, 07 Aug 2026 20:33:23 +0000</pubDate>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&amp;at_campaign=rss</guid>
-    </item>
-    <item>
       <title>[Politics] Trump announces deals and investments to bolster mining</title>
       <link>https://thehill.com/policy/energy-environment/6017707-trump-mining-event-chinese-minerals/</link>
       <description>The Hill: President Trump on Friday announced a slate of deals and investments that aim to bolster mining, something the administration has said will boost the economy and secure supply chains. Trump said during a mining roundtable that the Defense Department would sign a $1.4 billion loan agreement with Sila</description>
@@ -132,25 +174,11 @@
       <guid isPermaLink="true">https://thehill.com/homenews/senate/6017663-senate-nil-bill-funding-blanche-recess/</guid>
     </item>
     <item>
-      <title>[Politics] Schumer Forges Ahead in Fight for Senate, Despite Setbacks</title>
-      <link>https://www.nytimes.com/2026/08/07/us/politics/schumer-senate-midterms.html</link>
-      <description>NYT — Politics: In a phone call, the Democratic leader told the new Michigan contender who has opposed him to just win.</description>
-      <pubDate>Fri, 07 Aug 2026 19:58:46 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/07/us/politics/schumer-senate-midterms.html</guid>
-    </item>
-    <item>
       <title>[News / World] Contaminated water putting Gaza families at risk</title>
       <link>https://www.aljazeera.com/video/newsfeed/2026/8/7/contaminated-water-putting-gaza-families-at-risk?traffic_source=rss</link>
       <description>Al Jazeera: Gaza’s damaged water infrastructure is leaving families struggling to access safe drinking water.</description>
       <pubDate>Fri, 07 Aug 2026 19:47:42 +0000</pubDate>
       <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/8/7/contaminated-water-putting-gaza-families-at-risk?traffic_source=rss</guid>
-    </item>
-    <item>
-      <title>[Politics] Vance on joke about columnist’s weight: ‘I feel pretty good about that’</title>
-      <link>https://thehill.com/homenews/administration/6017628-vance-on-joke-about-columnists-weight-i-feel-pretty-good-about-that/</link>
-      <description>The Hill: Vice President Vance defended his jab about Washington Post columnist and Fox News contributor Marc Thiessen’s weight after the price of a $20 burrito sparked a GOP debate over affordability. In an interview with Salem News Channel’s Hugh Hewitt, Vance doubled down on his joke directed at Thiessen a</description>
-      <pubDate>Fri, 07 Aug 2026 19:47:19 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/homenews/administration/6017628-vance-on-joke-about-columnists-weight-i-feel-pretty-good-about-that/</guid>
     </item>
     <item>
       <title>[Politics] Senate Passes Sanctions Bill Targeting Russia and Iran</title>
@@ -167,25 +195,11 @@
       <guid isPermaLink="true">https://www.npr.org/2026/08/07/nx-s1-5925167/trump-lisa-cook-federal-reserve</guid>
     </item>
     <item>
-      <title>[Politics] Charles S. Faddis, Ex-C.I.A. Officer Who Pushed Conspiracy Theories, Dies at 68</title>
-      <link>https://www.nytimes.com/2026/08/07/books/charles-sam-faddis-dead.html</link>
-      <description>NYT — Politics: After 20 years in the C.I.A., he emerged as an outspoken critic of the agency and as a leader of the election-denial movement in Pennsylvania.</description>
-      <pubDate>Fri, 07 Aug 2026 19:34:07 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/07/books/charles-sam-faddis-dead.html</guid>
-    </item>
-    <item>
       <title>[News / World] DR Congo releases 15 prisoners to M23 rebels as part of Doha peace process</title>
       <link>https://www.aljazeera.com/news/2026/8/7/dr-congo-releases-15-prisoners-to-m23-rebels-as-part-of-doha-peace-process?traffic_source=rss</link>
       <description>Al Jazeera: ICRC facilitates first known transfer of detainees between Congolese government and M23 rebels in North Kivu.</description>
       <pubDate>Fri, 07 Aug 2026 19:21:01 +0000</pubDate>
       <guid isPermaLink="true">https://www.aljazeera.com/news/2026/8/7/dr-congo-releases-15-prisoners-to-m23-rebels-as-part-of-doha-peace-process?traffic_source=rss</guid>
-    </item>
-    <item>
-      <title>[Politics] Appeals Court Upholds Block on Trump Ballroom Construction</title>
-      <link>https://www.nytimes.com/2026/08/07/us/politics/trump-ballroom-appeals-court.html</link>
-      <description>NYT — Politics: A federal appeals court panel backed a lower court’s ruling, and made it likely that the Supreme Court will decide the case. But the decision does not mean construction will halt immediately.</description>
-      <pubDate>Fri, 07 Aug 2026 19:06:26 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/07/us/politics/trump-ballroom-appeals-court.html</guid>
     </item>
     <item>
       <title>[Politics] Iranians Say Trump’s Promises Have Fallen by the Wayside as Iran War Drags On</title>
@@ -298,13 +312,6 @@
       <description>NPR News: A new political era for Colombia: a hard-right president promises order, growth and confrontation.</description>
       <pubDate>Fri, 07 Aug 2026 15:41:45 +0000</pubDate>
       <guid isPermaLink="true">https://www.npr.org/2026/08/07/nx-s1-5924775/colombias-new-president-vows-to-remake-the-country-and-challenge-its-fragile-peace</guid>
-    </item>
-    <item>
-      <title>[News / World] Mexico and Peru restore diplomatic relations after asylum row</title>
-      <link>https://www.bbc.co.uk/news/articles/cz7dy1l3e77o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>BBC News — World: Relations broke down after former Peruvian Prime Minister Betssy Chávez sought asylum in the Mexican embassy in November 2025.</description>
-      <pubDate>Fri, 07 Aug 2026 15:38:28 +0000</pubDate>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cz7dy1l3e77o?at_medium=RSS&amp;at_campaign=rss</guid>
     </item>
     <item>
       <title>[News / World] Video Captures Chaos as Earthquake Strikes Japan Hospital Mid-Surgery</title>
@@ -699,12 +706,5 @@
       <description>The Paris Review: There is no better book for understanding Shiva Naipaul, a tragic figure whose name has long been associated with phrases like “unjustly overlooked,” “basically forgotten,” and “younger brother.”</description>
       <pubDate>Thu, 06 Aug 2026 14:00:38 +0000</pubDate>
       <guid isPermaLink="true">https://www.theparisreview.org/blog/2026/08/06/no-more-missionaries-shiva-naipauls-jonestown/</guid>
-    </item>
-    <item>
-      <title>[Books &amp; Literature] Jason Arday claimed he was paid ‘1.4 million’ by publisher for memoir</title>
-      <link>https://www.theguardian.com/education/2026/aug/06/jason-arday-claim-memoir-publisher-simon-and-schuster-cambridge</link>
-      <description>The Guardian — Books: &lt;p&gt;Simon &amp;amp; Schuster still plans to publish book by Cambridge academic who resigned this week amid plagiarism claims&lt;/p&gt;&lt;p&gt;Jason Arday, the former Cambridge professor accused of plagiarism and embellishment, claimed he was paid “1.4 million” for his forthcoming memoir detailing his extraordinary </description>
-      <pubDate>Thu, 06 Aug 2026 13:29:51 +0000</pubDate>
-      <guid isPermaLink="true">https://www.theguardian.com/education/2026/aug/06/jason-arday-claim-memoir-publisher-simon-and-schuster-cambridge</guid>
     </item>
 </channel></rss>
