@@ -3,21 +3,56 @@
   <title>A Character Quiz — Combined Digest</title>
   <link>https://www.acharacterquiz.com</link>
   <description>News, politics, books, history, philosophy, and Chicago — merged into one feed</description>
-  <lastBuildDate>Tue, 11 Aug 2026 21:46:46 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 11 Aug 2026 22:41:10 +0000</lastBuildDate>
   
+    <item>
+      <title>[Politics] Here’s the latest.</title>
+      <link>https://www.nytimes.com/live/2026/08/11/us/elections-south-carolina-wisconsin/heres-the-latest</link>
+      <description>NYT — Politics: </description>
+      <pubDate>Tue, 11 Aug 2026 22:30:30 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2026/08/11/us/elections-south-carolina-wisconsin/heres-the-latest</guid>
+    </item>
+    <item>
+      <title>[Politics] Judge Awards $250,000 to Musician Who Fled Trump-Led Kennedy Center Gig</title>
+      <link>https://www.nytimes.com/2026/08/11/arts/music/chuck-redd-kennedy-center.html</link>
+      <description>NYT — Politics: The center had sued Chuck Redd when he canceled a free concert last year, citing the addition of the Trump name to the venue. But a judge dismissed the case.</description>
+      <pubDate>Tue, 11 Aug 2026 22:26:40 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/11/arts/music/chuck-redd-kennedy-center.html</guid>
+    </item>
+    <item>
+      <title>[Politics] When to Expect Results in Wisconsin, Minnesota, South Carolina and Beyond</title>
+      <link>https://www.nytimes.com/2026/08/11/us/politics/election-results-timing-wisconsin-minnesota.html</link>
+      <description>NYT — Politics: Six states are holding elections on Tuesday. The unofficial results will be known late Tuesday or early Wednesday.</description>
+      <pubDate>Tue, 11 Aug 2026 22:13:04 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/11/us/politics/election-results-timing-wisconsin-minnesota.html</guid>
+    </item>
+    <item>
+      <title>[Politics] Trump administration finalizes rule restricting trans healthcare for minors on Medicaid</title>
+      <link>https://thehill.com/policy/healthcare/6023489-cms-blocks-minor-gender-care/</link>
+      <description>The Hill: The Trump administration on Tuesday released a final rule blocking the use of federal Medicaid dollars for transgender healthcare for minors, as well as barring Children’s Health Insurance Program (CHIP) plans from paying for gender-affirming procedures for minors. The final rule released by The Cen</description>
+      <pubDate>Tue, 11 Aug 2026 22:07:09 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/policy/healthcare/6023489-cms-blocks-minor-gender-care/</guid>
+    </item>
+    <item>
+      <title>[Politics] Hims &amp; Hers planning to sell compounded peptides</title>
+      <link>https://thehill.com/policy/healthcare/6023657-hims-hers-plans-compounded-peptides/</link>
+      <description>The Hill: Hims &amp;#38; Hers Health is planning to sell compounded peptides, the company said in a Monday earnings call. The company’s CEO, Andrew Dudum, said in the earnings call that it was “currently developing a best-in-class peptides experience, including U.S. manufactured products, clinical-led guidance, a</description>
+      <pubDate>Tue, 11 Aug 2026 22:06:55 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/policy/healthcare/6023657-hims-hers-plans-compounded-peptides/</guid>
+    </item>
+    <item>
+      <title>[Politics] AI reshapes traditional campaign strategies</title>
+      <link>https://thehill.com/newsletters/technology/6023643-ai-reshapes-traditional-campaign-strategies/</link>
+      <description>The Hill: {beacon} Technology Technology &amp;#8202; The Big Story&amp;#160; AI reshapes traditional campaign strategies Artificial intelligence is reshaping the campaign trail, as candidates up and down the ballot turn to the technology for deepfake attack ads, viral social media posts and self-promotion.&amp;#160; © Il</description>
+      <pubDate>Tue, 11 Aug 2026 21:51:03 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/newsletters/technology/6023643-ai-reshapes-traditional-campaign-strategies/</guid>
+    </item>
     <item>
       <title>[Politics] Democrats Accuse Trump Administration of Stonewalling Major Transit Projects</title>
       <link>https://www.nytimes.com/2026/08/11/upshot/democrats-trump-frozen-transit-funds.html</link>
       <description>NYT — Politics: Congressional Democrats express concern that the delays involve “political considerations.”</description>
       <pubDate>Tue, 11 Aug 2026 21:35:16 +0000</pubDate>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/11/upshot/democrats-trump-frozen-transit-funds.html</guid>
-    </item>
-    <item>
-      <title>[Politics] How Iran Adapted Its Attacks as U.S. War Munitions Dwindled</title>
-      <link>https://www.nytimes.com/2026/08/11/us/politics/iran-military-base-attacks-us-munitions.html</link>
-      <description>NYT — Politics: The Iranian strikes that killed three U.S. soldiers in Jordan show how quickly Iran’s war-fighting skills have evolved, as the Pentagon runs low on interceptors.</description>
-      <pubDate>Tue, 11 Aug 2026 21:24:46 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/11/us/politics/iran-military-base-attacks-us-munitions.html</guid>
     </item>
     <item>
       <title>[News / World] Father and sons forced to manually clear rubble in Gaza</title>
@@ -83,27 +118,6 @@
       <guid isPermaLink="true">https://thehill.com/homenews/campaign/6021135-live-results-wisconsin-house-primaries/</guid>
     </item>
     <item>
-      <title>[Politics] Live results: Larson faces primary challenge from Bronin in Connecticut House race</title>
-      <link>https://thehill.com/homenews/campaign/6002654-live-results-connecticut-house-primaries/</link>
-      <description>The Hill: All five of Connecticut&amp;#8217;s House members are running for reelection, but just one is facing a contested primary Tuesday. Democratic Rep. John Larson is facing off against former Hartford Mayor Luke Bronin and two other candidates for the party&amp;#8217;s nomination. Larson secured support from the</description>
-      <pubDate>Tue, 11 Aug 2026 21:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/homenews/campaign/6002654-live-results-connecticut-house-primaries/</guid>
-    </item>
-    <item>
-      <title>[Politics] Live results: Minnesota holds gubernatorial primary to succeed Walz</title>
-      <link>https://thehill.com/homenews/campaign/6002656-live-results-minnesota-governor-primary/</link>
-      <description>The Hill: Voters in Minnesota are at the polls Tuesday to weigh in on primaries to decide the state&amp;#8217;s next governor. Sen. Amy Klobuchar (D) holds a commanding lead in the Democratic primary to replace Gov. Tim Walz (D), while President Trump has backed MyPillow CEO Mike Lindell on the other side of the </description>
-      <pubDate>Tue, 11 Aug 2026 21:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/homenews/campaign/6002656-live-results-minnesota-governor-primary/</guid>
-    </item>
-    <item>
-      <title>[Politics] Live results: Lamont seeks third term in Connecticut gubernatorial primary</title>
-      <link>https://thehill.com/homenews/campaign/6002652-live-results-connecticut-gubernatorial-primary/</link>
-      <description>The Hill: Connecticut Gov. Ned Lamont is on track to clinch the Democratic nod Tuesday as he seeks a third term as state&amp;#8217;s executive this cycle. He faces one primary challenger: state Rep. Josh Elliott. Republican Ryan Fazio secured the GOP&amp;#8217;s nod at a convention this spring. Polls close at 8 p.m. </description>
-      <pubDate>Tue, 11 Aug 2026 21:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/homenews/campaign/6002652-live-results-connecticut-gubernatorial-primary/</guid>
-    </item>
-    <item>
       <title>[News / World] Relatives mourn victims of Pakistan avalanche</title>
       <link>https://www.aljazeera.com/video/newsfeed/2026/8/11/relatives-mourn-victims-of-pakistan-avalanche?traffic_source=rss</link>
       <description>Al Jazeera: Relatives gathered to mourn the three Nepali mountaineers, Kili Pemba Sherpa, Gyalu Sherpa, and Nima Sherpa.</description>
@@ -123,13 +137,6 @@
       <description>BBC News — World: Elaborate deception operations and decoys are often used to deceive potential threats to the US president.</description>
       <pubDate>Tue, 11 Aug 2026 20:39:42 +0000</pubDate>
       <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c9d84874dzjo?at_medium=RSS&amp;at_campaign=rss</guid>
-    </item>
-    <item>
-      <title>[Politics] Here’s the latest.</title>
-      <link>https://www.nytimes.com/live/2026/08/11/us/elections-south-carolina-wisconsin/heres-the-latest</link>
-      <description>NYT — Politics: </description>
-      <pubDate>Tue, 11 Aug 2026 20:39:40 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2026/08/11/us/elections-south-carolina-wisconsin/heres-the-latest</guid>
     </item>
     <item>
       <title>[News / World] Pakistan interior minister in Tehran amid talks to reopen Hormuz</title>
@@ -270,13 +277,6 @@
       <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;682&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2024/07/071624-West-Loop-Storm-Damage-Colin-Boyle-7519.jpg?fit=1024%2C682&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figure&gt;As National Weather Service c</description>
       <pubDate>Tue, 11 Aug 2026 18:11:05 +0000</pubDate>
       <guid isPermaLink="true">https://blockclubchicago.org/2026/08/11/illinois-set-to-shatter-tornado-records-as-craziest-storm-season-ever-continues/</guid>
-    </item>
-    <item>
-      <title>[Politics] With El-Sayed’s Victory Comes a Wave of Islamophobia</title>
-      <link>https://www.nytimes.com/2026/08/11/us/politics/muslim-voters-candidates.html</link>
-      <description>NYT — Politics: As Muslim politicians like Abdul El-Sayed in Michigan have become more prominent, they have experienced considerable bigotry. President Trump said Democrats were electing “jihadists.”</description>
-      <pubDate>Tue, 11 Aug 2026 18:07:49 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/11/us/politics/muslim-voters-candidates.html</guid>
     </item>
     <item>
       <title>[News / World] Russia releases former US Marine reported in poor health</title>
