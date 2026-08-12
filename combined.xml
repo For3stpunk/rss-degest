@@ -3,63 +3,266 @@
   <title>A Character Quiz — Combined Digest</title>
   <link>https://www.acharacterquiz.com</link>
   <description>News, politics, books, history, philosophy, and Chicago — merged into one feed</description>
-  <lastBuildDate>Wed, 12 Aug 2026 13:08:24 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 12 Aug 2026 14:56:52 +0000</lastBuildDate>
   
     <item>
-      <title>[News / World] His wedding guests gave $6k to fund a health startup. Now it&#x27;s won a $3 million prize</title>
-      <link>https://www.npr.org/2026/08/12/g-s1-138180/hilton-humanitarian-prize-last-mile-health-liberia-raj-punjabi</link>
-      <description>NPR News: Dr. Raj Panjabi founded Last Mile Health to bring healthcare to people living in remote areas. The group is the 2026 recipient of the Conrad H. Hilton Humanitarian Prize.</description>
-      <pubDate>Wed, 12 Aug 2026 13:00:19 +0000</pubDate>
-      <guid isPermaLink="true">https://www.npr.org/2026/08/12/g-s1-138180/hilton-humanitarian-prize-last-mile-health-liberia-raj-punjabi</guid>
-    </item>
-    <item>
-      <title>[Politics] Progressives aren’t the enemy — centrist inaction is</title>
-      <link>https://thehill.com/opinion/campaign/6022500-progressives-arent-the-enemy-centrist-inaction-is/</link>
-      <description>The Hill: It is hard to pin centrists down on what democratic socialism means in large part because it would require publicly opposing kitchen table economic policies that most Democratic voters support.</description>
-      <pubDate>Wed, 12 Aug 2026 13:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/opinion/campaign/6022500-progressives-arent-the-enemy-centrist-inaction-is/</guid>
-    </item>
-    <item>
-      <title>[News / World] Live Updates: In Europe, the Total Solar Eclipse Is Only Hours Away</title>
+      <title>[News / World] Live Updates: Europe Counts Down to a Total Solar Eclipse</title>
       <link>https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates</link>
-      <description>NYT — World: From Iceland to Spain, people have flocked to places where, briefly, the moon will completely block the sun.</description>
-      <pubDate>Wed, 12 Aug 2026 12:59:49 +0000</pubDate>
+      <description>NYT — World: From Iceland to Spain, people have flocked to places where, briefly, the moon will completely block the sun. It is the continent’s first total eclipse in decades.</description>
+      <pubDate>Wed, 12 Aug 2026 14:54:28 +0000</pubDate>
       <guid isPermaLink="true">https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates</guid>
-    </item>
-    <item>
-      <title>[Politics] Schumer demands briefing on secret Trump flight from Turkey</title>
-      <link>https://thehill.com/homenews/senate/6024421-chuck-schumer-donald-trump-air-force-one-ruse-briefing/</link>
-      <description>The Hill: Senate Democratic Leader Chuck Schumer (N.Y.) on Tuesday demanded the Trump administration brief lawmakers on Secret Service&amp;#8217;s recent move to fly President Trump back from the NATO summit in Turkey last month using a decoy plane. “The Senate should be immediately briefed on the Iranian threats</description>
-      <pubDate>Wed, 12 Aug 2026 12:53:16 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/homenews/senate/6024421-chuck-schumer-donald-trump-air-force-one-ruse-briefing/</guid>
     </item>
     <item>
       <title>[Politics] Takeaways From the Wisconsin, Minnesota and South Carolina Primaries</title>
       <link>https://www.nytimes.com/2026/08/12/us/politics/south-carolina-wisconsin-minnesota-primaries.html</link>
       <description>NYT — Politics: A moderate won the closely fought Democratic primary for governor in Wisconsin, the latest contest between the party’s progressive and moderate wings.</description>
-      <pubDate>Wed, 12 Aug 2026 12:50:15 +0000</pubDate>
+      <pubDate>Wed, 12 Aug 2026 14:42:37 +0000</pubDate>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/12/us/politics/south-carolina-wisconsin-minnesota-primaries.html</guid>
     </item>
     <item>
-      <title>[News / World] US inflation eases as food costs cool</title>
+      <title>[News / World] Canadian airline WestJet agrees to settle flight attendants’ sexual harassment class action</title>
+      <link>https://www.theguardian.com/world/2026/aug/12/canadian-airline-westjet-settle-flight-attendants-sexual-harassment-class-action</link>
+      <description>The Guardian — World: &lt;p&gt;Female staff alleged company failed to maintain safe workplace, after allegations of sexual assault against pilot&lt;/p&gt;&lt;p&gt;The Canadian airline WestJet has agreed to pay C$4.5m (£2.4m) to settle a decade-long sexual harassment class action lawsuit levelled by its female flight attendants, who allege</description>
+      <pubDate>Wed, 12 Aug 2026 14:40:36 +0000</pubDate>
+      <guid isPermaLink="true">https://www.theguardian.com/world/2026/aug/12/canadian-airline-westjet-settle-flight-attendants-sexual-harassment-class-action</guid>
+    </item>
+    <item>
+      <title>[Politics] Here’s the latest.</title>
+      <link>https://www.nytimes.com/live/2026/08/12/us/primary-election-results-wi-mn-sc/heres-the-latest</link>
+      <description>NYT — Politics: </description>
+      <pubDate>Wed, 12 Aug 2026 14:37:51 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2026/08/12/us/primary-election-results-wi-mn-sc/heres-the-latest</guid>
+    </item>
+    <item>
+      <title>[Politics] Make policy based on science, not on RFK’s lifestyle choices</title>
+      <link>https://thehill.com/opinion/healthcare/6022858-base-peptide-policy-on-science-not-rfk-jr-s-lifestyle-choices/</link>
+      <description>The Hill: Kennedy is neither a doctor nor a medical researcher, and his personal practices should not guide federal policies.</description>
+      <pubDate>Wed, 12 Aug 2026 14:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/opinion/healthcare/6022858-base-peptide-policy-on-science-not-rfk-jr-s-lifestyle-choices/</guid>
+    </item>
+    <item>
+      <title>[News / World] Lebanon passes long-sought amnesty law, a day after death penalty repeal</title>
+      <link>https://www.aljazeera.com/news/2026/8/12/lebanon-passes-long-sought-amnesty-law-a-day-after-death-penalty-repeal?traffic_source=rss</link>
+      <description>Al Jazeera: The legislation will &amp;#039;exceptionally&amp;#039; reduce certain prison terms, says Lebanon&amp;#039;s parliament speaker.</description>
+      <pubDate>Wed, 12 Aug 2026 14:26:45 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/8/12/lebanon-passes-long-sought-amnesty-law-a-day-after-death-penalty-repeal?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[Politics] Piker says he could’ve phrased ‘America deserved 9/11’ better</title>
+      <link>https://thehill.com/homenews/campaign/6024548-piker-comments-impact-el-sayed/</link>
+      <description>The Hill: Hasan Piker, a left-wing commentator with a large following on the streaming platform Twitch, recently said he could’ve phrased the statement “America deserved 9/11” in a better way but held firm to his frequent use of &amp;#8220;pejoratives&amp;#8221; to describe ethno-racial supremacist groups. The commen</description>
+      <pubDate>Wed, 12 Aug 2026 14:24:40 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/homenews/campaign/6024548-piker-comments-impact-el-sayed/</guid>
+    </item>
+    <item>
+      <title>[News / World] Why the UK faces a prisons crisis amid row over release of cop killers</title>
+      <link>https://www.aljazeera.com/news/2026/8/12/why-the-uk-faces-a-prisons-crisis-amid-row-over-release-of-cop-killers?traffic_source=rss</link>
+      <description>Al Jazeera: The killers of PC Andrew Harper had been set to partake in early release scheme as prison system on verge of collapse.</description>
+      <pubDate>Wed, 12 Aug 2026 14:23:34 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/8/12/why-the-uk-faces-a-prisons-crisis-amid-row-over-release-of-cop-killers?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] Iran is not anti-imperialist. It is a state calculating survival</title>
+      <link>https://www.aljazeera.com/opinions/2026/8/12/iran-is-not-anti-imperialist-it-is-a-state-calculating-survival?traffic_source=rss</link>
+      <description>Al Jazeera: Regardless of its current hostile rhetoric, the Islamic Republic will likely reach a settlement with the US and Israel.</description>
+      <pubDate>Wed, 12 Aug 2026 14:23:13 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/opinions/2026/8/12/iran-is-not-anti-imperialist-it-is-a-state-calculating-survival?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[Chicago] Severe Storms Likely To Hit Chicago Again Wednesday</title>
+      <link>https://blockclubchicago.org/2026/08/12/severe-storms-likely-to-hit-chicago-again-wednesday/</link>
+      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;682&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2026/07/072726-Thunderstorm-Warning-Colin-Boyle-8641.jpg?fit=1024%2C682&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figure&gt;The city is forecast to face th</description>
+      <pubDate>Wed, 12 Aug 2026 14:20:00 +0000</pubDate>
+      <guid isPermaLink="true">https://blockclubchicago.org/2026/08/12/severe-storms-likely-to-hit-chicago-again-wednesday/</guid>
+    </item>
+    <item>
+      <title>[Politics] Hochul holds 10-point lead over Blakeman in new survey</title>
+      <link>https://thehill.com/homenews/campaign/6024560-hochul-leads-blakeman-ny-governor-poll/</link>
+      <description>The Hill: New York Gov. Kathy Hochul (D) has a 10-point lead over Republican Bruce Blakeman in her bid for a second full term leading the Empire State, according to a new survey. The poll, which Siena College conducted from Aug. 3-6, found that 49 percent of 811 likely voters backed the incumbent governor. Th</description>
+      <pubDate>Wed, 12 Aug 2026 14:10:40 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/homenews/campaign/6024560-hochul-leads-blakeman-ny-governor-poll/</guid>
+    </item>
+    <item>
+      <title>[Politics] Three Pakistanis killed in Houthi attack on commercial vessel</title>
+      <link>https://thehill.com/policy/defense/6024688-pakistani-nationals-killed-houthi-attack/</link>
+      <description>The Hill: Three Pakistanis were killed in a Tuesday attack on a ship by the Houthi militant group, multiple officials said, an event that points to the threat of a widening regional war sparked by the fight between the U.S. and Israel and Iran. Tahir Andrabi, a spokesperson for the Pakistani Ministry of Forei</description>
+      <pubDate>Wed, 12 Aug 2026 14:10:08 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/policy/defense/6024688-pakistani-nationals-killed-houthi-attack/</guid>
+    </item>
+    <item>
+      <title>[News / World] US inflation eases as food and fuel costs cool</title>
       <link>https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&amp;at_campaign=rss</link>
       <description>BBC News — World: Annual US inflation dipped to 3.4% in July, with food costs slowing and housing keeping prices slightly higher.</description>
-      <pubDate>Wed, 12 Aug 2026 12:49:31 +0000</pubDate>
+      <pubDate>Wed, 12 Aug 2026 14:09:48 +0000</pubDate>
       <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&amp;at_campaign=rss</guid>
     </item>
     <item>
-      <title>[Politics] Inflation fell in July as Iran war marches on</title>
-      <link>https://thehill.com/business/6023432-inflation-cpi-july-iran-war/</link>
-      <description>The Hill: Inflation ticked down slightly in July, amid the resumption of strikes between the U.S. and Iran. The consumer price index (CPI) increased 0.1 percent last month, according to data released Wednesday by the Bureau of Labor Statistics (BLS). The annual inflation rate declined to 3.4 percent, down fro</description>
-      <pubDate>Wed, 12 Aug 2026 12:46:18 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/business/6023432-inflation-cpi-july-iran-war/</guid>
+      <title>[News / World] Israeli settlers besieging Palestinian families in West Bank village</title>
+      <link>https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>BBC News — World: Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.</description>
+      <pubDate>Wed, 12 Aug 2026 14:03:48 +0000</pubDate>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&amp;at_campaign=rss</guid>
     </item>
     <item>
-      <title>[Politics] Live updates: Progressives notch loss in Wisconsin but big wins in Minnesota, Connecticut; July inflation cools</title>
-      <link>https://thehill.com/homenews/administration/6024357-live-updates-trump-iran-primary-elections/</link>
-      <description>The Hill: The surging progressive movement suffered a setback on Tuesday night, as Wisconsin Democrat David Crowley edged out democratic socialist Francesca Hong in the gubernatorial primary, a surprise win given he was down double digits in polls ahead of the election. But progressives surged in other races,</description>
-      <pubDate>Wed, 12 Aug 2026 12:44:55 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/homenews/administration/6024357-live-updates-trump-iran-primary-elections/</guid>
+      <title>[Books &amp; Literature] The Bookstore-Slash-Skate-Shop Next to Ballerina Farm</title>
+      <link>https://www.theparisreview.org/blog/2026/08/12/the-bookstore-slash-skate-shop-next-to-ballerina-farm/</link>
+      <description>The Paris Review: The first book I sell on our first day in business is a used copy of Fart Proudly: Writings of Benjamin Franklin You Never Read in School, for seven dollars.</description>
+      <pubDate>Wed, 12 Aug 2026 14:00:33 +0000</pubDate>
+      <guid isPermaLink="true">https://www.theparisreview.org/blog/2026/08/12/the-bookstore-slash-skate-shop-next-to-ballerina-farm/</guid>
+    </item>
+    <item>
+      <title>[News / World] Inflation eases in July as gasoline and grocery prices fall</title>
+      <link>https://www.npr.org/2026/08/12/nx-s1-5929122/inflation-cpi-economy-gas-grocery</link>
+      <description>NPR News: Consumer prices in July were up 3.4% from a year ago — a smaller annual increase than in May or June. The news makes it less likely the Fed will feel the need to raise interest rates in September.</description>
+      <pubDate>Wed, 12 Aug 2026 14:00:29 +0000</pubDate>
+      <guid isPermaLink="true">https://www.npr.org/2026/08/12/nx-s1-5929122/inflation-cpi-economy-gas-grocery</guid>
+    </item>
+    <item>
+      <title>[Politics] Postmaster General Steiner must resign</title>
+      <link>https://thehill.com/opinion/white-house/6023961-trump-mail-ballot-court-battle/</link>
+      <description>The Hill: Rep. Raja Krishnamoorthi called for Postmaster General David Steiner&#x27;s removal or resignation due to his refusal to ensure the U.S. Postal Service complies with federal court orders regarding the Trump administration&#x27;s challenged mail-in voting rules.</description>
+      <pubDate>Wed, 12 Aug 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/opinion/white-house/6023961-trump-mail-ballot-court-battle/</guid>
+    </item>
+    <item>
+      <title>[News / World] Argentina star Messi not certain to play ‘much longer’ after father’s death</title>
+      <link>https://www.aljazeera.com/sports/2026/8/12/argentina-star-messi-not-certain-to-play-much-longer-after-fathers-death?traffic_source=rss</link>
+      <description>Al Jazeera: Former Barcelona and PSG star Lionel Messi, who won the 2022 World Cup, hints at retirement from football.</description>
+      <pubDate>Wed, 12 Aug 2026 13:59:34 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/sports/2026/8/12/argentina-star-messi-not-certain-to-play-much-longer-after-fathers-death?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[Chicago] Chicago’s Fingerboarding Community Is Taking Off — On Tiny Skateboards</title>
+      <link>https://blockclubchicago.org/2026/08/12/chicagos-fingerboarding-community-is-taking-off-on-tiny-skateboards/</link>
+      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;Adam Stroh nollies down the double stair set during an open fingerboarding session at &amp;quot;The Loft&amp;quot; in Wicker Park.&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;683&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2026/07/Fingerbo</description>
+      <pubDate>Wed, 12 Aug 2026 13:59:13 +0000</pubDate>
+      <guid isPermaLink="true">https://blockclubchicago.org/2026/08/12/chicagos-fingerboarding-community-is-taking-off-on-tiny-skateboards/</guid>
+    </item>
+    <item>
+      <title>[News / World] ‘Burn in hell’: Israeli settlers spread hate through graffiti, attacks</title>
+      <link>https://www.aljazeera.com/features/2026/8/12/burn-in-hell-israeli-settlers-spread-hate-through-graffiti-attacks?traffic_source=rss</link>
+      <description>Al Jazeera: Racist settler graffiti on West Bank homes and schools reveals a brazen ideological drive for Palestinian displacement.</description>
+      <pubDate>Wed, 12 Aug 2026 13:58:02 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/features/2026/8/12/burn-in-hell-israeli-settlers-spread-hate-through-graffiti-attacks?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[Politics] Paramount may leave California over antitrust enforcement, lawyer says</title>
+      <link>https://thehill.com/homenews/media/6024589-paramount-may-leave-california/</link>
+      <description>The Hill: Paramount&amp;#8217;s chief legal officer is telegraphing a willingness by the company&amp;#8217;s chief executive to leave California as the media company faces growing antitrust scrutiny from the state government there. “His intent is to be committed to California,” Makan Delrahim, Paramount&amp;#8217;s top l</description>
+      <pubDate>Wed, 12 Aug 2026 13:56:22 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/homenews/media/6024589-paramount-may-leave-california/</guid>
+    </item>
+    <item>
+      <title>[Chicago] Troubled South Side Chapel Operators Linked To Most Bodies In State Cemetery Investigation</title>
+      <link>https://blockclubchicago.org/2026/08/12/troubled-south-side-chapel-operators-linked-to-most-bodies-in-state-cemetery-investigation/</link>
+      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;683&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2024/04/IMG_1767-scaled.jpg?fit=1024%2C683&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figure&gt;At least 22 of 35 bodies found to be improperly stored at Bo</description>
+      <pubDate>Wed, 12 Aug 2026 13:43:00 +0000</pubDate>
+      <guid isPermaLink="true">https://blockclubchicago.org/2026/08/12/troubled-south-side-chapel-operators-linked-to-most-bodies-in-state-cemetery-investigation/</guid>
+    </item>
+    <item>
+      <title>[Chicago] Data Centers Are Popping Up Everywhere In Chicago. Here’s Where — And Why They’re Controversial</title>
+      <link>https://blockclubchicago.org/2026/08/12/data-centers-are-popping-up-everywhere-in-chicago-heres-where-and-why-theyre-controversial/</link>
+      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;The Digital Realty Data Center sits at 350 E. Cermak on Monday, May 11, 2026.&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;682&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2026/05/0511_2026_DataCenter-6.jpg?fit=1024%2C682&amp;amp;ssl=1&quot; </description>
+      <pubDate>Wed, 12 Aug 2026 13:40:00 +0000</pubDate>
+      <guid isPermaLink="true">https://blockclubchicago.org/2026/08/12/data-centers-are-popping-up-everywhere-in-chicago-heres-where-and-why-theyre-controversial/</guid>
+    </item>
+    <item>
+      <title>[News / World] Greetings from a surreal expanse of sand dunes dotted with freshwater lagoons in Brazil</title>
+      <link>https://www.npr.org/2026/08/12/g-s1-138022/brazil-sand-dunes-lagoons-lencois-maranhenses-national-park</link>
+      <description>NPR News: The pristine white sand dunes of the Lençóis Maranhenses National Park are bordered by thick jungle on one side and the Atlantic Ocean on the other. Thousands of lagoons fill up after the rainy season.</description>
+      <pubDate>Wed, 12 Aug 2026 13:38:58 +0000</pubDate>
+      <guid isPermaLink="true">https://www.npr.org/2026/08/12/g-s1-138022/brazil-sand-dunes-lagoons-lencois-maranhenses-national-park</guid>
+    </item>
+    <item>
+      <title>[News / World] Wisconsin result dents winning streak for Democratic Party&#x27;s left wing</title>
+      <link>https://www.bbc.co.uk/news/articles/c9347ezzwljo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>BBC News — World: Centrist David Crowley is projected to have beaten democratic socialist Francesca Hong, breaking a recent nationwide trend.</description>
+      <pubDate>Wed, 12 Aug 2026 13:35:12 +0000</pubDate>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c9347ezzwljo?at_medium=RSS&amp;at_campaign=rss</guid>
+    </item>
+    <item>
+      <title>[Politics] Trump approval takes another hit: Poll</title>
+      <link>https://thehill.com/homenews/administration/6024533-donald-trump-approval-rating-sours-economist-yougov/</link>
+      <description>The Hill: President Trump’s approval rating dipped again this week, following a downward trend in support for the president amid the ongoing Iran war and mounting affordability concerns ahead of November&amp;#8217;s midterms.  The latest survey from The Economist/YouGov, published Monday, found 33 percent of resp</description>
+      <pubDate>Wed, 12 Aug 2026 13:32:05 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/homenews/administration/6024533-donald-trump-approval-rating-sours-economist-yougov/</guid>
+    </item>
+    <item>
+      <title>[Politics] Stop taxing inflation</title>
+      <link>https://thehill.com/opinion/finance/5980648-index-capital-gains-inflation/</link>
+      <description>The Hill: We should tax what a person actually earns, not what inflation manufactures.</description>
+      <pubDate>Wed, 12 Aug 2026 13:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/opinion/finance/5980648-index-capital-gains-inflation/</guid>
+    </item>
+    <item>
+      <title>[News / World] Sudanese army intercepts RSF drones over el-Obeid</title>
+      <link>https://www.aljazeera.com/video/newsfeed/2026/8/12/12-08-sv-sudan-intercepts-rsf-drones-su?traffic_source=rss</link>
+      <description>Al Jazeera: Sudanese army air defenses reportedly intercepted drones launched by the Rapid Support Forces (RSF) over el-Obeid.</description>
+      <pubDate>Wed, 12 Aug 2026 13:29:29 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/8/12/12-08-sv-sudan-intercepts-rsf-drones-su?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[Chicago] Beverly Theatre Guild’s Show ‘The Lifespan Of A Fact’ Explores Truth In Journalism</title>
+      <link>https://blockclubchicago.org/2026/08/12/beverly-theatre-guilds-show-the-lifespan-of-a-fact-explores-truth-in-journalism/</link>
+      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;Patrick Allen, Jane Flynn-Royko and Isaiah Pinzino pictured during rehearsal for &amp;quot;The Lifespan of a Fact&amp;quot; set to run this weekend at Morgan Park Academy.&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;682&quot; src=&quot;https://i0.wp.com/bcc-newspack.</description>
+      <pubDate>Wed, 12 Aug 2026 13:25:00 +0000</pubDate>
+      <guid isPermaLink="true">https://blockclubchicago.org/2026/08/12/beverly-theatre-guilds-show-the-lifespan-of-a-fact-explores-truth-in-journalism/</guid>
+    </item>
+    <item>
+      <title>[Chicago] Immigrant Kids Face Higher Deportation Risk Under Trump Admin, Experts Say</title>
+      <link>https://blockclubchicago.org/2026/08/12/immigrant-children-with-little-legal-support-under-trump-changes-face-higher-risk-of-deportation-experts-say/</link>
+      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;682&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2026/08/080526-Immigration-Court-Colin-Boyle-9573.jpg?fit=1024%2C682&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figure&gt;After a contract funding legal ser</description>
+      <pubDate>Wed, 12 Aug 2026 13:21:00 +0000</pubDate>
+      <guid isPermaLink="true">https://blockclubchicago.org/2026/08/12/immigrant-children-with-little-legal-support-under-trump-changes-face-higher-risk-of-deportation-experts-say/</guid>
+    </item>
+    <item>
+      <title>[Chicago] Case Oats’ Lolla Debut Was A Full-Circle Moment For Chicago Musician Casey Gomez Walker</title>
+      <link>https://blockclubchicago.org/2026/08/12/case-oats-lolla-debut-was-a-full-circle-moment-for-chicago-musician-casey-gomez-walker/</link>
+      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;683&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2026/08/08022026_CaseOatsPortrait_22-scaled.jpeg?fit=1024%2C683&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figure&gt;The lead singer of the Chicago-based ba</description>
+      <pubDate>Wed, 12 Aug 2026 13:18:53 +0000</pubDate>
+      <guid isPermaLink="true">https://blockclubchicago.org/2026/08/12/case-oats-lolla-debut-was-a-full-circle-moment-for-chicago-musician-casey-gomez-walker/</guid>
+    </item>
+    <item>
+      <title>[Chicago] Broadway Antique Market, The Beloved Edgewater Vintage Store, Is For Sale</title>
+      <link>https://blockclubchicago.org/2026/08/12/broadway-antique-market-the-beloved-edgewater-vintage-store-is-for-sale/</link>
+      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;Broadway Antique Market is for sale after nearly 30 years in the neighborhood.&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;682&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2026/08/BAM.png?fit=1024%2C682&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/f</description>
+      <pubDate>Wed, 12 Aug 2026 13:16:00 +0000</pubDate>
+      <guid isPermaLink="true">https://blockclubchicago.org/2026/08/12/broadway-antique-market-the-beloved-edgewater-vintage-store-is-for-sale/</guid>
+    </item>
+    <item>
+      <title>[News / World] Why has North Korea fired a missile ahead of US-South Korea drills?</title>
+      <link>https://www.aljazeera.com/news/2026/8/12/why-has-north-korea-fired-a-missile-ahead-of-us-south-korea-drills?traffic_source=rss</link>
+      <description>Al Jazeera: Pyongyang has repeatedly condemned US–South Korea military drills, claiming they are a &amp;#039;rehearsal for invasion&amp;#039;.</description>
+      <pubDate>Wed, 12 Aug 2026 13:10:14 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/8/12/why-has-north-korea-fired-a-missile-ahead-of-us-south-korea-drills?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[Politics] He Was Deported to Eswatini in Southern Africa. He May Never Go Free.</title>
+      <link>https://www.nytimes.com/2026/08/12/magazine/deportation-immigrants-prison-eswatini.html</link>
+      <description>NYT — Politics: As the Trump administration sends a growing number of immigrants to countries they have no connection to, some find themselves imprisoned with no way out.</description>
+      <pubDate>Wed, 12 Aug 2026 13:08:07 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/12/magazine/deportation-immigrants-prison-eswatini.html</guid>
+    </item>
+    <item>
+      <title>[News / World] His wedding guests gave $6k to fund a health startup. Now it&#x27;s won a $3 million prize</title>
+      <link>https://www.npr.org/2026/08/12/g-s1-138180/hilton-humanitarian-prize-last-mile-health-liberia-raj-panjabi</link>
+      <description>NPR News: Dr. Raj Panjabi founded Last Mile Health to bring healthcare to people living in remote areas. The group is the 2026 recipient of the Conrad N. Hilton Humanitarian Prize.</description>
+      <pubDate>Wed, 12 Aug 2026 13:00:19 +0000</pubDate>
+      <guid isPermaLink="true">https://www.npr.org/2026/08/12/g-s1-138180/hilton-humanitarian-prize-last-mile-health-liberia-raj-panjabi</guid>
+    </item>
+    <item>
+      <title>[Books &amp; Literature] Book Riot’s Deals of the Day for August 12, 2026</title>
+      <link>https://bookriot.com/book-riots-deals-of-the-day-for-august-12-2026/</link>
+      <description>Book Riot: A magical realism western, a sexy and messy story about love, building a wildly original life, and more of today&#x27;s best book deals.</description>
+      <pubDate>Wed, 12 Aug 2026 13:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://bookriot.com/book-riots-deals-of-the-day-for-august-12-2026/</guid>
+    </item>
+    <item>
+      <title>[News / World] Europeans, Braced for 5th Heat Wave of 2026, Have Had Enough</title>
+      <link>https://www.nytimes.com/2026/08/12/world/europe/europe-fifth-heat-wave.html</link>
+      <description>NYT — World: With temperatures set to soar as high as 109 degrees Fahrenheit (43 Celsius) this week, Europeans and tourists say that summer in Europe has lost its appeal.</description>
+      <pubDate>Wed, 12 Aug 2026 12:50:01 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/12/world/europe/europe-fifth-heat-wave.html</guid>
     </item>
     <item>
       <title>[News / World] Trump Tariffs Force Some Canadian Companies to Move South of the Border</title>
@@ -67,13 +270,6 @@
       <description>NYT — World: If President Trump moves ahead with 50 percent tariffs on a wide range of Canadian products later this month, some companies may only survive by relocating to the United States.</description>
       <pubDate>Wed, 12 Aug 2026 12:43:24 +0000</pubDate>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/12/world/canada/canada-tariffs-manufacturing-trade-trump.html</guid>
-    </item>
-    <item>
-      <title>[Politics] Trump on third term: ‘The law is very strong’</title>
-      <link>https://thehill.com/homenews/administration/6024436-donald-trump-third-term-talk-ohio/</link>
-      <description>The Hill: President Trump on Tuesday once again acknowledged the constitutional restrictions against him seeking a third term in office — an idea he has repeatedly floated during his second administration.  “I’d love to run, but the law is very strong,” he told reporters on the tarmac at Joint Base Andrews af</description>
-      <pubDate>Wed, 12 Aug 2026 12:42:00 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/homenews/administration/6024436-donald-trump-third-term-talk-ohio/</guid>
     </item>
     <item>
       <title>[Philosophy] Universities Experiment with Hidden Grades</title>
@@ -97,41 +293,6 @@
       <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/8/12/egyptian-student-livestreams-his-kidnapping?traffic_source=rss</guid>
     </item>
     <item>
-      <title>[Chicago] Chicago Board Of Elections Rules On Final Challenges To School Board Candidacies</title>
-      <link>https://blockclubchicago.org/2026/08/12/chicago-board-of-elections-rules-on-final-challenges-to-school-board-candidacies/</link>
-      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;Candidates walk inside the Chicago Board of Elections Supersite in downtown Chicago to file paperwork on Monday, May 18, 2026. The board made its final rulings on petition challenges Tuesday.&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;682&quot; src=&quot;htt</description>
-      <pubDate>Wed, 12 Aug 2026 12:35:24 +0000</pubDate>
-      <guid isPermaLink="true">https://blockclubchicago.org/2026/08/12/chicago-board-of-elections-rules-on-final-challenges-to-school-board-candidacies/</guid>
-    </item>
-    <item>
-      <title>[News / World] Top Iranian commander visited Iraq to discuss disarmament plan: Source</title>
-      <link>https://www.aljazeera.com/news/2026/8/12/top-iranian-commander-visited-iraq-to-discuss-disarmament-plan-source?traffic_source=rss</link>
-      <description>Al Jazeera: Esmail Qaani held meetings over Iraqi government&amp;#039;s plan to disarm armed groups and bring weapons under state control.</description>
-      <pubDate>Wed, 12 Aug 2026 12:34:50 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/8/12/top-iranian-commander-visited-iraq-to-discuss-disarmament-plan-source?traffic_source=rss</guid>
-    </item>
-    <item>
-      <title>[News / World] Rare solar eclipse to sweep across Europe and the Arctic</title>
-      <link>https://www.aljazeera.com/video/newsfeed/2026/8/12/rare-solar-eclipse-to-sweep-across-europe-and-the-arctic?traffic_source=rss</link>
-      <description>Al Jazeera: Rare solar eclipse to sweep across Europe and the Arctic</description>
-      <pubDate>Wed, 12 Aug 2026 12:33:09 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/8/12/rare-solar-eclipse-to-sweep-across-europe-and-the-arctic?traffic_source=rss</guid>
-    </item>
-    <item>
-      <title>[Politics] Brazil’s elections are the acid test for Trump’s Latin America policy</title>
-      <link>https://thehill.com/opinion/international/6022742-brazil-election-lula-bolsonaro/</link>
-      <description>The Hill: With the Brazilian election less than two months away, the new Monroe Doctrine faces one of its greatest challenges.</description>
-      <pubDate>Wed, 12 Aug 2026 12:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/opinion/international/6022742-brazil-election-lula-bolsonaro/</guid>
-    </item>
-    <item>
-      <title>[Chicago] Firms Linked To 2 Men Convicted Of Public Corruption Have Gotten Campaign Business From Gov, CTU</title>
-      <link>https://blockclubchicago.org/2026/08/12/firms-linked-to-2-men-convicted-of-public-corruption-have-gotten-campaign-business-from-gov-ctu/</link>
-      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;A Chicago School Board meeting. In the race for board president, the Chicago Teachers Union has hired firms connected to people with public corruption convictions.&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;682&quot; src=&quot;https://bcc-newspack.s3.amazona</description>
-      <pubDate>Wed, 12 Aug 2026 12:23:41 +0000</pubDate>
-      <guid isPermaLink="true">https://blockclubchicago.org/2026/08/12/firms-linked-to-2-men-convicted-of-public-corruption-have-gotten-campaign-business-from-gov-ctu/</guid>
-    </item>
-    <item>
       <title>[News / World] At least 44 dead after overcrowded ferry capsizes on Lake Kariba in Zimbabwe</title>
       <link>https://www.theguardian.com/world/2026/aug/12/zimbabwe-lake-kariba-ferry-capsize</link>
       <description>The Guardian — World: &lt;p&gt;Operation under way to rescue dozens missing after boat overturned by waves at world’s largest human-made lake&lt;/p&gt;&lt;p&gt;At least 44 people have died&lt;strong&gt; &lt;/strong&gt;after an overcrowded ferry capsized on Lake Kariba in Zimbabwe, police said.&lt;/p&gt;&lt;p&gt;The boat had a capacity of 90 people, but was carry</description>
@@ -139,25 +300,11 @@
       <guid isPermaLink="true">https://www.theguardian.com/world/2026/aug/12/zimbabwe-lake-kariba-ferry-capsize</guid>
     </item>
     <item>
-      <title>[News / World] Israeli settlers besieging Palestinian families in West Bank village</title>
-      <link>https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>BBC News — World: Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.</description>
-      <pubDate>Wed, 12 Aug 2026 12:16:22 +0000</pubDate>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&amp;at_campaign=rss</guid>
-    </item>
-    <item>
       <title>[News / World] Zhu Rongji, who helped turn China into a trading giant, dies at 97</title>
       <link>https://www.bbc.co.uk/news/articles/c75g9777wwxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>BBC News — World: Zhu brought China into the WTO and championed reforms that fuelled growth.</description>
+      <description>BBC News — World: The former premier brought China into the WTO and championed reforms that fuelled growth.</description>
       <pubDate>Wed, 12 Aug 2026 12:10:45 +0000</pubDate>
       <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c75g9777wwxo?at_medium=RSS&amp;at_campaign=rss</guid>
-    </item>
-    <item>
-      <title>[Politics] The nursing shortage won’t fix itself. Congress must step in.</title>
-      <link>https://thehill.com/opinion/healthcare/6023693-funding-nursing-pipeline-future/</link>
-      <description>The Hill: Chief Nursing Officer Patty Knecht calls on Congress to approve $346 million for Title VIII Nursing Workforce Development Programs in the fiscal 2027 appropriations package to combat the national nursing shortage.</description>
-      <pubDate>Wed, 12 Aug 2026 12:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/opinion/healthcare/6023693-funding-nursing-pipeline-future/</guid>
     </item>
     <item>
       <title>[Chicago] Coerced intimacy</title>
@@ -165,20 +312,6 @@
       <description>Chicago Reader: &lt;figure&gt;&lt;img alt=&quot;In the background are piles are lumpy, dirty objects made by pouring plaster into snow. In the foreground is a close up of a tent like structure with a bumpy surface and irregular holes in it.&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;480&quot; src=&quot;ht</description>
       <pubDate>Wed, 12 Aug 2026 12:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://chicagoreader.com/visual-arts/sixtywrd-art-review/kyriakos-paraskevopoulos/</guid>
-    </item>
-    <item>
-      <title>[Politics] Lindell alleges voting irregularities, refuses to concede</title>
-      <link>https://thehill.com/homenews/campaign/6024359-mike-lindell-minnesota-gop-governor-primary-loss-refusal-to-concede/</link>
-      <description>The Hill: My Pillow founder Mike Lindell is refusing to concede in Minnesota’s Republican gubernatorial primary, alleging irregularities in the vote totals.&amp;#160; The businessman, who is backed by President Trump, lost to Minnesota House Speaker Lisa DeMuth (R) by roughly 11 percentage points and over 45,000 </description>
-      <pubDate>Wed, 12 Aug 2026 11:50:50 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/homenews/campaign/6024359-mike-lindell-minnesota-gop-governor-primary-loss-refusal-to-concede/</guid>
-    </item>
-    <item>
-      <title>[News / World] Wisconsin result dents winning streak for Democratic Party&#x27;s left wing</title>
-      <link>https://www.bbc.co.uk/news/articles/c9347ezzwljo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>BBC News — World: Centrist David Crowley is projected to have beaten democratic socialist Francesca Hong, breaking a recent nationwide trend.</description>
-      <pubDate>Wed, 12 Aug 2026 11:32:17 +0000</pubDate>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c9347ezzwljo?at_medium=RSS&amp;at_campaign=rss</guid>
     </item>
     <item>
       <title>[News / World] Danube river&#x27;s low water levels reveal remains of WWII soldiers and motorcycle</title>
@@ -202,14 +335,7 @@
       <guid isPermaLink="true">https://www.npr.org/2026/08/12/g-s1-138337/up-first-newsletter-primaries-wisconsin-minnesota-south-carolina-trump-air-force-one-iraq-iran-militias</guid>
     </item>
     <item>
-      <title>[News / World] Putin warns of tit-for-tat seizures of European vessels</title>
-      <link>https://www.aljazeera.com/news/2026/8/12/putin-warns-of-tit-for-tat-seizures-of-european-vessels?traffic_source=rss</link>
-      <description>Al Jazeera: If European states seize vessels with Russian cargo, Moscow will respond in kind &amp;#039;wherever necessary&amp;#039;, says Putin.</description>
-      <pubDate>Wed, 12 Aug 2026 11:11:26 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/8/12/putin-warns-of-tit-for-tat-seizures-of-european-vessels?traffic_source=rss</guid>
-    </item>
-    <item>
-      <title>[News / World] Halting the march of the armyworm: fungus discovery offers hope to African farmers</title>
+      <title>[News / World] Halting the march of the African armyworm: a natural cure offers hope to farmers</title>
       <link>https://www.theguardian.com/global-development/2026/aug/12/african-armyworm-crop-pest-discovery-fungus-science-hope-farmers</link>
       <description>The Guardian — World: &lt;p&gt;South African scientist’s breakthrough research shows soil fungus could be used in fight against devastating crop pest&lt;/p&gt;&lt;p&gt;Hearing about fields full of dead caterpillars enveloped in a mysterious white substance intrigued the South African scientist Letodi Luki Mathulwe. Something was killing o</description>
       <pubDate>Wed, 12 Aug 2026 11:00:27 +0000</pubDate>
@@ -223,32 +349,11 @@
       <guid isPermaLink="true">https://www.npr.org/2026/08/12/nx-s1-5902974/andrew-tate-tristan-extradition-maga-trump-political-ties</guid>
     </item>
     <item>
-      <title>[News / World] Lebanon ends executions: Where does the death penalty still exist in 2026?</title>
-      <link>https://www.aljazeera.com/news/2026/8/12/lebanon-ends-executions-where-does-the-death-penalty-still-exist-in-2026?traffic_source=rss</link>
-      <description>Al Jazeera: Three-quarters of the world has abolished the death penalty in law or in practice, according to Amnesty International.</description>
-      <pubDate>Wed, 12 Aug 2026 10:40:57 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/8/12/lebanon-ends-executions-where-does-the-death-penalty-still-exist-in-2026?traffic_source=rss</guid>
-    </item>
-    <item>
-      <title>[News / World] Woman rescued after 36 hours under rubble in Colombia</title>
-      <link>https://www.aljazeera.com/video/newsfeed/2026/8/12/12-08-sv-colombia-earthquake-rescue-co?traffic_source=rss</link>
-      <description>Al Jazeera: A 32-year-old woman was rescued after 36 hours under rubble following a 7.4-magnitude earthquake in Colombia.</description>
-      <pubDate>Wed, 12 Aug 2026 10:37:42 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/8/12/12-08-sv-colombia-earthquake-rescue-co?traffic_source=rss</guid>
-    </item>
-    <item>
       <title>[Books &amp; Literature] Lit Hub Daily: August 12, 2026</title>
       <link>https://lithub.com/lit-hub-daily-august-12-2026/</link>
       <description>Literary Hub: When a wealthy university donor can silence one of the world&amp;#8217;s leading genocide scholars, it exposes the problem with for-profit higher education. &amp;#124; Lit Hub Politics The best way to get people interested in your lit mag? Mail them free</description>
       <pubDate>Wed, 12 Aug 2026 10:30:20 +0000</pubDate>
       <guid isPermaLink="true">https://lithub.com/lit-hub-daily-august-12-2026/</guid>
-    </item>
-    <item>
-      <title>[News / World] Iran refutes Trump’s claim to ‘control’ Hormuz: What’s the latest in talks?</title>
-      <link>https://www.aljazeera.com/news/2026/8/12/iran-refutes-trumps-claim-to-control-hormuz-whats-the-latest-in-talks?traffic_source=rss</link>
-      <description>Al Jazeera: Iran says Hormuz stays closed until US meets its demands and changes its &amp;#039;behaviour&amp;#039; as global energy prices rise.</description>
-      <pubDate>Wed, 12 Aug 2026 10:27:22 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/8/12/iran-refutes-trumps-claim-to-control-hormuz-whats-the-latest-in-talks?traffic_source=rss</guid>
     </item>
     <item>
       <title>[Books &amp; Literature] 7 Historical Novels Set During Revolutions</title>
@@ -286,13 +391,6 @@
       <guid isPermaLink="true">https://bookriot.com/romances-inspired-by-real-life-stories/</guid>
     </item>
     <item>
-      <title>[News / World] ‘The hardest mission of my life’: A rescuer’s loss in the Lebanon War</title>
-      <link>https://www.aljazeera.com/video/al-jazeera-originals/2026/8/12/aje-onl-or_leb_paramedics_teaser-120826?traffic_source=rss</link>
-      <description>Al Jazeera: A Lebanon rescuer’s work is shaped by the daughter he lost in an Israeli attack on his station.</description>
-      <pubDate>Wed, 12 Aug 2026 10:02:16 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/video/al-jazeera-originals/2026/8/12/aje-onl-or_leb_paramedics_teaser-120826?traffic_source=rss</guid>
-    </item>
-    <item>
       <title>[Books &amp; Literature] The Best New YA Thrillers To End Summer With</title>
       <link>https://bookriot.com/best-new-ya-thrillers-summer-2026/</link>
       <description>Book Riot: The best new YA thrillers to end the summer with have racist cults, secret organizations, and even a little revenge!</description>
@@ -314,25 +412,11 @@
       <guid isPermaLink="true">https://aeon.co/videos/a-tale-of-brotherhood-bouncy-castles-and-the-american-dream</guid>
     </item>
     <item>
-      <title>[Books &amp; Literature] The Latest In Horromance: What Is It and Which Books Should Be On Your Radar?</title>
-      <link>https://bookriot.com/horromance-books/</link>
-      <description>Book Riot: A horromance writer lists some of the subgenre&#x27;s best new books, which include Appalachian Gothic, a slasher rom-com, and more.</description>
-      <pubDate>Wed, 12 Aug 2026 10:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://bookriot.com/horromance-books/</guid>
-    </item>
-    <item>
       <title>[News / World] Thailand Halts New Gun Permits After Mass Shooting at a School</title>
       <link>https://www.nytimes.com/2026/08/12/world/asia/thailand-gun-permits-school-shooting.html</link>
       <description>NYT — World: It remains to be seen how far the government will go to tighten gun control in the country, which has experienced a string of high-profile shootings in recent years.</description>
       <pubDate>Wed, 12 Aug 2026 09:39:20 +0000</pubDate>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/12/world/asia/thailand-gun-permits-school-shooting.html</guid>
-    </item>
-    <item>
-      <title>[Politics] Here’s the latest.</title>
-      <link>https://www.nytimes.com/live/2026/08/12/us/primary-election-results-wi-mn-sc/heres-the-latest</link>
-      <description>NYT — Politics: </description>
-      <pubDate>Wed, 12 Aug 2026 09:32:47 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2026/08/12/us/primary-election-results-wi-mn-sc/heres-the-latest</guid>
     </item>
     <item>
       <title>[History] A-Z of medieval life: Q-U</title>
@@ -391,32 +475,11 @@
       <guid isPermaLink="true">https://www.npr.org/2026/08/12/nx-s1-5896356/find-time-for-things-that-matter-time-audit</guid>
     </item>
     <item>
-      <title>[Politics] He Was Deported to Eswatini in Southern Africa. He May Never Go Free.</title>
-      <link>https://www.nytimes.com/2026/08/12/magazine/deportation-immigrants-prison-eswatini.html</link>
-      <description>NYT — Politics: As the Trump administration sends a growing number of immigrants to countries they have no connection to, some find themselves imprisoned with no way out.</description>
-      <pubDate>Wed, 12 Aug 2026 09:00:31 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/12/magazine/deportation-immigrants-prison-eswatini.html</guid>
-    </item>
-    <item>
       <title>[News / World] Are hacks of U.S. water facilities a new front in the Iran war?</title>
       <link>https://www.npr.org/2026/08/12/nx-s1-5927437/cyberattack-water-iran-war</link>
       <description>NPR News: A recent series of cyberattacks on U.S. water systems has exposed vulnerabilities across critical infrastructure during the Iran war.</description>
       <pubDate>Wed, 12 Aug 2026 09:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.npr.org/2026/08/12/nx-s1-5927437/cyberattack-water-iran-war</guid>
-    </item>
-    <item>
-      <title>[News / World] Nuclear power push ramps up uranium mill — and tribal health concerns</title>
-      <link>https://www.npr.org/2026/08/12/nx-s1-5927298/nuclear-power-uranium-health-concerns</link>
-      <description>NPR News: Federal efforts to revive uranium mining in the West and decrease reliance on Russian uranium raise concerns about drinking water for tribal communities reckoning with the industry&#x27;s deadly legacy.</description>
-      <pubDate>Wed, 12 Aug 2026 09:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.npr.org/2026/08/12/nx-s1-5927298/nuclear-power-uranium-health-concerns</guid>
-    </item>
-    <item>
-      <title>[News / World] Here&#x27;s how gyms, salons and ice cream are changing America&#x27;s Main Streets</title>
-      <link>https://www.npr.org/2026/08/12/nx-s1-5928083/retail-services-gyms-salons-restaurants-downtown-main-street</link>
-      <description>NPR News: Shoppers&#x27; changing habits are fueling a major shift in what types of businesses are occupying storefronts.</description>
-      <pubDate>Wed, 12 Aug 2026 09:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.npr.org/2026/08/12/nx-s1-5928083/retail-services-gyms-salons-restaurants-downtown-main-street</guid>
     </item>
     <item>
       <title>[Books &amp; Literature] Mia</title>
@@ -538,20 +601,6 @@
       <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cly8jexn1z9o?at_medium=RSS&amp;at_campaign=rss</guid>
     </item>
     <item>
-      <title>[Chicago] Uncle Remus Founder Celebrates 100th Birthday With West Side Giveaway, Foundation Launch</title>
-      <link>https://blockclubchicago.org/2026/08/11/uncle-remus-founder-celebrates-100th-birthday-with-west-side-giveaway-foundation-launch/</link>
-      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;683&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2026/08/IMG_6287-scaled-1.jpg?fit=1024%2C683&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figure&gt;Gus Rickette Sr. was born in Mississippi in 2026. After mo</description>
-      <pubDate>Tue, 11 Aug 2026 22:52:21 +0000</pubDate>
-      <guid isPermaLink="true">https://blockclubchicago.org/2026/08/11/uncle-remus-founder-celebrates-100th-birthday-with-west-side-giveaway-foundation-launch/</guid>
-    </item>
-    <item>
-      <title>[Chicago] Alface, The Shedd’s New 2-Toed Sloth, Is Ready To Meet Chicagoans</title>
-      <link>https://blockclubchicago.org/2026/08/11/alface-the-shedds-new-2-toed-sloth-is-ready-to-meet-chicagoans/</link>
-      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;683&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2026/08/RM_8A9759_hpr-scaled.jpg?fit=1024%2C683&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figure&gt;After exploring her new habitat since her arrival at th</description>
-      <pubDate>Tue, 11 Aug 2026 20:11:33 +0000</pubDate>
-      <guid isPermaLink="true">https://blockclubchicago.org/2026/08/11/alface-the-shedds-new-2-toed-sloth-is-ready-to-meet-chicagoans/</guid>
-    </item>
-    <item>
       <title>[History] Aquí en Chicago Coloring Page</title>
       <link>https://www.chicagohistory.org/aqui-en-chicago-coloring-page/</link>
       <description>Chicago History Museum Blog: &lt;p&gt;Aquí en Chicago co-designer Cecilia Beaven turned her beautiful entry mural into this engaging bilingual (English/Spanish) coloring page. Students can celebrate family and community when they add their color choices and respond to the writing prompts.  Download &amp;#8230; &lt;a href=&quot;https://www.chicag</description>
@@ -566,46 +615,11 @@
       <guid isPermaLink="true">https://chicagoreader.com/music/gossip-wolf/avrom-farm-party-postock-tweedy-holbert-squirrel-flower-brinstarr-direct-cd-sale/</guid>
     </item>
     <item>
-      <title>[Chicago] Illinois Set To Shatter Tornado Records As ‘Craziest Storm Season Ever’ Continues</title>
-      <link>https://blockclubchicago.org/2026/08/11/illinois-set-to-shatter-tornado-records-as-craziest-storm-season-ever-continues/</link>
-      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;682&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2024/07/071624-West-Loop-Storm-Damage-Colin-Boyle-7519.jpg?fit=1024%2C682&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figure&gt;As National Weather Service c</description>
-      <pubDate>Tue, 11 Aug 2026 18:11:05 +0000</pubDate>
-      <guid isPermaLink="true">https://blockclubchicago.org/2026/08/11/illinois-set-to-shatter-tornado-records-as-craziest-storm-season-ever-continues/</guid>
-    </item>
-    <item>
-      <title>[Chicago] How Chicago’s Last Military Surplus Store Survived 80 Years Of Global Conflicts — And Fashion Trends</title>
-      <link>https://blockclubchicago.org/2026/08/11/army-navy-sales-weathers-global-conflicts-fashion-trends-as-chicagos-last-military-surplus-store/</link>
-      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;682&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2026/08/080526-Army-Navy-Sales-Colin-Boyle-9792.jpg?fit=1024%2C682&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figure&gt;Founded in 1946, the third-generatio</description>
-      <pubDate>Tue, 11 Aug 2026 16:36:41 +0000</pubDate>
-      <guid isPermaLink="true">https://blockclubchicago.org/2026/08/11/army-navy-sales-weathers-global-conflicts-fashion-trends-as-chicagos-last-military-surplus-store/</guid>
-    </item>
-    <item>
-      <title>[News / World] How Raúl Castro’s Grandson, Raúl G. Rodríguez Castro, Became a Power Broker</title>
-      <link>https://www.nytimes.com/2026/08/11/world/americas/raul-castro-trump-cuba.html</link>
-      <description>NYT — World: The Castro family envoy, Raúl G. Rodríguez Castro, who has been in talks with the Trump administration, was once named in a case targeting a Cuban smuggling ring.</description>
-      <pubDate>Tue, 11 Aug 2026 16:30:30 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/11/world/americas/raul-castro-trump-cuba.html</guid>
-    </item>
-    <item>
       <title>[Philosophy] Update on Fight Against Dundee Cutting Philosophy</title>
       <link>https://dailynous.com/2026/08/11/update-on-fight-against-dundee-cutting-philosophy/</link>
       <description>Daily Nous: &lt;p&gt;Earlier this summer, the administration of the University of Dundee announced a plan to cut costs by, among other things, no longer offering students the option of majoring in philosophy. See this previous post. A petition was launched in protest of the plan. Oisín Keohane, lecturer in philosophy</description>
       <pubDate>Tue, 11 Aug 2026 16:00:13 +0000</pubDate>
       <guid isPermaLink="true">https://dailynous.com/2026/08/11/update-on-fight-against-dundee-cutting-philosophy/</guid>
-    </item>
-    <item>
-      <title>[Chicago] Mayor Orders New Regulations, Reviews For Chicago Data Centers</title>
-      <link>https://blockclubchicago.org/2026/08/11/mayor-orders-new-regulations-reviews-for-chicago-data-centers/</link>
-      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;681&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2025/12/121925-City-Council-Colin-Boyle-5674.jpg?fit=1024%2C681&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figure&gt;Mayor Brandon Johnson&#x27;s executive order</description>
-      <pubDate>Tue, 11 Aug 2026 14:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://blockclubchicago.org/2026/08/11/mayor-orders-new-regulations-reviews-for-chicago-data-centers/</guid>
-    </item>
-    <item>
-      <title>[Chicago] Severe Storms And Potential Tornadoes Arrive In Chicago</title>
-      <link>https://blockclubchicago.org/2026/08/11/severe-storms-torrential-rain-and-potential-tornadoes-heading-toward-chicago/</link>
-      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;682&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2026/07/072726-Thunderstorm-Warning-Colin-Boyle-8831.jpg?fit=1024%2C682&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figure&gt;A tornado warning is in effect </description>
-      <pubDate>Tue, 11 Aug 2026 14:12:06 +0000</pubDate>
-      <guid isPermaLink="true">https://blockclubchicago.org/2026/08/11/severe-storms-torrential-rain-and-potential-tornadoes-heading-toward-chicago/</guid>
     </item>
     <item>
       <title>[News / World] Canadian airline cancels flight after child refuses to wear seatbelt</title>
@@ -685,25 +699,10 @@
       <guid isPermaLink="true">https://www.theguardian.com/books/2026/aug/11/you-wont-get-free-of-it-by-rachel-aviv-review-a-subtle-study-of-the-mother-daughter-bond</guid>
     </item>
     <item>
-      <title>[News / World] Colombia quake leaves more than 110 dead – as it happened</title>
-      <link>https://www.theguardian.com/world/live/2026/aug/10/74-magnitude-earthquake-shakes-colombia-causing-serious-damage-latest-news</link>
-      <description>The Guardian — World: &lt;p&gt;This blog is now closed – a &lt;a href=&quot;https://www.theguardian.com/world/2026/aug/10/colombia-earthquake-cali-pereira-choco&quot;&gt;full report is here&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;People remain trapped in Cali, one of Colombia’s largest cities, ​after more than two dozen structures ‌collapsed, mayor Alejandro Eder </description>
-      <pubDate>Tue, 11 Aug 2026 05:32:08 +0000</pubDate>
-      <guid isPermaLink="true">https://www.theguardian.com/world/live/2026/aug/10/74-magnitude-earthquake-shakes-colombia-causing-serious-damage-latest-news</guid>
-    </item>
-    <item>
       <title>[Chicago] The Chicago House Music Festival is one of our best summer events—why doesn’t the city do more to lift it up?</title>
       <link>https://chicagoreader.com/music/concert-preview/chicago-house-music-festival-and-conference-2026/</link>
       <description>Chicago Reader: &lt;figure&gt;&lt;img alt=&quot;three portraits of black men arranged side by side. From L-R, a black man in a t-shirt, jeans, and sneakers stands in a relaxed posture, smiling with his hands in his pockets, a black man dressed in a black hoodie and baseball cap spins vinyl, and a black man with long braids stand</description>
       <pubDate>Mon, 10 Aug 2026 20:59:42 +0000</pubDate>
       <guid isPermaLink="true">https://chicagoreader.com/music/concert-preview/chicago-house-music-festival-and-conference-2026/</guid>
-    </item>
-    <item>
-      <title>[Chicago] Twenty years ago, Chicago welcomed the world to the Gay Games</title>
-      <link>https://chicagoreader.com/city-life/chicago-gay-games-2006/</link>
-      <description>Chicago Reader: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;683&quot; src=&quot;https://i0.wp.com/chicagoreader.com/wp-content/uploads/2026/08/Opening-_D5T9187hires-by-John-Faier-scaled.jpg?fit=1024%2C683&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figure&gt;
-&lt;p&gt;On July 15, 2006, more than 11</description>
-      <pubDate>Mon, 10 Aug 2026 19:41:26 +0000</pubDate>
-      <guid isPermaLink="true">https://chicagoreader.com/city-life/chicago-gay-games-2006/</guid>
     </item>
 </channel></rss>
