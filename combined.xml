@@ -3,8 +3,50 @@
   <title>A Character Quiz — Combined Digest</title>
   <link>https://www.acharacterquiz.com</link>
   <description>News, politics, books, history, philosophy, and Chicago — merged into one feed</description>
-  <lastBuildDate>Sat, 15 Aug 2026 16:23:38 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 15 Aug 2026 17:19:44 +0000</lastBuildDate>
   
+    <item>
+      <title>[News / World] Jason Arday, Cambridge professor accused of plagiarism, is found dead</title>
+      <link>https://www.npr.org/2026/08/15/nx-s1-5932488/jason-arday-dead</link>
+      <description>NPR News: Arday was 37 when he became Cambridge&#x27;s youngest Black professor in 2023. He was found unresponsive Friday at a home in southwest London.</description>
+      <pubDate>Sat, 15 Aug 2026 17:04:43 +0000</pubDate>
+      <guid isPermaLink="true">https://www.npr.org/2026/08/15/nx-s1-5932488/jason-arday-dead</guid>
+    </item>
+    <item>
+      <title>[Politics] Why Americans now hate each other more than ever</title>
+      <link>https://thehill.com/opinion/white-house/6030279-us-societal-distrust-growth/</link>
+      <description>The Hill: Recent polling and sociological analysis suggest that the United States is experiencing a severe generational decline in trust and a rise in mutual contempt driven by economic and political incentives.</description>
+      <pubDate>Sat, 15 Aug 2026 17:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/opinion/white-house/6030279-us-societal-distrust-growth/</guid>
+    </item>
+    <item>
+      <title>[News / World] Erdogan says Egypt could join Turkiye-Saudi-Pakistan defence pact</title>
+      <link>https://www.aljazeera.com/news/2026/8/15/erdogan-says-egypt-could-join-turkiye-saudi-pakistan-defence-pact?traffic_source=rss</link>
+      <description>Al Jazeera: Turkish president tells Al Jazeera that the recently signed agreement is open to new members as he pledges continued support.</description>
+      <pubDate>Sat, 15 Aug 2026 16:39:52 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/8/15/erdogan-says-egypt-could-join-turkiye-saudi-pakistan-defence-pact?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] One killed, dozens injured after wildfire hits Croatian coast</title>
+      <link>https://www.aljazeera.com/video/newsfeed/2026/8/15/one-killed-dozens-injured-after-wildfire-hits-croatian-coast?traffic_source=rss</link>
+      <description>Al Jazeera: At least one person was killed and around 42 others were injured after a violent wildfire hit a coastal town in Croatia.</description>
+      <pubDate>Sat, 15 Aug 2026 16:33:05 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/8/15/one-killed-dozens-injured-after-wildfire-hits-croatian-coast?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[Politics] Trump family crypto company receives approval for conditional banking charter</title>
+      <link>https://thehill.com/business/6031421-trump-family-crypto-firm-bank-charter/</link>
+      <description>The Hill: A crypto firm partially owned by President Trump’s family received preliminary conditional approval for a bank charter on Friday.&amp;#160; The Office of the Comptroller of the Currency (OCC) granted conditional approval for an application from World Liberty Trust Co. for a national trust bank, accordin</description>
+      <pubDate>Sat, 15 Aug 2026 16:32:21 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/business/6031421-trump-family-crypto-firm-bank-charter/</guid>
+    </item>
+    <item>
+      <title>[News / World] Sudan’s al-Burhan pledges immunity for dialogue, rules out Hemedti return</title>
+      <link>https://www.aljazeera.com/news/2026/8/15/sudans-al-burhan-pledges-immunity-for-dialogue-rules-out-hemedti-return?traffic_source=rss</link>
+      <description>Al Jazeera: Al-Burhan pledged temporary immunity and legal protections for participants in a Sudanese national dialogue.</description>
+      <pubDate>Sat, 15 Aug 2026 16:17:43 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/8/15/sudans-al-burhan-pledges-immunity-for-dialogue-rules-out-hemedti-return?traffic_source=rss</guid>
+    </item>
     <item>
       <title>[News / World] Israeli Strikes in Lebanon Kill 11, Health Officials Say</title>
       <link>https://www.nytimes.com/2026/08/15/world/middleeast/israel-strikes-lebanon-ansar.html</link>
@@ -64,7 +106,7 @@
     <item>
       <title>[Politics] Ben Shapiro says Rubio’s potential 2028 White House bid against Vance could backfire</title>
       <link>https://thehill.com/homenews/campaign/6031384-shapiro-rubio-vance-2028-risks/</link>
-      <description>The Hill: Conservative commentator Ben Shapiro is warning that a widely speculated 2028 presidential contest between Secretary of State Marco Rubio and Vice President JD Vance could backfire on the secretary.  In a podcast interview with host Patrick Bet-David released on Wednesday, Shapiro cast doubt that Ru</description>
+      <description>The Hill: Conservative commentator Ben Shapiro is warning that a widely speculated 2028 presidential contest between Secretary of State Marco Rubio and Vice President JD Vance could backfire on the secretary.&amp;#160; In a podcast interview with host Patrick Bet-David released on Wednesday, Shapiro cast doubt th</description>
       <pubDate>Sat, 15 Aug 2026 15:22:50 +0000</pubDate>
       <guid isPermaLink="true">https://thehill.com/homenews/campaign/6031384-shapiro-rubio-vance-2028-risks/</guid>
     </item>
@@ -139,20 +181,6 @@
       <guid isPermaLink="true">https://thehill.com/homenews/campaign/6030885-aipac-spending-california-florida-new-hampshire-elections/</guid>
     </item>
     <item>
-      <title>[Politics] Trump accuses nonprofit organization of revealing ‘top military secrets’ in ballroom case</title>
-      <link>https://thehill.com/homenews/administration/6031322-trump-accuses-national-trust-revealing-info-ballroom/</link>
-      <description>The Hill: President Trump issued fresh criticism on Friday evening toward the nonprofit organization suing his administration over the White House ballroom project, accusing the National Trust for Historic Preservation of revealing “Top Military Secrets” in their lawsuit.&amp;#160; “These are the TREASONISTS that</description>
-      <pubDate>Sat, 15 Aug 2026 14:05:35 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/homenews/administration/6031322-trump-accuses-national-trust-revealing-info-ballroom/</guid>
-    </item>
-    <item>
-      <title>[Politics] The worse it gets, the better it is: American leftism is thriving on its own failures</title>
-      <link>https://thehill.com/opinion/campaign/6030675-american-left-politics-failure/</link>
-      <description>The Hill: American leftist policies on immigration, healthcare and housing are turning systemic failures into political opportunities ... to create even bigger failures.</description>
-      <pubDate>Sat, 15 Aug 2026 14:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/opinion/campaign/6030675-american-left-politics-failure/</guid>
-    </item>
-    <item>
       <title>[News / World] Family stranded at sea for 16 hours after jet ski capsized in Thailand</title>
       <link>https://www.bbc.co.uk/news/articles/cy0j60p0d29o?at_medium=RSS&amp;at_campaign=rss</link>
       <description>BBC News — World: A father and his two young sons spent a night adrift before being rescued off the coast of the island of Koh Samui.</description>
@@ -167,32 +195,11 @@
       <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&amp;at_campaign=rss</guid>
     </item>
     <item>
-      <title>[News / World] Afghans mark five years of Taliban rule</title>
-      <link>https://www.aljazeera.com/video/newsfeed/2026/8/15/afghans-mark-five-years-of-taliban-rule?traffic_source=rss</link>
-      <description>Al Jazeera: Afghans have gathered in Kabul to mark five years since the Taliban returned to power.</description>
-      <pubDate>Sat, 15 Aug 2026 13:12:51 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/8/15/afghans-mark-five-years-of-taliban-rule?traffic_source=rss</guid>
-    </item>
-    <item>
-      <title>[News / World] Black professor at centre of Cambridge plagiarism row found dead</title>
-      <link>https://www.aljazeera.com/video/newsfeed/2026/8/15/black-professor-at-centre-of-cambridge-plagiarism-row-found-dead?traffic_source=rss</link>
-      <description>Al Jazeera: Dr Jason Arday has been found dead days after resigning from Cambridge University due to plagiarism allegations.</description>
-      <pubDate>Sat, 15 Aug 2026 13:11:31 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/8/15/black-professor-at-centre-of-cambridge-plagiarism-row-found-dead?traffic_source=rss</guid>
-    </item>
-    <item>
       <title>[News / World] At Least 47 Dead as 7.7-Magnitude Earthquake Rocks Indonesia</title>
       <link>https://www.nytimes.com/2026/08/15/world/asia/earthquake-indonesia-flores-tsunami.html</link>
       <description>NYT — World: The temblor was one of the strongest the area had experienced in decades, an official said.</description>
       <pubDate>Sat, 15 Aug 2026 13:08:44 +0000</pubDate>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/15/world/asia/earthquake-indonesia-flores-tsunami.html</guid>
-    </item>
-    <item>
-      <title>[News / World] Vienna woman sues city for discrimination over toilet fees</title>
-      <link>https://www.aljazeera.com/video/newsfeed/2026/8/15/vienna-woman-sues-city-for-discrimination-over-toilet-fees?traffic_source=rss</link>
-      <description>Al Jazeera: An Austrian activist in Vienna is challenging the city over public toilet fees.</description>
-      <pubDate>Sat, 15 Aug 2026 13:01:31 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/8/15/vienna-woman-sues-city-for-discrimination-over-toilet-fees?traffic_source=rss</guid>
     </item>
     <item>
       <title>[News / World] Professor’s Death Leaves Behind Hard Questions for Cambridge on Race and Hiring</title>
@@ -412,13 +419,6 @@
 &lt;p&gt;&lt;b&gt;The En</description>
       <pubDate>Fri, 14 Aug 2026 16:08:27 +0000</pubDate>
       <guid isPermaLink="true">https://chicagoreader.com/film-tv/movie-review/review-the-end-of-oak-street/</guid>
-    </item>
-    <item>
-      <title>[News / World] Mangione pleads guilty in federal court, leaving fate of state trial uncertain</title>
-      <link>https://www.npr.org/2026/08/14/nx-s1-5930700/mangione-federal-charges-guilty-plea</link>
-      <description>NPR News: Mangione has pleaded guilty to stalking charges in connection with the death of Brian Thompson, a health care executive. A separate judge will decide the future of Mangione&#x27;s state trial.</description>
-      <pubDate>Fri, 14 Aug 2026 16:05:24 +0000</pubDate>
-      <guid isPermaLink="true">https://www.npr.org/2026/08/14/nx-s1-5930700/mangione-federal-charges-guilty-plea</guid>
     </item>
     <item>
       <title>[Books &amp; Literature] Book Riot’s Deals of the Day for August 14, 2026</title>
