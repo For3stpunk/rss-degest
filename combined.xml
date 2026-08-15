@@ -3,14 +3,63 @@
   <title>A Character Quiz — Combined Digest</title>
   <link>https://www.acharacterquiz.com</link>
   <description>News, politics, books, history, philosophy, and Chicago — merged into one feed</description>
-  <lastBuildDate>Sat, 15 Aug 2026 14:21:45 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 15 Aug 2026 15:19:50 +0000</lastBuildDate>
   
+    <item>
+      <title>[News / World] Five injured, one critically, in shooting at Virginia State University</title>
+      <link>https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>BBC News — World: Multiple suspects were involved in the incident in the early hours of Saturday, the university said.</description>
+      <pubDate>Sat, 15 Aug 2026 15:09:59 +0000</pubDate>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&amp;at_campaign=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] Iran Says Qatar Captured Three of Its Pilots Early in War With U.S.</title>
+      <link>https://www.nytimes.com/2026/08/15/world/middleeast/iran-missing-pilots-qatar.html</link>
+      <description>NYT — World: Iran said the airmen have been held since March 2 when their fighter jets were shot down. The Qatari government has not commented.</description>
+      <pubDate>Sat, 15 Aug 2026 14:52:47 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/15/world/middleeast/iran-missing-pilots-qatar.html</guid>
+    </item>
+    <item>
+      <title>[News / World] Canadian Petition to Expel U.S. Ambassador Pete Hoekstra Takes Off</title>
+      <link>https://www.nytimes.com/2026/08/15/world/canada/hoekstra-ambassador-petition-canada-trump.html</link>
+      <description>NYT — World: Mr. Hoekstra has been President Trump’s faithful messenger in Canada amid a historic low in relations. More than 170,000 Canadians want him gone.</description>
+      <pubDate>Sat, 15 Aug 2026 14:52:12 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/15/world/canada/hoekstra-ambassador-petition-canada-trump.html</guid>
+    </item>
+    <item>
+      <title>[News / World] South Korea proposes talks to officially end war with North</title>
+      <link>https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>BBC News — World: Lee Jae Myung offers chance to end the conflict, which has been frozen since an armistice in 1953.</description>
+      <pubDate>Sat, 15 Aug 2026 14:40:15 +0000</pubDate>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&amp;at_campaign=rss</guid>
+    </item>
+    <item>
+      <title>[Politics] Peltola distances herself from Kamala Harris endorsement ahead of Alaska primary</title>
+      <link>https://thehill.com/homenews/campaign/6031348-peltola-distancing-harris-endorsement/</link>
+      <description>The Hill: Former Rep. Mary Peltola (D-Alaska) is distancing herself from an endorsement from former Vice President Kamala Harris as she looks to win the Alaska Senate race. Harris threw her support behind Peltola in a fundraising email on Wednesday from her Fight for the People PAC, urging supporters to donat</description>
+      <pubDate>Sat, 15 Aug 2026 14:38:10 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/homenews/campaign/6031348-peltola-distancing-harris-endorsement/</guid>
+    </item>
+    <item>
+      <title>[News / World] The next Yemen war might be different</title>
+      <link>https://www.aljazeera.com/features/2026/8/15/the-next-yemen-war-might-be-different?traffic_source=rss</link>
+      <description>Al Jazeera: Drones are no longer the advantage for only one side.</description>
+      <pubDate>Sat, 15 Aug 2026 14:32:07 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/features/2026/8/15/the-next-yemen-war-might-be-different?traffic_source=rss</guid>
+    </item>
     <item>
       <title>[Politics] Sherrod Brown Seeks Senate Comeback in Ohio, Hoping His Populist Pitch Still Resonates</title>
       <link>https://www.nytimes.com/2026/08/15/us/politics/sherrod-brown-ohio-senate-race.html</link>
       <description>NYT — Politics: At 73, Sherrod Brown is mounting a comeback bid in Ohio. He is one of the Democrats his party is counting on to retake control of the Senate.</description>
       <pubDate>Sat, 15 Aug 2026 14:16:39 +0000</pubDate>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/15/us/politics/sherrod-brown-ohio-senate-race.html</guid>
+    </item>
+    <item>
+      <title>[Politics] AIPAC takes center stage in last stretch of Democratic contests before November</title>
+      <link>https://thehill.com/homenews/campaign/6030885-aipac-spending-california-florida-new-hampshire-elections/</link>
+      <description>The Hill: A major pro-Israel group is zeroing in on one of their last contests before November: The special election for former Rep. Eric Swalwell’s (D-Calif.) seat.  The super PAC of the American Israel Public Affairs Committee (AIPAC), United Democracy Project (UDP), has poured roughly $2.5 million into the</description>
+      <pubDate>Sat, 15 Aug 2026 14:14:02 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/homenews/campaign/6030885-aipac-spending-california-florida-new-hampshire-elections/</guid>
     </item>
     <item>
       <title>[Politics] Trump accuses nonprofit organization of revealing ‘top military secrets’ in ballroom case</title>
@@ -113,7 +162,7 @@
     <item>
       <title>[News / World] Five wounded in shooting at Virginia State University, multiple suspects</title>
       <link>https://www.aljazeera.com/news/2026/8/15/five-wounded-in-shooting-at-virginia-state?traffic_source=rss</link>
-      <description>Al Jazeera: Police found the gunshot victims near the university&amp;#039;s residence halls.</description>
+      <description>Al Jazeera: Police found the gunshot victims near the US university&amp;#039;s halls of residence.</description>
       <pubDate>Sat, 15 Aug 2026 12:57:08 +0000</pubDate>
       <guid isPermaLink="true">https://www.aljazeera.com/news/2026/8/15/five-wounded-in-shooting-at-virginia-state?traffic_source=rss</guid>
     </item>
@@ -132,13 +181,6 @@
       <guid isPermaLink="true">https://www.aljazeera.com/news/2026/8/15/afghan-refugees-face-uncertain-future-as-europe-shifts-to-the-right?traffic_source=rss</guid>
     </item>
     <item>
-      <title>[Politics] Iran rejects Trump’s ‘delusions’ on making Strait of Hormuz a US territory</title>
-      <link>https://thehill.com/policy/international/6031248-iran-rejects-trump-hormuz-claim/</link>
-      <description>The Hill: Iran on Saturday rejected President Trump’s assertion that he could declare the Strait of Hormuz a “territory of the United States,” saying the opening and closure of the key waterway will remain up to Iran’s control. In a post on the social platform X, Iranian Deputy Foreign Minister Kazem Gharibab</description>
-      <pubDate>Sat, 15 Aug 2026 11:55:27 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/policy/international/6031248-iran-rejects-trump-hormuz-claim/</guid>
-    </item>
-    <item>
       <title>[News / World] Professor’s Death Leaves Behind Hard Questions for Cambridge on Race and Hiring</title>
       <link>https://www.nytimes.com/2026/08/15/world/europe/jason-arday-cambridge-hiring-questions.html</link>
       <description>NYT — World: Jason Arday, the school’s youngest Black professor, was found dead on Friday. The school ignored a series of warnings about his life story and his work.</description>
@@ -153,18 +195,11 @@
       <guid isPermaLink="true">https://www.aljazeera.com/video/101-east/2026/8/15/is-china-seeking-to-copy-irans-strait-of-hormuz-blockade-around-taiwan?traffic_source=rss</guid>
     </item>
     <item>
-      <title>[News / World] Modi threatens to target ‘intellectual Naxals’ in Independence Day speech</title>
-      <link>https://www.aljazeera.com/news/2026/8/15/modi-threatens-to-target-intellectual-naxals-in-independence-day-speech?traffic_source=rss</link>
-      <description>Al Jazeera: The Indian PM said Maoist-influenced Naxalite rebellion is largely gone, but its ideological backers still pose threat.</description>
-      <pubDate>Sat, 15 Aug 2026 11:27:11 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/8/15/modi-threatens-to-target-intellectual-naxals-in-independence-day-speech?traffic_source=rss</guid>
-    </item>
-    <item>
-      <title>[News / World] Heat Deaths in a ‘Cold’ Country Are a Warning to the Rest of Europe</title>
-      <link>https://www.nytimes.com/2026/08/15/world/europe/belgium-heat-wave-deaths.html</link>
-      <description>NYT — World: A June heat wave in Belgium and neighboring countries exposed a lethal lack of readiness. That’s a risk as another wave hits Europe.</description>
-      <pubDate>Sat, 15 Aug 2026 11:03:26 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/15/world/europe/belgium-heat-wave-deaths.html</guid>
+      <title>[History] Daily quiz: 14 August</title>
+      <link>https://www.historyextra.com/membership/daily-quiz-14-august-2/</link>
+      <description>HistoryExtra: For what did Sir Walter Scott coin the term ‘Rough Wooing’?</description>
+      <pubDate>Sat, 15 Aug 2026 11:00:46 +0000</pubDate>
+      <guid isPermaLink="true">https://www.historyextra.com/membership/daily-quiz-14-august-2/</guid>
     </item>
     <item>
       <title>[Books &amp; Literature] 39 of the Best YA Graphic Novels and Comics of 2026</title>
@@ -195,20 +230,6 @@
       <guid isPermaLink="true">https://www.npr.org/2026/08/15/nx-s1-5928322/ice-detained-a-venezuelan-soccer-pro-his-case-shows-the-immigration-backlog-crisis</guid>
     </item>
     <item>
-      <title>[Politics] Katie Miller’s podcast serves as safe space for MAGA world</title>
-      <link>https://thehill.com/blogs/in-the-know/6030541-katie-miller-podcast-maga-women-influence/</link>
-      <description>The Hill: Katie Miller’s podcast is emerging as a go-to platform for leading figures in President Trump’s administration as she targets an audience of Republican women, scoring news-making interviews with top cabinet officials and key members of the president&amp;#8217;s inner circle.&amp;#160;&amp;#160; Miller, the wife</description>
-      <pubDate>Sat, 15 Aug 2026 10:03:38 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/blogs/in-the-know/6030541-katie-miller-podcast-maga-women-influence/</guid>
-    </item>
-    <item>
-      <title>[News / World] South Korea proposes talks to officially end war with North</title>
-      <link>https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>BBC News — World: Lee Jae Myung offers chance to end the conflict, which has been frozen since an armistice in 1953.</description>
-      <pubDate>Sat, 15 Aug 2026 09:35:23 +0000</pubDate>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&amp;at_campaign=rss</guid>
-    </item>
-    <item>
       <title>[News / World] The Iranian YouTube Show Posing Questions Few Dare Ask</title>
       <link>https://www.nytimes.com/2026/08/15/world/middleeast/iran-youtube-show.html</link>
       <description>NYT — World: Azad, a popular online debate program, has tackled topics that push the limits of Iran’s authoritarian system. Some question how it has remained on air.</description>
@@ -221,13 +242,6 @@
       <description>NPR News: Hemorrhoids, leg cramps, sciatica — oh my! Alongside the joy of pregnancy often comes a parade of physical discomfort. Alleviate and prevent common aches with these exercises.</description>
       <pubDate>Sat, 15 Aug 2026 09:04:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.npr.org/2026/08/15/nx-s1-5930423/strength-exercises-to-relieve-prevent-pregnancy-pain</guid>
-    </item>
-    <item>
-      <title>[News / World] Canadian Petition to Expel U.S. Ambassador Pete Hoekstra Takes Off</title>
-      <link>https://www.nytimes.com/2026/08/15/world/canada/hoekstra-ambassador-petition-canada-trump.html</link>
-      <description>NYT — World: Mr. Hoekstra has been President Trump’s faithful messenger in Canada amid a historic low in relations. More than 160,000 Canadians want him gone.</description>
-      <pubDate>Sat, 15 Aug 2026 09:02:14 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/15/world/canada/hoekstra-ambassador-petition-canada-trump.html</guid>
     </item>
     <item>
       <title>[Politics] Prosecutors Examined Firm With Tie to Judge in Trump Hush Money Trial</title>
@@ -263,6 +277,13 @@
       <description>The Guardian — Books: &lt;p&gt;More than four decades after his Holocaust story Maus transformed the graphic novel genre, Art Spiegelman discusses Trump, the shadow of 9/11 and the rise of fascism in America&lt;/p&gt;&lt;p&gt;When the cartoonist Art Spiegelman began dating his future wife, Françoise Mouly, in the mid 70s, she would tell h</description>
       <pubDate>Sat, 15 Aug 2026 08:00:50 +0000</pubDate>
       <guid isPermaLink="true">https://www.theguardian.com/books/ng-interactive/2026/aug/15/art-spiegelman-the-us-needs-a-counter-revolution</guid>
+    </item>
+    <item>
+      <title>[History] Daily quiz: 15 August</title>
+      <link>https://www.historyextra.com/membership/daily-history-trivia-quiz/</link>
+      <description>HistoryExtra: Put your history knowledge to the test with our daily quiz challenge – updated every morning at 7am UK time</description>
+      <pubDate>Sat, 15 Aug 2026 06:00:17 +0000</pubDate>
+      <guid isPermaLink="true">https://www.historyextra.com/membership/daily-history-trivia-quiz/</guid>
     </item>
     <item>
       <title>[News / World] Entrenched, Embattled and Defiant, the Taliban Celebrate 5 Years in Power</title>
@@ -341,13 +362,6 @@
 &lt;p&gt;Chicago Story Fest is com</description>
       <pubDate>Fri, 14 Aug 2026 19:20:10 +0000</pubDate>
       <guid isPermaLink="true">https://chicagoreader.com/reader/chicago-story-fest-2026-villains/</guid>
-    </item>
-    <item>
-      <title>[News / World] Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule</title>
-      <link>https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>BBC News — World: Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives.</description>
-      <pubDate>Fri, 14 Aug 2026 18:25:38 +0000</pubDate>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&amp;at_campaign=rss</guid>
     </item>
     <item>
       <title>[News / World] How Americans deceive ourselves about slavery</title>
@@ -678,13 +692,6 @@
       <guid isPermaLink="true">https://www.theguardian.com/artanddesign/2026/aug/14/the-beverly-hills-housewife-by-james-cahill-review-a-trip-inside-hockneys-world</guid>
     </item>
     <item>
-      <title>[History] Daily quiz: 14 August</title>
-      <link>https://www.historyextra.com/membership/daily-history-trivia-quiz/</link>
-      <description>HistoryExtra: Put your history knowledge to the test with our daily quiz challenge – updated every morning at 7am UK time</description>
-      <pubDate>Fri, 14 Aug 2026 06:00:18 +0000</pubDate>
-      <guid isPermaLink="true">https://www.historyextra.com/membership/daily-history-trivia-quiz/</guid>
-    </item>
-    <item>
       <title>[Chicago] Chicago’s longaniza Scotch egg lady arrives with A Taste of the Philippines at the next Monday Night Foodball</title>
       <link>https://chicagoreader.com/food/monday-night-foodball/a-taste-philippines-kathy-vega-hardy-filippino-food-pinoy-lumpia-longaniza/</link>
       <description>Chicago Reader: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;995&quot; src=&quot;https://i0.wp.com/chicagoreader.com/wp-content/uploads/2026/08/IMG_0880-scaled.jpeg?fit=1024%2C995&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figure&gt;
@@ -698,13 +705,6 @@
       <description>Chicago Reader: &lt;figure&gt;&lt;img alt=&quot;two men, one younger and one older, in chefs coats&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;683&quot; src=&quot;https://i0.wp.com/chicagoreader.com/wp-content/uploads/2026/08/https___cdn.sanity.io_images_xq1bjtf4_production_2527076fc85985fa819a1b0b21a9b061</description>
       <pubDate>Thu, 13 Aug 2026 21:35:34 +0000</pubDate>
       <guid isPermaLink="true">https://chicagoreader.com/film-tv/movie-review/review-tony/</guid>
-    </item>
-    <item>
-      <title>[History] Was Jack the Ripper Queen Victoria&#x27;s grandson?</title>
-      <link>https://www.historyextra.com/membership/was-jack-the-ripper-queen-victorias-grandson/</link>
-      <description>HistoryExtra: Dr Drew Gray joins Rob Attar to explore the explosive suggestion that a British prince got away with multiple murders in the 19th century</description>
-      <pubDate>Thu, 13 Aug 2026 15:57:24 +0000</pubDate>
-      <guid isPermaLink="true">https://www.historyextra.com/membership/was-jack-the-ripper-queen-victorias-grandson/</guid>
     </item>
     <item>
       <title>[News / World] DRC’s fast-growing Ebola outbreak spreads to sixth province</title>
