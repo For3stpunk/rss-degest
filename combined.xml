@@ -3,21 +3,77 @@
   <title>A Character Quiz — Combined Digest</title>
   <link>https://www.acharacterquiz.com</link>
   <description>News, politics, books, history, philosophy, and Chicago — merged into one feed</description>
-  <lastBuildDate>Thu, 20 Aug 2026 01:12:38 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 20 Aug 2026 02:56:20 +0000</lastBuildDate>
   
     <item>
-      <title>[Politics] Trump Threatens Economic Pain for Countries That Help Iran</title>
-      <link>https://www.nytimes.com/2026/08/19/us/politics/trump-sanctions-iran.html</link>
-      <description>NYT — Politics: The president did not specify what actions he would take, and he has on other occasions abandoned threats to dramatically escalate the war with Iran.</description>
-      <pubDate>Thu, 20 Aug 2026 01:06:35 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/19/us/politics/trump-sanctions-iran.html</guid>
+      <title>[Politics] New DC monument displays the names of 41 million veterans</title>
+      <link>https://thehill.com/homenews/6040180-dc-monument-usaa-41-million-veterans/</link>
+      <description>The Hill: The temporary monument will be up for visitors through Nov. 12, 2026.</description>
+      <pubDate>Thu, 20 Aug 2026 02:39:01 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/homenews/6040180-dc-monument-usaa-41-million-veterans/</guid>
+    </item>
+    <item>
+      <title>[Politics] Harvard figured out how to ‘corrupt’ young girls’ minds, Sean Duffy tells daughter</title>
+      <link>https://thehill.com/homenews/administration/6040328-sean-duffy-harvard-university-corrupts-girls-minds/</link>
+      <description>The Hill: Transportation Secretary Sean Duffy brought the Trump administration’s feud with Harvard University back to the forefront in a new reality TV series that follows his family’s travels across America.  All six episodes of the “Great American Road Trip” debuted on the department’s YouTube page on Wedne</description>
+      <pubDate>Thu, 20 Aug 2026 02:29:44 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/homenews/administration/6040328-sean-duffy-harvard-university-corrupts-girls-minds/</guid>
+    </item>
+    <item>
+      <title>[News / World] North Korean Official Dismisses Reduced Drills Between US and South Korea</title>
+      <link>https://www.nytimes.com/2026/08/19/world/asia/north-korea-trump-military-drills.html</link>
+      <description>NYT — World: Kim Yo-jong, a powerful adviser and sister of Kim Jong-un, also said she was “unaware” of any communication with Washington, contradicting President Trump’s claim her brother had responded to his outreach.</description>
+      <pubDate>Thu, 20 Aug 2026 02:22:33 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/19/world/asia/north-korea-trump-military-drills.html</guid>
     </item>
     <item>
       <title>[News / World] Trump threatens &#x27;tremendous economic consequences&#x27; on any country helping Iran</title>
       <link>https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&amp;at_campaign=rss</link>
       <description>BBC News — World: It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.</description>
-      <pubDate>Thu, 20 Aug 2026 01:02:51 +0000</pubDate>
+      <pubDate>Thu, 20 Aug 2026 02:16:49 +0000</pubDate>
       <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&amp;at_campaign=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] Fears grow in Amazon village as Brazilian drug gangs push into Bolivia</title>
+      <link>https://www.aljazeera.com/video/newsfeed/2026/8/20/fears-grow-in-amazon-village-as-brazilian-drug-gangs-push-into-bolivia?traffic_source=rss</link>
+      <description>Al Jazeera: Fears are growing in a remote Bolivian village as Brazilian drug gangs fight for control of trafficking routes.</description>
+      <pubDate>Thu, 20 Aug 2026 02:16:17 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/8/20/fears-grow-in-amazon-village-as-brazilian-drug-gangs-push-into-bolivia?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] Giant whales move into Greenland waters as ice disappears</title>
+      <link>https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>BBC News — World: Melting sea ice from climate change has opened up the region for giant whales to undertake &#x27;feeding frenzies&#x27;.</description>
+      <pubDate>Thu, 20 Aug 2026 02:05:20 +0000</pubDate>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&amp;at_campaign=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] Alarm in South Korea as Iran dispute with Trump shakes a 72-year alliance</title>
+      <link>https://www.aljazeera.com/news/2026/8/20/alarm-in-south-korea-as-iran-dispute-with-trump-shakes-a-72-year-alliance?traffic_source=rss</link>
+      <description>Al Jazeera: Trump&amp;#039;s order to scale back military drills rattles Seoul, reviving doubts over US security guarantees.</description>
+      <pubDate>Thu, 20 Aug 2026 01:56:41 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/8/20/alarm-in-south-korea-as-iran-dispute-with-trump-shakes-a-72-year-alliance?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[Politics] Trump Threatens Economic Pain for Countries That Help Iran</title>
+      <link>https://www.nytimes.com/2026/08/19/us/politics/trump-sanctions-iran.html</link>
+      <description>NYT — Politics: The president did not specify what actions he would take, and he has on other occasions abandoned threats to dramatically escalate the war with Iran.</description>
+      <pubDate>Thu, 20 Aug 2026 01:52:13 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/19/us/politics/trump-sanctions-iran.html</guid>
+    </item>
+    <item>
+      <title>[Politics] Mamdani challenges City Council over $10,000 teachers’ aide bonuses</title>
+      <link>https://thehill.com/regulation/court-battles/6040291-mamdani-nyc-council-challenge-teachers-aide-bonuses/</link>
+      <description>The Hill: New York City Mayor Zohran Mamdani announced Wednesday he is suing his city council for a bill that grants bonus to teachers’ aides, arguing it violates collective bargaining laws. The RESPECT Check Act, which the City Council unanimously approved in mid-July, provides each New York City school para</description>
+      <pubDate>Thu, 20 Aug 2026 01:42:46 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/regulation/court-battles/6040291-mamdani-nyc-council-challenge-teachers-aide-bonuses/</guid>
+    </item>
+    <item>
+      <title>[News / World] Bodycam captures police team falling when deck collapses in Missouri</title>
+      <link>https://www.aljazeera.com/video/newsfeed/2026/8/20/bodycam-captures-police-team-falling-when-deck-collapses-in-missouri?traffic_source=rss</link>
+      <description>Al Jazeera: Recently released body camera footage shows a deck collapsing during a warrant operation in Huntsville, Missouri.</description>
+      <pubDate>Thu, 20 Aug 2026 01:37:08 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/8/20/bodycam-captures-police-team-falling-when-deck-collapses-in-missouri?traffic_source=rss</guid>
     </item>
     <item>
       <title>[Politics] Alabama Democrats Look for a Black Backlash Over Voting Rights</title>
@@ -57,7 +113,7 @@
     <item>
       <title>[News / World] Publisher of US military newspaper resigns over differences with government</title>
       <link>https://www.aljazeera.com/news/2026/8/20/publisher-of-us-military-newspaper-resigns-over-differences-with-government?traffic_source=rss</link>
-      <description>Al Jazeera: Retirement of longtime publisher of Stars and Stripes comes amid push from Trump administration for editorial control.</description>
+      <description>Al Jazeera: Retirement of longtime Stars and Stripes publisher comes amid the Trump administration&amp;#039;s push for editorial control.</description>
       <pubDate>Thu, 20 Aug 2026 00:34:13 +0000</pubDate>
       <guid isPermaLink="true">https://www.aljazeera.com/news/2026/8/20/publisher-of-us-military-newspaper-resigns-over-differences-with-government?traffic_source=rss</guid>
     </item>
@@ -118,27 +174,6 @@
       <guid isPermaLink="true">https://www.aljazeera.com/news/liveblog/2026/8/20/iran-war-live-trump-announces-most-crushing-iran-sanctions?traffic_source=rss</guid>
     </item>
     <item>
-      <title>[News / World] US national debt passes record $40 trillion</title>
-      <link>https://www.aljazeera.com/economy/2026/8/19/us-national-debt-passes-record-40-trillion?traffic_source=rss</link>
-      <description>Al Jazeera: The amount has doubled in the last decade, from Trump&amp;#039;s first term through the Biden administration.</description>
-      <pubDate>Wed, 19 Aug 2026 23:59:16 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/economy/2026/8/19/us-national-debt-passes-record-40-trillion?traffic_source=rss</guid>
-    </item>
-    <item>
-      <title>[News / World] ‘We do not trust Israeli judiciary’ says Hind Rajab’s grandmother</title>
-      <link>https://www.aljazeera.com/video/newsfeed/2026/8/19/we-do-not-trust-israeli-judiciary-says-hind-rajabs-grandmother?traffic_source=rss</link>
-      <description>Al Jazeera: The grandmother of Hind Rajab, a five-year-old Palestinian girl killed in her family’s car by Israeli forces in Gaza.</description>
-      <pubDate>Wed, 19 Aug 2026 23:56:47 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/8/19/we-do-not-trust-israeli-judiciary-says-hind-rajabs-grandmother?traffic_source=rss</guid>
-    </item>
-    <item>
-      <title>[News / World] Kosovo finds remains of at least 23 people in suspected mass graves</title>
-      <link>https://www.aljazeera.com/news/2026/8/19/kosovo-finds-remains-of-at-least-23-people-in-suspected-mass-graves?traffic_source=rss</link>
-      <description>Al Jazeera: The discovery is part of Kosovo’s long-running effort to find people who disappeared during a brutal war in the 1990s.</description>
-      <pubDate>Wed, 19 Aug 2026 23:55:33 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/8/19/kosovo-finds-remains-of-at-least-23-people-in-suspected-mass-graves?traffic_source=rss</guid>
-    </item>
-    <item>
       <title>[Politics] Kim Jong Un’s sister ‘unaware’ of talks between US, North Korea</title>
       <link>https://thehill.com/policy/international/6040217-kim-yo-jong-denies-trump-talks/</link>
       <description>The Hill: Kim Yo Jong, a top adviser and sister of North Korea’s Kim Jong Un, denied knowledge of discussions between the country’s leader and President Trump in a message shared by state media on Wednesday.&amp;#160;&amp;#160; Trump told reporters earlier in the day that the country’s leader had responded to his req</description>
@@ -167,13 +202,6 @@
       <guid isPermaLink="true">https://thehill.com/regulation/court-battles/6040138-utah-university-shooting-evidence-dispute/</guid>
     </item>
     <item>
-      <title>[Politics] Trump administration plans crackdown on some immigrants’ alleged tax refund ‘abuse’</title>
-      <link>https://thehill.com/business/6040026-irs-treasury-trump-immigration-tax-restrictions/</link>
-      <description>The Hill: The Treasury Department and the IRS on Wednesday proposed stronger restrictions on certain immigrants’ ability to claim refundable tax credits — the latest in the Trump administration’s efforts to curb access from non-U.S. citizens to federal benefits.  The department suggested the refunded portion </description>
-      <pubDate>Wed, 19 Aug 2026 22:57:04 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/business/6040026-irs-treasury-trump-immigration-tax-restrictions/</guid>
-    </item>
-    <item>
       <title>[Politics] Senate Health Panel Chairman Voices Strong Reservations About F.D.A. Nominee</title>
       <link>https://www.nytimes.com/2026/08/19/us/politics/heidi-overton-cassidy-fda.html</link>
       <description>NYT — Politics: Senator Bill Cassidy said Dr. Heidi Overton’s role in President Trump’s executive order on vaccines last week was “almost disqualifying.”</description>
@@ -181,25 +209,11 @@
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/19/us/politics/heidi-overton-cassidy-fda.html</guid>
     </item>
     <item>
-      <title>[Politics] Top DHS lawyer faces bar complaint over ‘worst of the worst’ list for judges</title>
-      <link>https://thehill.com/homenews/administration/6040055-dhs-james-percival-ethics-complaint/</link>
-      <description>The Hill: The top lawyer for the Department of Homeland Security (DHS) is facing an ethics complaint with the Florida Bar after he launched a “Worst of the Worst” list for federal jurists, attacking their rulings. James Percival, the general counsel for DHS, has in recent weeks taken to social media to critic</description>
-      <pubDate>Wed, 19 Aug 2026 22:25:30 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/homenews/administration/6040055-dhs-james-percival-ethics-complaint/</guid>
-    </item>
-    <item>
       <title>[Politics] U.S. Debt Hits $40 Trillion as America’s Borrowing Binge Continues</title>
       <link>https://www.nytimes.com/2026/08/19/business/economy/us-debt-40-trillion.html</link>
       <description>NYT — Politics: President Trump’s promises to restore fiscal order and reduce the amount of America’s debt burden have been undercut by spending on the Iran war, tax cuts and tariff refunds.</description>
       <pubDate>Wed, 19 Aug 2026 22:24:22 +0000</pubDate>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/19/business/economy/us-debt-40-trillion.html</guid>
-    </item>
-    <item>
-      <title>[Politics] Army battalion in Georgia offering 4 days of GTA 6 play as reenlistment incentive</title>
-      <link>https://thehill.com/policy/defense/6040002-army-battalion-offers-gta-6-pass/</link>
-      <description>The Hill: A U.S. Army battalion in Georgia is offering eligible soldiers a four-day pass to play Grand Theft Auto VI (GTA 6) as a reenlistment incentive once the highly anticipated game gets released this fall.&amp;#160; The incentive is for the “special 4-day” pass, which is offered by the 9th Brigade Engineer B</description>
-      <pubDate>Wed, 19 Aug 2026 22:06:59 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/policy/defense/6040002-army-battalion-offers-gta-6-pass/</guid>
     </item>
     <item>
       <title>[Politics] Trump, Who Has Amassed Enormous Wealth in Crypto, Hosts Industry Leaders</title>
@@ -301,13 +315,6 @@
       <guid isPermaLink="true">https://blockclubchicago.org/2026/08/19/chicago-among-500-cities-due-for-expanded-amazon-drone-delivery-of-lightweight-packages/</guid>
     </item>
     <item>
-      <title>[News / World] North Korean Official Dismisses Reduced Drills Between US and South Korea</title>
-      <link>https://www.nytimes.com/2026/08/19/world/asia/north-korea-trump-military-drills.html</link>
-      <description>NYT — World: Kim Yo-jong, a powerful adviser and sister of Kim Jong-un, also said she was “unaware” of any communication with Washington, contradicting President Trump’s claim her brother had responded to his outreach.</description>
-      <pubDate>Wed, 19 Aug 2026 18:17:09 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/19/world/asia/north-korea-trump-military-drills.html</guid>
-    </item>
-    <item>
       <title>[News / World] After Youth Outcry, Vietnam Says Former Official Caused Fatal Crash at Tree 55</title>
       <link>https://www.nytimes.com/2026/08/19/world/asia/vietnam-crash-tree-55-community-party-official.html</link>
       <description>NYT — World: Young people are calling for justice after a former Communist Party official killed a teenager in a car crash. The government’s response has been surprising.</description>
@@ -363,13 +370,6 @@
 &lt;p&gt;&lt;b&gt;Black Milk&lt;/b&gt; Fri 9/4 at Schubas&lt;/</description>
       <pubDate>Wed, 19 Aug 2026 16:04:50 +0000</pubDate>
       <guid isPermaLink="true">https://chicagoreader.com/music/concert-preview/black-milk-schubas/</guid>
-    </item>
-    <item>
-      <title>[News / World] Two detained after French influencer&#x27;s scorched body found in vineyard</title>
-      <link>https://www.bbc.co.uk/news/articles/c3r058eeqv2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>BBC News — World: Sonia Bellina&#x27;s body was &quot;abandoned&quot; after &quot;a murder of rare savagery&quot;, the family&#x27;s lawyer says.</description>
-      <pubDate>Wed, 19 Aug 2026 16:04:39 +0000</pubDate>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c3r058eeqv2o?at_medium=RSS&amp;at_campaign=rss</guid>
     </item>
     <item>
       <title>[News / World] U.A.E. Announces Halt to Trade With Iran Amid Trump’s Push To Isolate Tehran</title>
