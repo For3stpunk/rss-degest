@@ -3,14 +3,56 @@
   <title>A Character Quiz — Combined Digest</title>
   <link>https://www.acharacterquiz.com</link>
   <description>News, politics, books, history, philosophy, and Chicago — merged into one feed</description>
-  <lastBuildDate>Sun, 23 Aug 2026 20:22:18 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 23 Aug 2026 21:21:08 +0000</lastBuildDate>
   
     <item>
-      <title>[News / World] Trump waves green flag kicking off high-speed IndyCar race through Washington</title>
+      <title>[Politics] Trump’s Summer of Fun Ends With an IndyCar Race on the Streets of D.C.</title>
+      <link>https://www.nytimes.com/2026/08/23/us/politics/trump-summer-car-race-dc.html</link>
+      <description>NYT — Politics: It was the final, major event planned for the nation’s 250th anniversary celebrations. The president took a lap.</description>
+      <pubDate>Sun, 23 Aug 2026 21:11:22 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/23/us/politics/trump-summer-car-race-dc.html</guid>
+    </item>
+    <item>
+      <title>[Politics] Pressure mounts on Ethics Committee to speed up misconduct probes as midterms loom</title>
+      <link>https://thehill.com/homenews/house/6044441-house-ethics-misconduct-investigations-midterms/</link>
+      <description>The Hill: Democrats and Republicans are pressing the House Ethics Committee to move more quickly on investigations involving allegations of sexual misconduct or domestic abuse, as a string of high-profile cases and the looming midterms have renewed scrutiny of the secretive panel’s process. Investigations int</description>
+      <pubDate>Sun, 23 Aug 2026 21:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/homenews/house/6044441-house-ethics-misconduct-investigations-midterms/</guid>
+    </item>
+    <item>
+      <title>[Politics] Oz says MMR vaccine ‘is not a lethal vaccine’</title>
+      <link>https://thehill.com/policy/healthcare/6045961-oz-denies-mmr-lethality/</link>
+      <description>The Hill: Dr. Mehmet Oz, the administrator of the Centers for Medicare and Medicaid Services (CMS), noted Sunday the measles, mumps and rubella (MMR) vaccine is not lethal, contradicting President Trump.&amp;#160; “The MMR vaccine is not a lethal vaccine, and it is offered in other countries,” Oz told host Margar</description>
+      <pubDate>Sun, 23 Aug 2026 20:28:23 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/policy/healthcare/6045961-oz-denies-mmr-lethality/</guid>
+    </item>
+    <item>
+      <title>[Politics] Barrasso: Monday will be ‘D-Day for the economy in Iran’</title>
+      <link>https://thehill.com/homenews/senate/6045941-barrasso-iran-economic-d-day/</link>
+      <description>The Hill: On Sunday, Senate Majority Whip John Barrasso (R-Wyo.) said that Monday will be “D-Day” for the economy in Iran as the Trump administration and U.S. military vow to exert maximum financial and militaristic pressure on Tehran to end the war overseas.  “Their economy is in shambles. And they&amp;#8217;re </description>
+      <pubDate>Sun, 23 Aug 2026 20:23:35 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/homenews/senate/6045941-barrasso-iran-economic-d-day/</guid>
+    </item>
+    <item>
+      <title>[News / World] Is Israel about to split the occupied West Bank in half?</title>
+      <link>https://www.aljazeera.com/video/newsfeed/2026/8/23/occupied-west-bank-division-ps?traffic_source=rss</link>
+      <description>Al Jazeera: Israel is moving forward with its ‘E1’ plan. What is it and why could it threaten the future of a Palestinian state?</description>
+      <pubDate>Sun, 23 Aug 2026 20:23:01 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/8/23/occupied-west-bank-division-ps?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] Trump waves green flag to start IndyCar race through Washington streets</title>
       <link>https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&amp;at_campaign=rss</link>
       <description>BBC News — World: The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country&#x27;s 250th birthday.</description>
       <pubDate>Sun, 23 Aug 2026 20:19:36 +0000</pubDate>
       <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&amp;at_campaign=rss</guid>
+    </item>
+    <item>
+      <title>[Politics] Melania Trump talks about foster care initiative and racing interest at Freedom 250 Grand Prix</title>
+      <link>https://thehill.com/blogs/in-the-know/6045927-melania-trump-freedom-250-grand-prix/</link>
+      <description>The Hill: First lady Melania Trump on Sunday shared how her father got her into racing during an interview at the Freedom 250 Grand Prix event. “Yes, when I was growing up, my father introduced me to the races and to the race cars, and he owned some incredible cars from Maserati and Cougar and Mustang, Merced</description>
+      <pubDate>Sun, 23 Aug 2026 20:17:36 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/blogs/in-the-know/6045927-melania-trump-freedom-250-grand-prix/</guid>
     </item>
     <item>
       <title>[News / World] Severe winds toss four aircraft across Italian airport tarmac</title>
@@ -97,20 +139,6 @@
       <guid isPermaLink="true">https://thehill.com/policy/international/6045828-pence-denies-that-iran-war-hurting-ukraine-by-depleting-us-stockpiles/</guid>
     </item>
     <item>
-      <title>[Politics] Turning Point USA announces Charlie Kirk memorial on university campus where he was shot</title>
-      <link>https://thehill.com/homenews/state-watch/6045850-uv-event-commemorates-kirk/</link>
-      <description>The Hill: Turning Point USA announced that Turning Point USA co-founder Charlie Kirk will be honored at a Sept. 10 event on the Utah Valley University campus, feet from where he was shot.&amp;#160; The event is titled, “Freedom Built to Last” and will feature remarks from Turning Point USA spokesperson Andrew Syp</description>
-      <pubDate>Sun, 23 Aug 2026 18:41:28 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/homenews/state-watch/6045850-uv-event-commemorates-kirk/</guid>
-    </item>
-    <item>
-      <title>[Politics] Duffy: Carney will ‘come to the table’ because tariffs will be ‘devastating’</title>
-      <link>https://thehill.com/business/6045845-duffy-predicts-carney-trade-negotiations/</link>
-      <description>The Hill: Transportation Secretary Sean Duffy said Sunday that Canadian Prime Minister Mark Carney is going to “come to the table” on trade because tariffs against the U.S.’s northern neighbor will be “devastating.” “To think that they&amp;#8217;re going to go to war with Donald Trump and actually win that war wi</description>
-      <pubDate>Sun, 23 Aug 2026 18:36:54 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/business/6045845-duffy-predicts-carney-trade-negotiations/</guid>
-    </item>
-    <item>
       <title>[News / World] Video: Thousands of families flee fighting in Sudan’s North Kordofan State</title>
       <link>https://www.aljazeera.com/video/newsfeed/2026/8/23/video-thousands-of-families-flee-fighting-in-sudans-north-kordofan-state?traffic_source=rss</link>
       <description>Al Jazeera: Mothers and their children are in dire need of food and safety in Sudan’s conflict-stricken Kordofan State.</description>
@@ -123,13 +151,6 @@
       <description>BBC News — World: A mound of rubbish at a major waste site buried several homes in the capital, the government says.</description>
       <pubDate>Sun, 23 Aug 2026 18:17:37 +0000</pubDate>
       <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&amp;at_campaign=rss</guid>
-    </item>
-    <item>
-      <title>[News / World] Trump has ‘run out of options’ in Iran war: Stephen Walt</title>
-      <link>https://www.aljazeera.com/video/the-bottom-line/2026/8/23/trump-has-run-out-of-options-in-iran-war-stephen-walt?traffic_source=rss</link>
-      <description>Al Jazeera: Political scientist Stephen Walt says Trump promised to make US stronger, but many of his policies are making it weaker.</description>
-      <pubDate>Sun, 23 Aug 2026 18:15:22 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/video/the-bottom-line/2026/8/23/trump-has-run-out-of-options-in-iran-war-stephen-walt?traffic_source=rss</guid>
     </item>
     <item>
       <title>[News / World] What to Know About the Ebola Outbreak Centered in Congo</title>
@@ -146,25 +167,11 @@
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/23/climate/wheat-harvests-bread-prices-war-heat.html</guid>
     </item>
     <item>
-      <title>[Politics] US pressure needs to be directed at Russia, not Ukraine</title>
-      <link>https://thehill.com/opinion/international/6044866-vance-urges-ukraine-energy-strikes/</link>
-      <description>The Hill: Author David J. Kramer argues that the Trump administration must consistently defend American corporate interests and global market stability by increasing pressure on Russia to end its aggression against Ukraine.</description>
-      <pubDate>Sun, 23 Aug 2026 18:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/opinion/international/6044866-vance-urges-ukraine-energy-strikes/</guid>
-    </item>
-    <item>
       <title>[News / World] France links sharp rise in drownings to heatwaves</title>
       <link>https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&amp;at_campaign=rss</link>
       <description>BBC News — World: A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June.</description>
       <pubDate>Sun, 23 Aug 2026 17:39:33 +0000</pubDate>
       <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&amp;at_campaign=rss</guid>
-    </item>
-    <item>
-      <title>[Politics] Van Hollen says he wouldn’t reject DSA endorsement, but ‘certainly not seeking’ one</title>
-      <link>https://thehill.com/homenews/campaign/6045751-van-hollen-dsa-endorsement-stance/</link>
-      <description>The Hill: Sen. Chris Van Hollen (D-Md.) on Sunday did not shoot down a possible endorsement from the Democratic Socialists of America (DSA), but the Democratic lawmaker added that he “certainly isn’t seeking it.” “I&amp;#8217;m not going to sort of look into all these endorsements. I&amp;#8217;m not going to reject a</description>
-      <pubDate>Sun, 23 Aug 2026 17:25:48 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/homenews/campaign/6045751-van-hollen-dsa-endorsement-stance/</guid>
     </item>
     <item>
       <title>[News / World] The lesson from Canada’s collapsed trade talks with the US: negotiation may be futile</title>
@@ -177,7 +184,7 @@
       <title>[News / World] Iran Warns Gulf States Not to Join Trump’s Economic War</title>
       <link>https://www.nytimes.com/2026/08/23/world/europe/iran-economy-war-united-states.html</link>
       <description>NYT — World: Iran’s new hard-line national security adviser, Mohsen Rezaei, vowed to prevent “a single drop of oil” from leaving the region.</description>
-      <pubDate>Sun, 23 Aug 2026 17:00:09 +0000</pubDate>
+      <pubDate>Sun, 23 Aug 2026 17:00:10 +0000</pubDate>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/23/world/europe/iran-economy-war-united-states.html</guid>
     </item>
     <item>
@@ -216,7 +223,7 @@
       <guid isPermaLink="true">https://blockclubchicago.org/2026/08/23/famed-sculptor-hired-to-build-dusable-statue-at-long-planned-lakefront-park/</guid>
     </item>
     <item>
-      <title>[News / World] Thousands struggling without power in Indiana 12 days after severe storms</title>
+      <title>[News / World] Frustration builds in Indiana town struggling without power for 12 days</title>
       <link>https://www.bbc.co.uk/news/articles/clyly8vdpdwo?at_medium=RSS&amp;at_campaign=rss</link>
       <description>BBC News — World: In the town of Gary, where a third of residents live in poverty, people say they have been living in &quot;survival mode&quot;.</description>
       <pubDate>Sun, 23 Aug 2026 15:54:32 +0000</pubDate>
@@ -305,13 +312,6 @@
       <description>HistoryExtra: Edward Colston gave millions in today&#x27;s money to schools, almshouses and charitable causes, carefully crafting an image of himself as a Christian benefactor. But his wealth was bound up with the trafficking of enslaved Africans. Could he ever see that contradiction?</description>
       <pubDate>Sun, 23 Aug 2026 10:05:08 +0000</pubDate>
       <guid isPermaLink="true">https://www.historyextra.com/period/early-modern/edward-colston-regret-role-in-slave-trade/</guid>
-    </item>
-    <item>
-      <title>[Politics] For Some in a Disrupted D.C., Grand Prix Is More Irritation Than Celebration</title>
-      <link>https://www.nytimes.com/2026/08/22/us/politics/dc-grand-prix-indycar-traffic-damage.html</link>
-      <description>NYT — Politics: Race preparations have snarled traffic, rerouted flights and forced the National Gallery of Art to conduct vibration tests.</description>
-      <pubDate>Sun, 23 Aug 2026 09:41:06 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/22/us/politics/dc-grand-prix-indycar-traffic-damage.html</guid>
     </item>
     <item>
       <title>[News / World] Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has.</title>
