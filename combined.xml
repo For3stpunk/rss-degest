@@ -3,14 +3,42 @@
   <title>A Character Quiz — Combined Digest</title>
   <link>https://www.acharacterquiz.com</link>
   <description>News, politics, books, history, philosophy, and Chicago — merged into one feed</description>
-  <lastBuildDate>Tue, 25 Aug 2026 06:46:33 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 25 Aug 2026 07:42:52 +0000</lastBuildDate>
   
+    <item>
+      <title>[News / World] Kit Harington replaces Nicholas Hoult in HBO&#x27;s Harry Potter series</title>
+      <link>https://www.bbc.co.uk/news/articles/c783lnz12vlo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>BBC News — World: X-Men star Hoult was only announced as Lockhart two weeks ago but has had to drop out.</description>
+      <pubDate>Tue, 25 Aug 2026 07:39:25 +0000</pubDate>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c783lnz12vlo?at_medium=RSS&amp;at_campaign=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] Lockerbie bombing trial postponed days before it was due to start</title>
+      <link>https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>BBC News — World: The trial of a Libyan man is delayed for a third time, after new evidence on the 37-year-old case came to light three days ago.</description>
+      <pubDate>Tue, 25 Aug 2026 06:59:03 +0000</pubDate>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&amp;at_campaign=rss</guid>
+    </item>
     <item>
       <title>[News / World] Iran says it is &#x27;fully prepared&#x27; to counter widened US economic sanctions</title>
       <link>https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>BBC News — World: The US calls its latest sanctions on Iran an &quot;economic D-Day&quot;, but Tehran says it has a plan to counter them.</description>
-      <pubDate>Tue, 25 Aug 2026 06:16:28 +0000</pubDate>
+      <description>BBC News — World: The US calls its latest sanctions on Iran an &quot;economic D-Day&quot;, but Tehran says it has a plan to address them.</description>
+      <pubDate>Tue, 25 Aug 2026 06:54:46 +0000</pubDate>
       <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&amp;at_campaign=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] The Iran war is bringing cyberwarfare into critical infrastructure</title>
+      <link>https://www.aljazeera.com/opinions/2026/8/25/the-iran-war-is-bringing-cyberwarfare-into-critical-infrastructure?traffic_source=rss</link>
+      <description>Al Jazeera: Recent attacks in the UK and the US demonstrate critical vulnerabilities that governments need to urgently address.</description>
+      <pubDate>Tue, 25 Aug 2026 06:37:32 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/opinions/2026/8/25/the-iran-war-is-bringing-cyberwarfare-into-critical-infrastructure?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] Fulham vs Chelsea: Alonso starts new era with thrilling 3–2 win</title>
+      <link>https://www.aljazeera.com/sports/2026/8/25/fulham-vs-chelsea-alonso-starts-new-era-with-thrilling-3-2?traffic_source=rss</link>
+      <description>Al Jazeera: Joao Pedro, Morgan Rogers and Cole Palmer on target as Chelsea open scoring within 31 seconds of the match in London.</description>
+      <pubDate>Tue, 25 Aug 2026 06:32:43 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/sports/2026/8/25/fulham-vs-chelsea-alonso-starts-new-era-with-thrilling-3-2?traffic_source=rss</guid>
     </item>
     <item>
       <title>[News / World] Angel Reese breaks WNBA record with 26 rebounds in Dream’s win over Sparks</title>
@@ -48,6 +76,13 @@
       <guid isPermaLink="true">https://www.historyextra.com/membership/daily-history-trivia-quiz/</guid>
     </item>
     <item>
+      <title>[News / World] Chinese Artist Sentenced to Three Years in Prison for Mao Sculptures</title>
+      <link>https://www.nytimes.com/2026/08/25/world/asia/china-artist-gao-zhen-jailed-mao-sculpture.html</link>
+      <description>NYT — World: Gao Zhen, part of a brotherly duo famous for satirical artworks, was convicted of slandering one of China’s heroes after a secret one-day trial.</description>
+      <pubDate>Tue, 25 Aug 2026 05:32:54 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/25/world/asia/china-artist-gao-zhen-jailed-mao-sculpture.html</guid>
+    </item>
+    <item>
       <title>[News / World] Indonesians brave choking smoke to pray for rain as country battles wildfires</title>
       <link>https://www.npr.org/2026/08/25/nx-s1-5944062/indonesia-battles-wildfires</link>
       <description>NPR News: Huge blazes in central and western regions of Indonesia have scorched wide areas of forests and peatland, creating a choking haze that blanketed some cities.</description>
@@ -67,6 +102,13 @@
       <description>NPR News: Burnham, who was in Kyiv for Ukraine&#x27;s Independence Day, said defense firm MBDA will release details on U.K.-made parts for the SCALP missile to Ukraine to help the country assemble the weapons.</description>
       <pubDate>Tue, 25 Aug 2026 05:14:03 +0000</pubDate>
       <guid isPermaLink="true">https://www.npr.org/2026/08/25/nx-s1-5944059/the-uk-will-help-ukraine-make-long-range-missiles-by-sharing-classified-tech-information</guid>
+    </item>
+    <item>
+      <title>[News / World] How U.S.-Canada Tariff Negotiations Turned Into an All-Out Trade War</title>
+      <link>https://www.nytimes.com/2026/08/25/world/canada/trump-carney-trade-war-tariffs.html</link>
+      <description>NYT — World: Detailed accounts of the final hours of the negotiations show that, while the United States offered Canada what it said was the best deal of any country, what Canada had to give up in exchange was seen as unthinkable.</description>
+      <pubDate>Tue, 25 Aug 2026 05:12:26 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/25/world/canada/trump-carney-trade-war-tariffs.html</guid>
     </item>
     <item>
       <title>[News / World] France and Saudi Arabia plan Dragon Ball Z theme park near Paris</title>
@@ -90,13 +132,6 @@
       <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/8/25/syrian-president-thanks-nation-for-getting-off-us-state-terror-list?traffic_source=rss</guid>
     </item>
     <item>
-      <title>[News / World] France, Saudi Arabia agree on $7bn theme park project near Paris</title>
-      <link>https://www.aljazeera.com/news/2026/8/25/france-saudi-arabia-agree-on-7bn-theme-park-project-near-paris?traffic_source=rss</link>
-      <description>Al Jazeera: Theme park project is among a raft of deals spanning energy, defence, AI and tourism signed during MBS&amp;#039;s visit to Paris.</description>
-      <pubDate>Tue, 25 Aug 2026 04:38:20 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/8/25/france-saudi-arabia-agree-on-7bn-theme-park-project-near-paris?traffic_source=rss</guid>
-    </item>
-    <item>
       <title>[News / World] UK drone factories may face attacks from &#x27;unknown sources&#x27;, says Kremlin adviser</title>
       <link>https://www.bbc.co.uk/news/articles/cg598m3meeyo?at_medium=RSS&amp;at_campaign=rss</link>
       <description>BBC News — World: The comments on BBC Newsnight come after the UK announced it has agreed to hand over blueprints for British-made missile components to Ukraine.</description>
@@ -104,11 +139,11 @@
       <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cg598m3meeyo?at_medium=RSS&amp;at_campaign=rss</guid>
     </item>
     <item>
-      <title>[News / World] Rare tornado near Carcassonne in France causes damage and injuries</title>
-      <link>https://www.aljazeera.com/video/newsfeed/2026/8/25/rare-tornado-near-carcassonne-in-france-causes-damage-and-injuries?traffic_source=rss</link>
-      <description>Al Jazeera: Footage shows a rare tornado making its way through southern France.</description>
-      <pubDate>Tue, 25 Aug 2026 03:56:30 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/8/25/rare-tornado-near-carcassonne-in-france-causes-damage-and-injuries?traffic_source=rss</guid>
+      <title>[News / World] What We Know About Australia’s Bird Flu, Which Has Crossed Over to Mammals</title>
+      <link>https://www.nytimes.com/2026/08/25/world/australia/bird-flu-h5n1-mammals.html</link>
+      <description>NYT — World: Australia confirmed its first case of H5N1 in June in migratory seabirds. Since then, the virus has spread rapidly, straining government responses.</description>
+      <pubDate>Tue, 25 Aug 2026 04:01:08 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/25/world/australia/bird-flu-h5n1-mammals.html</guid>
     </item>
     <item>
       <title>[Politics] Trump Administration Aims to Revoke Visas of Foreign Citizens Applying for Asylum</title>
@@ -265,20 +300,6 @@
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/24/world/europe/uk-andy-burnham-ukraine-russia.html</guid>
     </item>
     <item>
-      <title>[News / World] Lockerbie bombing trial postponed days before it was due to start</title>
-      <link>https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>BBC News — World: The trial of a Libyan man is delayed for a third time, after new evidence on the 37-year-old case came to light three days ago.</description>
-      <pubDate>Mon, 24 Aug 2026 22:13:36 +0000</pubDate>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&amp;at_campaign=rss</guid>
-    </item>
-    <item>
-      <title>[News / World] Kit Harington joins HBO&#x27;s Harry Potter series as Gilderoy Lockhart</title>
-      <link>https://www.bbc.co.uk/news/articles/c783lnz12vlo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>BBC News — World: The role marks Harington&#x27;s third collaboration with HBO, after starring in the tentpole Game of Thrones and financial drama The Industry.</description>
-      <pubDate>Mon, 24 Aug 2026 21:58:49 +0000</pubDate>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c783lnz12vlo?at_medium=RSS&amp;at_campaign=rss</guid>
-    </item>
-    <item>
       <title>[Politics] Is the Supreme Court’s Shadow Docket Changing?</title>
       <link>https://www.nytimes.com/video/us/politics/100000011086271/is-the-supreme-courts-shadow-docket-changing.html</link>
       <description>NYT — Politics: The Supreme Court’s emergency docket has shrunk in recent months, and the way justices issue opinions on these cases has also changed. Our reporter Ann Marimow looks at what these shifts tell us about the justices, and what it could mean for the court.</description>
@@ -305,13 +326,6 @@
       <description>NPR News: A drug bust involving an alleged cocaine ring at Penn State has drawn attention to drug use on college campuses, but research shows the big risk to students is alcohol.</description>
       <pubDate>Mon, 24 Aug 2026 21:17:31 +0000</pubDate>
       <guid isPermaLink="true">https://www.npr.org/2026/08/24/nx-s1-5942987/cocaine-use-is-down-but-alcohol-is-still-being-abused-by-young-adults</guid>
-    </item>
-    <item>
-      <title>[News / World] Iran Pledges to Defy Trump’s Economic Sanctions</title>
-      <link>https://www.nytimes.com/2026/08/24/world/middleeast/iran-sanctions-economy-us-trump.html</link>
-      <description>NYT — World: Analysts say Tehran could intensify the dispute militarily after the United States announced new efforts to squeeze Iran’s economy.  One Iranian official vowed that “not a single drop of oil” would leave the gulf.</description>
-      <pubDate>Mon, 24 Aug 2026 21:12:01 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/24/world/middleeast/iran-sanctions-economy-us-trump.html</guid>
     </item>
     <item>
       <title>[News / World] Supreme Court gives Trump an interim win on his mail voting order, but hurdles loom</title>
@@ -368,13 +382,6 @@
       <description>The Guardian — World: &lt;p&gt;Spokesperson for Duke of Sussex says he remains an ‘active and avid supporter’ of African Parks’ mission&lt;/p&gt;&lt;p&gt;The Duke of Sussex has stepped down from the board of a major African wildlife charity that had been at the centre of a human rights controversy.&lt;/p&gt;&lt;p&gt;Prince Harry’s spokesperson confir</description>
       <pubDate>Mon, 24 Aug 2026 17:34:50 +0000</pubDate>
       <guid isPermaLink="true">https://www.theguardian.com/uk-news/2026/aug/24/prince-harry-quits-board-wildlife-charity-african-parks-human-rights-abuses</guid>
-    </item>
-    <item>
-      <title>[News / World] Syria and Israel Hold U.S.-Mediated Talks to Try to Ease Tensions</title>
-      <link>https://www.nytimes.com/2026/08/24/world/middleeast/syria-israel-talks-us-jordan.html</link>
-      <description>NYT — World: The discussions, reported by the Syrian state news agency, came days after Israel struck an air base in Syria’s northwest, the latest in a series of military interventions.</description>
-      <pubDate>Mon, 24 Aug 2026 16:41:33 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/24/world/middleeast/syria-israel-talks-us-jordan.html</guid>
     </item>
     <item>
       <title>[Chicago] How Old Style Won — And Lost — Its Hold On Chicago</title>
@@ -492,13 +499,6 @@
       <description>NPR News: Today, Treasury Secretary Scott Bessent is set to announce details on new economic pressures on Iran. And, Canada has vowed to impose retaliatory tariffs against the U.S.</description>
       <pubDate>Mon, 24 Aug 2026 11:27:44 +0000</pubDate>
       <guid isPermaLink="true">https://www.npr.org/2026/08/24/g-s1-139736/up-first-newsletter-iran-economic-pressures-canada-tariffs-trump-visa-ban</guid>
-    </item>
-    <item>
-      <title>[News / World] Some of Russia’s A.I. Drones Are Powered by Nvidia Microcomputers, Ukrainian Officials Say</title>
-      <link>https://www.nytimes.com/2026/08/24/world/europe/ukraine-war-nvidia-ai-autonomous-drones.html</link>
-      <description>NYT — World: The tech giant says it does not sell the devices in Russia, but they are widely available on resale markets. When purchased that way, they are virtually impossible to track.</description>
-      <pubDate>Mon, 24 Aug 2026 11:19:29 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/24/world/europe/ukraine-war-nvidia-ai-autonomous-drones.html</guid>
     </item>
     <item>
       <title>[Books &amp; Literature] Lit Hub Daily: August 24, 2026</title>
