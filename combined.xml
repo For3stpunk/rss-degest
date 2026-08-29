@@ -3,14 +3,210 @@
   <title>A Character Quiz — Combined Digest</title>
   <link>https://www.acharacterquiz.com</link>
   <description>News, politics, books, history, philosophy, and Chicago — merged into one feed</description>
-  <lastBuildDate>Sat, 29 Aug 2026 12:23:49 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 29 Aug 2026 16:59:17 +0000</lastBuildDate>
   
     <item>
-      <title>[News / World] At least 37 dead and hundreds evacuated after strike on Kyiv warehouse</title>
+      <title>[Politics] Political Campaigns Are Quietly Paying Influencers to Support Candidates</title>
+      <link>https://www.nytimes.com/2026/08/29/us/politics/campaigns-paid-influencers.html</link>
+      <description>NYT — Politics: Their videos have proliferated on social media, but the payments are frequently hidden from viewers.</description>
+      <pubDate>Sat, 29 Aug 2026 16:45:10 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/29/us/politics/campaigns-paid-influencers.html</guid>
+    </item>
+    <item>
+      <title>[News / World] Trump hails &#x27;historic&#x27; deal for US to control 65bn barrels of Venezuela&#x27;s oil</title>
+      <link>https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>BBC News — World: Venezuelan interim president says the unusual agreement will help revive her country&#x27;s economy.</description>
+      <pubDate>Sat, 29 Aug 2026 16:15:56 +0000</pubDate>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&amp;at_campaign=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] RSS chief’s visit to US denounced as ‘goodwill tour’ for Hindu nationalism</title>
+      <link>https://www.aljazeera.com/news/2026/8/29/rss-chiefs-visit-to-us-denounced-as-goodwill-tour-for-hindu-nationalism?traffic_source=rss</link>
+      <description>Al Jazeera: Activists say Hindu nationalists have sought to mask far-right politics through broad appeals to the Indian diaspora.</description>
+      <pubDate>Sat, 29 Aug 2026 16:03:32 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/8/29/rss-chiefs-visit-to-us-denounced-as-goodwill-tour-for-hindu-nationalism?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] Search Continues for 2,400 Missing in Nepal Floods Amid ‘Immense’ Devastation</title>
+      <link>https://www.nytimes.com/2026/08/29/world/asia/nepal-flood-rescue.html</link>
+      <description>NYT — World: As rescue efforts entered their fourth day, the scale of destruction came into focus, signaling a daunting recovery for the vulnerable nation.</description>
+      <pubDate>Sat, 29 Aug 2026 16:00:39 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/29/world/asia/nepal-flood-rescue.html</guid>
+    </item>
+    <item>
+      <title>[Politics] The Memo: GOP sees risks in Trump’s midterm strategy of focusing on himself</title>
+      <link>https://thehill.com/homenews/analysis/6057609-gop-campaign-centered-trump/</link>
+      <description>The Hill: President Trump is likely to make the GOP’s midterm campaign partly about himself — and that’s a risky strategy, as even some in his party acknowledge. Trump’s efforts go beyond the standard, campaign-trail appearances he is making on behalf of Republican candidates.&amp;#160; According to a Tuesday rep</description>
+      <pubDate>Sat, 29 Aug 2026 16:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/homenews/analysis/6057609-gop-campaign-centered-trump/</guid>
+    </item>
+    <item>
+      <title>[Politics] Electric vehicles are flaming out —let’s ‘Make Internal Combustion Engines Great Again’</title>
+      <link>https://thehill.com/opinion/energy-environment/6058256-ev-safety-battery-risks/</link>
+      <description>The Hill: If you are a builder, promoter or buyer of electric vehicles, good for you. Science and technology do march on. But occasionally, at what cost?  While it’s quite easy to understand the rationale for building EVs — perceived innovation, business plans, and profit — it’s still natural to question the </description>
+      <pubDate>Sat, 29 Aug 2026 16:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/opinion/energy-environment/6058256-ev-safety-battery-risks/</guid>
+    </item>
+    <item>
+      <title>[News / World] Russian strike near Kyiv kills 37, in one of the year&#x27;s deadliest attacks</title>
+      <link>https://www.npr.org/2026/08/29/nx-s1-5948714/russian-strike-kyiv</link>
+      <description>NPR News: The deadly strike comes amid 72 hours of near constant drone strikes across Ukraine, severely disrupting daily life.</description>
+      <pubDate>Sat, 29 Aug 2026 15:54:40 +0000</pubDate>
+      <guid isPermaLink="true">https://www.npr.org/2026/08/29/nx-s1-5948714/russian-strike-kyiv</guid>
+    </item>
+    <item>
+      <title>[News / World] Why Iceland and Others Might Want In, Not Out, of the E.U. Club</title>
+      <link>https://www.nytimes.com/2026/08/29/world/europe/iceland-eu-membership-europe.html</link>
+      <description>NYT — World: A few years ago, some feared the European Union was going out of style. Now Iceland is mulling membership alongside a long list of candidates.</description>
+      <pubDate>Sat, 29 Aug 2026 15:32:21 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/29/world/europe/iceland-eu-membership-europe.html</guid>
+    </item>
+    <item>
+      <title>[News / World] At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot</title>
       <link>https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>BBC News — World: An investigation has been launched into the storage of weapons in the deopt near a residential area.</description>
-      <pubDate>Sat, 29 Aug 2026 12:22:53 +0000</pubDate>
+      <description>BBC News — World: An investigation has begun into the storage of weapons for Ukraine&#x27;s military near a residential area.</description>
+      <pubDate>Sat, 29 Aug 2026 15:27:56 +0000</pubDate>
       <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&amp;at_campaign=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] Israeli attacks across Gaza kill two people, hit hospital supply warehouse</title>
+      <link>https://www.aljazeera.com/news/2026/8/29/israeli-attacks-across-gaza-kill-two-people-hit-hospital-supply-warehouse?traffic_source=rss</link>
+      <description>Al Jazeera: Gaza’s Health Ministry reports rising casualties amid escalated Israeli attacks, with victims trapped under rubble.</description>
+      <pubDate>Sat, 29 Aug 2026 15:25:43 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/8/29/israeli-attacks-across-gaza-kill-two-people-hit-hospital-supply-warehouse?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[Politics] In Georgia, Jon Ossoff Courts Broad Appeal With an Anti-Trump Script for Senate Race</title>
+      <link>https://www.nytimes.com/2026/08/29/us/politics/georgia-senate-ossoff-collins-trump.html</link>
+      <description>NYT — Politics: Senator Jon Ossoff, the youngest sitting senator and the only Democrat seeking re-election this year in a state President Trump won in 2024, hasn’t moderated his message in his critical race.</description>
+      <pubDate>Sat, 29 Aug 2026 15:25:22 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/29/us/politics/georgia-senate-ossoff-collins-trump.html</guid>
+    </item>
+    <item>
+      <title>[Politics] Abbott bars Texas agencies from funding Flock cameras</title>
+      <link>https://thehill.com/homenews/state-watch/6058974-abbott-halts-texas-flock-agencies-funding/</link>
+      <description>The Hill: Texas Gov. Greg Abbott (R) ordered all state agencies this week to halt funding for Flock cameras amid growing concerns nationwide about the misuse of the roadside camera network.  The decision, which was communicated to state agencies on Thursday evening, came as The Texas Tribune said it was prepa</description>
+      <pubDate>Sat, 29 Aug 2026 15:17:15 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/homenews/state-watch/6058974-abbott-halts-texas-flock-agencies-funding/</guid>
+    </item>
+    <item>
+      <title>[Politics] NOAA, almanacs release fall weather predictions: What could it be like near you?</title>
+      <link>https://thehill.com/homenews/state-watch/6053265-noaa-almanacs-release-fall-weather-predictions-what-could-it-be-like-near-you/</link>
+      <description>The Hill: Cold and wet, hot and dry - what&#x27;s in store for you may depend on the forecast you look at.</description>
+      <pubDate>Sat, 29 Aug 2026 15:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/homenews/state-watch/6053265-noaa-almanacs-release-fall-weather-predictions-what-could-it-be-like-near-you/</guid>
+    </item>
+    <item>
+      <title>[Politics] Operation Economic Outcast needs an off-ramp, not just a noose</title>
+      <link>https://thehill.com/opinion/international/6056167-trump-besent-iran-sanctions/</link>
+      <description>The Hill: Treasury Secretary Scott Bessent announced Operation Economic Outcast on Aug. 24, a massive expansion of sanctions aimed at severing Iran&#x27;s ties to the global economy by targeting the infrastructure used for evasion.</description>
+      <pubDate>Sat, 29 Aug 2026 15:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/opinion/international/6056167-trump-besent-iran-sanctions/</guid>
+    </item>
+    <item>
+      <title>[Politics] Teleprompter Operator Who Bet on Trump Speeches Is Ordered to Pay Fine</title>
+      <link>https://www.nytimes.com/2026/08/29/us/politics/teleprompter-trump-speech-kalshi-perez-bet.html</link>
+      <description>NYT — Politics: Gabriel Perez had access to the president’s speeches before they were delivered and was accused of placing unlawful wagers on words that would be spoken.</description>
+      <pubDate>Sat, 29 Aug 2026 14:57:13 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/29/us/politics/teleprompter-trump-speech-kalshi-perez-bet.html</guid>
+    </item>
+    <item>
+      <title>[Politics] High Debt and Rising Prices Catch Up to Trump, as Midterms Near</title>
+      <link>https://www.nytimes.com/2026/08/29/us/politics/trump-economy-inflation.html</link>
+      <description>NYT — Politics: To win in 2024, the president promised an economic course correction. Almost two years later, his agenda has made that fight even harder.</description>
+      <pubDate>Sat, 29 Aug 2026 14:54:48 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/29/us/politics/trump-economy-inflation.html</guid>
+    </item>
+    <item>
+      <title>[Politics] How Trump’s Deportation Agenda Spreads Overseas</title>
+      <link>https://www.nytimes.com/video/us/politics/100000011104736/how-trumps-deportation-agenda-spreads-overseas.html</link>
+      <description>NYT — Politics: Our White House correspondent Zolan Kanno-Youngs explains how so-called third-country deportations are sending immigrants to countries across the globe.</description>
+      <pubDate>Sat, 29 Aug 2026 14:43:28 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/video/us/politics/100000011104736/how-trumps-deportation-agenda-spreads-overseas.html</guid>
+    </item>
+    <item>
+      <title>[News / World] 37 Killed After Russian Strike on Weapons Depot as Ukraine Blames Negligence</title>
+      <link>https://www.nytimes.com/2026/08/29/world/europe/russia-ukraine-strike-kyiv-drones.html</link>
+      <description>NYT — World: The depot, which was in a civilian area near Kyiv, “definitely shouldn’t have been there,” President Volodymyr Zelensky said.</description>
+      <pubDate>Sat, 29 Aug 2026 14:40:22 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/29/world/europe/russia-ukraine-strike-kyiv-drones.html</guid>
+    </item>
+    <item>
+      <title>[News / World] Man United vs Ipswich Town: Premier League – preview, team news, prediction</title>
+      <link>https://www.aljazeera.com/sports/2026/8/29/man-united-vs-ipswich-town-premier-league-preview-team-news-prediction?traffic_source=rss</link>
+      <description>Al Jazeera: United put in a sorry display as they lost 2-0 to Hull last weekend, while newly promoted Ipswich beat Sunderland 2-1.</description>
+      <pubDate>Sat, 29 Aug 2026 14:33:45 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/sports/2026/8/29/man-united-vs-ipswich-town-premier-league-preview-team-news-prediction?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] Photos: See the aftermath of deadly flash floods in Nepal</title>
+      <link>https://www.npr.org/2026/08/29/nx-s1-5948209/photos-see-the-aftermath-of-deadly-flash-floods-in-nepal</link>
+      <description>NPR News: Nepal officials say the death toll has continues to rise in Wednesday&#x27;s floods that washed away communities in Nepal and Tibet, which is held by China. About 2,500 people are missing in both areas.</description>
+      <pubDate>Sat, 29 Aug 2026 14:22:19 +0000</pubDate>
+      <guid isPermaLink="true">https://www.npr.org/2026/08/29/nx-s1-5948209/photos-see-the-aftermath-of-deadly-flash-floods-in-nepal</guid>
+    </item>
+    <item>
+      <title>[Politics] White House teleprompter operator who placed bets on Trump’s speeches ordered to pay $172K</title>
+      <link>https://thehill.com/homenews/administration/6058917-white-house-teleprompter-speech-bets-fined/</link>
+      <description>The Hill: The White House teleprompter operator who placed online bets on President Trump’s speeches has been ordered to pay a total of $172,000, a federal agency said Friday.&amp;#160; The Commodity Futures Trading Commission (CFTC) said in a news release that Gabriel Perez must pay out his profits from trade, t</description>
+      <pubDate>Sat, 29 Aug 2026 14:19:57 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/homenews/administration/6058917-white-house-teleprompter-speech-bets-fined/</guid>
+    </item>
+    <item>
+      <title>[News / World] Liverpool net late in Forest draw to avoid Anfield debut defeat for Iraola</title>
+      <link>https://www.aljazeera.com/sports/2026/8/29/liverpool-draw-with-nottingham-forest-after-twice-coming-from-behind-in-epl?traffic_source=rss</link>
+      <description>Al Jazeera: Victor Munoz scores late goal to secure 2-2 draw for Liverpool after Nottingham Forest scare in Premier League.</description>
+      <pubDate>Sat, 29 Aug 2026 14:19:23 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/sports/2026/8/29/liverpool-draw-with-nottingham-forest-after-twice-coming-from-behind-in-epl?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[Politics] Judge Rules Trump Unlawfully Targeted Stanford Students Who Criticized Israel</title>
+      <link>https://www.nytimes.com/2026/08/28/us/politics/trump-stanford-students-deport-constitution.html</link>
+      <description>NYT — Politics: The ruling was a win for Stanford’s student newspaper, The Stanford Daily, and it followed another court victory for students targeted by the Trump administration last year.</description>
+      <pubDate>Sat, 29 Aug 2026 14:09:12 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/28/us/politics/trump-stanford-students-deport-constitution.html</guid>
+    </item>
+    <item>
+      <title>[News / World] People stranded for days on dilapidated Nigerian highway</title>
+      <link>https://www.aljazeera.com/video/newsfeed/2026/8/29/people-stranded-for-days-on-dilapidated-nigerian-highway?traffic_source=rss</link>
+      <description>Al Jazeera: Al Jazeera asked people on the Benin-Agbor-Asaba road how they view this infrastructure crisis.</description>
+      <pubDate>Sat, 29 Aug 2026 14:01:46 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/8/29/people-stranded-for-days-on-dilapidated-nigerian-highway?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[Politics] Judge Talwani and why liberal complaints about the ‘shadow docket’ are so hollow</title>
+      <link>https://thehill.com/opinion/judiciary/6058738-supreme-court-emergency-docket-litigation/</link>
+      <description>The Hill: Litigants have been accused of forum shopping. Here&#x27;s what that means.</description>
+      <pubDate>Sat, 29 Aug 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/opinion/judiciary/6058738-supreme-court-emergency-docket-litigation/</guid>
+    </item>
+    <item>
+      <title>[News / World] Korea divided: A sister’s long wait and a defector’s bid to save his mother</title>
+      <link>https://www.aljazeera.com/features/longform/2026/8/29/korea-divided-a-sisters-long-wait-and-a-defectors-bid-to-save-his-mother?traffic_source=rss</link>
+      <description>Al Jazeera: An elderly South Korean waits to see a brother in the North one last time, while a North Korean defector risks it all.</description>
+      <pubDate>Sat, 29 Aug 2026 13:51:16 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/features/longform/2026/8/29/korea-divided-a-sisters-long-wait-and-a-defectors-bid-to-save-his-mother?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] Mladic died a happy man. He won</title>
+      <link>https://www.aljazeera.com/opinions/2026/8/29/mladic-died-a-happy-man-he-won?traffic_source=rss</link>
+      <description>Al Jazeera: He fought for fascism to triumph. And it did.</description>
+      <pubDate>Sat, 29 Aug 2026 13:30:56 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/opinions/2026/8/29/mladic-died-a-happy-man-he-won?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] Israeli settlers surround Palestinian home in occupied West Bank’s Qusra</title>
+      <link>https://www.aljazeera.com/news/2026/8/29/israeli-settlers-surround-palestinian-home-in-occupied-west-banks-qusra?traffic_source=rss</link>
+      <description>Al Jazeera: At least four people trapped inside their home, as earlier siege on Palestinian families has continued for three weeks.</description>
+      <pubDate>Sat, 29 Aug 2026 13:11:41 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/8/29/israeli-settlers-surround-palestinian-home-in-occupied-west-banks-qusra?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[Politics] Democratic candidate suspends campaign for Alaska governor</title>
+      <link>https://thehill.com/homenews/campaign/6058875-begich-drops-alaska-governors-race/</link>
+      <description>The Hill: Tom Begich, a Democrat running for governor in Alaska, announced Friday evening he was dropping out of the race.&amp;#160; The former state senator endorsed his Democratic opponent, former state Rep. Jonathan Kreiss-Tomkins. Both candidates advanced to the general election in Alaska’s open primary earli</description>
+      <pubDate>Sat, 29 Aug 2026 13:08:26 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/homenews/campaign/6058875-begich-drops-alaska-governors-race/</guid>
     </item>
     <item>
       <title>[News / World] Opinion: Remembering Dolly Parton</title>
@@ -20,25 +216,11 @@
       <guid isPermaLink="true">https://www.npr.org/2026/08/29/nx-s1-5941650/opinion-remembering-dolly-parton</guid>
     </item>
     <item>
-      <title>[Politics] Seneca Nation requests reversal on ‘Lake America’ executive order</title>
-      <link>https://thehill.com/homenews/administration/6058846-seneca-nation-challenges-lake-america-order/</link>
-      <description>The Hill: Seneca Nation President J. Conrad Seneca called Friday for President Trump to rescind his order to rename Lake Ontario as “Lake America,” citing a 225-year-old treaty between Native Americans and the U.S. government.&amp;#160; Seneca said in a statement that this name change, which President Trump autho</description>
-      <pubDate>Sat, 29 Aug 2026 11:59:20 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/homenews/administration/6058846-seneca-nation-challenges-lake-america-order/</guid>
-    </item>
-    <item>
       <title>[News / World] The bridges of Rwanda open up new worlds</title>
       <link>https://www.npr.org/2026/08/29/nx-s1-5927173/bridges-remote-communities-rwanda</link>
       <description>NPR News: A charity built 96 bridges to connect communities separated by rivers and gorges. A new study looks at the life-changing impact of a concrete-and-steel pedestrian crossing.</description>
       <pubDate>Sat, 29 Aug 2026 11:54:36 +0000</pubDate>
       <guid isPermaLink="true">https://www.npr.org/2026/08/29/nx-s1-5927173/bridges-remote-communities-rwanda</guid>
-    </item>
-    <item>
-      <title>[News / World] Can “super coral” and cooling the sea, save reefs from climate change?</title>
-      <link>https://www.aljazeera.com/video/101-east/2026/8/29/can-super-coral-and-cooling-the-sea-save-reefs-from-climate-change?traffic_source=rss</link>
-      <description>Al Jazeera: 101 East investigates whether Palau may hold the key to saving the world’s coral reefs from climate-driven destruction.</description>
-      <pubDate>Sat, 29 Aug 2026 11:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/video/101-east/2026/8/29/can-super-coral-and-cooling-the-sea-save-reefs-from-climate-change?traffic_source=rss</guid>
     </item>
     <item>
       <title>[News / World] Lights out, Instagram off? The changes to Meta for teens could be a big deal</title>
@@ -55,20 +237,6 @@
       <guid isPermaLink="true">https://bookriot.com/book-riots-romance-deals-for-august-29-2026/</guid>
     </item>
     <item>
-      <title>[News / World] Liverpool strike deal to sign PSG’s Barcola for up to $166m: Reports</title>
-      <link>https://www.aljazeera.com/sports/2026/8/29/liverpool-strike-deal-to-sign-psgs-barcola-for-up-to-166m-reports?traffic_source=rss</link>
-      <description>Al Jazeera: The 23-year-old French forward would bolster new boss Andoni Iraola&amp;#039;s squad after the departure of Mohamed Salah.</description>
-      <pubDate>Sat, 29 Aug 2026 10:49:31 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/sports/2026/8/29/liverpool-strike-deal-to-sign-psgs-barcola-for-up-to-166m-reports?traffic_source=rss</guid>
-    </item>
-    <item>
-      <title>[News / World] Russian attack on warehouse near Ukraine’s Kyiv kills at least 27</title>
-      <link>https://www.aljazeera.com/news/2026/8/29/russian-attack-on-warehouse-near-ukraines-kyiv-kills-at-least-27?traffic_source=rss</link>
-      <description>Al Jazeera: Zelenskyy says a warehouse was struck outside Kyiv, &amp;#039;followed by a detonation&amp;#039;, triggering a major fire and explosions.</description>
-      <pubDate>Sat, 29 Aug 2026 10:36:11 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/8/29/russian-attack-on-warehouse-near-ukraines-kyiv-kills-at-least-27?traffic_source=rss</guid>
-    </item>
-    <item>
       <title>[Books &amp; Literature] Lit Hub Weekly: August 24 – 28, 2026</title>
       <link>https://lithub.com/lit-hub-weekly-august-24-28-2026/</link>
       <description>Literary Hub: “Jason was not just hounded out of academia, he was hounded out of existence.” Steven Thrasher on the killing Jason Arday. ​&amp;#124; Lit Hub Politics Long live Dolly Parton, American icon, giver of books. &amp;#124; Lit Hub Biography Why Hieronymus</description>
@@ -76,37 +244,9 @@
       <guid isPermaLink="true">https://lithub.com/lit-hub-weekly-august-24-28-2026/</guid>
     </item>
     <item>
-      <title>[History] This Russian hero was a global superstar – but fame came at a heavy cost</title>
-      <link>https://www.historyextra.com/period/cold-war/yuri-gagarin-return-international-tour/</link>
-      <description>HistoryExtra: After becoming the first human to orbit Earth, Yuri Gagarin was transformed into a global celebrity and sent around the world as the smiling face of Soviet power. But what did the cosmonaut make of the royalty, politicians and ordinary people he encountered?</description>
-      <pubDate>Sat, 29 Aug 2026 10:30:18 +0000</pubDate>
-      <guid isPermaLink="true">https://www.historyextra.com/period/cold-war/yuri-gagarin-return-international-tour/</guid>
-    </item>
-    <item>
-      <title>[News / World] ‘Immense’ Devastation as Nepal Continues Search for 2,400 Missing in Floods</title>
-      <link>https://www.nytimes.com/2026/08/29/world/asia/nepal-flood-rescue.html</link>
-      <description>NYT — World: As rescue efforts entered their fourth day, the scale of destruction came into focus, signaling a daunting recovery for the vulnerable nation.</description>
-      <pubDate>Sat, 29 Aug 2026 10:12:23 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/29/world/asia/nepal-flood-rescue.html</guid>
-    </item>
-    <item>
-      <title>[News / World] Far-right commentator Milo Yiannopoulos detained by ICE</title>
-      <link>https://www.aljazeera.com/video/newsfeed/2026/8/29/far-right-commentator-milo-yiannopoulos-detained-by-ice?traffic_source=rss</link>
-      <description>Al Jazeera: Far-right commentator Milo Yiannopoulos detained by ICE</description>
-      <pubDate>Sat, 29 Aug 2026 10:10:23 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/8/29/far-right-commentator-milo-yiannopoulos-detained-by-ice?traffic_source=rss</guid>
-    </item>
-    <item>
-      <title>[News / World] Iran’s leaders acknowledge economic toll of war, pledge diplomacy, defence</title>
-      <link>https://www.aljazeera.com/news/2026/8/29/irans-leaders-acknowledge-economic-toll-of-war-pledge-diplomacy-defence?traffic_source=rss</link>
-      <description>Al Jazeera: Iran&amp;#039;s president said sanctions and the US naval blockade had caused exports and imports to slump by nearly 35 percent.</description>
-      <pubDate>Sat, 29 Aug 2026 10:09:26 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/8/29/irans-leaders-acknowledge-economic-toll-of-war-pledge-diplomacy-defence?traffic_source=rss</guid>
-    </item>
-    <item>
-      <title>[News / World] They laid down arms. Now ex-guerrillas in Colombia fear fate under new hardline president</title>
+      <title>[News / World] Was it a mistake for 99 Colombian guerrillas to lay down their arms?</title>
       <link>https://www.theguardian.com/world/2026/aug/29/former-guerrillas-colombia-fate-new-president</link>
-      <description>The Guardian — World: &lt;p&gt;‘Total peace’ plan of previous government led only 99 of Colombia’s 30,000 armed combatants to disarm, but new president Abelardo De la Espriella opposes peace agreements&lt;/p&gt;&lt;p&gt;In mid-June, 99 guerrilla fighters were flown by helicopter to a small settlement in a rural area of southern Colombia w</description>
+      <description>The Guardian — World: &lt;p&gt;Fighters in legal limbo after accepting ‘total peace’ plan of Petro government just days before hardliner Abelardo De la Espriella took over&lt;/p&gt;&lt;p&gt;In mid-June, 99 guerrilla fighters were flown by helicopter to a small settlement in a rural area of southern Colombia where they lined up and, one by</description>
       <pubDate>Sat, 29 Aug 2026 10:00:24 +0000</pubDate>
       <guid isPermaLink="true">https://www.theguardian.com/world/2026/aug/29/former-guerrillas-colombia-fate-new-president</guid>
     </item>
@@ -116,27 +256,6 @@
       <description>NPR News: The federal government recruits top experts to volunteer to advise on pressing research issues of the day. Since President Trump took office, hundreds of these experts have been dismissed.</description>
       <pubDate>Sat, 29 Aug 2026 10:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.npr.org/2026/08/29/nx-s1-5945029/trump-cut-science-advisory-committees-consequences</guid>
-    </item>
-    <item>
-      <title>[Politics] Democrats on campaign trail divided by Kamala Harris</title>
-      <link>https://thehill.com/homenews/campaign/6058417-harris-political-viability-concerns/</link>
-      <description>The Hill: Democratic candidates in competitive election races are taking different tacks this cycle over how close to affiliate themselves with former Vice President Kamala Harris, who’s lent her support to many of them but whose loss in the 2024 election has made her a more polarizing figure. Iowa state Rep.</description>
-      <pubDate>Sat, 29 Aug 2026 10:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/homenews/campaign/6058417-harris-political-viability-concerns/</guid>
-    </item>
-    <item>
-      <title>[News / World] Norway mourns King Harald as new era begins under Haakon VIII</title>
-      <link>https://www.aljazeera.com/news/2026/8/29/norway-mourns-king-harald-as-new-era-begins-under-haakon-viii?traffic_source=rss</link>
-      <description>Al Jazeera: King Harald, Europe&amp;#039;s oldest monarch, was viewed as a reformer who embraced inclusivity.</description>
-      <pubDate>Sat, 29 Aug 2026 09:45:37 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/8/29/norway-mourns-king-harald-as-new-era-begins-under-haakon-viii?traffic_source=rss</guid>
-    </item>
-    <item>
-      <title>[News / World] US revokes visa of former Iraqi minister after watchlist listing</title>
-      <link>https://www.aljazeera.com/video/newsfeed/2026/8/29/us-revokes-visa-of-former-iraqi-minister-after-watchlist-listing?traffic_source=rss</link>
-      <description>Al Jazeera: The US has revoked an award-winning former Iraqi minister’s visa after the FBI placed her on a ‘terrorism watchlist&amp;#039;.</description>
-      <pubDate>Sat, 29 Aug 2026 09:05:30 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/8/29/us-revokes-visa-of-former-iraqi-minister-after-watchlist-listing?traffic_source=rss</guid>
     </item>
     <item>
       <title>[Politics] Fact-Checking Senate Races in Georgia, Alaska and Texas</title>
@@ -167,34 +286,6 @@
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/29/world/canada/carney-trump-tariffs-trade.html</guid>
     </item>
     <item>
-      <title>[Politics] High Debt and Rising Prices Catch Up to Trump, as Midterms Near</title>
-      <link>https://www.nytimes.com/2026/08/29/us/politics/trump-economy-inflation.html</link>
-      <description>NYT — Politics: To win in 2024, the president promised an economic course correction. Almost two years later, his agenda has made that fight even harder.</description>
-      <pubDate>Sat, 29 Aug 2026 09:02:33 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/29/us/politics/trump-economy-inflation.html</guid>
-    </item>
-    <item>
-      <title>[Politics] In Georgia, Jon Ossoff Courts Broad Appeal With an Anti-Trump Script for Senate Race</title>
-      <link>https://www.nytimes.com/2026/08/29/us/politics/georgia-senate-ossoff-collins-trump.html</link>
-      <description>NYT — Politics: Senator Jon Ossoff, the youngest sitting senator and the only Democrat seeking re-election this year in a state President Trump won in 2024, hasn’t moderated his message in his critical race.</description>
-      <pubDate>Sat, 29 Aug 2026 09:02:16 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/29/us/politics/georgia-senate-ossoff-collins-trump.html</guid>
-    </item>
-    <item>
-      <title>[Politics] How Trump’s Deportation Agenda Spreads Overseas</title>
-      <link>https://www.nytimes.com/video/us/politics/100000011104736/how-trumps-deportation-agenda-spreads-overseas.html</link>
-      <description>NYT — Politics: Our White House correspondent Zolan Kanno-Youngs explains how so-called third-country deportations are sending immigrants to countries across the globe.</description>
-      <pubDate>Sat, 29 Aug 2026 09:02:01 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/video/us/politics/100000011104736/how-trumps-deportation-agenda-spreads-overseas.html</guid>
-    </item>
-    <item>
-      <title>[Politics] Political Campaigns Are Quietly Paying Influencers to Support Candidates</title>
-      <link>https://www.nytimes.com/2026/08/29/us/politics/campaigns-paid-influencers.html</link>
-      <description>NYT — Politics: Their videos have proliferated on social media, but the payments are frequently hidden from viewers.</description>
-      <pubDate>Sat, 29 Aug 2026 09:00:16 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/29/us/politics/campaigns-paid-influencers.html</guid>
-    </item>
-    <item>
       <title>[News / World] How America celebrated and mourned Dolly Parton, in Nashville and beyond</title>
       <link>https://www.npr.org/2026/08/29/g-s1-140345/dolly-parton-appreciation-remembrance-tribute</link>
       <description>NPR News: The great Dolly Parton died earlier this week and tributes have poured in from across the country. &lt;br /&gt;&lt;br /&gt;Fans are mourning the loss of a country music icon who not only changed the musical landscape but gave back to communities with her Imagination Library program and donations to develop the </description>
@@ -209,13 +300,6 @@
       <guid isPermaLink="true">https://www.npr.org/2026/08/29/nx-s1-5947897/wnba-national-security</guid>
     </item>
     <item>
-      <title>[News / World] Chelsea vs Brighton: Premier League – preview, team news, prediction</title>
-      <link>https://www.aljazeera.com/sports/2026/8/29/chelsea-vs-brighton-premier-league-preview-team-news?traffic_source=rss</link>
-      <description>Al Jazeera: Brighton will fancy their chances against Chelsea though, having won their last three league games against the Blues.</description>
-      <pubDate>Sat, 29 Aug 2026 08:51:07 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/sports/2026/8/29/chelsea-vs-brighton-premier-league-preview-team-news?traffic_source=rss</guid>
-    </item>
-    <item>
       <title>[Books &amp; Literature] How to make a bestseller: insiders reveal the tricks of the book trade</title>
       <link>https://www.theguardian.com/books/ng-interactive/2026/aug/29/how-to-make-a-bestseller-insiders-reveal-the-tricks-of-the-book-trade</link>
       <description>The Guardian — Books: &lt;p&gt;From cover design to shelf placement and influencer partnerships … how publishers will persuade you to buy their books this autumn&lt;/p&gt;&lt;p&gt;Think about the last book you bought. How did you choose it? Was it from a recommendation, a review, a TikTok video? Did the cover grab you, were you swayed by </description>
@@ -228,27 +312,6 @@
       <description>BBC News — World: The staffer was found to have used his prior knowledge of the president&#x27;s speeches to place lucrative bets.</description>
       <pubDate>Sat, 29 Aug 2026 07:11:04 +0000</pubDate>
       <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c4gj2dl4x52o?at_medium=RSS&amp;at_campaign=rss</guid>
-    </item>
-    <item>
-      <title>[News / World] Why Iceland and Others Might Want In, Not Out, of the E.U. Club</title>
-      <link>https://www.nytimes.com/2026/08/29/world/europe/iceland-eu-membership-europe.html</link>
-      <description>NYT — World: A few years ago, some feared the European Union was going out of style. Now Iceland is mulling membership alongside a long list of candidates.</description>
-      <pubDate>Sat, 29 Aug 2026 07:09:16 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/29/world/europe/iceland-eu-membership-europe.html</guid>
-    </item>
-    <item>
-      <title>[History] Daily quiz: 28 August</title>
-      <link>https://www.historyextra.com/membership/daily-quiz-28-august-5/</link>
-      <description>HistoryExtra: Why did Overend, Gurney and Company make the headlines in 1866?</description>
-      <pubDate>Sat, 29 Aug 2026 06:00:39 +0000</pubDate>
-      <guid isPermaLink="true">https://www.historyextra.com/membership/daily-quiz-28-august-5/</guid>
-    </item>
-    <item>
-      <title>[History] Daily quiz: 29 August</title>
-      <link>https://www.historyextra.com/membership/daily-history-trivia-quiz/</link>
-      <description>HistoryExtra: Test your history knowledge with our daily quiz – updated each morning at 7am UK time</description>
-      <pubDate>Sat, 29 Aug 2026 06:00:09 +0000</pubDate>
-      <guid isPermaLink="true">https://www.historyextra.com/membership/daily-history-trivia-quiz/</guid>
     </item>
     <item>
       <title>[News / World] Icelanders Are Voting on E.U. Membership Talks. Here’s What to Know.</title>
@@ -272,55 +335,6 @@
       <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&amp;at_campaign=rss</guid>
     </item>
     <item>
-      <title>[Politics] ICE plans to spend $2 million on dog-like robots for immigration enforcement</title>
-      <link>https://thehill.com/homenews/administration/6058739-ice-robot-dogs-2-million-plans/</link>
-      <description>The Hill: Immigration and Customs Enforcement (ICE) is planning to spend up to $2 million on robot “dogs” to assist its agents&amp;#8217; operations, according to a Department of Homeland Security (DHS) funding document. A funding document posted to DHS&amp;#8217;s Acquisition Planning Forecast System on Thursday sai</description>
-      <pubDate>Sat, 29 Aug 2026 03:07:37 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/homenews/administration/6058739-ice-robot-dogs-2-million-plans/</guid>
-    </item>
-    <item>
-      <title>[News / World] Trump hails &#x27;historic&#x27; deal for US to control 65bn barrels of Venezuela&#x27;s oil</title>
-      <link>https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>BBC News — World: Venezuelan interim president says the unusual agreement will help revive her country&#x27;s economy.</description>
-      <pubDate>Sat, 29 Aug 2026 02:42:27 +0000</pubDate>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&amp;at_campaign=rss</guid>
-    </item>
-    <item>
-      <title>[Politics] Vance, Zeldin ask for EPA probe into East Palestine train derailment response</title>
-      <link>https://thehill.com/homenews/administration/6058719-vance-zeldin-epa-probe-ohio-derailment/</link>
-      <description>The Hill: Two Trump administration officials are calling for an independent Environmental Protection Agency (EPA) investigation into the government&amp;#8217;s response to the 2023 East Palestine, Ohio, train derailment — which caused toxic chemicals to spill into the town. In a joint Friday letter, Vice Presiden</description>
-      <pubDate>Sat, 29 Aug 2026 02:23:33 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/homenews/administration/6058719-vance-zeldin-epa-probe-ohio-derailment/</guid>
-    </item>
-    <item>
-      <title>[News / World] Trump says U.S. has entered deal with Venezuela to take control of 65 billion barrels of oil reserves</title>
-      <link>https://www.npr.org/2026/08/28/nx-s1-5948229/trump-says-u-s-has-entered-deal-with-venezuela-to-take-control-of-65-billion-barrels-of-oil-reserves</link>
-      <description>NPR News: President Trump says his administration has entered a sweeping agreement with Venezuela that could give the U.S. access to vast amounts of the South American country&#x27;s untapped oil reserves, at cost.</description>
-      <pubDate>Sat, 29 Aug 2026 02:07:55 +0000</pubDate>
-      <guid isPermaLink="true">https://www.npr.org/2026/08/28/nx-s1-5948229/trump-says-u-s-has-entered-deal-with-venezuela-to-take-control-of-65-billion-barrels-of-oil-reserves</guid>
-    </item>
-    <item>
-      <title>[Politics] Judge Rules Trump Unlawfully Targeted Stanford Students Who Criticized Israel</title>
-      <link>https://www.nytimes.com/2026/08/28/us/politics/trump-stanford-students-deport-constitution.html</link>
-      <description>NYT — Politics: The ruling was a win for Stanford’s student newspaper, The Stanford Daily, and it followed another court victory for students targeted by the Trump administration last year.</description>
-      <pubDate>Sat, 29 Aug 2026 01:40:28 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/28/us/politics/trump-stanford-students-deport-constitution.html</guid>
-    </item>
-    <item>
-      <title>[Politics] Canadian broadcaster reverses policy barring use of ‘terrorist attack’ label for 9/11</title>
-      <link>https://thehill.com/homenews/administration/6058676-canada-cbc-9-11-terrorism-guidance-backlash/</link>
-      <description>The Hill: The Canadian Broadcasting Corporation’s (CBC) walked back its move Friday to advise its journalists not to refer directly to Al Qaeda&amp;#8217;s Sept. 11, 2001, attack on the U.S. as an act of terrorism — guidance that garnered widespread criticism from political leaders. In an internal memo this week </description>
-      <pubDate>Sat, 29 Aug 2026 01:22:29 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/homenews/administration/6058676-canada-cbc-9-11-terrorism-guidance-backlash/</guid>
-    </item>
-    <item>
-      <title>[Politics] Hegseth blocks promotions of 4 Army officers with ties to sacked generals</title>
-      <link>https://thehill.com/policy/defense/6058699-hegseth-blocks-army-promotions-ousted-generals/</link>
-      <description>The Hill: Defense Secretary Pete Hegseth blocked promotions of four Army officers picked for promotion to one-star rank, some of whom have ties to top Army generals the Pentagon chief ousted earlier this year, The Hill has learned.  Some of the officers pulled from the list have links to former Army Chief of </description>
-      <pubDate>Sat, 29 Aug 2026 01:12:28 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/policy/defense/6058699-hegseth-blocks-army-promotions-ousted-generals/</guid>
-    </item>
-    <item>
       <title>[News / World] Close race as Iceland votes on whether to restart talks on joining EU</title>
       <link>https://www.bbc.co.uk/news/articles/cn45vdxyvvlo?at_medium=RSS&amp;at_campaign=rss</link>
       <description>BBC News — World: Turbulent international affairs have brought the vote forward, but the campaign has focused more on Iceland&#x27;s vital fishing industry.</description>
@@ -342,27 +356,6 @@
       <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c99dvm39mreo?at_medium=RSS&amp;at_campaign=rss</guid>
     </item>
     <item>
-      <title>[News / World] Sae Joon Park, a Purple Heart veteran who self-deported, receives pardon</title>
-      <link>https://www.npr.org/2026/08/28/nx-s1-5948185/south-korea-deported-veteran-sae-joon-park-pardon</link>
-      <description>NPR News: His removal order was triggered by two convictions from over 15 years ago, when he struggled with untreated PTSD. New York&#x27;s governor said Park earned a &quot;second chance through rehabilitation.&quot;</description>
-      <pubDate>Sat, 29 Aug 2026 00:06:04 +0000</pubDate>
-      <guid isPermaLink="true">https://www.npr.org/2026/08/28/nx-s1-5948185/south-korea-deported-veteran-sae-joon-park-pardon</guid>
-    </item>
-    <item>
-      <title>[Politics] RFK Jr. questions measles deaths in Pennsylvania</title>
-      <link>https://thehill.com/newsletters/healthcare/6058655-rfk-jr-questions-measles-deaths-in-pennsylvania/</link>
-      <description>The Hill: Click in for more news from The Hill {beacon} Healthcare Healthcare &amp;#8202; The Big Story&amp;#160; RFK Jr. seizes on Shapiro&amp;#8217;s measles statements Top Trump administration health officials are seizing on vague information from Pennsylvania to openly question&amp;#160;the circumstances of two deaths th</description>
-      <pubDate>Fri, 28 Aug 2026 23:59:27 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/newsletters/healthcare/6058655-rfk-jr-questions-measles-deaths-in-pennsylvania/</guid>
-    </item>
-    <item>
-      <title>[Politics] Trump says he secured ‘majority US control’ of large slice of Venezuela’s oil reserves</title>
-      <link>https://thehill.com/homenews/administration/6058643-trump-says-he-secured-majority-u-s-control-of-large-slice-of-venezuelas-oil-reserve/</link>
-      <description>The Hill: President Trump said Friday evening that there will be “majority U.S. control” of a large swath of Venezuela’s oil reserves.&amp;#160; “BREAKING NEWS: The United States of America has just entered into an Agreement with the Country of Venezuela on, THE BIGGEST OIL DEAL IN WORLD HISTORY!” Trump wrote in </description>
-      <pubDate>Fri, 28 Aug 2026 23:43:39 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/homenews/administration/6058643-trump-says-he-secured-majority-u-s-control-of-large-slice-of-venezuelas-oil-reserve/</guid>
-    </item>
-    <item>
       <title>[News / World] Trump announces new US oil agreement with Venezuela</title>
       <link>https://www.theguardian.com/us-news/2026/aug/28/trump-venezuela-oil-agreement</link>
       <description>The Guardian — World: &lt;p&gt;US president says US will have ‘majority’ control of 65bn barrels of proven oil reserves&lt;/p&gt;&lt;p&gt;Donald Trump announced Friday a new US oil agreement with Venezuela’s interim president Delcy Rodríguez, saying the US will have “majority” control of 65bn barrels of proven oil reserves.&lt;/p&gt;&lt;p&gt;The term</description>
@@ -375,13 +368,6 @@
       <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;Left: An O’Hare Clinical Lab Services COVID-19 testing center at 3101 W. Montrose Ave. in Albany Park on Jan. 25, 2022. Right: Dr. Anosh Ahmed on March 10, 2021 at Trump Tower.&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;683&quot; src=&quot;https://i0.wp.com/</description>
       <pubDate>Fri, 28 Aug 2026 22:40:54 +0000</pubDate>
       <guid isPermaLink="true">https://blockclubchicago.org/2026/08/28/back-in-chicago-former-loretto-hospital-executive-faces-embezzlement-charges/</guid>
-    </item>
-    <item>
-      <title>[Politics] For Trump, the Iran War Is Stuck Between Combat and Genuine Peace</title>
-      <link>https://www.nytimes.com/2026/08/28/us/politics/trump-iran-war.html</link>
-      <description>NYT — Politics: The war has deteriorated over the past six months into Mr. Trump’s own version of a “forever war,” with no clear goals and no end in sight.</description>
-      <pubDate>Fri, 28 Aug 2026 22:35:40 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/28/us/politics/trump-iran-war.html</guid>
     </item>
     <item>
       <title>[Chicago] Chicago Teens’ Trip To D.C. For March On Washington Anniversary Canceled At Last Minute</title>
@@ -643,13 +629,6 @@
       <guid isPermaLink="true">https://lithub.com/long-before-toy-story-it-narratives-imagined-the-inner-lives-of-objects/</guid>
     </item>
     <item>
-      <title>[News / World] Fear Over Malaysia’s Plan to Send Back Rohingya Migrants to Myanmar</title>
-      <link>https://www.nytimes.com/2026/08/28/world/asia/rohingya-refugees-malaysia-myanmar.html</link>
-      <description>NYT — World: The announcement has sent panic through a community that fled its country’s brutal military rule, civil war, religious persecution or some combination of the three.</description>
-      <pubDate>Fri, 28 Aug 2026 09:04:28 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/28/world/asia/rohingya-refugees-malaysia-myanmar.html</guid>
-    </item>
-    <item>
       <title>[Books &amp; Literature] Tell us: what have you been reading this month?</title>
       <link>https://www.theguardian.com/books/2022/feb/23/tell-us-what-have-you-been-reading-this-month</link>
       <description>The Guardian — Books: &lt;p&gt;We would like to hear about the books you’ve particularly enjoyed this month&lt;/p&gt;&lt;p&gt;As part of The Guardian’s “&lt;a href=&quot;https://www.theguardian.com/books/series/what-we-re-reading&quot;&gt;what we’re reading&lt;/a&gt;” series, we would like to hear about the books you’ve particularly enjoyed this month.&lt;/p&gt;&lt;p&gt;H</description>
@@ -669,6 +648,27 @@
       <description>HistoryExtra: </description>
       <pubDate>Fri, 28 Aug 2026 08:01:48 +0000</pubDate>
       <guid isPermaLink="true">https://www.historyextra.com/membership/history-crossword-21-august/</guid>
+    </item>
+    <item>
+      <title>[History] Can you solve our history crossword of the week?</title>
+      <link>https://www.historyextra.com/period/general-history/crossword/</link>
+      <description>HistoryExtra: </description>
+      <pubDate>Fri, 28 Aug 2026 08:00:15 +0000</pubDate>
+      <guid isPermaLink="true">https://www.historyextra.com/period/general-history/crossword/</guid>
+    </item>
+    <item>
+      <title>[History] Daily quiz: 28 August</title>
+      <link>https://www.historyextra.com/membership/daily-history-trivia-quiz/</link>
+      <description>HistoryExtra: Test your history knowledge with our daily quiz – updated each morning at 7am UK time</description>
+      <pubDate>Fri, 28 Aug 2026 06:01:16 +0000</pubDate>
+      <guid isPermaLink="true">https://www.historyextra.com/membership/daily-history-trivia-quiz/</guid>
+    </item>
+    <item>
+      <title>[History] Daily quiz: 27 August</title>
+      <link>https://www.historyextra.com/membership/daily-quiz-27-august/</link>
+      <description>HistoryExtra: The Chinese Buddhist monk Xuanzang, who died in AD 664, is famous for what?</description>
+      <pubDate>Fri, 28 Aug 2026 06:00:04 +0000</pubDate>
+      <guid isPermaLink="true">https://www.historyextra.com/membership/daily-quiz-27-august/</guid>
     </item>
     <item>
       <title>[News / World] What could Meta’s US settlement mean around the world – and what now for other claims against firm?</title>
