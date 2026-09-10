@@ -3,84 +3,280 @@
   <title>A Character Quiz — Combined Digest</title>
   <link>https://www.acharacterquiz.com</link>
   <description>News, politics, books, history, philosophy, and Chicago — merged into one feed</description>
-  <lastBuildDate>Thu, 10 Sep 2026 18:08:45 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 10 Sep 2026 21:26:03 +0000</lastBuildDate>
   
     <item>
-      <title>[Politics] Here’s the latest.</title>
-      <link>https://www.nytimes.com/live/2026/09/10/us/trump-rnc-midterm-convention-updates/heres-the-latest</link>
-      <description>NYT — Politics: </description>
-      <pubDate>Thu, 10 Sep 2026 18:02:45 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2026/09/10/us/trump-rnc-midterm-convention-updates/heres-the-latest</guid>
+      <title>[Politics] Lummis ramps up pressure on Democrats over crypto bill</title>
+      <link>https://thehill.com/policy/technology/6083142-lummis-pushes-democrats-clarity-act/</link>
+      <description>The Hill: Sen. Cynthia Lummis (R-Wyo.) is ramping up pressure on Democrats to back the Clarity Act as it heads to the Senate floor next week for a procedural vote, highlighting the changes they have secured to the bill throughout negotiations. Lummis, who chairs the Senate Banking subcommittee on digital asse</description>
+      <pubDate>Thu, 10 Sep 2026 21:20:06 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/policy/technology/6083142-lummis-pushes-democrats-clarity-act/</guid>
     </item>
     <item>
-      <title>[Politics] Trump Announces $500 Rebates for Some Obamacare Customers, Weeks Before the Election</title>
-      <link>https://www.nytimes.com/2026/09/10/business/trump-obamacare-rebates.html</link>
-      <description>NYT — Politics: The White House plans to send the money to people in 30 states who have higher incomes and are insured under the Affordable Care Act.</description>
-      <pubDate>Thu, 10 Sep 2026 18:02:29 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/10/business/trump-obamacare-rebates.html</guid>
+      <title>[News / World] Gaza hospitals ration power as fuel shortages deepen</title>
+      <link>https://www.aljazeera.com/video/newsfeed/2026/9/10/gaza-hospitals-ration-power-as-fuel-shortages-deepen?traffic_source=rss</link>
+      <description>Al Jazeera: Fuel and engine oil shortages are forcing Gaza’s hospitals to ration electricity</description>
+      <pubDate>Thu, 10 Sep 2026 21:17:09 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/9/10/gaza-hospitals-ration-power-as-fuel-shortages-deepen?traffic_source=rss</guid>
     </item>
     <item>
-      <title>[Politics] FCC commissioner: Kimmel’s ‘self-censorship’ shows Trump’s bid to ‘control’ media working</title>
-      <link>https://thehill.com/homenews/media/6082338-fcc-commissioner-censorship-jimmy-kimmel-abc/</link>
-      <description>The Hill: The Federal Communications Commission&amp;#8217;s (FCC) lone Democratic commissioner is pointing to ABC comedian Jimmy Kimmel&amp;#8217;s decision not to broadcast an interview with Texas Senate nominee James Talarico (D) as evidence of what she called the Trump administration&amp;#8217;s attempts to stifle fre</description>
-      <pubDate>Thu, 10 Sep 2026 17:57:01 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/homenews/media/6082338-fcc-commissioner-censorship-jimmy-kimmel-abc/</guid>
+      <title>[Politics] 9/11 attacks among ‘most important historic events’ in US adults’ lifetimes: Poll</title>
+      <link>https://thehill.com/blogs/blog-briefing-room/news/6083091-9-11-most-important-historic-event-poll/</link>
+      <description>The Hill: Nearly half of American adults consider the Sept. 11, 2001, attacks among the “most important historic events” in their lifetimes, a new poll found. In an Ipsos survey published Tuesday, 47 percent of respondents listed 9/11 when asked to identify up to five of the most significant historic events t</description>
+      <pubDate>Thu, 10 Sep 2026 21:14:19 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/blogs/blog-briefing-room/news/6083091-9-11-most-important-historic-event-poll/</guid>
+    </item>
+    <item>
+      <title>[News / World] Lawsuit challenges intimidation of DHS observers across the country</title>
+      <link>https://www.npr.org/2026/09/10/nx-s1-5961220/dhs-ice-observers-surveillance-lawsuit</link>
+      <description>NPR News: The sweeping lawsuit brought by Common Cause argues federal agencies are illegally surveilling and intimidating people who try to peacefully observe federal immigration enforcement activity.&lt;br /&gt;&lt;br /&gt;</description>
+      <pubDate>Thu, 10 Sep 2026 21:07:38 +0000</pubDate>
+      <guid isPermaLink="true">https://www.npr.org/2026/09/10/nx-s1-5961220/dhs-ice-observers-surveillance-lawsuit</guid>
+    </item>
+    <item>
+      <title>[Politics] Trump Administration Says U.S. Will Work With Peru on Crime Crackdown</title>
+      <link>https://www.nytimes.com/2026/09/10/world/americas/rubio-trump-administration-peru-crime-crackdown.html</link>
+      <description>NYT — Politics: The Trump administration is taking an increasingly militarized approach to Latin America, and it has pushed governments across the region to work with U.S. forces.</description>
+      <pubDate>Thu, 10 Sep 2026 21:05:52 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/10/world/americas/rubio-trump-administration-peru-crime-crackdown.html</guid>
+    </item>
+    <item>
+      <title>[Politics] Some Republicans Balk at Trump’s $5,000 ‘Dividend’ Offer</title>
+      <link>https://www.nytimes.com/2026/09/10/us/politics/trump-dividend-republicans-inflation.html</link>
+      <description>NYT — Politics: The president’s call to send a $5,000 “dividend” to every American adult if Republicans win the midterms disturbed some members of his party.</description>
+      <pubDate>Thu, 10 Sep 2026 21:04:14 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/10/us/politics/trump-dividend-republicans-inflation.html</guid>
+    </item>
+    <item>
+      <title>[News / World] Russian strike hits shopping centre in central Ukraine</title>
+      <link>https://www.aljazeera.com/video/newsfeed/2026/9/10/10-09-clip-russia-strike-pavlohrad-ua?traffic_source=rss</link>
+      <description>Al Jazeera: A Russian strike on a shopping centre in the central Ukrainian city of Pavlohrad killed at least four people.</description>
+      <pubDate>Thu, 10 Sep 2026 21:03:42 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/9/10/10-09-clip-russia-strike-pavlohrad-ua?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[Politics] Sam Bankman-Fried Asks Supreme Court to Review Fraud Conviction</title>
+      <link>https://www.nytimes.com/2026/09/10/us/politics/sam-bankman-fried-supreme-court.html</link>
+      <description>NYT — Politics: The disgraced founder of the crypto exchange FTX is serving a 25-year prison sentence.</description>
+      <pubDate>Thu, 10 Sep 2026 21:02:38 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/10/us/politics/sam-bankman-fried-supreme-court.html</guid>
+    </item>
+    <item>
+      <title>[Politics] Talarico leads Paxton in Texas by 4 points: Poll</title>
+      <link>https://thehill.com/homenews/campaign/6083122-james-talarico-ken-paxton-texas-senate-aarp-poll/</link>
+      <description>The Hill: Texas Democratic state Rep. James Talarico leads his Republican opponent, Texas Attorney General Ken Paxton, by 4 percentage points in a new poll in the U.S. Senate race released Thursday.  The AARP poll, which was conducted among likely Texas voters, found 48 percent supported the Democratic candid</description>
+      <pubDate>Thu, 10 Sep 2026 21:02:08 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/homenews/campaign/6083122-james-talarico-ken-paxton-texas-senate-aarp-poll/</guid>
+    </item>
+    <item>
+      <title>[News / World] Drones recreate Twin Towers in tribute ahead of 9/11 anniversary</title>
+      <link>https://www.aljazeera.com/video/newsfeed/2026/9/10/drones-recreate-twin-towers-in-tribute-ahead-of-9-11?traffic_source=rss</link>
+      <description>Al Jazeera: Thousands of drones were used to recreate New York’s Twin Towers in a tribute ahead of the 25th anniversary of 9/11.</description>
+      <pubDate>Thu, 10 Sep 2026 21:00:18 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/9/10/drones-recreate-twin-towers-in-tribute-ahead-of-9-11?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] Manchester United beat Sabah 4-0 on Champions League return</title>
+      <link>https://www.aljazeera.com/sports/2026/9/10/man-utd-cruise-past-sabah-on-champions-league-return-with-4-0-win?traffic_source=rss</link>
+      <description>Al Jazeera: Goals from Matheus Cunha, Bruno Fernandes, Benjamin Sesko and Lisandro Martinez seal a winning UCL return for United.</description>
+      <pubDate>Thu, 10 Sep 2026 20:54:47 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/sports/2026/9/10/man-utd-cruise-past-sabah-on-champions-league-return-with-4-0-win?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[Politics] 25 Years After 9/11, Trump Personifies a Nation Moving On</title>
+      <link>https://www.nytimes.com/2026/09/10/us/politics/trump-sept-11-terrorism.html</link>
+      <description>NYT — Politics: The president has de-emphasized and shifted the war on terrorism at a time when fear of foreign attack has receded into the background of American life.</description>
+      <pubDate>Thu, 10 Sep 2026 20:50:02 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/10/us/politics/trump-sept-11-terrorism.html</guid>
+    </item>
+    <item>
+      <title>[Politics] SpaceX sues Paxton, Texas county over public records</title>
+      <link>https://thehill.com/regulation/court-battles/6083046-spacex-lawsuit-ken-paxton-grimes-county/</link>
+      <description>The Hill: SpaceX filed a lawsuit Tuesday against Texas Attorney General Ken Paxton (R) and Grimes County to block the release of the company’s public records, according to court records.  The lawsuit requested a temporary restraining order be issued to prevent Grimes County from releasing records to two of th</description>
+      <pubDate>Thu, 10 Sep 2026 20:48:04 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/regulation/court-battles/6083046-spacex-lawsuit-ken-paxton-grimes-county/</guid>
+    </item>
+    <item>
+      <title>[Politics] While Trump Goes Big in Dallas, Collins Goes Small in Maine to Save Her Seat</title>
+      <link>https://www.nytimes.com/2026/09/10/us/politics/susan-collins-trump-maine.html</link>
+      <description>NYT — Politics: Senator Susan Collins, the only Republican seeking re-election in a state President Trump lost, steered clear of his convention as she distances herself from him and his record.</description>
+      <pubDate>Thu, 10 Sep 2026 20:46:36 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/10/us/politics/susan-collins-trump-maine.html</guid>
+    </item>
+    <item>
+      <title>[News / World] Morocco denies involvement in migrant surge into Spain’s Ceuta</title>
+      <link>https://www.aljazeera.com/news/2026/9/10/morocco-denies-involvement-in-migrant-surge-into-spains-ceuta?traffic_source=rss</link>
+      <description>Al Jazeera: Over 70,000 migrants entered Ceuta, sparking a humanitarian crisis and political tensions between Spain and Morocco.</description>
+      <pubDate>Thu, 10 Sep 2026 20:46:16 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/9/10/morocco-denies-involvement-in-migrant-surge-into-spains-ceuta?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] Coach crash kills several people in Swiss Alps</title>
+      <link>https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>BBC News — World: A coach carrying 48 Dutch passengers overturns, leaving several people dead.</description>
+      <pubDate>Thu, 10 Sep 2026 20:44:51 +0000</pubDate>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&amp;at_campaign=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] Will foreign workers leave South Africa?</title>
+      <link>https://www.aljazeera.com/video/inside-story/2026/9/10/will-foreign-workers-leave-south-africa?traffic_source=rss</link>
+      <description>Al Jazeera: Anti-immigrant protests in the country are back.</description>
+      <pubDate>Thu, 10 Sep 2026 20:42:29 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/video/inside-story/2026/9/10/will-foreign-workers-leave-south-africa?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[Politics] Behind the Scenes, Vance Gathered Unvarnished Views of the Iran War</title>
+      <link>https://www.nytimes.com/2026/09/10/us/politics/vance-iran-war-trump-munitions.html</link>
+      <description>NYT — Politics: Vice President JD Vance received sobering assessments about the war that did not line up with what he, President Trump and other top administration officials were saying publicly.</description>
+      <pubDate>Thu, 10 Sep 2026 20:38:27 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/10/us/politics/vance-iran-war-trump-munitions.html</guid>
+    </item>
+    <item>
+      <title>[News / World] Canada offers air defense support for Ukraine as Zelenskyy visits</title>
+      <link>https://www.theguardian.com/world/2026/sep/10/zelenskyy-canada-visit</link>
+      <description>The Guardian — World: &lt;p&gt;Canadian PM Mark Carney hosts president in Calgary, where he grew up alongside large Ukrainian community&lt;/p&gt;&lt;p&gt;Canada offered support on Thursday to boost Ukraine’s air defenses and help replenish its drone stocks, as the countries pledged to deepen their alliance during a visit by Volodymyr Zele</description>
+      <pubDate>Thu, 10 Sep 2026 20:35:06 +0000</pubDate>
+      <guid isPermaLink="true">https://www.theguardian.com/world/2026/sep/10/zelenskyy-canada-visit</guid>
+    </item>
+    <item>
+      <title>[Politics] DDHQ shifts Senate odds to Democrats, then back to GOP: ‘A coin flip’</title>
+      <link>https://thehill.com/homenews/6083047-senate-race-tossup-democrats-ddhq/</link>
+      <description>The Hill: The election handicapper Decision Desk HQ on Wednesday briefly shifted its odds of the Democrats winning the Senate to 51 percent, underscoring the party&amp;#8217;s growing momentum in the midterm elections.&amp;#160; While DDHQ, a partner of The Hill, shifted its odds ever so slightly back in the GOP&amp;#821</description>
+      <pubDate>Thu, 10 Sep 2026 20:31:35 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/homenews/6083047-senate-race-tossup-democrats-ddhq/</guid>
+    </item>
+    <item>
+      <title>[Politics] Human rabies exposure cases on the rise, CDC warns</title>
+      <link>https://thehill.com/policy/healthcare/6082853-human-rabies-exposure-cases-on-the-rise-cdc-warns/</link>
+      <description>The Hill: The CDC said it has received a rise in reports of human rabies exposure cases this summer, prompting an alert to healthcare providers.</description>
+      <pubDate>Thu, 10 Sep 2026 20:29:44 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/policy/healthcare/6082853-human-rabies-exposure-cases-on-the-rise-cdc-warns/</guid>
+    </item>
+    <item>
+      <title>[News / World] Ancient Tombs, Untouched by Looters, Are Found Under Peru’s Sands</title>
+      <link>https://www.nytimes.com/2026/09/10/world/americas/peru-tombs-chimu-archaeology.html</link>
+      <description>NYT — World: One archaeologist called the tombs “the discovery of the decade” as the first burials from the Chimu kingdom to have escaped centuries of plunder.</description>
+      <pubDate>Thu, 10 Sep 2026 20:28:06 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/10/world/americas/peru-tombs-chimu-archaeology.html</guid>
+    </item>
+    <item>
+      <title>[News / World] What’s happening in Yemen and how did we get here?</title>
+      <link>https://www.aljazeera.com/video/newsfeed/2026/9/10/whats-happening-in-yemen-and-how-did-we-get-here-3?traffic_source=rss</link>
+      <description>Al Jazeera: Fighting has reignited in Yemen as Houthi forces push south towards the strategic Bab al-Mandab Strait.</description>
+      <pubDate>Thu, 10 Sep 2026 20:24:47 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/9/10/whats-happening-in-yemen-and-how-did-we-get-here-3?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[Politics] Rubio says he has ‘no plans at this time’ to run for president</title>
+      <link>https://thehill.com/homenews/campaign/6082856-rubio-no-plans-2028-presidential-run/</link>
+      <description>The Hill: Secretary of State Marco Rubio, whose name has been floated as a possible 2028 Republican contender to succeed President Trump, said he has no plans to launch another bid for the White House. &amp;#8220;I don&amp;#8217;t know what the future holds, but I have no plans at this time,&amp;#8221; Rubio said in an i</description>
+      <pubDate>Thu, 10 Sep 2026 20:19:40 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/homenews/campaign/6082856-rubio-no-plans-2028-presidential-run/</guid>
+    </item>
+    <item>
+      <title>[Politics] Home sales drop to lowest level since June 2025</title>
+      <link>https://thehill.com/business/6082841-home-sales-drop-lowest-level-june-2025/</link>
+      <description>The Hill: Sales of existing homes dropped to their lowest level in more than a year last month amid rising mortgage rates and housing prices, according to a report released Thursday. The National Association of Realtors (NAR) found that sales of previously occupied homes fell by 2 percent in August from the p</description>
+      <pubDate>Thu, 10 Sep 2026 20:16:37 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/business/6082841-home-sales-drop-lowest-level-june-2025/</guid>
+    </item>
+    <item>
+      <title>[News / World] US appeals court rejects Trump bid to implement new vote-by-mail rules</title>
+      <link>https://www.aljazeera.com/news/2026/9/10/us-appeals-court-rejects-trump-bid-to-implement-new-vote-by-mail-rules?traffic_source=rss</link>
+      <description>Al Jazeera: The ruling is a blow to Trump administration&amp;#039;s efforts to change how mail-in voting works ahead of November elections.</description>
+      <pubDate>Thu, 10 Sep 2026 20:10:56 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/9/10/us-appeals-court-rejects-trump-bid-to-implement-new-vote-by-mail-rules?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] Man jailed after threatening to kill son&#x27;s teacher in French village</title>
+      <link>https://www.bbc.co.uk/news/articles/c62jln7n2vvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>BBC News — World: The father had threatened to behead a female primary school teacher near Toulouse.</description>
+      <pubDate>Thu, 10 Sep 2026 20:10:51 +0000</pubDate>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c62jln7n2vvo?at_medium=RSS&amp;at_campaign=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] After a Difficult Loss, Nigeria Has Become a Source of Pain for Chimamanda Ngozi Adichie</title>
+      <link>https://www.nytimes.com/2026/09/10/world/africa/chimamanda-ngozi-adichie-nigeria-son-death.html</link>
+      <description>NYT — World: Adichie has moved countless readers with her novels about Nigerians at home and abroad. After the death in Lagos of her toddler son, her homeland no longer feels as much like home.</description>
+      <pubDate>Thu, 10 Sep 2026 20:05:21 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/10/world/africa/chimamanda-ngozi-adichie-nigeria-son-death.html</guid>
+    </item>
+    <item>
+      <title>[Books &amp; Literature] 121 years ago, Russian printers went on strike over commas.</title>
+      <link>https://lithub.com/121-years-ago-russian-printers-went-on-strike-over-commas/</link>
+      <description>Literary Hub: Commas can change meaning (“eats shoots and leaves” versus “eats, shoots and leaves” or “I ate, grandma” versus “I ate grandma”), but over a century ago, commas helped change the Russian government. In 1905, uprisings broke out all across the</description>
+      <pubDate>Thu, 10 Sep 2026 19:35:30 +0000</pubDate>
+      <guid isPermaLink="true">https://lithub.com/121-years-ago-russian-printers-went-on-strike-over-commas/</guid>
+    </item>
+    <item>
+      <title>[News / World] Houthis Seize Strategic Red Sea Port, a Major Victory for Iranian Ally</title>
+      <link>https://www.nytimes.com/2026/09/10/world/middleeast/yemens-houthis-seize-strategic-red-sea-port-officials-say.html</link>
+      <description>NYT — World: The Iran-backed militia routed Yemeni government forces in Mokha, putting the group in a stronger position to attack ships in a crucial waterway for global trade.</description>
+      <pubDate>Thu, 10 Sep 2026 19:31:30 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/10/world/middleeast/yemens-houthis-seize-strategic-red-sea-port-officials-say.html</guid>
+    </item>
+    <item>
+      <title>[Chicago] Printers Row Lit Fest To Showcase 2 South Side Authors’ Stories Of Black Life, Legacy</title>
+      <link>https://blockclubchicago.org/2026/09/10/printers-row-lit-fest-to-showcase-2-south-side-authors-stories-of-black-life-legacy/</link>
+      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;Authors Bernard Turner (l) and Morgan Campbell will be at the Printers Row Lit Fest when it returns Sept. 12-13.&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;666&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2026/09/TurnerCampbellLitF</description>
+      <pubDate>Thu, 10 Sep 2026 19:25:00 +0000</pubDate>
+      <guid isPermaLink="true">https://blockclubchicago.org/2026/09/10/printers-row-lit-fest-to-showcase-2-south-side-authors-stories-of-black-life-legacy/</guid>
+    </item>
+    <item>
+      <title>[News / World] More than 20 children killed in DR Congo school fire</title>
+      <link>https://www.bbc.co.uk/news/articles/cgjq15j7318o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>BBC News — World: Officials say there was a stampede as they fled a fire that engulfed two schools in the eastern rebel-held city of Bukavu.</description>
+      <pubDate>Thu, 10 Sep 2026 19:16:24 +0000</pubDate>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cgjq15j7318o?at_medium=RSS&amp;at_campaign=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] Moscow Claims Ukraine Planned to Start a War Between Russia and the U.K.</title>
+      <link>https://www.nytimes.com/2026/09/10/world/europe/russia-ukraine-uk-embassy.html</link>
+      <description>NYT — World: Britain warned that Russia uses disinformation to divide Ukraine from its international partners.</description>
+      <pubDate>Thu, 10 Sep 2026 18:47:10 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/10/world/europe/russia-ukraine-uk-embassy.html</guid>
+    </item>
+    <item>
+      <title>[Politics] Republicans Court Donors at Midterm Convention With $88,600 Photos and AI-Sponsored Suites</title>
+      <link>https://www.nytimes.com/2026/09/10/us/politics/republican-midterm-convention-donors.html</link>
+      <description>NYT — Politics: Republican politicians, donors and lobbyists have been busy networking and partying on the sidelines of a midterm convention that is partly a fund-raiser.</description>
+      <pubDate>Thu, 10 Sep 2026 18:45:38 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/10/us/politics/republican-midterm-convention-donors.html</guid>
+    </item>
+    <item>
+      <title>[Politics] Steve Witkoff, Trump’s Special Envoy, Made More Than $250 Million While in Government</title>
+      <link>https://www.nytimes.com/2026/09/10/us/politics/steve-witkoff-trump-crypto-world-liberty.html</link>
+      <description>NYT — Politics: A disclosure shows that Steve Witkoff collected nearly $107 million in 2025 from a holding company that includes a crypto business owned by his family and President Trump’s.</description>
+      <pubDate>Thu, 10 Sep 2026 18:35:35 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/10/us/politics/steve-witkoff-trump-crypto-world-liberty.html</guid>
     </item>
     <item>
       <title>[News / World] UK Sanctions Against Israeli Settlers Divide British Rabbis</title>
       <link>https://www.nytimes.com/2026/09/10/world/europe/britain-israel-jews-sanctions-settlers.html</link>
       <description>NYT — World: Prominent rabbis reacted with a mix of support, condemnation and concern about the ramifications for Jews in Britain.</description>
-      <pubDate>Thu, 10 Sep 2026 17:54:16 +0000</pubDate>
+      <pubDate>Thu, 10 Sep 2026 18:22:23 +0000</pubDate>
       <guid isPermaLink="true">https://www.nytimes.com/2026/09/10/world/europe/britain-israel-jews-sanctions-settlers.html</guid>
     </item>
     <item>
-      <title>[Politics] Summer 2026 was the US’s hottest on record: NOAA</title>
-      <link>https://thehill.com/policy/energy-environment/6082122-summer-2026-hottest-on-record-noaa/</link>
-      <description>The Hill: The National Oceanic and Atmospheric Administration (NOAA) on Wednesday announced that this summer was the hottest on record in the U.S. NOAA found that the average temperature for meteorological summer was 74.4 degrees, 3 degrees above average. August&amp;#8217;s average temperature hit 75.6 degrees. B</description>
-      <pubDate>Thu, 10 Sep 2026 17:50:01 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/policy/energy-environment/6082122-summer-2026-hottest-on-record-noaa/</guid>
+      <title>[News / World] Yemen&#x27;s Houthis reportedly seize strategic Red Sea port of Mokha</title>
+      <link>https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>BBC News — World: Mokha&#x27;s capture would bring the Iran-backed group closer to controlling the Bab al-Mandab Strait waterway, a key shipping route.</description>
+      <pubDate>Thu, 10 Sep 2026 18:15:47 +0000</pubDate>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&amp;at_campaign=rss</guid>
     </item>
     <item>
-      <title>[News / World] More than a dozen children killed in fire in eastern DR Congo schools</title>
-      <link>https://www.aljazeera.com/video/newsfeed/2026/9/10/more-than-a-dozen-children-killed-in-fire-in-eastern-dr-congo-schools?traffic_source=rss</link>
-      <description>Al Jazeera: Authorities say at least 14 school children have been killed after fire ravaged schools in the DR Congo.</description>
-      <pubDate>Thu, 10 Sep 2026 17:45:19 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/9/10/more-than-a-dozen-children-killed-in-fire-in-eastern-dr-congo-schools?traffic_source=rss</guid>
+      <title>[News / World] A fossil feather from the age of dinosaurs may explain why only some birds survived</title>
+      <link>https://www.npr.org/2026/09/10/nx-s1-5963519/best-fossilized-bird-feather-dinosaur-feces-extinction</link>
+      <description>NPR News: An extremely well preserved fossil feather could reveal why some birds survived the dinosaur-killing asteroid, and others did not.&lt;br /&gt;&lt;br /&gt;</description>
+      <pubDate>Thu, 10 Sep 2026 18:07:57 +0000</pubDate>
+      <guid isPermaLink="true">https://www.npr.org/2026/09/10/nx-s1-5963519/best-fossilized-bird-feather-dinosaur-feces-extinction</guid>
     </item>
     <item>
-      <title>[News / World] Moscow Claims Ukraine Sought to Start a War Between Russia and the U.K.</title>
-      <link>https://www.nytimes.com/2026/09/10/world/europe/russia-ukraine-uk-embassy.html</link>
-      <description>NYT — World: Britain warned that Russia uses disinformation to divide Ukraine from its international partners.</description>
-      <pubDate>Thu, 10 Sep 2026 17:42:26 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/10/world/europe/russia-ukraine-uk-embassy.html</guid>
-    </item>
-    <item>
-      <title>[News / World] Climate hazards disrupted school for 1 in 10 students in 2025: UNICEF</title>
-      <link>https://www.aljazeera.com/news/2026/9/10/climate-hazards-disrupted-school-for-1-in-10-students-in-2025-unicef?traffic_source=rss</link>
-      <description>Al Jazeera: More than 171 million students affected globally with girls disproportionately impacted.</description>
-      <pubDate>Thu, 10 Sep 2026 17:41:52 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/9/10/climate-hazards-disrupted-school-for-1-in-10-students-in-2025-unicef?traffic_source=rss</guid>
-    </item>
-    <item>
-      <title>[Politics] Missouri judges press state on map plans after Supreme Court ruling</title>
-      <link>https://thehill.com/regulation/court-battles/6082429-missouri-judges-gop-friendly-map-redistricting-battle-supreme-court/</link>
-      <description>The Hill: Missouri’s top judges pressed the state Thursday over how it will revert to an old congressional map after the U.S. Supreme Court blocked officials from implementing their new, GOP-favored lines.  That block landed moments before a hearing on whether Missouri Secretary of State Denny Hoskins (R) sho</description>
-      <pubDate>Thu, 10 Sep 2026 17:41:20 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/regulation/court-battles/6082429-missouri-judges-gop-friendly-map-redistricting-battle-supreme-court/</guid>
-    </item>
-    <item>
-      <title>[Politics] Rep. Madeleine Dean slams Fetterman, calls video appearance ‘gravely disappointing’</title>
-      <link>https://thehill.com/homenews/house/6082394-dean-calls-fetterman-video-stunt/</link>
-      <description>The Hill: Rep.&amp;#160;Madeleine Dean&amp;#160;(D-Pa.) didn’t mince words about Sen. John Fetterman (D-Pa.) and his video appearance at Republicans’ midterm convention, calling it a “stunt” that she said was “gravely disappointing.”&amp;#160; “I will tell you from the ground from suburban Philadelphia, my constituents a</description>
-      <pubDate>Thu, 10 Sep 2026 17:34:33 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/homenews/house/6082394-dean-calls-fetterman-video-stunt/</guid>
-    </item>
-    <item>
-      <title>[News / World] Family of four killed as they slept in Israeli strike on Gaza</title>
-      <link>https://www.aljazeera.com/video/newsfeed/2026/9/10/family-of-four-killed-as-they-slept-in-israeli-strike-on-gaza?traffic_source=rss</link>
-      <description>Al Jazeera: Four members of a Palestinian family, including girls aged 8 and 12, were killed in an Israeli air attack as they slept</description>
-      <pubDate>Thu, 10 Sep 2026 17:32:28 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/9/10/family-of-four-killed-as-they-slept-in-israeli-strike-on-gaza?traffic_source=rss</guid>
+      <title>[Chicago] DuSable Lake Shore Drive Bridge To Close Nightly For Testing</title>
+      <link>https://blockclubchicago.org/2026/09/10/dusable-lake-shore-drive-bridge-to-close-nightly-for-testing/</link>
+      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;768&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2026/09/IMG_2683-scaled.jpg?fit=1024%2C768&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figure&gt;The closures come after a heat-related malfunction left the </description>
+      <pubDate>Thu, 10 Sep 2026 17:54:59 +0000</pubDate>
+      <guid isPermaLink="true">https://blockclubchicago.org/2026/09/10/dusable-lake-shore-drive-bridge-to-close-nightly-for-testing/</guid>
     </item>
     <item>
       <title>[Chicago] Advocates sue over Illinois court transparency</title>
@@ -91,25 +287,11 @@
       <guid isPermaLink="true">https://chicagoreader.com/news/pretrial-fairness-act-lawsuit-better-government-association/</guid>
     </item>
     <item>
-      <title>[News / World] Kurdish YPJ women fighters face exclusion from Syria’s new army</title>
-      <link>https://www.aljazeera.com/video/newsfeed/2026/9/10/09-10-reported-bernard-smith-ypj-fighters-mp4?traffic_source=rss</link>
-      <description>Al Jazeera: Syria’s Kurdish women fighters  in northeast Syria as pushing to join the country’s new army.</description>
-      <pubDate>Thu, 10 Sep 2026 17:30:41 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/9/10/09-10-reported-bernard-smith-ypj-fighters-mp4?traffic_source=rss</guid>
-    </item>
-    <item>
       <title>[News / World] Secret son revelation ignites bitter succession dispute in Ugandan kingdom</title>
       <link>https://www.theguardian.com/world/2026/sep/10/uganda-king-secret-son-succession-dispute</link>
       <description>The Guardian — World: &lt;p&gt;Family of late King Oyo Nyimba Kabamba Iguru Rukidi IV reject committee’s choice of cousin and TV presenter as new monarch&lt;/p&gt;&lt;p&gt;A traditional Ugandan kingdom has become engulfed in a bitter succession dispute after the family of a king who recently died rejected the selection of a television new</description>
       <pubDate>Thu, 10 Sep 2026 17:29:20 +0000</pubDate>
       <guid isPermaLink="true">https://www.theguardian.com/world/2026/sep/10/uganda-king-secret-son-succession-dispute</guid>
-    </item>
-    <item>
-      <title>[Politics] Trump administration alleges UC Berkeley law school favors Black applicants</title>
-      <link>https://thehill.com/homenews/education/6082300-doj-berkeley-law-discrimination/</link>
-      <description>The Hill: Officials from the Justice Department and Education Department alleged Wednesday that the University of California&amp;#8217;s Berkeley School of Law favors Black applicants over white and Asian applicants, in violation of federal law. In a letter to attorney Tania Faransso, who is representing the law </description>
-      <pubDate>Thu, 10 Sep 2026 17:24:47 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/homenews/education/6082300-doj-berkeley-law-discrimination/</guid>
     </item>
     <item>
       <title>[News / World] How the WNBA became a political prop in the culture wars</title>
@@ -119,88 +301,11 @@
       <guid isPermaLink="true">https://www.npr.org/2026/09/10/nx-s1-5957546/wnba-culture-wars</guid>
     </item>
     <item>
-      <title>[Politics] D.H.S. Takes Down Post Depicting Sikh Trucker and Optimus Prime</title>
-      <link>https://www.nytimes.com/2026/09/10/us/politics/dhs-sikh-optimus-prime.html</link>
-      <description>NYT — Politics: Critics said the post, which showed the popular Transformers character facing off against “Mr. Singh,” stigmatized Sikhs, and Hasbro objected to the use of its brand.</description>
-      <pubDate>Thu, 10 Sep 2026 17:22:09 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/10/us/politics/dhs-sikh-optimus-prime.html</guid>
-    </item>
-    <item>
-      <title>[Politics] Roughly half of hospitals complying with price transparency rules: Report</title>
-      <link>https://thehill.com/policy/healthcare/6081969-pra-report-hospital-pricing-rules/</link>
-      <description>The Hill: Even though compliance rates have reached a record high, only about half of U.S. hospitals are in full compliance with federal price transparency rules, according to a report released Thursday. The nonprofit group Patient Rights Advocate (PRA) released its eighth hospital price transparency report i</description>
-      <pubDate>Thu, 10 Sep 2026 17:20:33 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/policy/healthcare/6081969-pra-report-hospital-pricing-rules/</guid>
-    </item>
-    <item>
-      <title>[Politics] ‘Super’ El Niño is now a near certainty. Here are 5 side effects you may not know about</title>
-      <link>https://thehill.com/policy/energy-environment/6077236-super-el-nino-is-now-a-near-certainty-here-are-5-side-effects-you-may-not-know-about/</link>
-      <description>The Hill: El Niño doesn&#x27;t just impact the weather. There are five lesser-known impacts of El Niño we&#x27;re likely to see with this year&#x27;s super-charged event.</description>
-      <pubDate>Thu, 10 Sep 2026 17:18:12 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/policy/energy-environment/6077236-super-el-nino-is-now-a-near-certainty-here-are-5-side-effects-you-may-not-know-about/</guid>
-    </item>
-    <item>
-      <title>[Politics] Multistate salmonella outbreak linked to broccoli sprouts: FDA</title>
-      <link>https://thehill.com/policy/healthcare/6082261-fda-investigates-salmonella-broccoli-sprouts/</link>
-      <description>The Hill: The Food and Drug Administration (FDA) reported Wednesday it will investigate a multistate outbreak of salmonella linked to recalled broccoli sprouts. The Centers for Disease Control and Prevention (CDC) and state partners found 22 cases in four states. Two people were hospitalized for salmonella-re</description>
-      <pubDate>Thu, 10 Sep 2026 17:15:39 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/policy/healthcare/6082261-fda-investigates-salmonella-broccoli-sprouts/</guid>
-    </item>
-    <item>
-      <title>[News / World] Ancient Tombs, Untouched by Looters, Are Found Under Peru’s Sands</title>
-      <link>https://www.nytimes.com/2026/09/10/world/americas/peru-tombs-chimu-archaeology.html</link>
-      <description>NYT — World: One archaeologist called the tombs “the discovery of the decade” as the first burials from the Chimu kingdom to have escaped centuries of plunder.</description>
-      <pubDate>Thu, 10 Sep 2026 17:14:02 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/10/world/americas/peru-tombs-chimu-archaeology.html</guid>
-    </item>
-    <item>
-      <title>[News / World] The Trump-to-Mamdani voter is real. How does the trend affect the midterms?</title>
-      <link>https://www.aljazeera.com/features/longform/2026/9/10/the-trump-to-mamdani-voter-is-real-how-does-the-trend-affect-the-midterms?traffic_source=rss</link>
-      <description>Al Jazeera: Exit polls suggest 9 percent of Trump voters backed New York City Mayor Zohran Mamdani, despite ideological differences.</description>
-      <pubDate>Thu, 10 Sep 2026 17:09:50 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/features/longform/2026/9/10/the-trump-to-mamdani-voter-is-real-how-does-the-trend-affect-the-midterms?traffic_source=rss</guid>
-    </item>
-    <item>
-      <title>[Politics] A.I. Data Center Pollution Poses Health Threat, Former E.P.A. Officials Warn</title>
-      <link>https://www.nytimes.com/2026/09/10/climate/ai-data-centers-air-pollution-health.html</link>
-      <description>NYT — Politics: Air pollution from gas-fired power plants to run data centers is expected to add at least $20 billion in annual health care costs by 2028, the group warns.</description>
-      <pubDate>Thu, 10 Sep 2026 17:06:29 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/10/climate/ai-data-centers-air-pollution-health.html</guid>
-    </item>
-    <item>
-      <title>[News / World] Israel arrests 100 Palestinians in a week as West Bank pogroms continue</title>
-      <link>https://www.aljazeera.com/news/2026/9/10/israel-arrests-100-palestinians-in-a-week-as-west-bank-pogroms-continue?traffic_source=rss</link>
-      <description>Al Jazeera: Palestinian Prisoner’s Society says detained include children, journalists and ex-prisoner freed in recent exchange deal</description>
-      <pubDate>Thu, 10 Sep 2026 17:00:17 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/9/10/israel-arrests-100-palestinians-in-a-week-as-west-bank-pogroms-continue?traffic_source=rss</guid>
-    </item>
-    <item>
-      <title>[Politics] Anthropic Says It Blocked Possible Efforts to Build Biological Weapons</title>
-      <link>https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html</link>
-      <description>NYT — Politics: In a new report, the A.I. start-up added that it could not determine if the research was legitimate or nefarious, leading the company to shut down the work.</description>
-      <pubDate>Thu, 10 Sep 2026 17:00:05 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html</guid>
-    </item>
-    <item>
       <title>[News / World] Can Trump really pay $5,000 to every American adult?</title>
       <link>https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&amp;at_campaign=rss</link>
       <description>BBC News — World: Analysts question if the US president&#x27;s election year offer is workable, legal or affordable.</description>
       <pubDate>Thu, 10 Sep 2026 16:48:37 +0000</pubDate>
       <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&amp;at_campaign=rss</guid>
-    </item>
-    <item>
-      <title>[News / World] US Supreme Court blocks Trump-backed congressional map in Missouri</title>
-      <link>https://www.aljazeera.com/news/2026/9/10/us-supreme-court-blocks-republican-drawn-congressional-map-in-missouri?traffic_source=rss</link>
-      <description>Al Jazeera: Rejection comes as Republican official in Missouri faces contempt charges for ignoring a lower court ruling.</description>
-      <pubDate>Thu, 10 Sep 2026 16:44:13 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/9/10/us-supreme-court-blocks-republican-drawn-congressional-map-in-missouri?traffic_source=rss</guid>
-    </item>
-    <item>
-      <title>[News / World] Trump’s Iran war now has a midterm election problem</title>
-      <link>https://www.aljazeera.com/news/2026/9/10/trumps-iran-war-now-has-a-midterm-election-problem?traffic_source=rss</link>
-      <description>Al Jazeera: Trump has tied the end of his war on Iran to the midterms. But with Iran holding firm, the political cost is mounting.</description>
-      <pubDate>Thu, 10 Sep 2026 16:43:34 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/9/10/trumps-iran-war-now-has-a-midterm-election-problem?traffic_source=rss</guid>
     </item>
     <item>
       <title>[News / World] Pilot warned Amazon cargo plane going too fast before deadly crash, data shows</title>
@@ -210,39 +315,11 @@
       <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cj4jynv59ddo?at_medium=RSS&amp;at_campaign=rss</guid>
     </item>
     <item>
-      <title>[News / World] More than 20 children feared dead in DR Congo school fire</title>
-      <link>https://www.bbc.co.uk/news/articles/cgjq15j7318o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>BBC News — World: Officials say there was a stampede as they fled a fire that engulfed two schools in the eastern rebel-held city of Bukavu.</description>
-      <pubDate>Thu, 10 Sep 2026 16:21:50 +0000</pubDate>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cgjq15j7318o?at_medium=RSS&amp;at_campaign=rss</guid>
-    </item>
-    <item>
-      <title>[News / World] Houthis Seize Strategic Red Sea Port, a Major Victory for Iranian Ally</title>
-      <link>https://www.nytimes.com/2026/09/10/world/middleeast/yemens-houthis-seize-strategic-red-sea-port-officials-say.html</link>
-      <description>NYT — World: The Iran-backed militia routed Yemeni government forces in Mokha, putting the group in a stronger position to attack ships in a crucial waterway for global trade.</description>
-      <pubDate>Thu, 10 Sep 2026 16:20:47 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/10/world/middleeast/yemens-houthis-seize-strategic-red-sea-port-officials-say.html</guid>
-    </item>
-    <item>
       <title>[News / World] Why Yemen Is Back on the Brink of War</title>
       <link>https://www.nytimes.com/2026/09/10/world/middleeast/yemen-houthis-saudis-war.html</link>
       <description>NYT — World: The Houthi militia, the Yemeni government, Iran and Saudi Arabia all have reasons to escalate the conflict. Here’s what to know.</description>
       <pubDate>Thu, 10 Sep 2026 16:12:07 +0000</pubDate>
       <guid isPermaLink="true">https://www.nytimes.com/2026/09/10/world/middleeast/yemen-houthis-saudis-war.html</guid>
-    </item>
-    <item>
-      <title>[Politics] Defying Precedent in Ten Commandments Case</title>
-      <link>https://www.nytimes.com/2026/09/10/us/politics/the-docket-ten-commandments.html</link>
-      <description>NYT — Politics: A much-reversed appeals court upheld a Texas law requiring schools to post the sacred text.</description>
-      <pubDate>Thu, 10 Sep 2026 16:01:51 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/10/us/politics/the-docket-ten-commandments.html</guid>
-    </item>
-    <item>
-      <title>[Politics] U.S. Airstrikes Targeting Houthis Killed Scores of Civilians in Yemen</title>
-      <link>https://www.nytimes.com/2026/09/10/us/politics/us-airstrikes-houthis-civilian-deaths.html</link>
-      <description>NYT — Politics: A new report found that most of the deaths occurred during President Trump’s second term as his administration pursued the Iran-backed group.</description>
-      <pubDate>Thu, 10 Sep 2026 16:01:38 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/10/us/politics/us-airstrikes-houthis-civilian-deaths.html</guid>
     </item>
     <item>
       <title>[News / World] Israel&#x27;s Netanyahu to sue newspaper over claim UAE warned him of 7 October attack</title>
@@ -259,13 +336,6 @@
       <guid isPermaLink="true">https://www.npr.org/2026/09/10/nx-s1-5962791/barbara-keating-9-11-victim-burial</guid>
     </item>
     <item>
-      <title>[News / World] Yemen&#x27;s Houthis reportedly seize strategic Red Sea port of Mokha</title>
-      <link>https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>BBC News — World: Mokha&#x27;s capture would bring the Iran-backed group closer to controlling the Bab al-Mandab Strait waterway, a key shipping route.</description>
-      <pubDate>Thu, 10 Sep 2026 15:38:56 +0000</pubDate>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&amp;at_campaign=rss</guid>
-    </item>
-    <item>
       <title>[Chicago] Rising Housing Costs In Avondale, Irving Park Continue To Push Out Longtime Residents, Study Shows</title>
       <link>https://blockclubchicago.org/2026/09/10/rising-housing-costs-in-avondale-irving-park-continue-to-push-out-longtime-residents-study-shows/</link>
       <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;682&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2026/07/072126-Belmont-Station-Giacomo-Cain-8821.jpg?fit=1024%2C682&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figure&gt;Parts of Avondale, Irving Park, Lin</description>
@@ -280,25 +350,11 @@
       <guid isPermaLink="true">https://blockclubchicago.org/2026/09/10/harry-styles-announces-12-city-tour-in-2027-with-2-shows-in-chicago/</guid>
     </item>
     <item>
-      <title>[News / World] After a Difficult Loss, Nigeria Has Become a Source of Pain for Chimamanda Ngozi Adichie</title>
-      <link>https://www.nytimes.com/2026/09/10/world/africa/chimamanda-ngozi-adichie-nigeria-son-death.html</link>
-      <description>NYT — World: Chimamanda Ngozi Adichie has moved countless readers with her novels about Nigerians at home and abroad. After the death in Lagos of her toddler son, her homeland no longer feels as much like home.</description>
-      <pubDate>Thu, 10 Sep 2026 15:08:17 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/10/world/africa/chimamanda-ngozi-adichie-nigeria-son-death.html</guid>
-    </item>
-    <item>
       <title>[News / World] &#x27;I&#x27;ve never seen anything like this&#x27; -- A U.S. doctor treats Ebola&#x27;s youngest victims</title>
       <link>https://www.npr.org/2026/09/10/g-s1-142545/ebola-children-democratic-republic-congo</link>
       <description>NPR News: Dr. Rupa Narra is a U.S. pediatrician who arrived in the Democratic Republic of Congo to help care for stricken children. Nothing could have prepared her for what she&#x27;d face.</description>
       <pubDate>Thu, 10 Sep 2026 15:06:20 +0000</pubDate>
       <guid isPermaLink="true">https://www.npr.org/2026/09/10/g-s1-142545/ebola-children-democratic-republic-congo</guid>
-    </item>
-    <item>
-      <title>[Politics] What Would Charlie Kirk Do Today?</title>
-      <link>https://www.nytimes.com/2026/09/10/us/politics/charlie-kirk-killing-one-year.html</link>
-      <description>NYT — Politics: A year after the killing of the 31-year-old conservative youth leader, the movement he helped create has splintered. Would that be the case if he were still alive?</description>
-      <pubDate>Thu, 10 Sep 2026 14:56:29 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/10/us/politics/charlie-kirk-killing-one-year.html</guid>
     </item>
     <item>
       <title>[News / World] How did 9/11 reshape national security?</title>
@@ -378,13 +434,6 @@
       <guid isPermaLink="true">https://blockclubchicago.org/2026/09/10/local-holiday-rom-com-christmas-in-chicago-now-available-on-prime-and-apple/</guid>
     </item>
     <item>
-      <title>[Chicago] Matt O’Shea Won’t Run For 19th Ward Alderman Again After 4 Terms</title>
-      <link>https://blockclubchicago.org/2026/09/10/matt-oshea-wont-run-for-19th-ward-alderman-again-after-4-terms/</link>
-      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;682&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2026/09/19thWard-Alderman-091026-2.jpg?fit=1024%2C682&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figure&gt;The 19th Ward, covering Beverly, Morgan Park and </description>
-      <pubDate>Thu, 10 Sep 2026 13:28:47 +0000</pubDate>
-      <guid isPermaLink="true">https://blockclubchicago.org/2026/09/10/matt-oshea-wont-run-for-19th-ward-alderman-again-after-4-terms/</guid>
-    </item>
-    <item>
       <title>[News / World] Royal family rift after popular TV news presenter chosen to succeed Ugandan king</title>
       <link>https://www.bbc.co.uk/news/articles/c8jdpj4ydm2o?at_medium=RSS&amp;at_campaign=rss</link>
       <description>BBC News — World: King Oyo&#x27;s family say he left a will naming his young son as heir to the Tooro kingdom.</description>
@@ -392,25 +441,11 @@
       <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c8jdpj4ydm2o?at_medium=RSS&amp;at_campaign=rss</guid>
     </item>
     <item>
-      <title>[Chicago] Democratic Socialists Are Winning Big Across America. Are They Losing Ground In Chicago?</title>
-      <link>https://blockclubchicago.org/2026/09/10/democratic-socialists-are-winning-big-across-america-are-they-losing-ground-in-chicago/</link>
-      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;683&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2025/06/061825-City-Council-Colin-Boyle-9149.jpg?fit=1024%2C683&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figure&gt;Zohran Mamdani&#x27;s win was a huge victory</description>
-      <pubDate>Thu, 10 Sep 2026 13:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://blockclubchicago.org/2026/09/10/democratic-socialists-are-winning-big-across-america-are-they-losing-ground-in-chicago/</guid>
-    </item>
-    <item>
       <title>[Philosophy] Mini-Heap</title>
       <link>https://dailynous.com/2026/09/10/mini-heap-728/</link>
       <description>Daily Nous: &lt;p&gt;New links&amp;#8230; “50 Things Every AI Working with Humans Should Know” &amp;#8212; a short story by Ken Liu “We need a moratorium on new rules and new software purchases until we’ve pruned what does not serve the fundamental mission of teaching and learning and in fact gets in the way of it” &amp;#8212; B</description>
       <pubDate>Thu, 10 Sep 2026 12:58:35 +0000</pubDate>
       <guid isPermaLink="true">https://dailynous.com/2026/09/10/mini-heap-728/</guid>
-    </item>
-    <item>
-      <title>[News / World] Twenty-five dead after fire on cargo ship in eastern China</title>
-      <link>https://www.bbc.co.uk/news/articles/cj4jyv7l92eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>BBC News — World: Of the 42 people on board, 17 were were evacuated, CCTV reports.</description>
-      <pubDate>Thu, 10 Sep 2026 12:24:54 +0000</pubDate>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cj4jyv7l92eo?at_medium=RSS&amp;at_campaign=rss</guid>
     </item>
     <item>
       <title>[Chicago] Suspended in time</title>
@@ -491,13 +526,6 @@
       <guid isPermaLink="true">https://www.nytimes.com/2026/09/10/world/europe/germany-russia-afd-putin.html</guid>
     </item>
     <item>
-      <title>[News / World] Apple&#x27;s new boss starts with big gamble on £1,999 first folding iPhone</title>
-      <link>https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>BBC News — World: Apple showed off at an event the first major design change to the iPhone in almost 20 years.</description>
-      <pubDate>Thu, 10 Sep 2026 09:32:34 +0000</pubDate>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&amp;at_campaign=rss</guid>
-    </item>
-    <item>
       <title>[Books &amp; Literature] My Partner Refuses to Read or Even TALK About Books? Should We Break Up?</title>
       <link>https://lithub.com/my-partner-refuses-to-read-or-even-talk-about-books-should-we-break-up/</link>
       <description>Literary Hub: Hello, hello, hello! Welcome back to another star-studded installment of everyone’s favorite alcohol-soaked advice column, Am I the Literary Asshole? It’s truly the gift that keeps on giving (and giving, and giving, and giving). I’m your host, Kristen Arnett, and</description>
@@ -533,13 +561,6 @@
       <guid isPermaLink="true">https://lithub.com/beauty-in-ambiguity-on-marian-andersons-lifelong-love-for-schubert/</guid>
     </item>
     <item>
-      <title>[Books &amp; Literature] Here’s the Cover For American Occupation, a Powerful Document of Minnesota’s Resistance to ICE</title>
-      <link>https://lithub.com/heres-the-cover-for-american-occupation-a-powerful-document-of-minnesotas-resistance-to-ice/</link>
-      <description>Literary Hub: Two days after Alex Pretti was murdered by federal ICE agents in Minneapolis, on January 24, 2026, we published a “Letter From Minnesota” from the poet Dobby Gibson. As I wrote at the time of the federal government’s violent occupation</description>
-      <pubDate>Thu, 10 Sep 2026 09:07:17 +0000</pubDate>
-      <guid isPermaLink="true">https://lithub.com/heres-the-cover-for-american-occupation-a-powerful-document-of-minnesotas-resistance-to-ice/</guid>
-    </item>
-    <item>
       <title>[History] The Bayeux Tapestry has returned to the UK – and this is how you can see it</title>
       <link>https://www.historyextra.com/period/medieval/bayeux-tapestry-british-museum-exhibition-tickets/</link>
       <description>HistoryExtra: One of the medieval world’s greatest surviving treasures is now on display in London. David Musgrove reveals everything you need to know about the British Museum’s landmark Bayeux Tapestry exhibition, including details of tickets, how the embroidery is being displayed, and the key scenes you should </description>
@@ -552,13 +573,6 @@
       <description>NPR News: The death of Charlie Kirk was seen as a rallying call for young conservatives. One year later, the movement is wrestling with questions about its future.</description>
       <pubDate>Thu, 10 Sep 2026 09:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.npr.org/2026/09/10/nx-s1-5928517/charlie-kirk-death-anniversary-turning-point</guid>
-    </item>
-    <item>
-      <title>[News / World] Democrats blast $5,000 payment promise ahead of Trump, Vance speeches in Dallas</title>
-      <link>https://www.npr.org/2026/09/10/nx-s1-5963880/trump-republican-midterm-convention-vance</link>
-      <description>NPR News: President Trump promised to send every adult citizen $5,000, but only if Republicans maintain control of Congress in the midterm election, drawing a strong response from House Democrats.</description>
-      <pubDate>Thu, 10 Sep 2026 09:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.npr.org/2026/09/10/nx-s1-5963880/trump-republican-midterm-convention-vance</guid>
     </item>
     <item>
       <title>[Books &amp; Literature] 📚 Saddle up</title>
@@ -582,13 +596,6 @@
       <guid isPermaLink="true">https://bookriot.com/heated-rivalry-and-queer-hockey-culture/</guid>
     </item>
     <item>
-      <title>[News / World] Scientists say August was Earth&#x27;s hottest month they&#x27;ve measured</title>
-      <link>https://www.npr.org/2026/09/10/nx-s1-5964676/scientists-august-hottest</link>
-      <description>NPR News: The European climate service Copernicus said the Earth just sweltered through its hottest month on record in August. Scientists said the heat surge is mostly due to human-caused climate change.</description>
-      <pubDate>Thu, 10 Sep 2026 08:54:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.npr.org/2026/09/10/nx-s1-5964676/scientists-august-hottest</guid>
-    </item>
-    <item>
       <title>[History] Ale, terror and a martyr&#x27;s death: what not to miss on the Bayeux Tapestry</title>
       <link>https://www.historyextra.com/membership/ale-terror-and-a-martyrs-death-what-not-to-miss-on-the-bayeux-tapestry/</link>
       <description>HistoryExtra: Heading to the British Museum to see the Bayeux Tapestry for yourself? David Musgrove and Michael Lewis reveal the 10 things you simply must do when experiencing the world’s most famous embroidery in all its glory</description>
@@ -603,9 +610,9 @@
       <guid isPermaLink="true">https://www.historyextra.com/membership/daily-history-trivia-quiz/</guid>
     </item>
     <item>
-      <title>[News / World] Rubio says US will work with allies to stop drug-trafficking as three killed in latest boat strike</title>
+      <title>[News / World] Rubio signals shift to working with allies to fight drug trade as latest boat strike kills three</title>
       <link>https://www.theguardian.com/us-news/2026/sep/09/rubio-us-allies-drug-trafficking</link>
-      <description>The Guardian — World: &lt;p&gt;Rubio visits Ecuador and welcomes cooperation after campaign of unilateral strikes on alleged ‘narco-terrorists’&lt;/p&gt;&lt;p&gt;US secretary of state Marco Rubio gave new clarity on the approach toward combating drug trafficking in Latin American waters, saying the Trump administration was focused on work</description>
+      <description>The Guardian — World: &lt;p&gt;Rubio visits Ecuador and welcomes cooperation after campaign of unilateral strikes on alleged ‘narco-terrorists’&lt;/p&gt;&lt;p&gt;The US secretary of state, Marco Rubio, gave new clarity on the approach toward combating drug trafficking in Latin American waters, saying the Trump administration was focused o</description>
       <pubDate>Thu, 10 Sep 2026 01:02:42 +0000</pubDate>
       <guid isPermaLink="true">https://www.theguardian.com/us-news/2026/sep/09/rubio-us-allies-drug-trafficking</guid>
     </item>
@@ -699,12 +706,5 @@
       <description>Aeon: &lt;p&gt;&lt;img alt=&quot;Painting of three figures with a flag on a dot-patterned background in red, yellow, purple and white.&quot; src=&quot;https://images.aeonmedia.co/images/ccb069b4-41d7-49c4-b8f8-c0330199dced/making-revisions-landscape-1.jpg?width=1200&amp;amp;quality=75&amp;amp;format=auto&quot; /&gt;&lt;/p&gt;&lt;p&gt;Indigenous knowledge a</description>
       <pubDate>Wed, 09 Sep 2026 10:01:00 +0000</pubDate>
       <guid isPermaLink="true">https://aeon.co/videos/meet-the-aboriginal-australian-artists-painting-over-the-colonial-past</guid>
-    </item>
-    <item>
-      <title>[History] The Bayeux Tapestry: what is it, why was it made and what story does it tell?</title>
-      <link>https://www.historyextra.com/membership/5-bayeux-tapestry-facts-what-is-it-why-was-it-made-and-what-story-does-it-tell/</link>
-      <description>HistoryExtra: The Bayeux Tapestry is one of the most famous and recognisable historic documents in the world, telling the story of the Norman Conquest of England in 1066, with a focus on the battle of Hastings and the showdown between William of Normandy and King Harold II. As part of his HistoryExtra Academy ser</description>
-      <pubDate>Wed, 09 Sep 2026 08:00:18 +0000</pubDate>
-      <guid isPermaLink="true">https://www.historyextra.com/membership/5-bayeux-tapestry-facts-what-is-it-why-was-it-made-and-what-story-does-it-tell/</guid>
     </item>
 </channel></rss>
