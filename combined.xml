@@ -3,35 +3,259 @@
   <title>A Character Quiz — Combined Digest</title>
   <link>https://www.acharacterquiz.com</link>
   <description>News, politics, books, history, philosophy, and Chicago — merged into one feed</description>
-  <lastBuildDate>Wed, 23 Sep 2026 19:30:00 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 23 Sep 2026 22:43:27 +0000</lastBuildDate>
   
     <item>
-      <title>[Politics] Trump’s Energy Secretary Dismisses Reports of Diesel Export Ban, Criticizes Solar Power</title>
-      <link>https://www.nytimes.com/2026/09/23/climate/chris-wright-trump-energy-secretary-fracking.html</link>
-      <description>NYT — Politics: Chris Wright also doubled down on his criticism of renewable energy sources like solar power.</description>
-      <pubDate>Wed, 23 Sep 2026 19:27:24 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/23/climate/chris-wright-trump-energy-secretary-fracking.html</guid>
+      <title>[News / World] Judge considers restoring journalists&#x27; access to White House after Trump&#x27;s ban</title>
+      <link>https://www.npr.org/2026/09/23/nx-s1-5979101/federal-judge-hearing-trump-ban-cnn-ms-now-politico</link>
+      <description>NPR News: Lawyers representing the White House and the three media outlets banned from the property sparred over the constitutional rights of journalists at a hearing in federal court Wednesday.</description>
+      <pubDate>Wed, 23 Sep 2026 22:40:39 +0000</pubDate>
+      <guid isPermaLink="true">https://www.npr.org/2026/09/23/nx-s1-5979101/federal-judge-hearing-trump-ban-cnn-ms-now-politico</guid>
+    </item>
+    <item>
+      <title>[Politics] Trump welcomes Xi for state visit with rare tarmac greeting at Joint Base Andrews</title>
+      <link>https://thehill.com/homenews/administration/6107663-trump-xi-state-visit-welcome/</link>
+      <description>The Hill: President Trump kicked off a controversial visit by Chinese President Xi Jinping to the U.S. on Wednesday with a rare tarmac greeting at Joint Base Andrews in Maryland. Xi’s plane touched down just before 6:00 p.m. EDT, and Trump, along with First Lady Melania Trump, greeted the Chinese president an</description>
+      <pubDate>Wed, 23 Sep 2026 22:35:58 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/homenews/administration/6107663-trump-xi-state-visit-welcome/</guid>
+    </item>
+    <item>
+      <title>[Politics] Farm state Republicans feel the pressure from rising diesel prices</title>
+      <link>https://thehill.com/homenews/house/6107684-gop-pressures-trump-diesel-prices/</link>
+      <description>The Hill: Farm state Republicans are increasingly pressing the Trump administration and Congress to take action to bring down diesel prices, underscoring how rising costs have become a political liability for the GOP heading into the November midterms. Rep. Ashley Hinson, the Iowa GOP Senate candidate, on Tue</description>
+      <pubDate>Wed, 23 Sep 2026 22:35:54 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/homenews/house/6107684-gop-pressures-trump-diesel-prices/</guid>
+    </item>
+    <item>
+      <title>[Politics] Scaramucci: Leavitt would have told Trump not to ban media outlets</title>
+      <link>https://thehill.com/homenews/media/6107631-trump-press-ban-lawsuit-hearing/</link>
+      <description>The Hill: Former White House communications director Anthony Scaramucci said Wednesday that former Trump White House press secretary Karoline Leavitt would have advised President Trump to not enact his recent press ban. “A [former Trump White House chief of staff] John Kelly would have told him not to do that</description>
+      <pubDate>Wed, 23 Sep 2026 22:30:49 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/homenews/media/6107631-trump-press-ban-lawsuit-hearing/</guid>
+    </item>
+    <item>
+      <title>[Politics] Chamber of Commerce, oil groups urge Trump to reject diesel export ban</title>
+      <link>https://thehill.com/policy/energy-environment/6107616-business-groups-urge-trump-diesel-ban/</link>
+      <description>The Hill: American business, energy and manufacturing groups on Wednesday urged President Trump to reject calls to impose a diesel export ban after the president said he was weighing this move in an effort to bring down rising fuel costs.&amp;#160; Over 30 groups urged the president in a letter to “reject calls t</description>
+      <pubDate>Wed, 23 Sep 2026 22:30:24 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/policy/energy-environment/6107616-business-groups-urge-trump-diesel-ban/</guid>
+    </item>
+    <item>
+      <title>[Chicago] Edgewater’s Bryn Mawr Historic District Becomes A Chicago Landmark</title>
+      <link>https://blockclubchicago.org/2026/09/23/edgewaters-bryn-mawr-historic-district-becomes-a-chicago-landmark/</link>
+      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;682&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2025/04/041425-Broadway-Zoning-Colin-Boyle-6954.jpg?fit=1024%2C682&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figure&gt;The district includes Bryn Mawr Aven</description>
+      <pubDate>Wed, 23 Sep 2026 22:30:16 +0000</pubDate>
+      <guid isPermaLink="true">https://blockclubchicago.org/2026/09/23/edgewaters-bryn-mawr-historic-district-becomes-a-chicago-landmark/</guid>
+    </item>
+    <item>
+      <title>[Politics] Melania Trump’s Busy Schedule: A New Show, a Foster-Care Bill and Reading Executive Orders</title>
+      <link>https://www.nytimes.com/2026/09/23/us/politics/melania-trump-documentary-schedule.html</link>
+      <description>NYT — Politics: In a burst of activity this week, the enigmatic first lady told Americans what she has been up to after a quiet summer. Her activities have included filming a new documentary series about her life.</description>
+      <pubDate>Wed, 23 Sep 2026 22:25:31 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/23/us/politics/melania-trump-documentary-schedule.html</guid>
+    </item>
+    <item>
+      <title>[Politics] Trouble in the Heartland</title>
+      <link>https://www.nytimes.com/2026/09/23/us/politics/midwest-republican-candidates-trump.html</link>
+      <description>NYT — Politics: The G.O.P. is on defense in the so-called “blue wall” states and beyond as gas prices remain high.</description>
+      <pubDate>Wed, 23 Sep 2026 22:24:48 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/23/us/politics/midwest-republican-candidates-trump.html</guid>
+    </item>
+    <item>
+      <title>[Chicago] Ford City Mall Site To Become Industrial Warehouse Campus Following City Council Approval</title>
+      <link>https://blockclubchicago.org/2026/09/23/ford-city-mall-site-to-become-industrial-warehouse-campus-following-city-council-approval/</link>
+      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;682&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2026/05/051926-Ford-City-Mall-Colin-Boyle-4905.jpg?fit=1024%2C682&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figure&gt;The project, which was opposed by som</description>
+      <pubDate>Wed, 23 Sep 2026 22:22:57 +0000</pubDate>
+      <guid isPermaLink="true">https://blockclubchicago.org/2026/09/23/ford-city-mall-site-to-become-industrial-warehouse-campus-following-city-council-approval/</guid>
+    </item>
+    <item>
+      <title>[Politics] Here’s the latest.</title>
+      <link>https://www.nytimes.com/live/2026/09/23/us/trump-xi/heres-the-latest</link>
+      <description>NYT — Politics: </description>
+      <pubDate>Wed, 23 Sep 2026 22:11:36 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2026/09/23/us/trump-xi/heres-the-latest</guid>
+    </item>
+    <item>
+      <title>[Politics] As Trump Welcomes Xi, More Americans Have a Positive View of China</title>
+      <link>https://www.nytimes.com/2026/09/23/us/politics/polls-us-china-trump-xi.html</link>
+      <description>NYT — Politics: Experts attribute the changing mood to fading memories of the coronavirus pandemic, awareness of China’s tech innovations and disaffection with President Trump’s trade wars.</description>
+      <pubDate>Wed, 23 Sep 2026 22:09:12 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/23/us/politics/polls-us-china-trump-xi.html</guid>
+    </item>
+    <item>
+      <title>[News / World] AI superpower ambitions take centre stage as Trump and Xi meet</title>
+      <link>https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>BBC News — World: The US and China are vying for AI supremacy while seeking to keep it under human control.</description>
+      <pubDate>Wed, 23 Sep 2026 22:01:17 +0000</pubDate>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&amp;at_campaign=rss</guid>
+    </item>
+    <item>
+      <title>[Politics] Schools hedge their bets on AI as concerns grow among parents</title>
+      <link>https://thehill.com/homenews/education/6104611-schools-ai-moratorium-new-york-la/</link>
+      <description>The Hill: Schools are struggling to keep up with the evolving world of AI as concerns among parents and advocates mount regarding the use of the technology in classrooms.&amp;#160; The two largest school districts in the country have put a one-year moratorium on generative AI usage in the classroom amid worries a</description>
+      <pubDate>Wed, 23 Sep 2026 22:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/homenews/education/6104611-schools-ai-moratorium-new-york-la/</guid>
     </item>
     <item>
       <title>[News / World] U.N. Live Updates: Zelensky Warns of Growing Global Cost of Russia’s War in Ukraine</title>
       <link>https://www.nytimes.com/live/2026/09/23/world/un-general-assembly-iran-ukraine</link>
-      <description>NYT — World: Ukraine’s president said grain shortages, rising fuel prices and deadlier drone technology showed that the fighting had spilled beyond his country’s borders. He called for an end to the war before winter.</description>
-      <pubDate>Wed, 23 Sep 2026 19:27:13 +0000</pubDate>
+      <description>NYT — World: Ukraine’s president said rising fuel prices and deadlier drone technology showed that years of fighting have spilled beyond his country’s borders. He called for steps to end to the war before winter.</description>
+      <pubDate>Wed, 23 Sep 2026 21:58:02 +0000</pubDate>
       <guid isPermaLink="true">https://www.nytimes.com/live/2026/09/23/world/un-general-assembly-iran-ukraine</guid>
     </item>
     <item>
-      <title>[Politics] As Xi Visits Washington, Trump Plays Down China’s Actions Against U.S. Interests</title>
-      <link>https://www.nytimes.com/2026/09/23/us/politics/as-xi-visits-washington-trump-plays-down-chinas-actions-against-us-interests.html</link>
-      <description>NYT — Politics: Despite the rivalry between the United States and China, President Trump has repeatedly found ways to give President Xi Jinping of China a pass, portraying him more as a personal friend than a competitor.</description>
-      <pubDate>Wed, 23 Sep 2026 19:18:25 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/23/us/politics/as-xi-visits-washington-trump-plays-down-chinas-actions-against-us-interests.html</guid>
+      <title>[Politics] Virginia soldier becomes 19th known death since start of Iran war</title>
+      <link>https://thehill.com/policy/defense/6107559-pentagon-updates-iran-war-deaths/</link>
+      <description>The Hill: The Pentagon has officially upped the number of service members who have died in the Middle East since the start of the Iran war, adding one additional death to bring the disclosed total to 19.&amp;#160; Capt. Bianca C. Wilkerson, 37, of Norfolk, Va., died Sept. 18 “as a result of a non-combat related i</description>
+      <pubDate>Wed, 23 Sep 2026 21:57:00 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/policy/defense/6107559-pentagon-updates-iran-war-deaths/</guid>
     </item>
     <item>
-      <title>[Politics] Collins: White House backing down from NIH grant order</title>
-      <link>https://thehill.com/policy/healthcare/6107141-white-house-drops-nih-grant-proposal-collins/</link>
-      <description>The Hill: The White House is backing down from a plan to issue an executive order that would give the White House control over scientific grants from the National Institutes of Health, Sen. Susan Collins (R-Maine) said.&amp;#160; Collins, chair of the Senate Appropriations Committee, has been pressuring the White</description>
-      <pubDate>Wed, 23 Sep 2026 19:18:24 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/policy/healthcare/6107141-white-house-drops-nih-grant-proposal-collins/</guid>
+      <title>[Politics] Paul LePage says ICE is deporting his relative</title>
+      <link>https://thehill.com/homenews/campaign/6107006-lepage-calls-deportation-wrong/</link>
+      <description>The Hill: Former Maine Gov. Paul LePage (R), who is running for Congress, said Monday his son’s father-in-law is being deported, calling the situation “not right.” LePage, running to succeed outgoing Democratic Rep. Jared Golden (Maine) in the state’s 2nd Congressional District, told reporters his relative is</description>
+      <pubDate>Wed, 23 Sep 2026 21:48:19 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/homenews/campaign/6107006-lepage-calls-deportation-wrong/</guid>
+    </item>
+    <item>
+      <title>[Politics] Senators try to ‘get to the bottom of’ AI-powered surveillance networks amid Flock concerns</title>
+      <link>https://thehill.com/policy/technology/6107305-senate-ai-surveillance-hearing-flock/</link>
+      <description>The Hill: A Senate panel held the first Congressional hearing Wednesday on AI-powered surveillance cameras manufacturers, such as Flock Safety, in an attempt to &amp;#8220;get to the bottom&amp;#8221; of whether the technology infringes on the public&amp;#8217;s privacy. The hearing — titled &amp;#8220;Always Watching: Flock</description>
+      <pubDate>Wed, 23 Sep 2026 21:44:11 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/policy/technology/6107305-senate-ai-surveillance-hearing-flock/</guid>
+    </item>
+    <item>
+      <title>[Politics] Trump Invites Putin to Attend Group of 20 Summit in Miami</title>
+      <link>https://www.nytimes.com/2026/09/23/us/politics/trump-putin-g20-summit.html</link>
+      <description>NYT — Politics: Many leaders are unlikely to welcome the Russian leader’s presence at the event because of his country’s war against Ukraine.</description>
+      <pubDate>Wed, 23 Sep 2026 21:40:28 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/23/us/politics/trump-putin-g20-summit.html</guid>
+    </item>
+    <item>
+      <title>[Politics] Xi’s Visit Will Fuel More Scrutiny Over His Health</title>
+      <link>https://www.nytimes.com/2026/09/23/us/politics/china-xi-health.html</link>
+      <description>NYT — Politics: Discussion about the Chinese leader’s health is heavily censored in China even as the 73-year-old is expected to remain in power.</description>
+      <pubDate>Wed, 23 Sep 2026 21:40:04 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/23/us/politics/china-xi-health.html</guid>
+    </item>
+    <item>
+      <title>[News / World] Trump&#x27;s Board of Peace unveils $2.45bn plan to begin Gaza&#x27;s reconstruction</title>
+      <link>https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>BBC News — World: The figure was announced during a meeting of the group&#x27;s board at the sidelines of the UN General Assembly in New York.</description>
+      <pubDate>Wed, 23 Sep 2026 21:26:14 +0000</pubDate>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&amp;at_campaign=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] FBI says investigating breach of ‘very sensitive’ data by hackers</title>
+      <link>https://www.aljazeera.com/news/2026/9/23/fbi-says-investigating-breach-of-very-sensitive-data-by-hackers?traffic_source=rss</link>
+      <description>Al Jazeera: Hacker group ShinyHunters claims to have detailed data on thousands of FBI employees.</description>
+      <pubDate>Wed, 23 Sep 2026 21:18:22 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/9/23/fbi-says-investigating-breach-of-very-sensitive-data-by-hackers?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[Politics] Trump Backtracks on Plan for New Controls on N.I.H. Grants</title>
+      <link>https://www.nytimes.com/2026/09/23/us/politics/trump-nih-science-grants.html</link>
+      <description>NYT — Politics: Democrats and Republicans in Congress opposed the creation of a commission with the power to veto federal research awards.</description>
+      <pubDate>Wed, 23 Sep 2026 21:16:35 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/23/us/politics/trump-nih-science-grants.html</guid>
+    </item>
+    <item>
+      <title>[News / World] UK survivor of Canadian poison seller says he exploited her despair</title>
+      <link>https://www.bbc.co.uk/news/articles/cmvgy4237gq9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>BBC News — World: Elisabeth Belien tells Kenneth Law&#x27;s sentencing hearing she took the poison when she was just 23 years old.</description>
+      <pubDate>Wed, 23 Sep 2026 21:16:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cmvgy4237gq9o?at_medium=RSS&amp;at_campaign=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] US aviation sanctions disrupt Iran flights, push travellers overland</title>
+      <link>https://www.aljazeera.com/news/2026/9/23/us-aviation-sanctions-disrupt-iran-flights-push-travellers-overland?traffic_source=rss</link>
+      <description>Al Jazeera: Travel disruptions intensify as Iranian airlines lose access to airspace, pushing civilians towards costly land routes.</description>
+      <pubDate>Wed, 23 Sep 2026 21:05:36 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/9/23/us-aviation-sanctions-disrupt-iran-flights-push-travellers-overland?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] Gaza flotilla activist on hunger strike in Tunisia jail ‘on verge of death’</title>
+      <link>https://www.aljazeera.com/news/2026/9/23/gaza-flotilla-activist-on-hunger-strike-in-tunisia-jail-on-verge-of-death?traffic_source=rss</link>
+      <description>Al Jazeera: Wael Naouar has been hospitalised as his hunger strike enters its 39th day, the Gaza Sumud Flotilla says.</description>
+      <pubDate>Wed, 23 Sep 2026 20:56:15 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/9/23/gaza-flotilla-activist-on-hunger-strike-in-tunisia-jail-on-verge-of-death?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[Politics] Paul LePage, a Trump Ally, Says a Family Member Is Being Deported</title>
+      <link>https://www.nytimes.com/2026/09/23/us/politics/paul-lepage-maine-ice-family-member-deported.html</link>
+      <description>NYT — Politics: The former Maine governor, a Republican running for Congress, said the Trump administration is seeking to wrongly deport his son’s father-in-law, who has a work permit.</description>
+      <pubDate>Wed, 23 Sep 2026 20:43:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/23/us/politics/paul-lepage-maine-ice-family-member-deported.html</guid>
+    </item>
+    <item>
+      <title>[News / World] Ethiopia warns of ‘destruction’ as Tigray rebels launch offensive</title>
+      <link>https://www.aljazeera.com/video/newsfeed/2026/9/23/ethiopia-warns-of-destruction-as-tigray-rebels-launch-offensive?traffic_source=rss</link>
+      <description>Al Jazeera: Ethiopian President Taye Atske Selassie warned of “forces of destruction” as Tigray rebels launched an offensive.</description>
+      <pubDate>Wed, 23 Sep 2026 20:37:18 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/9/23/ethiopia-warns-of-destruction-as-tigray-rebels-launch-offensive?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[Chicago] Humboldt Park Church To Become 20 Apartments After City Council Approval</title>
+      <link>https://blockclubchicago.org/2026/09/23/humboldt-park-church-to-become-20-apartments-after-city-council-approval/</link>
+      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;666&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2026/02/pierce-church-.jpg?fit=1024%2C666&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figure&gt;After years of failed proposals for the late 1800s-era church</description>
+      <pubDate>Wed, 23 Sep 2026 20:35:13 +0000</pubDate>
+      <guid isPermaLink="true">https://blockclubchicago.org/2026/09/23/humboldt-park-church-to-become-20-apartments-after-city-council-approval/</guid>
+    </item>
+    <item>
+      <title>[News / World] Trump administration invites Putin to attend G20 summit in Miami</title>
+      <link>https://www.aljazeera.com/news/2026/9/23/trump-administration-invites-putin-to-attend-g20-summit-in-miami?traffic_source=rss</link>
+      <description>Al Jazeera: US Secretary of State Marco Rubio says summit would be opportunity for Russian president to engage with global leaders.</description>
+      <pubDate>Wed, 23 Sep 2026 20:23:31 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/9/23/trump-administration-invites-putin-to-attend-g20-summit-in-miami?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[Chicago] 70-Unit Condo Building Approved For Vacant Lot Near Mary Bartelme Park</title>
+      <link>https://blockclubchicago.org/2026/09/23/70-unit-condo-building-approved-for-vacant-lot-near-mary-bartelme-park/</link>
+      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;577&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2026/09/FERNHILL_Condos_CAM_04_HR-scaled.jpg?fit=1024%2C577&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figure&gt;The development will also add four public b</description>
+      <pubDate>Wed, 23 Sep 2026 20:04:37 +0000</pubDate>
+      <guid isPermaLink="true">https://blockclubchicago.org/2026/09/23/70-unit-condo-building-approved-for-vacant-lot-near-mary-bartelme-park/</guid>
+    </item>
+    <item>
+      <title>[Chicago] Francis Parker School Expansion Plan Approved By City Council Despite Opposition From Locals</title>
+      <link>https://blockclubchicago.org/2026/09/23/francis-parker-school-expansion-plan-approved-by-city-council-despite-opposition-from-locals/</link>
+      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;683&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2026/09/IMG_2766-scaled.jpg?fit=1024%2C683&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figure&gt;The approved plan — which some neighbors have been fighting </description>
+      <pubDate>Wed, 23 Sep 2026 20:00:36 +0000</pubDate>
+      <guid isPermaLink="true">https://blockclubchicago.org/2026/09/23/francis-parker-school-expansion-plan-approved-by-city-council-despite-opposition-from-locals/</guid>
+    </item>
+    <item>
+      <title>[News / World] Harvey Weinstein sentenced to 15 years in New York sexual assault retrial</title>
+      <link>https://www.aljazeera.com/news/2026/9/23/harvey-weinstein-sentenced-to-15-years-in-sexual-assault-retrial?traffic_source=rss</link>
+      <description>Al Jazeera: The ruling seals six years of legal battles after Weinstein’s initial conviction for sexually assaulting TV assistant.</description>
+      <pubDate>Wed, 23 Sep 2026 19:58:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/9/23/harvey-weinstein-sentenced-to-15-years-in-sexual-assault-retrial?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] As major powers act unilaterally, experts say UN faces crisis in New York</title>
+      <link>https://www.aljazeera.com/news/2026/9/23/as-major-powers-act-unilaterally-experts-say-un-faces-crisis-in-new-york?traffic_source=rss</link>
+      <description>Al Jazeera: Experts warn the UN faces crises of funding, relevance, and Security Council gridlock.</description>
+      <pubDate>Wed, 23 Sep 2026 19:54:24 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/9/23/as-major-powers-act-unilaterally-experts-say-un-faces-crisis-in-new-york?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[Chicago] Pritzker Establishes AI Cabinet Amid Calls For Greater Regulation</title>
+      <link>https://blockclubchicago.org/2026/09/23/pritzker-establishes-ai-cabinet-amid-calls-for-greater-regulation/</link>
+      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;647&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2026/06/260601-PRITZKER-JS-2.jpg?fit=1024%2C647&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figure&gt;Experts and representatives from several state agencies</description>
+      <pubDate>Wed, 23 Sep 2026 19:45:50 +0000</pubDate>
+      <guid isPermaLink="true">https://blockclubchicago.org/2026/09/23/pritzker-establishes-ai-cabinet-amid-calls-for-greater-regulation/</guid>
+    </item>
+    <item>
+      <title>[News / World] Manchester United losses jump nearly a third to $57m despite record revenue</title>
+      <link>https://www.aljazeera.com/sports/2026/9/23/man-utd-losses-jump-almost-a-third-despite-record-revenues?traffic_source=rss</link>
+      <description>Al Jazeera: Manchester United&amp;#039;s debt remains over 1 billion pounds ($1.3bn) despite record revenues that are unable to prevent loss.</description>
+      <pubDate>Wed, 23 Sep 2026 19:35:09 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/sports/2026/9/23/man-utd-losses-jump-almost-a-third-despite-record-revenues?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[Chicago] City OKs $200M For Foundry Park, Including For 606 Trail Extension, At Lincoln Yards Site</title>
+      <link>https://blockclubchicago.org/2026/09/23/city-oks-200m-for-foundry-park-including-for-606-trail-extension-at-lincoln-yards-site/</link>
+      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;497&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2026/01/foundrypark_rendering.jpg?fit=1024%2C497&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figure&gt;The public funding will pay for roads, parks and other</description>
+      <pubDate>Wed, 23 Sep 2026 19:33:27 +0000</pubDate>
+      <guid isPermaLink="true">https://blockclubchicago.org/2026/09/23/city-oks-200m-for-foundry-park-including-for-606-trail-extension-at-lincoln-yards-site/</guid>
     </item>
     <item>
       <title>[Chicago] Illinois AG Claims Victory Against Trump Administration In Public Benefits Suit</title>
@@ -48,46 +272,11 @@
       <guid isPermaLink="true">https://chicagoreader.com/performing-arts/theater/theater-review/kowalski-lookingglass-theatre/</guid>
     </item>
     <item>
-      <title>[Politics] Don Lemon on Trump banning CNN: ‘It’s their own fault’</title>
-      <link>https://thehill.com/homenews/media/6107052-lemon-blames-cnn-white-house-media-ban/</link>
-      <description>The Hill: Pundit Don Lemon suggested CNN was at fault for President Trump banning the network and two other media outlets from the White House last week. &amp;#8220;It&amp;#8217;s their own fault,&amp;#8221; Lemon said of the network that fired him in 2023. &amp;#8220;They sort of ushered this in by bending the knee and putt</description>
-      <pubDate>Wed, 23 Sep 2026 19:09:29 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/homenews/media/6107052-lemon-blames-cnn-white-house-media-ban/</guid>
-    </item>
-    <item>
       <title>[Chicago] The Uncanny Attic Chapters I-L keeps Edward Gorey’s Gashlycrumb Tinies alive</title>
       <link>https://chicagoreader.com/performing-arts/theater/theater-review/uncanny-attic-chapters-i-through-l-newport-theater/</link>
       <description>Chicago Reader: &lt;figure&gt;&lt;img alt=&quot;An actor in white clown makeup with exaggerated burnt orange eye makeup is shown from the torso up, wearing a black tophat, black jacket, and a black and white striped ascot.&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;1024&quot; src=&quot;https://i0.wp.com/c</description>
       <pubDate>Wed, 23 Sep 2026 19:00:29 +0000</pubDate>
       <guid isPermaLink="true">https://chicagoreader.com/performing-arts/theater/theater-review/uncanny-attic-chapters-i-through-l-newport-theater/</guid>
-    </item>
-    <item>
-      <title>[Politics] Where Is the U.S. Beating China on A.I., and Where Is It Lagging?</title>
-      <link>https://www.nytimes.com/2026/09/23/us/politics/ai-us-china-trump-xi-economy.html</link>
-      <description>NYT — Politics: As Xi Jinping visits President Trump in Washington, his country lags behind the United States on A.I. development in key areas — but Beijing has advantages elsewhere.</description>
-      <pubDate>Wed, 23 Sep 2026 19:00:07 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/23/us/politics/ai-us-china-trump-xi-economy.html</guid>
-    </item>
-    <item>
-      <title>[Politics] White House says it’s not preparing to ban diesel exports</title>
-      <link>https://thehill.com/policy/energy-environment/6107064-white-house-diesel-export-ban/</link>
-      <description>The Hill: The White House on Wednesday denied a report that it is planning a 90-day ban on diesel exports as Americans struggle with high gas prices. The report, from Politico, cites five people familiar with the discussions and says that the legal process for the export ban was still being worked out.  In an</description>
-      <pubDate>Wed, 23 Sep 2026 18:59:02 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/policy/energy-environment/6107064-white-house-diesel-export-ban/</guid>
-    </item>
-    <item>
-      <title>[News / World] The White House press pool: What is it and how does it work?</title>
-      <link>https://www.aljazeera.com/economy/2026/9/23/the-white-house-press-pool-what-is-it-and-how-does-it-work?traffic_source=rss</link>
-      <description>Al Jazeera: White House banned CNN, MS NOW, and Politico, after US President Donald Trump complained about coverage.</description>
-      <pubDate>Wed, 23 Sep 2026 18:57:50 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/economy/2026/9/23/the-white-house-press-pool-what-is-it-and-how-does-it-work?traffic_source=rss</guid>
-    </item>
-    <item>
-      <title>[Chicago] Year-Long Ban On New Data Centers Pitched By Chicago Mayor Brandon Johnson</title>
-      <link>https://blockclubchicago.org/2026/09/23/year-long-ban-on-new-data-centers-pitched-by-chicago-mayor-brandon-johnson/</link>
-      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;A data center on the Lower West Side on Aug. 28, 2025.&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;682&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2025/08/082825-Data-Centers-Colin-Boyle-0238.jpg?fit=1024%2C682&amp;amp;ssl=1&quot; width=&quot;10</description>
-      <pubDate>Wed, 23 Sep 2026 18:55:14 +0000</pubDate>
-      <guid isPermaLink="true">https://blockclubchicago.org/2026/09/23/year-long-ban-on-new-data-centers-pitched-by-chicago-mayor-brandon-johnson/</guid>
     </item>
     <item>
       <title>[News / World] Harvey Weinstein sentenced to 15 years in prison for sexual assault</title>
@@ -104,34 +293,6 @@
       <guid isPermaLink="true">https://www.theguardian.com/uk-news/2026/sep/23/argentina-president-attacks-un-over-inaction-on-falkland-islands-sovereignty</guid>
     </item>
     <item>
-      <title>[News / World] Israel’s ambassador to the US says son injured in West Bank car-ramming</title>
-      <link>https://www.aljazeera.com/news/2026/9/23/israels-ambassador-to-the-us-says-son-injured-in-west-bank-car-ramming?traffic_source=rss</link>
-      <description>Al Jazeera: Palestinian shot dead as Israel&amp;#039;s ambassador to the US identifies injured soldier as his son.</description>
-      <pubDate>Wed, 23 Sep 2026 18:49:45 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/9/23/israels-ambassador-to-the-us-says-son-injured-in-west-bank-car-ramming?traffic_source=rss</guid>
-    </item>
-    <item>
-      <title>[Politics] Permanent daylight saving time? Schools and students would suffer, experts say</title>
-      <link>https://thehill.com/homenews/education/6106743-permanent-daylight-saving-time-dst-schools-agriculture/</link>
-      <description>The Hill: A major hurdle stands in the way of permanent daylight saving time: schools.&amp;#160;&amp;#160; Despite momentum from the White House, lawmakers in the lower chamber and nearly 20 states to stop switching the clocks, the Senate does not seem ready to make the leap — largely because of how schools would be </description>
-      <pubDate>Wed, 23 Sep 2026 18:48:36 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/homenews/education/6106743-permanent-daylight-saving-time-dst-schools-agriculture/</guid>
-    </item>
-    <item>
-      <title>[News / World] US lawmakers seek sanctions for Israel’s ‘E1’ West Bank settlement plan</title>
-      <link>https://www.aljazeera.com/news/2026/9/23/us-lawmakers-seek-sanctions-for-israels-e1-west-bank-settlement-plan?traffic_source=rss</link>
-      <description>Al Jazeera: Project would effectively cleave Palestinian territory in half and has prompted widespread international condemnation.</description>
-      <pubDate>Wed, 23 Sep 2026 18:48:26 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/9/23/us-lawmakers-seek-sanctions-for-israels-e1-west-bank-settlement-plan?traffic_source=rss</guid>
-    </item>
-    <item>
-      <title>[Politics] Kennedy Drew $4 Million in Book Advances From Publisher Who Also Monetized MAHA</title>
-      <link>https://www.nytimes.com/2026/09/23/us/politics/rfk-jr-book-advances-maha.html</link>
-      <description>NYT — Politics: A new disclosure also shows $210,000 in consulting fees paid to Cheryl Hines, the health secretary’s wife, by one of several MAHA-affiliated groups capitalizing from his agenda.</description>
-      <pubDate>Wed, 23 Sep 2026 18:46:36 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/23/us/politics/rfk-jr-book-advances-maha.html</guid>
-    </item>
-    <item>
       <title>[Chicago] Play On! celebrates Duke Ellington by way of Twelfth Night</title>
       <link>https://chicagoreader.com/performing-arts/theater/theater-review/play-on-chicago-shakespeare-theater/</link>
       <description>Chicago Reader: &lt;figure&gt;&lt;img alt=&quot;Two Black women are shown onstage. The one at left is dressed in a red men&amp;#039;s suit, standing behind an upright piano. The one at right stands leaning on the piano, wearing a strapless silver gown. There is a red neon sign behind them reading Stage Door&quot; class=&quot;attachment-rss-im</description>
@@ -139,53 +300,11 @@
       <guid isPermaLink="true">https://chicagoreader.com/performing-arts/theater/theater-review/play-on-chicago-shakespeare-theater/</guid>
     </item>
     <item>
-      <title>[News / World] Iran’s Pezeshkian slams ‘terrorist’ US but extols diplomacy in UN speech</title>
-      <link>https://www.aljazeera.com/news/2026/9/23/irans-president-slams-trumps-bullying-in-defiant-unga-speech?traffic_source=rss</link>
-      <description>Al Jazeera: Pezeshkian leaves door open for negotiations, while calling out US blockade against Iran in Strait of Hormuz.</description>
-      <pubDate>Wed, 23 Sep 2026 18:36:39 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/9/23/irans-president-slams-trumps-bullying-in-defiant-unga-speech?traffic_source=rss</guid>
-    </item>
-    <item>
-      <title>[News / World] Why does Greenland matter to the US?</title>
-      <link>https://www.aljazeera.com/video/inside-story/2026/9/23/why-does-greenland-matter-to-the-us-2?traffic_source=rss</link>
-      <description>Al Jazeera: Donald Trump says a new deal gives the US complete control over the island&amp;#039;s security.</description>
-      <pubDate>Wed, 23 Sep 2026 18:35:55 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/video/inside-story/2026/9/23/why-does-greenland-matter-to-the-us-2?traffic_source=rss</guid>
-    </item>
-    <item>
-      <title>[News / World] US open to Cuba talks on government change, Marco Rubio says</title>
-      <link>https://www.aljazeera.com/news/2026/9/23/us-says-it-is-open-to-talks-with-cuba-if-it-changes-government?traffic_source=rss</link>
-      <description>Al Jazeera: Marco Rubio made comments after Trump called Cuba a &amp;#039;failed state&amp;#039; at the UN, prompting Cuban delegation to walk out.</description>
-      <pubDate>Wed, 23 Sep 2026 18:34:20 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/9/23/us-says-it-is-open-to-talks-with-cuba-if-it-changes-government?traffic_source=rss</guid>
-    </item>
-    <item>
-      <title>[News / World] Trump set to greet Xi for high-stakes state visit</title>
+      <title>[News / World] Trump and Xi meet at moment of global consequence</title>
       <link>https://www.npr.org/2026/09/23/nx-s1-5978733/trump-xi-meeting-china</link>
       <description>NPR News: It is the second time the leaders are meeting this year after the Beijing summit in May.</description>
       <pubDate>Wed, 23 Sep 2026 18:23:19 +0000</pubDate>
       <guid isPermaLink="true">https://www.npr.org/2026/09/23/nx-s1-5978733/trump-xi-meeting-china</guid>
-    </item>
-    <item>
-      <title>[Politics] Watch live: Jeffries talks midterms as battle for House intensifies</title>
-      <link>https://thehill.com/video-clips/6106766-watch-live-hakeem-jeffries-midterms-democrats-iran-war-trump-agenda/</link>
-      <description>The Hill: House Minority Leader Hakeem Jeffries (D-N.Y.) will speak to reporters Wednesday afternoon as Democrats ramp up their efforts to win control of the House in November, including pushback against President Trump&amp;#8217;s agenda. Democrats have leaned heavily on affordability concerns while also condemn</description>
-      <pubDate>Wed, 23 Sep 2026 18:23:07 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/video-clips/6106766-watch-live-hakeem-jeffries-midterms-democrats-iran-war-trump-agenda/</guid>
-    </item>
-    <item>
-      <title>[Politics] Peter Navarro calls on Cabinet secretaries, officials to boycott Fox</title>
-      <link>https://thehill.com/homenews/media/6106900-navarro-urges-fox-news-boycott/</link>
-      <description>The Hill: Top trade adviser Peter Navarro on Wednesday called on cabinet officials and supporters of President Trump to boycott appearing on Fox News over the network&amp;#8217;s decision to voice support for three news outlets the president banned from the White House last week. In a string of social media posts</description>
-      <pubDate>Wed, 23 Sep 2026 18:20:36 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/homenews/media/6106900-navarro-urges-fox-news-boycott/</guid>
-    </item>
-    <item>
-      <title>[Politics] Schumer, Senate Democrats push for stricter rules on AI chip sales ahead of Xi visit</title>
-      <link>https://thehill.com/policy/technology/6106883-senate-democrats-ai-chip-bills/</link>
-      <description>The Hill: Top Senate Democrats are pushing for Congress to pass a trio of bills cracking down on AI chip sales to China as President Trump prepares to meet with Chinese President Xi Jinping. Senate Majority Leader Chuck Schumer (D-N.Y.) and Sens. Elizabeth Warren (D-Mass.), Andy Kim (D-N.J.) and Elissa Slotki</description>
-      <pubDate>Wed, 23 Sep 2026 18:18:04 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/policy/technology/6106883-senate-democrats-ai-chip-bills/</guid>
     </item>
     <item>
       <title>[News / World] Ancient Wall Found in Paris Provides Clues to City’s Origins</title>
@@ -216,32 +335,11 @@
       <guid isPermaLink="true">https://www.npr.org/2026/09/23/nx-s1-5978863/iran-president-united-nations-general-assembly</guid>
     </item>
     <item>
-      <title>[Politics] Trump extends invite to Putin to attend Miami G20</title>
-      <link>https://thehill.com/policy/international/6106907-donald-trump-vladimir-putin-g20-miami-invitation/</link>
-      <description>The Hill: The Trump administration has issued a formal invitation for Russian President Vladimir Putin to attend the Group of 20 summit to be held in Miami in December.  “We’ve invited President Putin to the G20,” Secretary of State Marco Rubio told reporters Wednesday at a press conference on the sidelines o</description>
-      <pubDate>Wed, 23 Sep 2026 18:13:14 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/policy/international/6106907-donald-trump-vladimir-putin-g20-miami-invitation/</guid>
-    </item>
-    <item>
-      <title>[News / World] A Catholic media star will be beatified in St Louis, moving a step closer to sainthood</title>
+      <title>[News / World] A Catholic media star will be beatified in St. Louis, moving a step closer to sainthood</title>
       <link>https://www.npr.org/2026/09/23/g-s1-144677/a-catholic-media-star-will-be-beatified-in-st-louis-moving-a-step-closer-to-sainthood</link>
       <description>NPR News: Bishop Fulton Sheen, who charmed millions of television viewers on his show L&lt;em&gt;ife Is Worth Living,&#x27;&lt;/em&gt;will come one step closer to being declared a saint.</description>
       <pubDate>Wed, 23 Sep 2026 18:09:31 +0000</pubDate>
       <guid isPermaLink="true">https://www.npr.org/2026/09/23/g-s1-144677/a-catholic-media-star-will-be-beatified-in-st-louis-moving-a-step-closer-to-sainthood</guid>
-    </item>
-    <item>
-      <title>[Politics] Hackers Say They Stole Thousands of Sensitive F.B.I. Personnel Records</title>
-      <link>https://www.nytimes.com/2026/09/23/us/politics/fbi-hack-shinyhunters-data.html</link>
-      <description>NYT — Politics: The compromise, if confirmed, would be the latest in a string of cybersecurity failures at the F.B.I., which said it was investigating the matter.</description>
-      <pubDate>Wed, 23 Sep 2026 18:07:21 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/23/us/politics/fbi-hack-shinyhunters-data.html</guid>
-    </item>
-    <item>
-      <title>[News / World] Wolfsburg terminate Christian Eriksen’s football contract by mutual consent</title>
-      <link>https://www.aljazeera.com/sports/2026/9/23/wolfsburg-terminate-christian-eriksens-contract-by-mutual-consent?traffic_source=rss</link>
-      <description>Al Jazeera: The 34-year-old has been recovering from an on-pitch collapse in June during a friendly between Denmark and Ukraine.</description>
-      <pubDate>Wed, 23 Sep 2026 18:00:59 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/sports/2026/9/23/wolfsburg-terminate-christian-eriksens-contract-by-mutual-consent?traffic_source=rss</guid>
     </item>
     <item>
       <title>[Chicago] Black Girl From a White Suburb traces Tania Richard’s ‘double consciousness’</title>
@@ -251,25 +349,11 @@
       <guid isPermaLink="true">https://chicagoreader.com/performing-arts/theater/theater-review/black-girl-from-a-white-suburb-american-blues-theater-tania-richard/</guid>
     </item>
     <item>
-      <title>[News / World] Azerbaijan pardons French national Martin Ryan jailed on spy charges</title>
-      <link>https://www.aljazeera.com/news/2026/9/23/azerbaijan-pardons-french-national-jailed-for-spying?traffic_source=rss</link>
-      <description>Al Jazeera: The move comes after the EU lifts sanctions on oligarchs following what diplomats described as pressure from Baku.</description>
-      <pubDate>Wed, 23 Sep 2026 17:51:29 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/9/23/azerbaijan-pardons-french-national-jailed-for-spying?traffic_source=rss</guid>
-    </item>
-    <item>
       <title>[News / World] Why Germany’s Leader Merz Is Struggling to Sway Voters</title>
       <link>https://www.nytimes.com/2026/09/23/world/europe/germany-merz-afd-economy.html</link>
       <description>NYT — World: As the far right surges, Chancellor Friedrich Merz’s unpopular economic policies and gruff manner have failed to sway voters turned by rivals’ promises of easy fixes.</description>
       <pubDate>Wed, 23 Sep 2026 17:46:26 +0000</pubDate>
       <guid isPermaLink="true">https://www.nytimes.com/2026/09/23/world/europe/germany-merz-afd-economy.html</guid>
-    </item>
-    <item>
-      <title>[Politics] Gerard Barron, Metals Company Chief, Makes the Case for Seafloor Mining</title>
-      <link>https://www.nytimes.com/2026/09/23/climate/gerard-barron-metals-company-ocean-floor-mining.html</link>
-      <description>NYT — Politics: The head of the company hoping to become the first to conduct commercial deep-sea mining said mines on land had a much larger environmental footprint.</description>
-      <pubDate>Wed, 23 Sep 2026 17:42:39 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/23/climate/gerard-barron-metals-company-ocean-floor-mining.html</guid>
     </item>
     <item>
       <title>[Chicago] Prayer Circle looks at the power of faith turned deadly</title>
@@ -300,20 +384,6 @@
       <guid isPermaLink="true">https://chicagoreader.com/performing-arts/theater/theater-review/american-son-ghostlight-ensemble/</guid>
     </item>
     <item>
-      <title>[Politics] Fox News Finds Itself at Odds With Trump on Press Ban</title>
-      <link>https://www.nytimes.com/2026/09/23/business/media/fox-trump-press-pool-ban.html</link>
-      <description>NYT — Politics: The home of Sean Hannity and Laura Ingraham has joined rival networks in suspending its coverage of pooled presidential events.</description>
-      <pubDate>Wed, 23 Sep 2026 17:10:33 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/23/business/media/fox-trump-press-pool-ban.html</guid>
-    </item>
-    <item>
-      <title>[Chicago] Police Release Photos Of Man Accused In Sex Assault On CTA Blue Line</title>
-      <link>https://blockclubchicago.org/2026/09/23/police-release-photos-of-man-accused-in-sex-assault-on-cta-blue-line/</link>
-      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;Chicago police released photos of a man accused of sexually assaulting a woman on a CTA Blue Line train Sept. 10.&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;682&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2026/09/Screenshot-2026-0</description>
-      <pubDate>Wed, 23 Sep 2026 17:08:08 +0000</pubDate>
-      <guid isPermaLink="true">https://blockclubchicago.org/2026/09/23/police-release-photos-of-man-accused-in-sex-assault-on-cta-blue-line/</guid>
-    </item>
-    <item>
       <title>[News / World] Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war</title>
       <link>https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&amp;at_campaign=rss</link>
       <description>BBC News — World: The local authorities reportedly seize Tigray&#x27;s airports following reports of recent drone strikes.</description>
@@ -333,13 +403,6 @@
       <description>NPR News: As President Trump and China&#x27;s President Xi prepare to meet, Rush Doshi of the Council on Foreign Relations explains the current state of U.S.-China relations and what to expect from this summit.</description>
       <pubDate>Wed, 23 Sep 2026 16:13:52 +0000</pubDate>
       <guid isPermaLink="true">https://www.npr.org/2026/09/23/nx-s1-5978691/from-cybersecurity-to-ai-what-at-stake-in-trumps-meeting-with-and-president-xiwhy-the-us-and-china-are-at-a-precarious-moment-in-their-relationship</guid>
-    </item>
-    <item>
-      <title>[News / World] Poland accuses Russian military helicopter of violating its airspace</title>
-      <link>https://www.bbc.co.uk/news/articles/c699d2dn9z0mo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>BBC News — World: Poland says the aircraft stayed in its skies for 42 seconds, forcing the Nato member to scramble its fighter jets.</description>
-      <pubDate>Wed, 23 Sep 2026 15:37:20 +0000</pubDate>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c699d2dn9z0mo?at_medium=RSS&amp;at_campaign=rss</guid>
     </item>
     <item>
       <title>[Books &amp; Literature] A New Romeo and Juliet Adaptation is Coming</title>
@@ -377,20 +440,6 @@
       <guid isPermaLink="true">https://www.historyextra.com/membership/thatcher-pubs-and-poverty-porn-a-gritty-history-of-british-sitcoms/</guid>
     </item>
     <item>
-      <title>[Politics] Trump Officials May Undo Nursing Home Mandates for Reporting Covid</title>
-      <link>https://www.nytimes.com/2026/09/23/business/covid-nursing-homes-trump.html</link>
-      <description>NYT — Politics: The agency led by Dr. Mehmet Oz is proposing an end to weekly tracking of respiratory infections at the facilities where thousands of elderly residents died in the pandemic.</description>
-      <pubDate>Wed, 23 Sep 2026 14:53:47 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/23/business/covid-nursing-homes-trump.html</guid>
-    </item>
-    <item>
-      <title>[News / World] White House rolling out red carpet for historic Xi Jinping visit</title>
-      <link>https://www.bbc.co.uk/news/articles/c6n9w410v3vzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>BBC News — World: Trump and Xi are expected to discuss a range of issues from trade to AI during the latter&#x27;s multi-day visit to Washington.</description>
-      <pubDate>Wed, 23 Sep 2026 14:32:37 +0000</pubDate>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c6n9w410v3vzo?at_medium=RSS&amp;at_campaign=rss</guid>
-    </item>
-    <item>
       <title>[News / World] It&#x27;s getting harder to afford rent in the U.S., even for middle-income families</title>
       <link>https://www.npr.org/2026/09/23/nx-s1-5977022/rent-affordability-middle-income</link>
       <description>NPR News: Housing affordability challenges are spreading to higher income brackets, according to new research, which found one in five renters struggled last year to pay for their housing in full and on time.</description>
@@ -412,13 +461,6 @@
       <guid isPermaLink="true">https://lithub.com/two-great-works-of-art-to-ease-your-transition-into-autumn/</guid>
     </item>
     <item>
-      <title>[Chicago] ‘Brutal’ Month For Chicago Cyclists Sees Grandfather Killed In Hit-And-Run, 2 Others Critically Hurt</title>
-      <link>https://blockclubchicago.org/2026/09/23/brutal-month-for-chicago-cyclists-sees-south-side-grandfather-killed-in-hit-and-run-2-others-critically-hurt/</link>
-      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;768&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2022/04/IMG_7938.png?fit=1024%2C768&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figure&gt;Juan Martin Márquez Luna, 54, was fatally struck by a pickup truck </description>
-      <pubDate>Wed, 23 Sep 2026 13:44:00 +0000</pubDate>
-      <guid isPermaLink="true">https://blockclubchicago.org/2026/09/23/brutal-month-for-chicago-cyclists-sees-south-side-grandfather-killed-in-hit-and-run-2-others-critically-hurt/</guid>
-    </item>
-    <item>
       <title>[News / World] Greetings from Edinburgh, where a cheeky tour guide makes art history hilarious</title>
       <link>https://www.npr.org/2026/09/23/g-s1-142427/uk-coco-art-history-comedy-tour</link>
       <description>NPR News: For anyone who grew up staring blankly at museum artwork, this is the fun that was missing: Coco leads interactive and (mostly) factual art history comedy tours.</description>
@@ -426,39 +468,11 @@
       <guid isPermaLink="true">https://www.npr.org/2026/09/23/g-s1-142427/uk-coco-art-history-comedy-tour</guid>
     </item>
     <item>
-      <title>[Chicago] Chicago’s Hosting Another Cat Tour — This Time It’s Halloween-Themed</title>
-      <link>https://blockclubchicago.org/2026/09/23/chicagos-hosting-another-cat-tour-this-time-its-halloween-themed/</link>
-      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;682&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2026/08/080826-Lincoln-Square-Cat-Tour-Ash-Lane_38.jpg?fit=1024%2C682&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figure&gt;After a successful debut in Linco</description>
-      <pubDate>Wed, 23 Sep 2026 13:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://blockclubchicago.org/2026/09/23/chicagos-hosting-another-cat-tour-this-time-its-halloween-themed/</guid>
-    </item>
-    <item>
-      <title>[Chicago] Repair Work Begins On Historical Portage Park Arch</title>
-      <link>https://blockclubchicago.org/2026/09/23/repair-work-begins-on-historical-portage-park-arch/</link>
-      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;768&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2026/09/IMG_6301-scaled.jpg?fit=1024%2C768&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figure&gt;&lt;p&gt;The arch, which is more than 80 years old, was damaged ea</description>
-      <pubDate>Wed, 23 Sep 2026 13:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://blockclubchicago.org/2026/09/23/repair-work-begins-on-historical-portage-park-arch/</guid>
-    </item>
-    <item>
       <title>[News / World] Delcy Rodríguez poses with Trump in New York as Maduro languishes in jail nearby</title>
       <link>https://www.theguardian.com/world/2026/sep/23/venezuela-delcy-rodriguez-meeting-donald-trump-new-york</link>
       <description>The Guardian — World: &lt;p&gt;Venezuela’s interim president hails ‘historic meeting’ and does not say whether she will visit snatched predecessor&lt;/p&gt;&lt;p&gt;Venezuela’s interim president, Delcy Rodríguez, has celebrated a “historic” meeting with Donald Trump in New York, posing for a smiley photo with the US president, less than n</description>
       <pubDate>Wed, 23 Sep 2026 12:54:07 +0000</pubDate>
       <guid isPermaLink="true">https://www.theguardian.com/world/2026/sep/23/venezuela-delcy-rodriguez-meeting-donald-trump-new-york</guid>
-    </item>
-    <item>
-      <title>[Chicago] Former Luvabull’s Dance Studio Finds New Home In Morgan Park</title>
-      <link>https://blockclubchicago.org/2026/09/23/former-luvabulls-dance-studio-finds-new-home-in-morgan-park/</link>
-      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;MSB Dance Studio founder and director, Brazhal Brewer, stands in her new Morgan Park dance studio on Sept. 21, 2026.&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;682&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2026/09/MSB-Dance-Brew</description>
-      <pubDate>Wed, 23 Sep 2026 12:44:00 +0000</pubDate>
-      <guid isPermaLink="true">https://blockclubchicago.org/2026/09/23/former-luvabulls-dance-studio-finds-new-home-in-morgan-park/</guid>
-    </item>
-    <item>
-      <title>[Chicago] More Chicagoans Are Getting Mental Health Help Through 911</title>
-      <link>https://blockclubchicago.org/2026/09/23/more-chicagoans-are-getting-mental-health-help-through-911/</link>
-      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;Dr. Melissa Argüelles (left) and EMT Marta Green (right) check that all necessary paperwork is packed in the CARE van before heading out on a shift on on Sept. 14, 2026.&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;683&quot; src=&quot;https://i0.wp.com/bcc-new</description>
-      <pubDate>Wed, 23 Sep 2026 12:33:00 +0000</pubDate>
-      <guid isPermaLink="true">https://blockclubchicago.org/2026/09/23/more-chicagoans-are-getting-mental-health-help-through-911/</guid>
     </item>
     <item>
       <title>[News / World] Dramatic eviction of woman aged 87 highlights Spain&#x27;s housing shortage</title>
@@ -487,13 +501,6 @@
       <description>NPR News: Building dams and hydropower plants in the Himalayas holds great promise for providing electricity. In the wake of the Nepal disaster, experts are asking about the risks of such construction.</description>
       <pubDate>Wed, 23 Sep 2026 11:48:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.npr.org/2026/09/23/g-s1-144536/floods-climate-nepal-himalayas-dams-hydropower</guid>
-    </item>
-    <item>
-      <title>[News / World] Dems have an edge over GOP, poll finds. And, ICE looks into &#x27;mobile detention centers&#x27;</title>
-      <link>https://www.npr.org/2026/09/23/g-s1-144632/up-first-newsletter-npr-polls-voter-approval-cnn-msnow-politico-trump-unga-speech-ice</link>
-      <description>NPR News: An NPR poll shows that Democrats have an edge over Republicans going into the midterms, partially due to Trump. And, Immigration and Customs Enforcement is looking into &quot;mobile detention centers.&quot;</description>
-      <pubDate>Wed, 23 Sep 2026 11:13:32 +0000</pubDate>
-      <guid isPermaLink="true">https://www.npr.org/2026/09/23/g-s1-144632/up-first-newsletter-npr-polls-voter-approval-cnn-msnow-politico-trump-unga-speech-ice</guid>
     </item>
     <item>
       <title>[News / World] Indian billionaire’s payments firm plots biggest London flotation in years</title>
@@ -648,13 +655,6 @@
       <description>HistoryExtra: Test your history knowledge with our daily quiz – updated each morning at 7am UK time</description>
       <pubDate>Wed, 23 Sep 2026 06:00:10 +0000</pubDate>
       <guid isPermaLink="true">https://www.historyextra.com/membership/daily-history-trivia-quiz/</guid>
-    </item>
-    <item>
-      <title>[News / World] Reports of violence against women in Gaza surge, UN agency finds</title>
-      <link>https://www.bbc.co.uk/news/articles/c94gm7dp40y0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>BBC News — World: The UN Population Fund also says there has been a &quot;severe escalation&quot; in the number of early and forced marriages.</description>
-      <pubDate>Wed, 23 Sep 2026 05:02:26 +0000</pubDate>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c94gm7dp40y0o?at_medium=RSS&amp;at_campaign=rss</guid>
     </item>
     <item>
       <title>[News / World] Jamaica hails King’s decision to refer slavery reparations petition to privy council as ‘really big deal’</title>
