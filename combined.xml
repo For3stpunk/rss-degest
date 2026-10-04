@@ -3,63 +3,203 @@
   <title>A Character Quiz — Combined Digest</title>
   <link>https://www.acharacterquiz.com</link>
   <description>News, politics, books, history, philosophy, and Chicago — merged into one feed</description>
-  <lastBuildDate>Sun, 04 Oct 2026 02:25:08 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 04 Oct 2026 09:23:11 +0000</lastBuildDate>
   
     <item>
-      <title>[Politics] Trump Promotes Data Centers at Rally With Republican Facing Heat on Them</title>
-      <link>https://www.nytimes.com/2026/10/03/us/politics/trump-data-centers-husted-ohio.html</link>
-      <description>NYT — Politics: The president defended the complexes, which have become a liability for Senator Jon Husted in a challenging midterm race.</description>
-      <pubDate>Sun, 04 Oct 2026 02:10:24 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/03/us/politics/trump-data-centers-husted-ohio.html</guid>
+      <title>[News / World] Photos: Community unites in Senegal’s Dakar to clean dilapidated school</title>
+      <link>https://www.aljazeera.com/gallery/2026/10/4/photos-dakar-community-unites-to-clean-school-ahead-of-academic-year?traffic_source=rss</link>
+      <description>Al Jazeera: Volunteers and students prepare safer, cleaner classrooms in advance of the academic year in Senegal&amp;#039;s capital.</description>
+      <pubDate>Sun, 04 Oct 2026 09:09:08 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/gallery/2026/10/4/photos-dakar-community-unites-to-clean-school-ahead-of-academic-year?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[Politics] Who Owns the Moon?</title>
+      <link>https://www.nytimes.com/2026/10/04/world/asia/who-owns-moon.html</link>
+      <description>NYT — Politics: A treaty from the 1960s declared that nobody can own outer space. Half a century later, billionaires and superpowers see fortunes to be made nonetheless.</description>
+      <pubDate>Sun, 04 Oct 2026 09:06:40 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/04/world/asia/who-owns-moon.html</guid>
+    </item>
+    <item>
+      <title>[Politics] Democrats Lead Governor Races Deep in Republican Territory, Polls Show</title>
+      <link>https://www.nytimes.com/2026/10/04/us/politics/governors-poll-democrats-lead.html</link>
+      <description>NYT — Politics: Democratic advantages in the races for governor in Texas, Iowa, Ohio and Alaska reflect deep unhappiness with President Trump and the economy. A Republican leads in Kansas.</description>
+      <pubDate>Sun, 04 Oct 2026 09:03:46 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/04/us/politics/governors-poll-democrats-lead.html</guid>
+    </item>
+    <item>
+      <title>[Politics] Some Democrats, Scarred by 2024, Take a Harder Line on Trans Athletes</title>
+      <link>https://www.nytimes.com/2026/10/04/us/politics/democrats-trans-athletes-midterms.html</link>
+      <description>NYT — Politics: Democrats competing in historically conservative territory in the midterms are more aggressively responding to Republican attacks casting them as extreme.</description>
+      <pubDate>Sun, 04 Oct 2026 09:02:39 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/04/us/politics/democrats-trans-athletes-midterms.html</guid>
+    </item>
+    <item>
+      <title>[Politics] How Trump Moved Ethical Lines With His Ads, Businesses and Summits</title>
+      <link>https://www.nytimes.com/2026/10/04/us/politics/trump-moving-ethical-lines.html</link>
+      <description>NYT — Politics: The president’s decision to hold an international summit at his own private golf club, an idea rejected in his first term, illustrates how much he has shattered norms.</description>
+      <pubDate>Sun, 04 Oct 2026 09:02:31 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/04/us/politics/trump-moving-ethical-lines.html</guid>
+    </item>
+    <item>
+      <title>[Politics] Some Democrats Say Senate Race In South Carolina Is Winnable. Others, not so much.</title>
+      <link>https://www.nytimes.com/2026/10/04/us/politics/south-carolina-senate-darline-graham-annie-andrews-donald-trump.html</link>
+      <description>NYT — Politics: Dr. Annie Andrews, a Democrat, is hoping to defeat Senator Darline Graham. Even some of her most ardent supporters sense that her bid is a long shot.</description>
+      <pubDate>Sun, 04 Oct 2026 09:02:26 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/04/us/politics/south-carolina-senate-darline-graham-annie-andrews-donald-trump.html</guid>
+    </item>
+    <item>
+      <title>[Politics] ‘No Tax on Tips’ May Fall Flat for G.O.P. in Fight for House and Senate</title>
+      <link>https://www.nytimes.com/2026/10/04/us/politics/tax-cuts-congress-arizona-republicans.html</link>
+      <description>NYT — Politics: Tipped workers in Arizona have benefited from the G.O.P.’s big tax cut. But they face economic stress from other Republican policies.</description>
+      <pubDate>Sun, 04 Oct 2026 09:01:47 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/04/us/politics/tax-cuts-congress-arizona-republicans.html</guid>
+    </item>
+    <item>
+      <title>[Politics] Why Older Lawmakers Keep Winning Elections</title>
+      <link>https://www.nytimes.com/video/us/politics/100000011169869/why-voters-elect-older-lawmakers-midterm-elections.html</link>
+      <description>NYT — Politics: Analysis by The New York Times showed older incumbents consistently beating their younger challengers in this year’s midterm primaries. Our national political correspondent Lisa Lerer looks at why.</description>
+      <pubDate>Sun, 04 Oct 2026 09:01:38 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/video/us/politics/100000011169869/why-voters-elect-older-lawmakers-midterm-elections.html</guid>
+    </item>
+    <item>
+      <title>[Politics] Kristi Noem’s Agency Gave Her Donor a Lucrative Contract Just Before She Left</title>
+      <link>https://www.nytimes.com/2026/10/04/us/politics/kristi-noem-planes-donor.html</link>
+      <description>NYT — Politics: The Homeland Security Department signed a multi-million dollar agreement to buy five aircraft from a company owned by a political contributor of the secretary on her last day, documents show.</description>
+      <pubDate>Sun, 04 Oct 2026 09:00:52 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/04/us/politics/kristi-noem-planes-donor.html</guid>
+    </item>
+    <item>
+      <title>[News / World] Latter-day Saints women turn away from scandal-plagued Republican candidate in Arizona</title>
+      <link>https://www.npr.org/2026/10/04/nx-s1-5950536/arizona-house-race-mark-lamb-lds-church</link>
+      <description>NPR News: Arizona Republican candidate for Congress Mark Lamb has been accused of sexual misconduct while sheriff. His controversy is turning many voters away as Democrats see an opportunity in the red seat.</description>
+      <pubDate>Sun, 04 Oct 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.npr.org/2026/10/04/nx-s1-5950536/arizona-house-race-mark-lamb-lds-church</guid>
+    </item>
+    <item>
+      <title>[News / World] Brazil goes to polls in decisive election for future of Latin America</title>
+      <link>https://www.theguardian.com/world/2026/oct/04/brazil-presidential-election-lula-flavio-bolsonaro</link>
+      <description>The Guardian — World: &lt;p&gt;Lula and Flávio Bolsonaro face off in battle between leftwing incumbent and far-right son of jailed ex-president&lt;/p&gt;&lt;p&gt;Brazilians go to the polls on Sunday in the first round of a highly polarised and high-stakes presidential election that could change not only the direction of Latin America’s la</description>
+      <pubDate>Sun, 04 Oct 2026 08:53:01 +0000</pubDate>
+      <guid isPermaLink="true">https://www.theguardian.com/world/2026/oct/04/brazil-presidential-election-lula-flavio-bolsonaro</guid>
+    </item>
+    <item>
+      <title>[News / World] Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit</title>
+      <link>https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>BBC News — World: Unverified video shows a drone hitting the Northern Bridge as vehicles move across it, creating a large fireball.</description>
+      <pubDate>Sun, 04 Oct 2026 08:48:38 +0000</pubDate>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&amp;at_campaign=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] Japan Protests After U.S. Marine Is Accused of Killing Woman in Okinawa</title>
+      <link>https://www.nytimes.com/2026/10/04/world/asia/japan-us-marine-killing-okinawa-woman.html</link>
+      <description>NYT — World: The matter threatened to revive tensions over the American military presence on the Japanese archipelago.</description>
+      <pubDate>Sun, 04 Oct 2026 08:38:42 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/04/world/asia/japan-us-marine-killing-okinawa-woman.html</guid>
+    </item>
+    <item>
+      <title>[News / World] Bosnia votes in one of world’s most complicated general elections</title>
+      <link>https://www.aljazeera.com/news/2026/10/4/economic-woes-ethnic-rivalries-shape-bosnias-closely-watched-elections?traffic_source=rss</link>
+      <description>Al Jazeera: Voters cast their ballots for a dizzying number of officials across multiple tiers of government.</description>
+      <pubDate>Sun, 04 Oct 2026 08:36:17 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/10/4/economic-woes-ethnic-rivalries-shape-bosnias-closely-watched-elections?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] Cornell president says university ‘must do better’ after rape allegations</title>
+      <link>https://www.aljazeera.com/video/newsfeed/2026/10/4/cornell-president-says-university-must-do-better-after-rape-allegations?traffic_source=rss</link>
+      <description>Al Jazeera: Cornell president says university ‘must do better’ after rape allegations</description>
+      <pubDate>Sun, 04 Oct 2026 08:33:54 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/10/4/cornell-president-says-university-must-do-better-after-rape-allegations?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] Omani Co-Pilot on FlyDubai Flight Is Said to Have Extremist Views</title>
+      <link>https://www.nytimes.com/2026/10/03/world/middleeast/oman-flydubai-flight-1073-pilot-radicalized.html</link>
+      <description>NYT — World: It was unclear what background checks had been carried out before he was allowed to fly to Israel.</description>
+      <pubDate>Sun, 04 Oct 2026 08:31:45 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/03/world/middleeast/oman-flydubai-flight-1073-pilot-radicalized.html</guid>
+    </item>
+    <item>
+      <title>[News / World] Inside the ‘kill box’: The Yemenis who stayed behind in Houthi-held Mocha</title>
+      <link>https://www.aljazeera.com/features/2026/10/4/inside-the-kill-box-the-yemenis-who-stayed-behind-in-houthi-held-mocha?traffic_source=rss</link>
+      <description>Al Jazeera: Yemenis trapped in the Red Sea port city speak of deteriorating conditions there.</description>
+      <pubDate>Sun, 04 Oct 2026 08:31:29 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/features/2026/10/4/inside-the-kill-box-the-yemenis-who-stayed-behind-in-houthi-held-mocha?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] Sabalenka, Rybakina handed shock defeats at China Open tennis</title>
+      <link>https://www.aljazeera.com/sports/2026/10/4/sabalenka-rybakina-handed-shock-defeats-at-china-open-tennis?traffic_source=rss</link>
+      <description>Al Jazeera: The Belarusian’s exit follows top seed Rybakina losing to unseeded Charaeva in her first match as world number one.</description>
+      <pubDate>Sun, 04 Oct 2026 08:04:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/sports/2026/10/4/sabalenka-rybakina-handed-shock-defeats-at-china-open-tennis?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] Gaza’s Christians mourn mother and daughter killed in Israeli attack</title>
+      <link>https://www.aljazeera.com/news/2026/10/4/gazas-christians-mourn-mother-and-daughter-killed-in-israeli-attack?traffic_source=rss</link>
+      <description>Al Jazeera: Maysa Abu Daoud and her daughter Mary al-Najjar among five Palestinians killed in Gaza City attack.</description>
+      <pubDate>Sun, 04 Oct 2026 08:02:38 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/10/4/gazas-christians-mourn-mother-and-daughter-killed-in-israeli-attack?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] Saudi-led coalition dismisses ‘misleading’ Houthi claim of Riyadh attack</title>
+      <link>https://www.aljazeera.com/news/2026/10/4/houthi-claims-of-targeting-riyadh-are-misleading-saudi-led?traffic_source=rss</link>
+      <description>Al Jazeera: The Saudi-led coalition spokesman says the Yemeni armed group is &amp;#039;attempting to divert attention&amp;#039; from its losses.</description>
+      <pubDate>Sun, 04 Oct 2026 07:39:04 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/10/4/houthi-claims-of-targeting-riyadh-are-misleading-saudi-led?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] Fury to invite US President Trump to lead ring walk before Joshua fight</title>
+      <link>https://www.aljazeera.com/sports/2026/10/4/fury-to-invite-us-president-trump-to-lead-ring-walk-before-joshua-fight?traffic_source=rss</link>
+      <description>Al Jazeera: Tyson Fury is keen for his &amp;#039;old pal&amp;#039; to join his procession to the ring for the fight on December 11 in Cardiff.</description>
+      <pubDate>Sun, 04 Oct 2026 07:21:19 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/sports/2026/10/4/fury-to-invite-us-president-trump-to-lead-ring-walk-before-joshua-fight?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] Australia investigating Flydubai co-pilot&#x27;s links to country</title>
+      <link>https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>BBC News — World: State police and the country&#x27;s security agency are looking into the co-pilot, who attempted to take control of a Flydubai plane travelling to Israel.</description>
+      <pubDate>Sun, 04 Oct 2026 06:19:17 +0000</pubDate>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&amp;at_campaign=rss</guid>
+    </item>
+    <item>
+      <title>[History] Daily Quiz: 4 October</title>
+      <link>https://www.historyextra.com/membership/daily-history-trivia-quiz/</link>
+      <description>HistoryExtra: Test your history knowledge with our daily quiz – updated each morning at 7am UK time</description>
+      <pubDate>Sun, 04 Oct 2026 06:00:09 +0000</pubDate>
+      <guid isPermaLink="true">https://www.historyextra.com/membership/daily-history-trivia-quiz/</guid>
+    </item>
+    <item>
+      <title>[News / World] What to know about Brazil&#x27;s election pitting Lula against Flávio Bolsonaro</title>
+      <link>https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>BBC News — World: Polls suggest the election will be a closely run contest between the left-wing incumbent and his right-wing rival.</description>
+      <pubDate>Sun, 04 Oct 2026 04:53:29 +0000</pubDate>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&amp;at_campaign=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] Debris found from plane that went missing off US coast</title>
+      <link>https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>BBC News — World: The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data.</description>
+      <pubDate>Sun, 04 Oct 2026 03:49:06 +0000</pubDate>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&amp;at_campaign=rss</guid>
     </item>
     <item>
       <title>[News / World] &#x27;Anger in the streets&#x27;: Tens of thousands protest in Spain over housing crisis</title>
       <link>https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&amp;at_campaign=rss</link>
       <description>BBC News — World: More than 50 protests took place on Saturday after the government failed to get emergency legislation through parliament.</description>
-      <pubDate>Sun, 04 Oct 2026 02:04:11 +0000</pubDate>
+      <pubDate>Sun, 04 Oct 2026 03:42:15 +0000</pubDate>
       <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&amp;at_campaign=rss</guid>
     </item>
     <item>
-      <title>[News / World] Zimbabweans struggle to rebuild after fleeing xenophobia in South Africa</title>
-      <link>https://www.aljazeera.com/news/2026/10/4/zimbabweans-struggle-to-rebuild-after-fleeing-xenophobia-in-south-africa?traffic_source=rss</link>
-      <description>Al Jazeera: Returnees face economic hardship and limited support as they try to rebuild in Zimbabwe.</description>
-      <pubDate>Sun, 04 Oct 2026 01:55:46 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/10/4/zimbabweans-struggle-to-rebuild-after-fleeing-xenophobia-in-south-africa?traffic_source=rss</guid>
+      <title>[News / World] US Coast Guard searches for missing air ambulance off coast of Massachusetts</title>
+      <link>https://www.theguardian.com/us-news/2026/oct/03/us-coast-guard-missing-air-ambulance-massachusetts</link>
+      <description>The Guardian — World: &lt;p&gt;The plane was undertaking a medical evacuation from Bermuda with six people onboard when it lost contact&lt;/p&gt;&lt;p&gt;The US Coast Guard said late on Saturday it had found debris from a medical transport aircraft off the shore of ⁠Massachusetts’ Nantucket Island and ⁠was searching for ​the six people wh</description>
+      <pubDate>Sun, 04 Oct 2026 03:38:48 +0000</pubDate>
+      <guid isPermaLink="true">https://www.theguardian.com/us-news/2026/oct/03/us-coast-guard-missing-air-ambulance-massachusetts</guid>
     </item>
     <item>
-      <title>[News / World] Ethiopian government troops seize Tigray’s capital Mekelle</title>
-      <link>https://www.aljazeera.com/video/newsfeed/2026/10/4/ethiopian-government-troops-seize-tigrays-capital-mekelle?traffic_source=rss</link>
-      <description>Al Jazeera: Ethiopia’s government forces say they’ve seized Mekelle from Tigray fighters after a week of intense battles.</description>
-      <pubDate>Sun, 04 Oct 2026 01:41:28 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/10/4/ethiopian-government-troops-seize-tigrays-capital-mekelle?traffic_source=rss</guid>
-    </item>
-    <item>
-      <title>[News / World] Cornell president vows transparency amid outrage over fraternity rape case</title>
-      <link>https://www.aljazeera.com/news/2026/10/4/cornell-president-vows-transparency-amid-outrage-over-fraternity-rape-case?traffic_source=rss</link>
-      <description>Al Jazeera: Michael Kotlikoff expresses deep sorrow over the case, calling it one of the most challenging periods for Cornell.</description>
-      <pubDate>Sun, 04 Oct 2026 01:15:58 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/10/4/cornell-president-vows-transparency-amid-outrage-over-fraternity-rape-case?traffic_source=rss</guid>
-    </item>
-    <item>
-      <title>[Politics] Without Saying His Name, Ken Paxton’s Estranged Wife Tells Texans to Vote For Him</title>
-      <link>https://www.nytimes.com/2026/10/03/us/politics/as-she-divorces-ken-paxton-his-wife-urges-texans-to-vote-for-him.html</link>
-      <description>NYT — Politics: In a new ad, the wife of Ken Paxton, who is divorcing him for alleged adultery, tells Texas voters to focus on the “whole team,” not “individual players.”</description>
-      <pubDate>Sun, 04 Oct 2026 01:03:10 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/03/us/politics/as-she-divorces-ken-paxton-his-wife-urges-texans-to-vote-for-him.html</guid>
-    </item>
-    <item>
-      <title>[Politics] 8 Key Findings From the Times/Siena Polls</title>
-      <link>https://www.nytimes.com/2026/10/03/us/politics/times-siena-poll-takeaways.html</link>
-      <description>NYT — Politics: Democrats are competitive in Alaska, Iowa, Ohio, Texas and even Kansas as they try to wrest control of the Senate from Republicans. Here’s a look at why.</description>
-      <pubDate>Sun, 04 Oct 2026 00:58:05 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/03/us/politics/times-siena-poll-takeaways.html</guid>
-    </item>
-    <item>
-      <title>[News / World] Serbian populist leader Vucic launches campaign for prime minister</title>
-      <link>https://www.aljazeera.com/news/2026/10/4/serbian-populist-leader-vucic-launches-campaign-for-prime-minister?traffic_source=rss</link>
-      <description>Al Jazeera: Former Serbian President Aleksandar Vucic is seeking to extend his hold on power through a parliamentary vote.</description>
-      <pubDate>Sun, 04 Oct 2026 00:26:22 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/10/4/serbian-populist-leader-vucic-launches-campaign-for-prime-minister?traffic_source=rss</guid>
+      <title>[Politics] Trump backs data centers in Ohio amid tight Senate race</title>
+      <link>https://thehill.com/homenews/campaign/6127929-trump-defends-ohio-data-centers/</link>
+      <description>The Hill: President Trump defended data centers at a midterm campaign rally in Vandalia, Ohio Saturday, arguing that the U.S. will risk losing ground in the global artificial intelligence race against China without the massive facilities that have come under heightened scrutiny in recent years. “There’s so mu</description>
+      <pubDate>Sun, 04 Oct 2026 02:39:12 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/homenews/campaign/6127929-trump-defends-ohio-data-centers/</guid>
     </item>
     <item>
       <title>[News / World] Cornell president says university &#x27;must do better&#x27; after frat house rape allegations</title>
@@ -69,27 +209,6 @@
       <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&amp;at_campaign=rss</guid>
     </item>
     <item>
-      <title>[News / World] Mamdani, Irish PM play bingo, ‘split the G’ in New York</title>
-      <link>https://www.aljazeera.com/video/newsfeed/2026/10/4/mamdani-irish-pm-play-bingo-split-the-g-in-new-york?traffic_source=rss</link>
-      <description>Al Jazeera: New York City Mayor Zohran Mamdani shared a video riding the subway with Irish PM Micheal Martin during UN week.</description>
-      <pubDate>Sun, 04 Oct 2026 00:07:25 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/10/4/mamdani-irish-pm-play-bingo-split-the-g-in-new-york?traffic_source=rss</guid>
-    </item>
-    <item>
-      <title>[News / World] Brazil’s Lula and Bolsonaro close campaigns ahead of critical election</title>
-      <link>https://www.aljazeera.com/news/2026/10/4/brazils-lula-and-bolsonaro-close-campaigns-ahead-of-critical-election?traffic_source=rss</link>
-      <description>Al Jazeera: Latest polls suggest Lula&amp;#039;s lead over Bolsonaro is narrowing, with neither candidate likely to win outright on Sunday.</description>
-      <pubDate>Sun, 04 Oct 2026 00:07:12 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/10/4/brazils-lula-and-bolsonaro-close-campaigns-ahead-of-critical-election?traffic_source=rss</guid>
-    </item>
-    <item>
-      <title>[News / World] Iran war live: Yemeni forces strike Sanaa as Trump warns Tehran of hard way</title>
-      <link>https://www.aljazeera.com/news/liveblog/2026/10/4/iran-war-live-yemeni-forces-strike-sanaa-as-trump-warns-tehran-of-hard-way?traffic_source=rss</link>
-      <description>Al Jazeera: Fighting in Yemen displaces more civilians, as Trump says a decision on Iran is coming.</description>
-      <pubDate>Sun, 04 Oct 2026 00:00:29 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/news/liveblog/2026/10/4/iran-war-live-yemeni-forces-strike-sanaa-as-trump-warns-tehran-of-hard-way?traffic_source=rss</guid>
-    </item>
-    <item>
       <title>[Chicago] 7-Year-Old Girl Stabbed To Death On South Side, Woman Detained</title>
       <link>https://blockclubchicago.org/2026/10/03/7-year-old-girl-stabbed-to-death-on-south-side-woman-detained/</link>
       <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;683&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2022/10/D383F87A-2D93-4C66-9F98-C5353B3AC476.jpeg?fit=1024%2C683&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figure&gt;Police said a woman approached a girl </description>
@@ -97,25 +216,18 @@
       <guid isPermaLink="true">https://blockclubchicago.org/2026/10/03/7-year-old-girl-stabbed-to-death-on-south-side-woman-detained/</guid>
     </item>
     <item>
-      <title>[News / World] Air ambulance missing on flight from Bermuda to Boston</title>
-      <link>https://www.aljazeera.com/news/2026/10/3/air-ambulance-missing-on-flight-from-bermuda-to-boston?traffic_source=rss</link>
-      <description>Al Jazeera: The US coastguard says it has dispatched air and surface crews to search for the plane near Nantucket.</description>
-      <pubDate>Sat, 03 Oct 2026 23:03:44 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/10/3/air-ambulance-missing-on-flight-from-bermuda-to-boston?traffic_source=rss</guid>
+      <title>[News / World] US father and son arrested after &#x27;gas station heroin&#x27; deaths</title>
+      <link>https://www.bbc.co.uk/news/articles/c6qjnlk4r2jjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>BBC News — World: They are accused of selling at least one student derivatives of kratom, often called &quot;gas station heroin&quot; in the US.</description>
+      <pubDate>Sat, 03 Oct 2026 22:39:06 +0000</pubDate>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c6qjnlk4r2jjo?at_medium=RSS&amp;at_campaign=rss</guid>
     </item>
     <item>
-      <title>[News / World] Coast Guard searching for missing medical plane carrying 6 people</title>
+      <title>[News / World] Coast Guard finds debris from medical plane carrying 6 people</title>
       <link>https://www.npr.org/2026/10/03/g-s1-146338/plane-missing-coast-guard-search-massachusetts</link>
       <description>NPR News: Flight data shows the jet dropped at least 9,000 feet over two minutes, then leveled off for several more minutes, before disappearing.</description>
       <pubDate>Sat, 03 Oct 2026 22:31:04 +0000</pubDate>
       <guid isPermaLink="true">https://www.npr.org/2026/10/03/g-s1-146338/plane-missing-coast-guard-search-massachusetts</guid>
-    </item>
-    <item>
-      <title>[Politics] Democrats May Have Found the Recipe for Flipping Red-State Senate Seats</title>
-      <link>https://www.nytimes.com/2026/10/03/upshot/polls-midterms-senate-times-siena.html</link>
-      <description>NYT — Politics: Five new Times/Siena polls continue a run of strong results for Democrats in states that President Trump won easily in 2024.</description>
-      <pubDate>Sat, 03 Oct 2026 22:02:56 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/03/upshot/polls-midterms-senate-times-siena.html</guid>
     </item>
     <item>
       <title>[News / World] Can the Cornell lawsuit force changes that make students safer?</title>
@@ -137,20 +249,6 @@
       <description>The Hill: An Oklahoma federal judge ruled Friday that warrantless searches using AI-powered surveillance camera data, such as what Flock Safety&amp;#8217;s hallmark technology collects, may violate the Fourth Amendment without adequate probable cause. “Freedom from persistent, dragnet-style surveillance while in </description>
       <pubDate>Sat, 03 Oct 2026 21:43:14 +0000</pubDate>
       <guid isPermaLink="true">https://thehill.com/regulation/court-battles/6127775-fourth-amendment-flock-camera-ruling/</guid>
-    </item>
-    <item>
-      <title>[News / World] Medical plane with 6 on board missing off Massachusetts coast</title>
-      <link>https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>BBC News — World: The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data.</description>
-      <pubDate>Sat, 03 Oct 2026 21:16:21 +0000</pubDate>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&amp;at_campaign=rss</guid>
-    </item>
-    <item>
-      <title>[Politics] With Elon Musk’s Return to Washington, Possible Conflicts of Interest Resurface</title>
-      <link>https://www.nytimes.com/2026/10/03/us/politics/elon-musk-pentagon-returns-to-washington.html</link>
-      <description>NYT — Politics: The founder of SpaceX, with billions of dollars in military contracts, joins several other defense industry executives on a Pentagon advisory board.</description>
-      <pubDate>Sat, 03 Oct 2026 21:14:45 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/03/us/politics/elon-musk-pentagon-returns-to-washington.html</guid>
     </item>
     <item>
       <title>[Politics] Head Start fight reaches tipping point as advocates push back against proposed Trump changes</title>
@@ -195,27 +293,6 @@
       <guid isPermaLink="true">https://thehill.com/opinion/finance/6126452-ai-infrastructure-economic-risk/</guid>
     </item>
     <item>
-      <title>[Politics] As Midterms Near, Justice Alito Says He Considers Each Year Whether to Retire</title>
-      <link>https://www.nytimes.com/2026/10/03/us/politics/justice-alito-retirement-supreme-court.html</link>
-      <description>NYT — Politics: The justice, the second oldest on the court at 76, told CBS News that he decided against stepping down last term. He could face pressure should Democrats win the Senate in November.</description>
-      <pubDate>Sat, 03 Oct 2026 18:52:49 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/03/us/politics/justice-alito-retirement-supreme-court.html</guid>
-    </item>
-    <item>
-      <title>[Politics] Florida’s dengue outbreak reportedly largest US has seen in decades</title>
-      <link>https://thehill.com/policy/healthcare/6127666-florida-dengue-outbreak-record/</link>
-      <description>The Hill: A dengue fever outbreak in the state of Florida appears to have grown to the largest in the continental U.S. in decades, totaling 252 reported cases this year in the Sunshine State according to an update this week. Dengue fever, which is transmitted through infected mosquito bites, is rarely fatal a</description>
-      <pubDate>Sat, 03 Oct 2026 18:45:07 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/policy/healthcare/6127666-florida-dengue-outbreak-record/</guid>
-    </item>
-    <item>
-      <title>[Politics] Trump Urges Republicans to Vote By Mail After Criticizing Practice</title>
-      <link>https://www.nytimes.com/2026/10/03/us/politics/trump-republicans-mail-voting.html</link>
-      <description>NYT — Politics: It was the latest mixed messaging from President Trump, who regularly votes by mail, but has made baseless claims that the practice is “inherently corrupt.”</description>
-      <pubDate>Sat, 03 Oct 2026 18:44:42 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/03/us/politics/trump-republicans-mail-voting.html</guid>
-    </item>
-    <item>
       <title>[News / World] American High School Students Are Selling Guns Bound for Cartels</title>
       <link>https://www.nytimes.com/2026/10/03/world/americas/high-school-arms-dealing-mexican-cartels.html</link>
       <description>NYT — World: Drawn by money and status, teenagers in Arizona are buying, stealing and selling weapons destined for criminal groups in Mexico.</description>
@@ -230,20 +307,6 @@
       <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&amp;at_campaign=rss</guid>
     </item>
     <item>
-      <title>[News / World] US Coast Guard searches for missing air ambulance off coast of Massachusetts</title>
-      <link>https://www.theguardian.com/us-news/2026/oct/03/us-coast-guard-missing-air-ambulance-massachusetts</link>
-      <description>The Guardian — World: &lt;p&gt;The plane was undertaking a medical evacuation from Bermuda with six people onboard when it lost contact&lt;/p&gt;&lt;p&gt;The US Coast Guard is searching for an air ambulance jet with six people onboard that lost contact with the Federal Aviation Administration (FAA) during a flight from &lt;a href=&quot;https://ww</description>
-      <pubDate>Sat, 03 Oct 2026 17:03:54 +0000</pubDate>
-      <guid isPermaLink="true">https://www.theguardian.com/us-news/2026/oct/03/us-coast-guard-missing-air-ambulance-massachusetts</guid>
-    </item>
-    <item>
-      <title>[News / World] Russia hits second major bridge in Ukraine&#x27;s capital Kyiv</title>
-      <link>https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>BBC News — World: The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine&#x27;s capital.</description>
-      <pubDate>Sat, 03 Oct 2026 16:16:49 +0000</pubDate>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&amp;at_campaign=rss</guid>
-    </item>
-    <item>
       <title>[News / World] How FlyDubai Passengers and Crew Averted Disaster After Pilot Was Stabbed During Flight</title>
       <link>https://www.nytimes.com/2026/10/02/world/middleeast/flydubai-attack-timeline.html</link>
       <description>NYT — World: A badly wounded Indian pilot managed to unlock the cockpit door. Four Israeli men teamed up to overwhelm an attacker and avert disaster.</description>
@@ -256,34 +319,6 @@
       <description>NYT — World: The violent midair assault on a FlyDubai flight to Tel Aviv has deepened concerns about the safety of Israelis traveling abroad.</description>
       <pubDate>Sat, 03 Oct 2026 14:52:27 +0000</pubDate>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/03/world/middleeast/flydubai-ax-cockpit.html</guid>
-    </item>
-    <item>
-      <title>[Politics] In Texas, Talarico’s Strength in Senate Polls Inspires a Democratic Dream</title>
-      <link>https://www.nytimes.com/2026/10/03/us/politics/texas-talarico.html</link>
-      <description>NYT — Politics: After a dry spell of more than three decades, Democrats are daring (yet again) to believe they can win one or more top-of-the-ballot races in a vast and stubbornly red state.</description>
-      <pubDate>Sat, 03 Oct 2026 14:45:43 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/03/us/politics/texas-talarico.html</guid>
-    </item>
-    <item>
-      <title>[News / World] Flydubai co-pilot attacked captain with axe, UAE official says</title>
-      <link>https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>BBC News — World: The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.</description>
-      <pubDate>Sat, 03 Oct 2026 14:27:33 +0000</pubDate>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&amp;at_campaign=rss</guid>
-    </item>
-    <item>
-      <title>[News / World] Why has Brazil accused the US of election interference?</title>
-      <link>https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>BBC News — World: The Latin American country will vote for its next president, as Lula da Silva and Bolsonaro clash over sovereignty, security and ties with Washington.</description>
-      <pubDate>Sat, 03 Oct 2026 13:52:13 +0000</pubDate>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&amp;at_campaign=rss</guid>
-    </item>
-    <item>
-      <title>[News / World] Omani Co-Pilot on FlyDubai Flight Is Said to Have Extremist Views</title>
-      <link>https://www.nytimes.com/2026/10/03/world/middleeast/oman-flydubai-flight-1073-pilot-radicalized.html</link>
-      <description>NYT — World: It was unclear what background checks had been carried out before he was allowed to fly to Israel.</description>
-      <pubDate>Sat, 03 Oct 2026 12:58:53 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/03/world/middleeast/oman-flydubai-flight-1073-pilot-radicalized.html</guid>
     </item>
     <item>
       <title>[News / World] Opinion: A Hawk is not the same as a Hawkeye</title>
@@ -328,13 +363,6 @@
       <guid isPermaLink="true">https://lithub.com/lit-hub-weekly-september-28-october-3-2026/</guid>
     </item>
     <item>
-      <title>[News / World] Iraq Wins U.S. Permission to Resume Iran Flights, Prime Minister Says</title>
-      <link>https://www.nytimes.com/2026/10/03/world/middleeast/iraq-iran-flights-us-sanctions.html</link>
-      <description>NYT — World: Flights between the neighboring countries had been halted after broad U.S. penalties on Iran’s aviation industry.</description>
-      <pubDate>Sat, 03 Oct 2026 10:25:33 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/03/world/middleeast/iraq-iran-flights-us-sanctions.html</guid>
-    </item>
-    <item>
       <title>[News / World] Separatists Are Poised to Win Quebec’s Election. Independence Is Still a Hard Sell.</title>
       <link>https://www.nytimes.com/2026/10/03/world/canada/quebec-election-independence-parti-quebecois-separatism.html</link>
       <description>NYT — World: The Parti Québécois has vowed to hold a referendum on independence, three decades after Quebec voted “no.” Voters want change, but maybe not that much.</description>
@@ -354,13 +382,6 @@
       <description>NPR News: The Supreme Court term opens on Monday with big test cases on religion, guns and climate change. Plus, the emergency docket keeps popping.</description>
       <pubDate>Sat, 03 Oct 2026 09:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.npr.org/2026/10/03/nx-s1-5986341/supreme-court-term-religion-guns-environment-immigration</guid>
-    </item>
-    <item>
-      <title>[News / World] No one expected Leo to be pope — except everyone who knew him as &#x27;Bob&#x27;</title>
-      <link>https://www.npr.org/2026/10/03/nx-s1-5987816/pope-leo-american-pope-book-excerpt</link>
-      <description>NPR News: When the 2025 conclave began, no one expected an American pope. But by its end, Cardinal Robert Prevost had become Pope Leo. Here&#x27;s a look behind the scenes.</description>
-      <pubDate>Sat, 03 Oct 2026 09:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.npr.org/2026/10/03/nx-s1-5987816/pope-leo-american-pope-book-excerpt</guid>
     </item>
     <item>
       <title>[Books &amp; Literature] ‘I thought, if I’m going to die, I’m going to write a book first’: Pachinko author Min Jin Lee</title>
@@ -384,32 +405,11 @@
       <guid isPermaLink="true">https://www.historyextra.com/membership/daily-quiz-2-october/</guid>
     </item>
     <item>
-      <title>[History] Daily Quiz: 3 October</title>
-      <link>https://www.historyextra.com/membership/daily-history-trivia-quiz/</link>
-      <description>HistoryExtra: Test your history knowledge with our daily quiz – updated each morning at 7am UK time</description>
-      <pubDate>Sat, 03 Oct 2026 06:00:07 +0000</pubDate>
-      <guid isPermaLink="true">https://www.historyextra.com/membership/daily-history-trivia-quiz/</guid>
-    </item>
-    <item>
-      <title>[News / World] G7 to release millions of barrels of oil and diesel after Trump threat</title>
-      <link>https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>BBC News — World: The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.</description>
-      <pubDate>Sat, 03 Oct 2026 04:38:31 +0000</pubDate>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&amp;at_campaign=rss</guid>
-    </item>
-    <item>
       <title>[Chicago] Muggsy Spanier’s hot cornet gave extra shine to early Chicago jazz</title>
       <link>https://chicagoreader.com/music/the-secret-history-of-chicago-music/muggsy-spanier-cornet-jazz-dixieland-ragtime-hot-trad-touro/</link>
       <description>Chicago Reader: &lt;figure&gt;&lt;img alt=&quot;A black-and-white hand-drawn portrait of early jazz cornetist Muggsy Spanier, embedded in a cropped version of the title card for the Secret History of Chicago Music; he&amp;#039;s pictured in middle age, smiling in a light jacket and dark tie&quot; class=&quot;attachment-rss-image-size size-rss</description>
       <pubDate>Fri, 02 Oct 2026 22:14:42 +0000</pubDate>
       <guid isPermaLink="true">https://chicagoreader.com/music/the-secret-history-of-chicago-music/muggsy-spanier-cornet-jazz-dixieland-ragtime-hot-trad-touro/</guid>
-    </item>
-    <item>
-      <title>[News / World] Brazil’s Lula says only he can stop rise of fascism under Bolsonaro’s son</title>
-      <link>https://www.theguardian.com/world/2026/oct/02/brazil-lula-stop-fascism-bolsonaro-son</link>
-      <description>The Guardian — World: &lt;p&gt;President leads huge rally in Rio before election on Sunday seen as most important for decades&lt;/p&gt;&lt;p&gt;The Brazilian president, Luiz Inácio Lula da Silva, has claimed he is the only thing standing in the way of far-right “fascists” reclaiming power, as he led a huge rally through the streets of Rio</description>
-      <pubDate>Fri, 02 Oct 2026 21:12:29 +0000</pubDate>
-      <guid isPermaLink="true">https://www.theguardian.com/world/2026/oct/02/brazil-lula-stop-fascism-bolsonaro-son</guid>
     </item>
     <item>
       <title>[Chicago] Citywide Mental Health Emergency Service Continues Expansion With Longer Hours</title>
