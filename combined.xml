@@ -3,21 +3,182 @@
   <title>A Character Quiz — Combined Digest</title>
   <link>https://www.acharacterquiz.com</link>
   <description>News, politics, books, history, philosophy, and Chicago — merged into one feed</description>
-  <lastBuildDate>Sun, 25 Oct 2026 21:28:05 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 25 Oct 2026 23:51:04 +0000</lastBuildDate>
   
     <item>
-      <title>[News / World] Serbia&#x27;s Vučić concedes election defeat to student-led protest movement</title>
+      <title>[News / World] Live Updates: Polls Close in Brazil as Presidential Race Comes to Chaotic Close</title>
+      <link>https://www.nytimes.com/live/2026/10/25/world/brazil-election</link>
+      <description>NYT — World: The leftist president, Luiz Inácio Lula da Silva, accused officials in some areas of slowing transit. His opponent, Flávio Bolsonaro, a Trump ally, said flooding was hampering his voters. Polling places were kept open an extra two hours.</description>
+      <pubDate>Sun, 25 Oct 2026 23:41:52 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2026/10/25/world/brazil-election</guid>
+    </item>
+    <item>
+      <title>[News / World] Ballon d’Or 2026: Can Barcelona phenom Lamine Yamal become youngest winner?</title>
+      <link>https://www.aljazeera.com/sports/2026/10/25/ballon-dor-2026-can-barcelona-phenom-lamine-yamal-become-youngest-winner?traffic_source=rss</link>
+      <description>Al Jazeera: Still a teenager, Yamal could surpass Brazilian legend Ronaldo Nazario, who won the Ballon d&amp;#039;Or at the age of 21.</description>
+      <pubDate>Sun, 25 Oct 2026 23:38:57 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/sports/2026/10/25/ballon-dor-2026-can-barcelona-phenom-lamine-yamal-become-youngest-winner?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] Brazil runoff live updates: ballot count resumes after two-hour voting extension</title>
+      <link>https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula</link>
+      <description>The Guardian — World: &lt;p&gt;Polls officially close after Brazilian ⁠supreme court ordered the extension Sunday as Flávio Bolsonaro and Luiz Inácio Lula da Silva await results&lt;/p&gt;&lt;p&gt;The local electoral court ordered the immediate restoration of 100% of the bus fleet and ordered the arrest of the municipal transport secretary</description>
+      <pubDate>Sun, 25 Oct 2026 23:35:47 +0000</pubDate>
+      <guid isPermaLink="true">https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula</guid>
+    </item>
+    <item>
+      <title>[Politics] How Obama and Trump Made their Cases in Dueling Midterm Speeches</title>
+      <link>https://www.nytimes.com/2026/10/25/us/politics/obama-trump-competing-rallies-midterms.html</link>
+      <description>NYT — Politics: At rallies this weekend, Mr. Obama and Mr. Trump delivered two starkly contrasting pitches, differing in style and substance.</description>
+      <pubDate>Sun, 25 Oct 2026 23:35:31 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/25/us/politics/obama-trump-competing-rallies-midterms.html</guid>
+    </item>
+    <item>
+      <title>[News / World] Venezuelan opposition leader María Machado returns after months in exile</title>
+      <link>https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>BBC News — World: Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.</description>
+      <pubDate>Sun, 25 Oct 2026 23:33:14 +0000</pubDate>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&amp;at_campaign=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] Thousands protest in Prague against public media funding reforms</title>
+      <link>https://www.aljazeera.com/news/2026/10/25/thousands-protest-in-prague-against-public-media-funding-reforms?traffic_source=rss</link>
+      <description>Al Jazeera: Demonstrators allege Prime Minister Andrej Babis and his coalition&amp;#039;s proposed reforms pose a threat to press freedom.</description>
+      <pubDate>Sun, 25 Oct 2026 23:29:13 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/10/25/thousands-protest-in-prague-against-public-media-funding-reforms?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] Venezuela’s opposition leader Machado returns after months in exile</title>
+      <link>https://www.aljazeera.com/video/newsfeed/2026/10/25/venezuelas-opposition-leader-machado-returns-after-months-in-exile?traffic_source=rss</link>
+      <description>Al Jazeera: Venezuela’s opposition leader and Nobel Peace Prize winner Maria Corina Machado returned home after more than 10 months.</description>
+      <pubDate>Sun, 25 Oct 2026 23:23:25 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/10/25/venezuelas-opposition-leader-machado-returns-after-months-in-exile?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] Aleksandar Vucic Concedes Defeat in Serbian Election</title>
+      <link>https://www.nytimes.com/2026/10/25/world/europe/serbia-vucic-election-defeat.html</link>
+      <description>NYT — World: “It is clear that we have lost these elections,” Aleksandar Vucic said in a surprisingly early speech congratulating his opponents.</description>
+      <pubDate>Sun, 25 Oct 2026 23:10:41 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/25/world/europe/serbia-vucic-election-defeat.html</guid>
+    </item>
+    <item>
+      <title>[News / World] Bulgaria election heads to a run-off amid low voter turnout</title>
+      <link>https://www.aljazeera.com/news/2026/10/25/bulgaria-election-heads-to-a-run-off-amid-low-voter-turnout?traffic_source=rss</link>
+      <description>Al Jazeera: Bulgarians will now choose between President Iliana Yotova and former caretaker Prime Minister Andrey Gyurov next week.</description>
+      <pubDate>Sun, 25 Oct 2026 22:57:17 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/10/25/bulgaria-election-heads-to-a-run-off-amid-low-voter-turnout?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] Serbia&#x27;s veteran ruler Vučić concedes election to student-led protest movement</title>
       <link>https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>BBC News — World: The country&#x27;s populist right-wing leader of 12 years says it is &quot;clear&quot; his Serbian Progressive Party has lost.</description>
-      <pubDate>Sun, 25 Oct 2026 21:25:04 +0000</pubDate>
+      <description>BBC News — World: The populist right-wing leader of 12 years says it is &quot;clear&quot; his party has lost the vote billed as a referendum on the country&#x27;s future.</description>
+      <pubDate>Sun, 25 Oct 2026 22:54:57 +0000</pubDate>
       <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&amp;at_campaign=rss</guid>
     </item>
     <item>
-      <title>[News / World] Kenya bus crash kills at least 24 as government vows road safety crackdown</title>
-      <link>https://www.aljazeera.com/news/2026/10/25/kenya-bus-crash-kills-at-least-24-as-government-vows-road-safety-crackdown?traffic_source=rss</link>
-      <description>Al Jazeera: Church mourners die on Kenya’s Nairobi-Mombasa Highway weeks after another crash killed 17 people.</description>
-      <pubDate>Sun, 25 Oct 2026 21:00:02 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/10/25/kenya-bus-crash-kills-at-least-24-as-government-vows-road-safety-crackdown?traffic_source=rss</guid>
+      <title>[Politics] Trump says El-Sayed should have to pass through metal detector to enter Senate</title>
+      <link>https://thehill.com/homenews/administration/6171296-donald-trump-abdul-el-sayed-pass-through-metal-detector-to-enter-senate/</link>
+      <description>The Hill: President Trump called out Michigan Senate candidate Abdul El-Sayed on Sunday, saying he should have to pass through a metal detector to enter the Senate building.  “Anyone with that record of support for jihadists would be screened and unable to get a seat on an airplane. They certainly should not </description>
+      <pubDate>Sun, 25 Oct 2026 22:52:30 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/homenews/administration/6171296-donald-trump-abdul-el-sayed-pass-through-metal-detector-to-enter-senate/</guid>
+    </item>
+    <item>
+      <title>[News / World] Real Madrid beat Barcelona 2-1 at Camp Nou to halve gap to La Liga leaders</title>
+      <link>https://www.aljazeera.com/sports/2026/10/25/real-madrid-beat-barcelona-2-1-at-camp-nou-to-halve-gap-to-la-liga-leaders?traffic_source=rss</link>
+      <description>Al Jazeera: French superstar Kylian Mbappe scores a brace for Madrid to inflict Barcelona&amp;#039;s first domestic defeat of the campaign.</description>
+      <pubDate>Sun, 25 Oct 2026 22:22:53 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/sports/2026/10/25/real-madrid-beat-barcelona-2-1-at-camp-nou-to-halve-gap-to-la-liga-leaders?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[Politics] Tillis accuses California of being ‘guilty’ of ballot harvesting: ‘They have a system there that is ripe for abuse’</title>
+      <link>https://thehill.com/homenews/senate/6170781-thom-tillis-accuses-california-of-ballot-harvesting/</link>
+      <description>The Hill: Sen. Thom Tillis (R-N.C.) on Sunday accused the state of California of being &amp;#8220;guilty&amp;#8221; of ballot harvesting, claiming that the Golden State has &amp;#8220;a system there that is ripe for abuse.&amp;#8221; &amp;#8220;Face the Nation&amp;#8221; host Margaret Brennan asked about the Department of Justice&amp;#8</description>
+      <pubDate>Sun, 25 Oct 2026 22:18:13 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/homenews/senate/6170781-thom-tillis-accuses-california-of-ballot-harvesting/</guid>
+    </item>
+    <item>
+      <title>[News / World] Brazil election 2026: Live second round results</title>
+      <link>https://www.theguardian.com/world/ng-interactive/2026/oct/25/brazil-election-2026-live-second-round-results</link>
+      <description>The Guardian — World: &lt;p&gt;After a shock defeat in the first round, the incumbent Brazilian president, Luiz Inácio Lula da Silva,&lt;strong&gt; &lt;/strong&gt;is seeking a new term in a runoff with Flávio Bolsonaro, the son of his convicted predecessor&lt;/p&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Polls were originally due to close at 17.00BRT, 20.00GMT, but vot</description>
+      <pubDate>Sun, 25 Oct 2026 22:11:16 +0000</pubDate>
+      <guid isPermaLink="true">https://www.theguardian.com/world/ng-interactive/2026/oct/25/brazil-election-2026-live-second-round-results</guid>
+    </item>
+    <item>
+      <title>[News / World] Deeply divided Israel braces for pivotal election</title>
+      <link>https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>BBC News — World: After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson.</description>
+      <pubDate>Sun, 25 Oct 2026 22:11:13 +0000</pubDate>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&amp;at_campaign=rss</guid>
+    </item>
+    <item>
+      <title>[Chicago] Holiday Club Being Demolished To Make Way For New Uptown Apartment Building</title>
+      <link>https://blockclubchicago.org/2026/10/25/holiday-club-being-demolished-to-make-way-for-new-uptown-apartment-building/</link>
+      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;683&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2026/10/IMG_8289-scaled.jpg?fit=1024%2C683&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figure&gt;The club, alongside two adjacent buildings, is being razed t</description>
+      <pubDate>Sun, 25 Oct 2026 22:09:58 +0000</pubDate>
+      <guid isPermaLink="true">https://blockclubchicago.org/2026/10/25/holiday-club-being-demolished-to-make-way-for-new-uptown-apartment-building/</guid>
+    </item>
+    <item>
+      <title>[Politics] Appeals court resists DOJ’s bid to immediately segregate 20k California ballots</title>
+      <link>https://thehill.com/regulation/court-battles/6171263-appeals-court-denies-emergency-california-hearing/</link>
+      <description>The Hill: A federal appeals court appeared unlikely to immediately agree to the&amp;#160;Trump administration’s bid to segregate 20,000 California ballots it says are likely noncitizen voters, expressing&amp;#160;skepticism at a rare&amp;#160;Sunday hearing that a trial judge needs to move quicker. “I don&amp;#8217;t see how</description>
+      <pubDate>Sun, 25 Oct 2026 22:02:13 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/regulation/court-battles/6171263-appeals-court-denies-emergency-california-hearing/</guid>
+    </item>
+    <item>
+      <title>[Politics] An Iowa Republican’s Unusual Connection to the Kochs (and Kansas)</title>
+      <link>https://www.nytimes.com/2026/10/25/us/politics/zach-lahn-iowa-governor-kansas-kochs.html</link>
+      <description>NYT — Politics: In his campaign for governor, Zach Lahn has pitched himself as a self-made businessman. His backstory is more complicated.</description>
+      <pubDate>Sun, 25 Oct 2026 21:57:58 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/25/us/politics/zach-lahn-iowa-governor-kansas-kochs.html</guid>
+    </item>
+    <item>
+      <title>[News / World] Marine Le Pen vows French ‘renaissance’ as far right eyes seat of power</title>
+      <link>https://www.aljazeera.com/news/2026/10/25/marine-le-pen-vows-a-french-renaissance-as-far-right-eyes-seat-of-power?traffic_source=rss</link>
+      <description>Al Jazeera: National Rally&amp;#039;s Le Pen launches presidential campaign against backdrop of protests and social, economic discontent.</description>
+      <pubDate>Sun, 25 Oct 2026 21:50:36 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/10/25/marine-le-pen-vows-a-french-renaissance-as-far-right-eyes-seat-of-power?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[Politics] Rogers dodges questions on MAGA label, Trump tariffs</title>
+      <link>https://thehill.com/homenews/campaign/6171235-rogers-dodges-magar-label-interview/</link>
+      <description>The Hill: Former Rep. Mike Rogers (R-Mich.) dodged questions on whether he identifies as a MAGA-Republican and avoided clarifying his position on President Trump’s controversial tariffs against Canada ahead of his competitive race against Democrat Abdul El-Sayed in Michigan’s Senate race.   During a Sunday ap</description>
+      <pubDate>Sun, 25 Oct 2026 21:44:53 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/homenews/campaign/6171235-rogers-dodges-magar-label-interview/</guid>
+    </item>
+    <item>
+      <title>[News / World] US Attorney General Todd Blanche defends Alaska Senate election lawsuit</title>
+      <link>https://www.aljazeera.com/news/2026/10/25/us-attorney-general-todd-blanche-defends-alaska-senate-election-lawsuit?traffic_source=rss</link>
+      <description>Al Jazeera: The Department of Justice has faced criticism that its lawsuit is aimed at blocking a Democratic victory in a key race.</description>
+      <pubDate>Sun, 25 Oct 2026 21:41:10 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/10/25/us-attorney-general-todd-blanche-defends-alaska-senate-election-lawsuit?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] Saudi Arabia Reopens Riyadh Airport Even as Houthis Threaten Further Strikes</title>
+      <link>https://www.nytimes.com/2026/10/25/world/middleeast/saudi-arabia-riyadh-airport-reopens.html</link>
+      <description>NYT — World: The Houthis, an Iran-backed Yemeni militia, launched several deadly attacks on the airport this month.</description>
+      <pubDate>Sun, 25 Oct 2026 21:39:45 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/25/world/middleeast/saudi-arabia-riyadh-airport-reopens.html</guid>
+    </item>
+    <item>
+      <title>[News / World] Marine Le Pen launches French presidential campaign</title>
+      <link>https://www.aljazeera.com/video/newsfeed/2026/10/25/marine-le-pen-launches-french-presidential-campaign?traffic_source=rss</link>
+      <description>Al Jazeera: Marine Le Pen launches French presidential campaign</description>
+      <pubDate>Sun, 25 Oct 2026 21:39:13 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/10/25/marine-le-pen-launches-french-presidential-campaign?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[Politics] In Texas Senate Race, Talarico Leans Into Growing Rivalry With Elon Musk</title>
+      <link>https://www.nytimes.com/2026/10/25/us/politics/talarico-musk-texas-senate-paxton-midterms.html</link>
+      <description>NYT — Politics: On the trail, James Talarico, the Democratic Senate nominee, has increasingly gone after Mr. Musk, a critic of his who has given big to a group aligned with the Republican candidate, Ken Paxton.</description>
+      <pubDate>Sun, 25 Oct 2026 21:37:43 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/25/us/politics/talarico-musk-texas-senate-paxton-midterms.html</guid>
+    </item>
+    <item>
+      <title>[Politics] Hinson calls Putin ‘murderer,’ says US should not make deals with Russia</title>
+      <link>https://thehill.com/homenews/house/6171171-ashley-hinson-calls-putin-murderer/</link>
+      <description>The Hill: Rep. Ashley Hinson (R-Iowa) on Sunday called Russian President Vladimir Putin a &amp;#8220;murderer&amp;#8221; and urged that the U.S. not make any deals with Russia. ABC News&amp;#8217;s &amp;#8220;This Week&amp;#8221; host Jonathan Karl asked Hinson, a Senate candidate and a staunch supporter of Ukraine, what she mad</description>
+      <pubDate>Sun, 25 Oct 2026 21:32:57 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/homenews/house/6171171-ashley-hinson-calls-putin-murderer/</guid>
     </item>
     <item>
       <title>[Politics] Republicans struggle for an answer to Democrats’ Medicaid attacks</title>
@@ -37,7 +198,7 @@
       <title>[News / World] María Corina Machado Returns to Venezuela</title>
       <link>https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html</link>
       <description>NYT — World: After nearly 10 months in exile, Ms. Machado, a Nobel laureate, came back to challenge leaders who have sidelined her and press for new elections.</description>
-      <pubDate>Sun, 25 Oct 2026 20:35:50 +0000</pubDate>
+      <pubDate>Sun, 25 Oct 2026 20:35:51 +0000</pubDate>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html</guid>
     </item>
     <item>
@@ -51,7 +212,7 @@
       <title>[Politics] Peltola Postpones Events After ‘Minor Injuries’ in Automobile Collision, Campaign Says</title>
       <link>https://www.nytimes.com/2026/10/25/us/politics/peltola-automobile-collision-campaign-events-postponed.html</link>
       <description>NYT — Politics: Mary Peltola, Alaska’s Democratic Senate nominee, is rescheduling stops that were planned for Sunday and Monday after the vehicle she was in was struck by another driver Saturday night, according to her campaign.</description>
-      <pubDate>Sun, 25 Oct 2026 20:33:30 +0000</pubDate>
+      <pubDate>Sun, 25 Oct 2026 20:33:31 +0000</pubDate>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/25/us/politics/peltola-automobile-collision-campaign-events-postponed.html</guid>
     </item>
     <item>
@@ -69,20 +230,6 @@
       <guid isPermaLink="true">https://blockclubchicago.org/2026/10/25/man-strangled-girlfriend-to-death-sexually-assaulted-another-woman-in-their-chatham-apartment-prosecutors-say/</guid>
     </item>
     <item>
-      <title>[News / World] Can Carrick survive Man United’s slump and Fernandes fallout?</title>
-      <link>https://www.aljazeera.com/sports/2026/10/25/can-carrick-survive-man-united-slump-and-fernandes-fallout?traffic_source=rss</link>
-      <description>Al Jazeera: Manchester United cheer Michael Carrick off after Bournemouth loss but boo Bruno Fernandes, what now for crisis club?</description>
-      <pubDate>Sun, 25 Oct 2026 20:01:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/sports/2026/10/25/can-carrick-survive-man-united-slump-and-fernandes-fallout?traffic_source=rss</guid>
-    </item>
-    <item>
-      <title>[News / World] Brazil election results 2026 live: Lula-Bolsonaro voting extended by 2 hours</title>
-      <link>https://www.aljazeera.com/news/liveblog/2026/10/25/brazil-election-results-2026-live-polls-close-in-lula-bolsonaro-face-off?traffic_source=rss</link>
-      <description>Al Jazeera: Brazilian President Luiz Inacio Lula da Silva and Senator Flavio Bolsonaro square off in closely watched election.</description>
-      <pubDate>Sun, 25 Oct 2026 20:00:04 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/news/liveblog/2026/10/25/brazil-election-results-2026-live-polls-close-in-lula-bolsonaro-face-off?traffic_source=rss</guid>
-    </item>
-    <item>
       <title>[News / World] Exiled opposition leader María Corina Machado returns to Venezuela</title>
       <link>https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return</link>
       <description>The Guardian — World: &lt;p&gt;Nobel peace prize winner’s return after almost a year in exile is unlikely to please interim president Delcy Rodríguez&lt;/p&gt;&lt;p&gt;The Venezuelan opposition leader, María Corina Machado, has announced she has returned to Venezuela almost a year after she left the country to receive the Nobel peace priz</description>
@@ -97,69 +244,6 @@
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/25/world/americas/brazil-election-lula-bolsonaro-what-to-know.html</guid>
     </item>
     <item>
-      <title>[Politics] Trump accuses Fox News of giving too much airtime to GOP opponents</title>
-      <link>https://thehill.com/homenews/administration/6171084-trump-accuses-fox-news-of-giving-too-much-airtime-to-gop-opponents/</link>
-      <description>The Hill: President Trump on Sunday blasted Fox News for giving too much airtime to Democratic candidates ahead of the midterm elections, arguing that the network’s coverage was bringing too much attention to Republican opponents that could hurt them in tight races. “FoxNews is spending far too much time putt</description>
-      <pubDate>Sun, 25 Oct 2026 19:53:53 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/homenews/administration/6171084-trump-accuses-fox-news-of-giving-too-much-airtime-to-gop-opponents/</guid>
-    </item>
-    <item>
-      <title>[Politics] Whitmer pushes back on Michelle Obama: America is ready to elect a woman president</title>
-      <link>https://thehill.com/homenews/state-watch/6171083-whitmer-pushes-obama-remarks/</link>
-      <description>The Hill: Michigan Gov. Gretchen Whitmer (D) pushed back on former first lady Michelle Obama’s remarks that the U.S. was not ready to elect a woman president. Appearing on NBC’s “Meet the Press,” about Obama’s past comments, Whitmer responded, saying, “Listen, I have got a lot of colleagues who I think are pr</description>
-      <pubDate>Sun, 25 Oct 2026 19:52:27 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/homenews/state-watch/6171083-whitmer-pushes-obama-remarks/</guid>
-    </item>
-    <item>
-      <title>[News / World] Brazil election 2026: Live second round results</title>
-      <link>https://www.theguardian.com/world/ng-interactive/2026/oct/25/brazil-election-2026-live-second-round-results</link>
-      <description>The Guardian — World: &lt;p&gt;After a shock defeat in the first round, the incumbent Brazilian president, Luiz Inácio Lula da Silva,&lt;strong&gt; &lt;/strong&gt;is seeking a new term in a runoff with Flávio Bolsonaro, the son of his convicted predecessor&lt;/p&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Polls were originally due to close at 17.00BRT, 20.00GMT, but vot</description>
-      <pubDate>Sun, 25 Oct 2026 19:37:49 +0000</pubDate>
-      <guid isPermaLink="true">https://www.theguardian.com/world/ng-interactive/2026/oct/25/brazil-election-2026-live-second-round-results</guid>
-    </item>
-    <item>
-      <title>[News / World] The narrative battle over France’s unrest</title>
-      <link>https://www.aljazeera.com/video/the-listening-post/2026/10/25/the-narrative-battle-over-frances-unrest?traffic_source=rss</link>
-      <description>Al Jazeera: Student protests, police violence and French media obsessed with &amp;#039;barbarians&amp;#039;.</description>
-      <pubDate>Sun, 25 Oct 2026 19:36:14 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/video/the-listening-post/2026/10/25/the-narrative-battle-over-frances-unrest?traffic_source=rss</guid>
-    </item>
-    <item>
-      <title>[News / World] Iraqis mark seven years since Tishreen protests with reform demands</title>
-      <link>https://www.aljazeera.com/video/newsfeed/2026/10/25/iraqis-mark-seven-years-since-tishreen-protests-with-reform-demands?traffic_source=rss</link>
-      <description>Al Jazeera: Thousands gather in Tahrir Square to mark seven years since Iraq’s 2019 ‘Tishreen’ protests.</description>
-      <pubDate>Sun, 25 Oct 2026 19:36:05 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/10/25/iraqis-mark-seven-years-since-tishreen-protests-with-reform-demands?traffic_source=rss</guid>
-    </item>
-    <item>
-      <title>[Politics] Crow: Elon Musk having control to cut off Starlink to Ukraine is ‘beyond disturbing to me’</title>
-      <link>https://thehill.com/policy/technology/6170777-jason-crow-criticizes-elon-musk-starlink-control-ukraine/</link>
-      <description>The Hill: Rep. Jason Crow (D-Colo.) on Sunday said that SpaceX CEO Elon Musk having the ability to cut off Starlink access to Ukraine is &amp;#8220;beyond disturbing to me.&amp;#8221; &amp;#8220;Face the Nation&amp;#8221; host Margaret Brennan asked Crow about satellite services provided by SpaceX being fully restored in Ukr</description>
-      <pubDate>Sun, 25 Oct 2026 19:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/policy/technology/6170777-jason-crow-criticizes-elon-musk-starlink-control-ukraine/</guid>
-    </item>
-    <item>
-      <title>[News / World] Serbia voter turnout highest in decades as students oppose longtime leader</title>
-      <link>https://www.aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader?traffic_source=rss</link>
-      <description>Al Jazeera: Election commission says turnout reaches 65% amid allegations of intimidation, violence and voting irregularities.</description>
-      <pubDate>Sun, 25 Oct 2026 19:19:54 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader?traffic_source=rss</guid>
-    </item>
-    <item>
-      <title>[Politics] Acton wins Cleveland Plain Dealer endorsement in Ohio governor’s race</title>
-      <link>https://thehill.com/homenews/campaign/6170989-amy-cton-wins-cleveland-plain-dealer-endorsement-in-ohio-governors-race/</link>
-      <description>The Hill: Ohio Democrat gubernatorial candidate Amy Acton wins the Cleveland Plain Dealer endorsement on Sunday after the newspaper decided earlier this year it would not be endorsing candidates in the state&amp;#8217;s toss-up gubernatorial and Senate elections. “Vivek Ramaswamy, seeking the highest office in th</description>
-      <pubDate>Sun, 25 Oct 2026 19:19:04 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/homenews/campaign/6170989-amy-cton-wins-cleveland-plain-dealer-endorsement-in-ohio-governors-race/</guid>
-    </item>
-    <item>
-      <title>[News / World] Death toll in Nigeria village raided by gunmen rises to 48, police say</title>
-      <link>https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>BBC News — World: Unidentified gunmen on motorcycles swooped on a remote village on Friday, looting shops and setting houses ablaze.</description>
-      <pubDate>Sun, 25 Oct 2026 19:14:27 +0000</pubDate>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&amp;at_campaign=rss</guid>
-    </item>
-    <item>
       <title>[Chicago] Green, Pink Line Service Disruptions Extended Due Lake Street Bridge Work</title>
       <link>https://blockclubchicago.org/2026/10/25/green-pink-line-service-disruptions-extended-due-lake-street-bridge-work/</link>
       <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;684&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2021/10/102021-Chicago-Architecture-Tour-Colin-Boyle-7713.jpg?fit=1024%2C684&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figure&gt;Green and Pink line servic</description>
@@ -167,39 +251,11 @@
       <guid isPermaLink="true">https://blockclubchicago.org/2026/10/25/green-pink-line-service-disruptions-extended-due-lake-street-bridge-work/</guid>
     </item>
     <item>
-      <title>[News / World] Venezuela’s opposition leader Maria Corina Machado returns from exile</title>
-      <link>https://www.aljazeera.com/news/2026/10/25/venezuelas-opposition-leader-maria-corina-machado-returns-from-exile?traffic_source=rss</link>
-      <description>Al Jazeera: The Nobel laureate&amp;#039;s homecoming follows national protests demanding free elections.</description>
-      <pubDate>Sun, 25 Oct 2026 18:55:39 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/10/25/venezuelas-opposition-leader-maria-corina-machado-returns-from-exile?traffic_source=rss</guid>
-    </item>
-    <item>
       <title>[Politics] Trump’s Election Attacks Enter New Pre-emptive Phase</title>
       <link>https://www.nytimes.com/2026/10/25/us/politics/trumps-election-alaska.html</link>
       <description>NYT — Politics: A lawsuit by the Justice Department challenging a potential narrow loss by the GOP Senate incumbent in Alaska reflects a new tactic by the president to try to shape the election results.</description>
       <pubDate>Sun, 25 Oct 2026 18:42:12 +0000</pubDate>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/25/us/politics/trumps-election-alaska.html</guid>
-    </item>
-    <item>
-      <title>[News / World] When is the 2026 Ballon d’Or, who are the favourites, and how can you watch it?</title>
-      <link>https://www.aljazeera.com/sports/2026/10/25/when-is-the-2026-ballon-dor-who-are-the-favourites-and-how-can-you-watch-it?traffic_source=rss</link>
-      <description>Al Jazeera: Al Jazeera Sport breaks down the award-voting criteria, top candidates and history ahead of the ceremony in London.</description>
-      <pubDate>Sun, 25 Oct 2026 18:34:19 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/sports/2026/10/25/when-is-the-2026-ballon-dor-who-are-the-favourites-and-how-can-you-watch-it?traffic_source=rss</guid>
-    </item>
-    <item>
-      <title>[News / World] Venezuelan opposition leader María Machado returns after months in exile</title>
-      <link>https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>BBC News — World: Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.</description>
-      <pubDate>Sun, 25 Oct 2026 18:29:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&amp;at_campaign=rss</guid>
-    </item>
-    <item>
-      <title>[Politics] Hassett says the economy is ‘best we’ve ever seen’</title>
-      <link>https://thehill.com/homenews/administration/6170922-hassett-economy-midterms/</link>
-      <description>The Hill: Kevin Hassett, the director of the National Economic Council (NEC), on Sunday said the economy is the &amp;#8220;best we&amp;#8217;ve ever seen&amp;#8221; as the Trump administration and Republicans make their final pitches heading into the midterm elections. &amp;#8220;So the great big picture about the economy is</description>
-      <pubDate>Sun, 25 Oct 2026 18:18:07 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/homenews/administration/6170922-hassett-economy-midterms/</guid>
     </item>
     <item>
       <title>[News / World] A Day After Renewed Street Clashes in France, Relief and Anxiety Mix</title>
@@ -223,25 +279,11 @@
       <guid isPermaLink="true">https://blockclubchicago.org/2026/10/25/uptown-bike-route-renamed-lilys-greenway-in-honor-of-girl-3-killed-while-biking-on-the-street/</guid>
     </item>
     <item>
-      <title>[Politics] An Iowa Republican’s Unusual Connection to the Kochs (and Kansas)</title>
-      <link>https://www.nytimes.com/2026/10/25/us/politics/zach-lahn-iowa-governor-kansas-kochs.html</link>
-      <description>NYT — Politics: In his campaign for governor, Zach Lahn has pitched himself as a self-made businessman. His backstory is more complicated.</description>
-      <pubDate>Sun, 25 Oct 2026 16:26:44 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/25/us/politics/zach-lahn-iowa-governor-kansas-kochs.html</guid>
-    </item>
-    <item>
       <title>[News / World] Venezuela&#x27;s opposition leader María Corina Machado returns after months in exile</title>
       <link>https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile</link>
       <description>NPR News: Machado announced her arrival on social media, writing &quot;I am here. With you.&quot;</description>
       <pubDate>Sun, 25 Oct 2026 16:18:41 +0000</pubDate>
       <guid isPermaLink="true">https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile</guid>
-    </item>
-    <item>
-      <title>[Politics] In Texas Senate Race, Talarico Leans Into Growing Rivalry With Elon Musk</title>
-      <link>https://www.nytimes.com/2026/10/25/us/politics/talarico-musk-texas-senate-paxton-midterms.html</link>
-      <description>NYT — Politics: On the trail, James Talarico, the Democratic Senate nominee, has increasingly gone after Mr. Musk, a critic of his who has given big to a group aligned with the Republican candidate, Ken Paxton.</description>
-      <pubDate>Sun, 25 Oct 2026 16:12:13 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/25/us/politics/talarico-musk-texas-senate-paxton-midterms.html</guid>
     </item>
     <item>
       <title>[History] There are 427 castles in Wales – and this one is my favourite</title>
@@ -265,13 +307,6 @@
       <guid isPermaLink="true">https://www.npr.org/2026/10/25/g-s1-149563/israel-election-war-netanyahu</guid>
     </item>
     <item>
-      <title>[News / World] Saudi Arabia Reopens Riyadh Airport Even as Houthis Threaten Further Strikes</title>
-      <link>https://www.nytimes.com/2026/10/25/world/middleeast/saudi-arabia-riyadh-airport-reopens.html</link>
-      <description>NYT — World: The Houthis, an Iran-backed Yemeni militia, launched several deadly attacks on the airport this month.</description>
-      <pubDate>Sun, 25 Oct 2026 15:50:53 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/25/world/middleeast/saudi-arabia-riyadh-airport-reopens.html</guid>
-    </item>
-    <item>
       <title>[News / World] Suspect in deadly Paris suburb shooting sent for psychiatric observation</title>
       <link>https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&amp;at_campaign=rss</link>
       <description>BBC News — World: He will be observed to evaluate whether his &quot;psychiatric health is compatible with pursuing his interrogation&quot;, authorities said.</description>
@@ -286,13 +321,6 @@
       <guid isPermaLink="true">https://www.npr.org/2026/10/25/nx-s1-6007348/what-makes-a-good-spine-tingler-stephen-graham-jones-says-its-all-in-the-ending</guid>
     </item>
     <item>
-      <title>[News / World] Brazilians vote in presidential election runoff pitting leftist Lula against far-right Bolsonaro</title>
-      <link>https://www.theguardian.com/world/2026/oct/25/lula-da-silva-flavio-bolsonaro-brazil-presidential-election</link>
-      <description>The Guardian — World: &lt;p&gt;Incumbent president lost in first round to senator and son of convicted ex-president &lt;/p&gt;&lt;p&gt;Brazilians are going to the polls on Sunday in a highly unpredictable runoff in which the leftist president, &lt;a href=&quot;https://www.theguardian.com/world/luiz-inacio-lula-da-silva&quot;&gt;Luiz Inácio Lula da Silva&lt;</description>
-      <pubDate>Sun, 25 Oct 2026 14:41:17 +0000</pubDate>
-      <guid isPermaLink="true">https://www.theguardian.com/world/2026/oct/25/lula-da-silva-flavio-bolsonaro-brazil-presidential-election</guid>
-    </item>
-    <item>
       <title>[News / World] Gabon says access to social media restored after eight-month ban</title>
       <link>https://www.bbc.co.uk/news/articles/c6x2w0ngejneo?at_medium=RSS&amp;at_campaign=rss</link>
       <description>BBC News — World: The authorities had justified the ban by saying online content was fuelling conflict, while the opposition had condemned it as an abuse of power.</description>
@@ -303,7 +331,7 @@
       <title>[Politics] Democrats Have Edge Across Four Key House Races in Pennsylvania, Polls Find</title>
       <link>https://www.nytimes.com/2026/10/25/us/politics/polls-pennsylvania-house-midterms-battlegrounds.html</link>
       <description>NYT — Politics: Democratic candidates are ahead in two, hold a narrow edge in a third and are tied in a fourth, new polling shows. The seats embody the fights playing out nationwide in the midterms.</description>
-      <pubDate>Sun, 25 Oct 2026 12:59:20 +0000</pubDate>
+      <pubDate>Sun, 25 Oct 2026 12:59:21 +0000</pubDate>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/25/us/politics/polls-pennsylvania-house-midterms-battlegrounds.html</guid>
     </item>
     <item>
@@ -342,13 +370,6 @@
       <guid isPermaLink="true">https://www.npr.org/2026/10/25/nx-s1-6011190/meta-facebook-settlement-beauty-filters-ai</guid>
     </item>
     <item>
-      <title>[News / World] Elon Musk Says Ukraine Violated Starlink’s Rules</title>
-      <link>https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html</link>
-      <description>NYT — World: The comments came after the disruption in the country’s satellite service. Earlier, Ukraine said drones using Starshield, the Pentagon-funded service, were back to normal speeds.</description>
-      <pubDate>Sun, 25 Oct 2026 09:28:36 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html</guid>
-    </item>
-    <item>
       <title>[Politics] Latinos Are Now America’s Most Important Swing Voters</title>
       <link>https://www.nytimes.com/2026/10/25/us/politics/latino-voters-poll-midterm-elections.html</link>
       <description>NYT — Politics: Latinos helped fuel President Trump’s return to the White House. But Democrats have won back the trust of many Hispanic voters over the past two years.</description>
@@ -368,13 +389,6 @@
       <description>NYT — Politics: Senator Roger Marshall was slow to recognize the steep challenge he faced in his solidly conservative state. Now he is confronting dissent among voters with deep economic worries.</description>
       <pubDate>Sun, 25 Oct 2026 09:00:54 +0000</pubDate>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/25/us/politics/roger-marshall-kansas-senate.html</guid>
-    </item>
-    <item>
-      <title>[Politics] He Took Big Risks to Make Billions. He Wants Georgia Voters to Bet on Him.</title>
-      <link>https://www.nytimes.com/2026/10/25/us/politics/he-took-big-risks-to-make-billions-he-wants-georgia-voters-to-bet-on-him.html</link>
-      <description>NYT — Politics: Rick Jackson’s run for governor as a political nobody was his latest gamble. The campaign has brought scrutiny to the businesses that made him a fortune.</description>
-      <pubDate>Sun, 25 Oct 2026 09:00:18 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/25/us/politics/he-took-big-risks-to-make-billions-he-wants-georgia-voters-to-bet-on-him.html</guid>
     </item>
     <item>
       <title>[News / World] Musk says SpaceX restricted Ukraine&#x27;s Starlink connection as service restored</title>
@@ -410,13 +424,6 @@
       <description>NYT — World: Making a home on the world’s most remote inhabited island.</description>
       <pubDate>Sun, 25 Oct 2026 04:01:26 +0000</pubDate>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/25/world/africa/tristan-da-cunha-island.html</guid>
-    </item>
-    <item>
-      <title>[News / World] What to Know as Serbia Votes for a New Parliament</title>
-      <link>https://www.nytimes.com/2026/10/25/world/europe/serbia-election.html</link>
-      <description>NYT — World: A student-led movement is challenging the governing party of Aleksandar Vucic, who has dominated Serbian politics for over a decade.</description>
-      <pubDate>Sun, 25 Oct 2026 04:01:22 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/25/world/europe/serbia-election.html</guid>
     </item>
     <item>
       <title>[History] Why did Stalin commit a robbery? The bloody heist that made the dictator’s name</title>
@@ -543,13 +550,6 @@
       <description>HistoryExtra: Francis Drake sailed around the globe and was a leader of the fleet that defeated the Spanish Armada – the ultimate Elizabethan A-lister. He was a brutal pirate who trafficked enslaved Africans and ravaged Spanish ships and ports. Elaine Murphy holds up a mirror to the contradictory faces of Tudor E</description>
       <pubDate>Fri, 23 Oct 2026 14:30:45 +0000</pubDate>
       <guid isPermaLink="true">https://www.historyextra.com/membership/he-was-a-pirate-slaver-and-killer-so-why-is-he-englands-national-hero/</guid>
-    </item>
-    <item>
-      <title>[Chicago] Chicago Board Of Education Adopts New Union Contract For Lunchroom Workers</title>
-      <link>https://blockclubchicago.org/2026/10/23/chicago-board-of-education-adopts-new-union-contract-for-lunchroom-workers/</link>
-      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;Lunch workers protested in April after stalled contract negotiations with Chicago Public Schools. The Chicago Board of Education approved a new contract with the union.&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;682&quot; src=&quot;https://i0.wp.com/bcc-news</description>
-      <pubDate>Fri, 23 Oct 2026 14:19:33 +0000</pubDate>
-      <guid isPermaLink="true">https://blockclubchicago.org/2026/10/23/chicago-board-of-education-adopts-new-union-contract-for-lunchroom-workers/</guid>
     </item>
     <item>
       <title>[News / World] Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus</title>
