@@ -3,112 +3,315 @@
   <title>A Character Quiz — Combined Digest</title>
   <link>https://www.acharacterquiz.com</link>
   <description>News, politics, books, history, philosophy, and Chicago — merged into one feed</description>
-  <lastBuildDate>Tue, 27 Oct 2026 19:50:35 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 27 Oct 2026 23:31:35 +0000</lastBuildDate>
   
     <item>
-      <title>[News / World] Dutch zookeeper dies after being mauled in leopard enclosure</title>
+      <title>[News / World] President Lula calls Bolsonaro’s Brazil exit ‘shameful’</title>
+      <link>https://www.aljazeera.com/video/newsfeed/2026/10/27/president-lula-calls-bolsonaros-brazil-exit?traffic_source=rss</link>
+      <description>Al Jazeera: President Lula da Silva criticised Flavio Bolsonaro for leaving Brazil amid reports he was headed to the US.</description>
+      <pubDate>Tue, 27 Oct 2026 23:23:42 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/10/27/president-lula-calls-bolsonaros-brazil-exit?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] Live Updates: Opposition Holds Slim Lead Over Netanyahu’s Coalition in Israeli Elections</title>
+      <link>https://www.nytimes.com/live/2026/10/27/world/israel-elections</link>
+      <description>NYT — World: Exit polls showed no clear winner after the highest voter turnout in decades. A bloc of parties led by the former military chief Gadi Eisenkot is trying to unseat Prime Minister Benjamin Netanyahu and his right-wing allies.</description>
+      <pubDate>Tue, 27 Oct 2026 23:21:30 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2026/10/27/world/israel-elections</guid>
+    </item>
+    <item>
+      <title>[News / World] A bad day for Ben-Gvir as he addresses his supporters</title>
+      <link>https://www.aljazeera.com/video/newsfeed/2026/10/27/a-bad-day-for-ben-gvir-as-he-addresses-his-supporters?traffic_source=rss</link>
+      <description>Al Jazeera: Itamar Ben Gvir was defiant after polls show his Otzma Yehudit party has lost seats in the Israeli election.</description>
+      <pubDate>Tue, 27 Oct 2026 23:16:38 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/10/27/a-bad-day-for-ben-gvir-as-he-addresses-his-supporters?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[Politics] Pentagon picks Poland for new missile maintenance facility</title>
+      <link>https://thehill.com/newsletters/defense-national-security/6176571-pentagon-picks-poland-missile-facility/</link>
+      <description>The Hill: Presented by Palantir {beacon} Defense &amp;#038;National Security Defense &amp;#038;National Security &amp;#8202; The Big Story&amp;#160; Pentagon picks Poland for new missile maintenance facility The Pentagon picked Poland to host the maintenance center for Lockheed Martin&amp;#8217;s Patriot interceptor missiles, th</description>
+      <pubDate>Tue, 27 Oct 2026 23:15:58 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/newsletters/defense-national-security/6176571-pentagon-picks-poland-missile-facility/</guid>
+    </item>
+    <item>
+      <title>[Politics] Hasan Piker sues Scott Jennings for defamation</title>
+      <link>https://thehill.com/regulation/court-battles/6176566-piker-defamation-lawsuit-jennings/</link>
+      <description>The Hill: Progressive Twitch streamer Hasan Piker filed a defamation lawsuit against conservative CNN commentator Scott Jennings on Tuesday, accusing him of falsely claiming Piker advocated lynching Black Americans after airing an edited video of his remarks. The 38-page lawsuit, filed in federal court in Was</description>
+      <pubDate>Tue, 27 Oct 2026 23:12:20 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/regulation/court-battles/6176566-piker-defamation-lawsuit-jennings/</guid>
+    </item>
+    <item>
+      <title>[Politics] Spy Chief Tries to Restore Order After Upheaval at Intelligence Office</title>
+      <link>https://www.nytimes.com/2026/10/27/us/politics/jay-clayton-odni.html</link>
+      <description>NYT — Politics: Jay Clayton is pushing his office back to more traditional functions, reshuffling or firing some officials, and halting projects to build a dining room and firing range.</description>
+      <pubDate>Tue, 27 Oct 2026 23:12:16 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/27/us/politics/jay-clayton-odni.html</guid>
+    </item>
+    <item>
+      <title>[Politics] Live updates: Trump holds second Texas rally in one day; Talarico plans dueling event</title>
+      <link>https://thehill.com/homenews/state-watch/6173803-live-updates-trump-texas-midterm-elections/</link>
+      <description>The Hill: With one week to go before the midterms, President Trump arrived Tuesday afternoon in Texas, taking the stage to stump in Corpus Christi for GOP candidates before making his way to Lubbock to do the same. He&amp;#8217;s in the Lone Star State hoping to boost support for GOP Gov. Greg Abbott&amp;#8217;s reel</description>
+      <pubDate>Tue, 27 Oct 2026 23:08:23 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/homenews/state-watch/6173803-live-updates-trump-texas-midterm-elections/</guid>
+    </item>
+    <item>
+      <title>[News / World] Trump shows off tanker with ‘1m barrels of oil’ and floats Venezuela as 51st state</title>
+      <link>https://www.theguardian.com/us-news/2026/oct/27/trump-oil-tanker-venezuela</link>
+      <description>The Guardian — World: &lt;p&gt;President at Texas campaign rally hails deal struck with post-Maduro government as ‘greatest oil victory in history’&lt;/p&gt;&lt;p&gt;Donald Trump suggested Venezuela become the 51st state of the United States on Tuesday as the president showed off a tanker he claimed had “one million barrels of oil on it” </description>
+      <pubDate>Tue, 27 Oct 2026 23:07:06 +0000</pubDate>
+      <guid isPermaLink="true">https://www.theguardian.com/us-news/2026/oct/27/trump-oil-tanker-venezuela</guid>
+    </item>
+    <item>
+      <title>[Politics] Supreme Court Allows Texas’ Deal With Justice Dept. on Deportation Proceedings</title>
+      <link>https://www.nytimes.com/2026/10/27/us/politics/supreme-court-texas-immigration.html</link>
+      <description>NYT — Politics: Immigrant advocates called the agreement “collusion” and had asked the justices to reinstate a Biden-era policy that gave immigration judges discretion.</description>
+      <pubDate>Tue, 27 Oct 2026 23:07:04 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/27/us/politics/supreme-court-texas-immigration.html</guid>
+    </item>
+    <item>
+      <title>[News / World] No clear mandate projected in Israel election: What’s next?</title>
+      <link>https://www.aljazeera.com/news/2026/10/27/no-clear-mandate-projected-in-israel-election-whats-next?traffic_source=rss</link>
+      <description>Al Jazeera: President Isaac Herzog will task the candidate he deems best placed to form a government once results are in.</description>
+      <pubDate>Tue, 27 Oct 2026 23:06:47 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/10/27/no-clear-mandate-projected-in-israel-election-whats-next?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[Chicago] Ald. Ronnie Mosley Running Unopposed In Far South Side’s 21st Ward</title>
+      <link>https://blockclubchicago.org/2026/10/27/ald-ronnie-mosley-running-unopposed-in-far-south-sides-21st-ward/</link>
+      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;682&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2025/04/042525-Anaerobic-Digester-Colin-Boyle-1193.jpg?fit=1024%2C682&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figure&gt;The incumbent alderman was the on</description>
+      <pubDate>Tue, 27 Oct 2026 23:05:34 +0000</pubDate>
+      <guid isPermaLink="true">https://blockclubchicago.org/2026/10/27/ald-ronnie-mosley-running-unopposed-in-far-south-sides-21st-ward/</guid>
+    </item>
+    <item>
+      <title>[News / World] Smotrich dances in Israel despite far-right decline</title>
+      <link>https://www.aljazeera.com/video/newsfeed/2026/10/27/smotrich-dances-in-israel-despite-far-right-decline?traffic_source=rss</link>
+      <description>Al Jazeera: Israeli Finance Minister Smotrich celebrates despite exit polls suggesting support for his far-right party declined.</description>
+      <pubDate>Tue, 27 Oct 2026 23:03:44 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/10/27/smotrich-dances-in-israel-despite-far-right-decline?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] Arab towns in Israel celebrate historic Knesset gains with fireworks</title>
+      <link>https://www.aljazeera.com/video/newsfeed/2026/10/27/arab-towns-in-israel-celebrate-historic-knesset-gains-with-fireworks?traffic_source=rss</link>
+      <description>Al Jazeera: Celebrations erupted in Lod, Kafr Manda and Tayibe after Israeli media exit polls projected a combined 18 Knesset seats</description>
+      <pubDate>Tue, 27 Oct 2026 22:56:32 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/10/27/arab-towns-in-israel-celebrate-historic-knesset-gains-with-fireworks?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] ‘Go home, Ben-Gvir’; Arab Bloc celebrates record turnout in Israel election</title>
+      <link>https://www.aljazeera.com/video/newsfeed/2026/10/27/go-home-ben-gvir-arab-bloc-celebrates-record-turnout-in-israel-election?traffic_source=rss</link>
+      <description>Al Jazeera: Israel’s Joint Arab List party celebrated as exit polls projected as many as 18 parliamentary seats for the Arab-bloc.</description>
+      <pubDate>Tue, 27 Oct 2026 22:31:31 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/10/27/go-home-ben-gvir-arab-bloc-celebrates-record-turnout-in-israel-election?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] Iran war live: Pezeshkian says Middle East can solve own issues without US</title>
+      <link>https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-pezeshkian-says-middle-east-can-solve-own-issues-without-us?traffic_source=rss</link>
+      <description>Al Jazeera: Iranian president&amp;#039;s words came at summit for gas exporting countries in Russia.</description>
+      <pubDate>Tue, 27 Oct 2026 22:29:31 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-pezeshkian-says-middle-east-can-solve-own-issues-without-us?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[Chicago] Ald. Lamont Robinson Running Unopposed In South Side’s 4th Ward</title>
+      <link>https://blockclubchicago.org/2026/10/27/ald-lamont-robinson-is-running-unopposed-in-south-sides-4th-ward/</link>
+      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;681&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2025/12/121025-City-Council-Colin-Boyle-3109.jpg?fit=1024%2C681&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figure&gt;The first-term alderman beat six candid</description>
+      <pubDate>Tue, 27 Oct 2026 22:26:48 +0000</pubDate>
+      <guid isPermaLink="true">https://blockclubchicago.org/2026/10/27/ald-lamont-robinson-is-running-unopposed-in-south-sides-4th-ward/</guid>
+    </item>
+    <item>
+      <title>[Chicago] Ald. Nicole Lee Running Unopposed In Bridgeport, Chinatown’s 11th Ward</title>
+      <link>https://blockclubchicago.org/2026/10/27/ald-nicole-lee-running-unopposed-in-bridgeport-chinatowns-11th-ward/</link>
+      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;681&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2023/04/042723-Ald-Nicole-Lee-11th-Ward-Colin-Boyle-4937.jpg?fit=1024%2C681&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figure&gt;Lee was appointed to the 11</description>
+      <pubDate>Tue, 27 Oct 2026 22:25:55 +0000</pubDate>
+      <guid isPermaLink="true">https://blockclubchicago.org/2026/10/27/ald-nicole-lee-running-unopposed-in-bridgeport-chinatowns-11th-ward/</guid>
+    </item>
+    <item>
+      <title>[Politics] Judge criticizes Justice Department’s handling of ex-FBI officials’ charges over Hunter Biden investigation</title>
+      <link>https://thehill.com/regulation/court-battles/6176490-judge-criticizes-doj-hunter-biden-fbi-case/</link>
+      <description>The Hill: A federal magistrate judge criticized the Justice Department (DOJ) during a lengthy hearing on Tuesday for attempting to tack on new charges overnight in a case against two former FBI officials accused of lying to Congress about their knowledge regarding the federal investigation into Hunter Biden&amp;#</description>
+      <pubDate>Tue, 27 Oct 2026 22:24:45 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/regulation/court-battles/6176490-judge-criticizes-doj-hunter-biden-fbi-case/</guid>
+    </item>
+    <item>
+      <title>[Politics] Justice Dept. Steps Up Moves on Comey and Others as Midterm Elections Near</title>
+      <link>https://www.nytimes.com/2026/10/27/us/politics/trump-blanche-elections-comey.html</link>
+      <description>NYT — Politics: In some cases, court paperwork bears unmistakable signs of urgency — typos, unorthodox tactics and the signatures of the department’s senior political leadership.</description>
+      <pubDate>Tue, 27 Oct 2026 22:18:49 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/27/us/politics/trump-blanche-elections-comey.html</guid>
+    </item>
+    <item>
+      <title>[Politics] Grand Jury Declines to Bring Charges Against Cassidy Hutchinson</title>
+      <link>https://www.nytimes.com/2026/10/27/us/politics/cassidy-hutchinson-indicted-trump-testimony.html</link>
+      <description>NYT — Politics: The rejection of the indictment was the latest extraordinary setback in President Trump’s wide-ranging campaign to go after his political opponents.</description>
+      <pubDate>Tue, 27 Oct 2026 22:11:48 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/27/us/politics/cassidy-hutchinson-indicted-trump-testimony.html</guid>
+    </item>
+    <item>
+      <title>[News / World] Ceasefire extended across Ukraine&#x27;s Kherson region, officials say</title>
+      <link>https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>BBC News — World: The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.</description>
+      <pubDate>Tue, 27 Oct 2026 22:11:08 +0000</pubDate>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&amp;at_campaign=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] Flávio Bolsonaro flees Brazil after presidential election loss, reports say</title>
+      <link>https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled</link>
+      <description>The Guardian — World: &lt;p&gt;Far-right senator en route to US after missing deadline to hand over his passport since loss to Lula&lt;/p&gt;&lt;p&gt;The far-right senator &lt;a href=&quot;https://www.theguardian.com/world/fl-vio-bolsonaro&quot;&gt;Flávio Bolsonaro&lt;/a&gt; has reportedly fled Brazil and is on his way to the United States after losing Sunday’</description>
+      <pubDate>Tue, 27 Oct 2026 22:03:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled</guid>
+    </item>
+    <item>
+      <title>[Politics] Sabato’s Crystal Ball moves 16 House races toward Democrats</title>
+      <link>https://thehill.com/homenews/campaign/6176403-sabatos-crystal-ball-shifts-democrats/</link>
+      <description>The Hill: Nonpartisan election forecaster Sabato’s Crystal Ball is shifting more than a dozen House races toward Democrats in the final week of the campaign, another sign of a worsening political environment for Republicans. Crystal Ball, a division of the University of Virginia’s Center for Politics, has mov</description>
+      <pubDate>Tue, 27 Oct 2026 22:02:50 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/homenews/campaign/6176403-sabatos-crystal-ball-shifts-democrats/</guid>
+    </item>
+    <item>
+      <title>[Politics] Low-Key or Electric? The Style Gulf Splitting the Democratic Party</title>
+      <link>https://www.nytimes.com/2026/10/27/us/politics/low-key-or-electric-the-style-gulf-splitting-the-democratic-party.html</link>
+      <description>NYT — Politics: Should a candidate light the world on fire, or is being a little bit boring actually a secret weapon?</description>
+      <pubDate>Tue, 27 Oct 2026 22:02:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/27/us/politics/low-key-or-electric-the-style-gulf-splitting-the-democratic-party.html</guid>
+    </item>
+    <item>
+      <title>[Chicago] Ald. Raymond Lopez Running Unopposed In South Side’s 15th Ward</title>
+      <link>https://blockclubchicago.org/2026/10/27/ald-raymond-lopez-running-unopposed-in-south-sides-15th-ward/</link>
+      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;682&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2025/03/031225-City-Council-Colin-Boyle-4586.jpg?fit=1024%2C682&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figure&gt;Lopez, one of the city&#x27;s most vocal and</description>
+      <pubDate>Tue, 27 Oct 2026 21:56:43 +0000</pubDate>
+      <guid isPermaLink="true">https://blockclubchicago.org/2026/10/27/ald-raymond-lopez-running-unopposed-in-south-sides-15th-ward/</guid>
+    </item>
+    <item>
+      <title>[News / World] In Israel’s Election, It’s Nationalism vs. Founding Ideals</title>
+      <link>https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-identity.html</link>
+      <description>NYT — World: As Israel votes, ever more strident hard-right views compete with hopes for a diverse land. The outcome could shape the country’s identity for years.</description>
+      <pubDate>Tue, 27 Oct 2026 21:49:04 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-identity.html</guid>
+    </item>
+    <item>
+      <title>[News / World] Flavio Bolsonaro flees Brazil after election loss, US says will grant visa</title>
+      <link>https://www.aljazeera.com/news/2026/10/27/flavio-bolsonaro-flees-brazil-after-election-loss-us-says-will-grant-visa?traffic_source=rss</link>
+      <description>Al Jazeera: News comes one day after Brazil&amp;#039;s Supreme Court ordered Bolsonaro to hand over his passports in money-laundering probe.</description>
+      <pubDate>Tue, 27 Oct 2026 21:47:34 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/10/27/flavio-bolsonaro-flees-brazil-after-election-loss-us-says-will-grant-visa?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[Chicago] Elianne Bahena, Chief Of Staff To Retiring Alderman, Running Unopposed In 22nd Ward</title>
+      <link>https://blockclubchicago.org/2026/10/27/elianne-bahena-chief-of-staff-to-retiring-alderman-running-unopposed-in-22nd-ward/</link>
+      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;Elianne &amp;quot;Ely&amp;quot; Bahena was the only candidate who filed petitions to run for leader of the 22nd Ward in the 2027 municipal election, which will be held Feb. 23, by Monday’s deadline.&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;684&quot; src=&quot;http</description>
+      <pubDate>Tue, 27 Oct 2026 21:44:31 +0000</pubDate>
+      <guid isPermaLink="true">https://blockclubchicago.org/2026/10/27/elianne-bahena-chief-of-staff-to-retiring-alderman-running-unopposed-in-22nd-ward/</guid>
+    </item>
+    <item>
+      <title>[Politics] Judge temporarily blocks Trump administration from speeding up refugee status revocations</title>
+      <link>https://thehill.com/homenews/administration/6176283-judge-blocks-refugees-rule/</link>
+      <description>The Hill: A federal judge on Tuesday temporarily blocked a Trump administration rule that gives refugees just 10 days to challenge the termination of their legal status. U.S. District Judge Julia Kobick in Boston ordered the administration to halt the enforcement of the rule through Nov. 6, giving another jud</description>
+      <pubDate>Tue, 27 Oct 2026 21:43:45 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/homenews/administration/6176283-judge-blocks-refugees-rule/</guid>
+    </item>
+    <item>
+      <title>[Politics] 4 Dem senators say Trump should restore canceled green funds to earn trust for permitting reform bill</title>
+      <link>https://thehill.com/policy/energy-environment/6176346-trump-green-grants-permitting-reform/</link>
+      <description>The Hill: A group of Democratic senators is expressing distrust that the Trump administration will treat renewable energy fairly under a bipartisan permitting reform bill — and they are calling on the administration to restore climate funding it terminated for blue states. Their letter to Democrats and Republ</description>
+      <pubDate>Tue, 27 Oct 2026 21:40:15 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/policy/energy-environment/6176346-trump-green-grants-permitting-reform/</guid>
+    </item>
+    <item>
+      <title>[Politics] Obama’s Cheesecake Factory jab spurs a midterm spat</title>
+      <link>https://thehill.com/newsletters/business-economy/6176306-obamas-cheesecake-factory-jab-spurs-a-midterm-spat/</link>
+      <description>The Hill: Welcome to The Hill&amp;#8217;s Business &amp;#038; Economy newsletter {beacon} Business &amp;#038; Economy Business &amp;#038; Economy &amp;#8202; The Big Story&amp;#160; Obama&amp;#8217;s Cheesecake Factory jab spurs a midterm spat A Cheesecake Factory jab from former President Obama quickly spiraled into a midterm spat betw</description>
+      <pubDate>Tue, 27 Oct 2026 21:32:02 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/newsletters/business-economy/6176306-obamas-cheesecake-factory-jab-spurs-a-midterm-spat/</guid>
+    </item>
+    <item>
+      <title>[Chicago] Work Finally Begins On DuSable Park, Nearly 40 Years After Land Was Set Aside For It</title>
+      <link>https://blockclubchicago.org/2026/10/27/work-finally-begins-on-dusable-park-nearly-40-years-after-land-was-set-aside-for-it/</link>
+      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;768&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2026/10/IMG_1890-scaled.jpg?fit=1024%2C768&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figure&gt;Lakefront land was first set aside for the park in 1987. It </description>
+      <pubDate>Tue, 27 Oct 2026 21:23:16 +0000</pubDate>
+      <guid isPermaLink="true">https://blockclubchicago.org/2026/10/27/work-finally-begins-on-dusable-park-nearly-40-years-after-land-was-set-aside-for-it/</guid>
+    </item>
+    <item>
+      <title>[News / World] Southwest flood damage estimates are hundreds of millions for New Mexico alone</title>
+      <link>https://www.npr.org/2026/10/27/nx-s1-6019352/southwest-flood-damage-estimates-are-hundreds-of-millions-for-new-mexico-alone</link>
+      <description>NPR News: Intense rainstorms &lt;a href=&quot;https://www.kuer.org/science-environment/2026-10-27/super-el-nino-utah-october-rain-southwest-precipitation&quot; target=&quot;_blank&quot;&gt;linked to a very active El Niño-driven Pacific hurricane&lt;/a&gt; season have left thousands of people in the Four Corners states displaced.</description>
+      <pubDate>Tue, 27 Oct 2026 21:17:57 +0000</pubDate>
+      <guid isPermaLink="true">https://www.npr.org/2026/10/27/nx-s1-6019352/southwest-flood-damage-estimates-are-hundreds-of-millions-for-new-mexico-alone</guid>
+    </item>
+    <item>
+      <title>[News / World] Alexander brothers each sentenced to 30 years in prison for sex trafficking case</title>
+      <link>https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>BBC News — World: The three brothers were found guilty of drugging and raping several women over the course of decades.</description>
+      <pubDate>Tue, 27 Oct 2026 21:12:39 +0000</pubDate>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&amp;at_campaign=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] Ex-wife of Zimbabwe&#x27;s vice-president freed after collapse of attempted murder case</title>
+      <link>https://www.bbc.co.uk/news/articles/c6e3xgq11jqlo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>BBC News — World: Marry Mubaiwa had been held on remand for seven years after being charged in 2019 for her then husband&#x27;s attempted murder.</description>
+      <pubDate>Tue, 27 Oct 2026 21:09:12 +0000</pubDate>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c6e3xgq11jqlo?at_medium=RSS&amp;at_campaign=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] European Leaders Split Over Phone Call to Putin</title>
+      <link>https://www.nytimes.com/2026/10/27/world/europe/norway-finland-putin-call.html</link>
+      <description>NYT — World: The diplomatic outreach was part of an effort to push talks to end the war in Ukraine, though it was not welcomed by all European leaders.</description>
+      <pubDate>Tue, 27 Oct 2026 20:49:50 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/27/world/europe/norway-finland-putin-call.html</guid>
+    </item>
+    <item>
+      <title>[News / World] Israel&#x27;s election has a high turnout, lifting opposition hopes of beating Netanyahu</title>
+      <link>https://www.npr.org/2026/10/27/nx-s1-6019381/israel-elections</link>
+      <description>NPR News: Israelis voted in their highest numbers in decades in a tense national election on Tuesday to decide whether to stick with Prime Minister Benjamin Netanyahu&#x27;s far-right coalition or change course.</description>
+      <pubDate>Tue, 27 Oct 2026 20:45:39 +0000</pubDate>
+      <guid isPermaLink="true">https://www.npr.org/2026/10/27/nx-s1-6019381/israel-elections</guid>
+    </item>
+    <item>
+      <title>[News / World] Egypt court fines journalist Lina Attalah and orders news site&#x27;s closure</title>
+      <link>https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>BBC News — World: Amnesty International said the verdict against Attalah and independent outlet Mada Masr represented &quot;a crushing blow to press freedom&quot;.</description>
+      <pubDate>Tue, 27 Oct 2026 20:44:40 +0000</pubDate>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&amp;at_campaign=rss</guid>
+    </item>
+    <item>
+      <title>[Chicago] Whole Foods Coming To Former Family Dollar Store In Logan Square</title>
+      <link>https://blockclubchicago.org/2026/10/27/whole-foods-coming-to-former-family-dollar-store-in-logan-square/</link>
+      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;533&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2018/06/1_UuGfIwTsqkv83JbWyEKPsw1.jpeg?fit=800%2C533&amp;amp;ssl=1&quot; width=&quot;800&quot; /&gt;&lt;/figure&gt;The store continues the chain&#x27;s expansion into dens</description>
+      <pubDate>Tue, 27 Oct 2026 20:40:00 +0000</pubDate>
+      <guid isPermaLink="true">https://blockclubchicago.org/2026/10/27/whole-foods-coming-to-former-family-dollar-store-in-logan-square/</guid>
+    </item>
+    <item>
+      <title>[Chicago] Ald. Debra Silverstein Running Unopposed In West Ridge’s 50th Ward</title>
+      <link>https://blockclubchicago.org/2026/10/27/ald-debra-silverstein-running-unopposed-in-west-ridges-50th-ward/</link>
+      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;681&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2023/12/121323-City-Council-Colin-Boyle-3186.jpg?fit=1024%2C681&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figure&gt;Silverstein has represented the Far Nor</description>
+      <pubDate>Tue, 27 Oct 2026 20:35:52 +0000</pubDate>
+      <guid isPermaLink="true">https://blockclubchicago.org/2026/10/27/ald-debra-silverstein-running-unopposed-in-west-ridges-50th-ward/</guid>
+    </item>
+    <item>
+      <title>[News / World] Olivia Chow elected as Toronto mayor for second term in victory for progressives</title>
+      <link>https://www.theguardian.com/world/2026/oct/27/olivia-chow-toronto-mayor-election-results</link>
+      <description>The Guardian — World: &lt;p&gt;Tightly fought election saw record turnout as incumbent mayor ran against her rival Brad Bradford&lt;/p&gt;&lt;p&gt;The mayor of Toronto, Olivia Chow, promised more rental housing, free school lunches and reduce fares for frequent transit riders after she was elected to a decisive second term as mayor in a w</description>
+      <pubDate>Tue, 27 Oct 2026 20:23:46 +0000</pubDate>
+      <guid isPermaLink="true">https://www.theguardian.com/world/2026/oct/27/olivia-chow-toronto-mayor-election-results</guid>
+    </item>
+    <item>
+      <title>[News / World] The Ebola outbreak is breaking records -- and just marked a grim milestone</title>
+      <link>https://www.npr.org/2026/10/27/g-s1-150136/ebola-outbreak-milestone-democratic-republic-congo-vaccine</link>
+      <description>NPR News: The current outbreak, first identified in the Democratic Republic of Congo, has now counted 10,000 patients and has spread with great speed. How can it be stopped?</description>
+      <pubDate>Tue, 27 Oct 2026 19:53:12 +0000</pubDate>
+      <guid isPermaLink="true">https://www.npr.org/2026/10/27/g-s1-150136/ebola-outbreak-milestone-democratic-republic-congo-vaccine</guid>
+    </item>
+    <item>
+      <title>[News / World] Dutch zookeeper dies after being mauled by leopard</title>
       <link>https://www.bbc.co.uk/news/articles/crwyq90gwg8jo?at_medium=RSS&amp;at_campaign=rss</link>
       <description>BBC News — World: The woman began her career at the park when she was 17 and had worked there on-and-off for four decades.</description>
       <pubDate>Tue, 27 Oct 2026 19:30:37 +0000</pubDate>
       <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/crwyq90gwg8jo?at_medium=RSS&amp;at_campaign=rss</guid>
     </item>
     <item>
-      <title>[News / World] US’s RFK Jr claims Arabs ‘don’t produce science’: Why he’s very, very wrong</title>
-      <link>https://www.aljazeera.com/news/2026/10/27/uss-rfk-jr-claims-arabs-dont-produce-science-why-hes-very-very-wrong?traffic_source=rss</link>
-      <description>Al Jazeera: US Health Secretary Robert F Kennedy Jr has claimed Arabs have not made contributions to math, science or literature.</description>
-      <pubDate>Tue, 27 Oct 2026 19:12:35 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/10/27/uss-rfk-jr-claims-arabs-dont-produce-science-why-hes-very-very-wrong?traffic_source=rss</guid>
-    </item>
-    <item>
-      <title>[News / World] Trump says he’ll respect US midterm results if elections are ‘honest’</title>
-      <link>https://www.aljazeera.com/video/newsfeed/2026/10/27/trump-says-hell-respect-us-midterm-results-if-elections-are?traffic_source=rss</link>
-      <description>Al Jazeera: US President Donald Trump says he will respect the results of the November 3 midterm elections if they are ‘honest’.</description>
-      <pubDate>Tue, 27 Oct 2026 19:11:27 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/10/27/trump-says-hell-respect-us-midterm-results-if-elections-are?traffic_source=rss</guid>
-    </item>
-    <item>
-      <title>[News / World] Deaths in detention cells in Nigeria were entirely preventable, inquiry finds</title>
-      <link>https://www.bbc.co.uk/news/articles/cmgel8pqj5rwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>BBC News — World: Overcrowding and poor ventilation caused the deaths of 33 detainees in a prison cell in Minna state.</description>
-      <pubDate>Tue, 27 Oct 2026 19:01:16 +0000</pubDate>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cmgel8pqj5rwo?at_medium=RSS&amp;at_campaign=rss</guid>
-    </item>
-    <item>
-      <title>[Politics] DCCC pushes for ads targeting GOP on AI, data centers in dozens of key House races</title>
-      <link>https://thehill.com/policy/technology/6175681-dccc-targets-gop-ai-data-centers/</link>
-      <description>The Hill: The Democratic Congressional Campaign Committee (DCCC) is pushing for advertising targeting Republican candidates over their record on AI and data centers in dozens of key House races, as technology-related issues take on new significance in the midterm elections. In a report shared first with The H</description>
-      <pubDate>Tue, 27 Oct 2026 19:01:08 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/policy/technology/6175681-dccc-targets-gop-ai-data-centers/</guid>
-    </item>
-    <item>
-      <title>[Politics] How Accurate Are the Midterm Polls? The Bias Varies by State.</title>
+      <title>[Politics] How Accurate Are Midterm Polls? Errors Vary From State to State.</title>
       <link>https://www.nytimes.com/2026/10/27/us/politics/midterm-polls-errors-states.html</link>
       <description>NYT — Politics: Recent presidential election polls have overestimated Democrats, but midterm polls are far less consistent state by state. The differences could matter quite a bit.</description>
       <pubDate>Tue, 27 Oct 2026 19:00:07 +0000</pubDate>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/27/us/politics/midterm-polls-errors-states.html</guid>
-    </item>
-    <item>
-      <title>[Politics] Kalshi expands protections for users aged 18-20</title>
-      <link>https://thehill.com/policy/technology/6175520-kalshi-expands-young-trader-protections/</link>
-      <description>The Hill: Prediction market platform Kalshi is expanding protections for young traders aged 18-20, which includes a new monthly deposit limit.   Accounts in the age range will now have a $2,500 monthly deposit limit, Kalshi announced in a press release Tuesday. They will be automatically placed into “special </description>
-      <pubDate>Tue, 27 Oct 2026 18:57:52 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/policy/technology/6175520-kalshi-expands-young-trader-protections/</guid>
-    </item>
-    <item>
-      <title>[News / World] Deadly tornado strikes construction site in Turkiye</title>
-      <link>https://www.aljazeera.com/video/newsfeed/2026/10/27/deadly-tornado-strikes-construction-site-in-turkiye?traffic_source=rss</link>
-      <description>Al Jazeera: Deadly tornado strikes construction site in Turkiye</description>
-      <pubDate>Tue, 27 Oct 2026 18:52:07 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/10/27/deadly-tornado-strikes-construction-site-in-turkiye?traffic_source=rss</guid>
-    </item>
-    <item>
-      <title>[Politics] 4 in 10 say personal finances worsening: Survey</title>
-      <link>https://thehill.com/business/6175688-americans-personal-finances-declining/</link>
-      <description>The Hill: Four in 10 Americans say their personal finances are deteriorating, according to a new poll released shortly before November&amp;#8217;s midterm elections. In the NPR/PBS News/Marist Poll, 40 percent of people said their “personal family finances” have declined in the last 12 months, while 16 percent sa</description>
-      <pubDate>Tue, 27 Oct 2026 18:50:56 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/business/6175688-americans-personal-finances-declining/</guid>
-    </item>
-    <item>
-      <title>[Politics] Democrats seize on Machado’s return to push for Venezuela elections</title>
-      <link>https://thehill.com/homenews/senate/6175609-lawmakers-urge-venezuela-elections-machado-return/</link>
-      <description>The Hill: Democratic lawmakers urged the Venezuelan government to hold elections following opposition leader María Corina Machado’s recent return to the country after nearly a year in exile. Sen. Jeanne Shaheen (D-N.H.), the top Democrat on the Senate Foreign Relations Committee, called Machado’s return to Ve</description>
-      <pubDate>Tue, 27 Oct 2026 18:45:52 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/homenews/senate/6175609-lawmakers-urge-venezuela-elections-machado-return/</guid>
-    </item>
-    <item>
-      <title>[Politics] 2026 midterm elections: When polls close; when results are expected</title>
-      <link>https://thehill.com/homenews/campaign/6175621-midterm-elections-polls-close-results/</link>
-      <description>The Hill: There are just seven days until the final votes will be cast in the 2026 midterms. Tens of millions of voters across the country have already cast ballots for Senate, House, governor, state legislature and other critical races that will determine the future of President Trump’s agenda. In the Senate</description>
-      <pubDate>Tue, 27 Oct 2026 18:44:22 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/homenews/campaign/6175621-midterm-elections-polls-close-results/</guid>
-    </item>
-    <item>
-      <title>[News / World] Ghanaian twin brothers and US woman plead guilty to $9m romance scam</title>
-      <link>https://www.bbc.co.uk/news/articles/cwz0vg2j442lo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>BBC News — World: The group targeted elderly people across US and Europe, luring them into romantic relationship before persuading them to transfer large sums of money.</description>
-      <pubDate>Tue, 27 Oct 2026 18:43:41 +0000</pubDate>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cwz0vg2j442lo?at_medium=RSS&amp;at_campaign=rss</guid>
-    </item>
-    <item>
-      <title>[News / World] Russia jails IT worker for 13 years for donating money to Ukraine</title>
-      <link>https://www.aljazeera.com/news/2026/10/27/russia-jails-it-worker-for-13-years-for-donating-money-to-ukraine?traffic_source=rss</link>
-      <description>Al Jazeera: Cryptocurrency exchange Binance shared Ukraine donation data with Russian authorities resulting in his conviction.</description>
-      <pubDate>Tue, 27 Oct 2026 18:42:48 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/10/27/russia-jails-it-worker-for-13-years-for-donating-money-to-ukraine?traffic_source=rss</guid>
-    </item>
-    <item>
-      <title>[News / World] Rain brings temporary relief as Southeast Asia battles fires and toxic haze</title>
-      <link>https://www.aljazeera.com/video/newsfeed/2026/10/27/indonesia-wildfires-rain-toxic-haze-southeast-asia?traffic_source=rss</link>
-      <description>Al Jazeera: Rain has offered brief relief from wildfires in Indonesia, but underground peat fires continue to burn</description>
-      <pubDate>Tue, 27 Oct 2026 18:41:28 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/10/27/indonesia-wildfires-rain-toxic-haze-southeast-asia?traffic_source=rss</guid>
-    </item>
-    <item>
-      <title>[News / World] Harry Kane: How the ‘runt of the litter’ conquered a historic Ballon d’Or</title>
-      <link>https://www.aljazeera.com/sports/2026/10/27/ballon-dor-harry-kane-england-bayern-munich?traffic_source=rss</link>
-      <description>Al Jazeera: Once mocked for being the most famous player never to win a trophy, Kane now has the most prestigious individual honour.</description>
-      <pubDate>Tue, 27 Oct 2026 18:38:13 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/sports/2026/10/27/ballon-dor-harry-kane-england-bayern-munich?traffic_source=rss</guid>
     </item>
     <item>
       <title>[Books &amp; Literature] 31 of the Most Popular Horror Books on Libby</title>
@@ -118,46 +321,11 @@
       <guid isPermaLink="true">https://bookriot.com/most-popular-horror-books-on-libby-october-2026/</guid>
     </item>
     <item>
-      <title>[News / World] The WhatsApp ‘general’ behind Lula’s election comeback in Brazil</title>
-      <link>https://www.aljazeera.com/news/2026/10/27/the-whatsapp-general-behind-lulas-election-comeback-in-brazil?traffic_source=rss</link>
-      <description>Al Jazeera: Andre Janones built a WhatsApp army of nearly 11 million subscribers. Did it help Lula win?</description>
-      <pubDate>Tue, 27 Oct 2026 18:35:05 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/10/27/the-whatsapp-general-behind-lulas-election-comeback-in-brazil?traffic_source=rss</guid>
-    </item>
-    <item>
-      <title>[Politics] Trump says he will ban the term artificial intelligence</title>
-      <link>https://thehill.com/homenews/administration/6175633-trump-bans-artificial-intelligence-term/</link>
-      <description>The Hill: President Trump said Tuesday that he was banning the term artificial intelligence “in all relevant documents and everything else.” “In short order, we will be officially BANNING the term, ‘AI/Artificial Intelligence,’ in all relevant documents, and everything else, due to its inaccuracy,” he wrote o</description>
-      <pubDate>Tue, 27 Oct 2026 18:33:08 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/homenews/administration/6175633-trump-bans-artificial-intelligence-term/</guid>
-    </item>
-    <item>
-      <title>[Politics] CDC deputy director to leave administration after 4 months</title>
-      <link>https://thehill.com/policy/healthcare/6175616-shuford-to-exit-cdc-november/</link>
-      <description>The Hill: Dr. Jennifer Shuford, the Centers for Disease Control and Prevention’s (CDC) deputy director and chief medical officer, is leaving the agency after just four months on the job.&amp;#160; Shuford, an infectious disease physician, was a former Texas health commissioner. She was appointed in April as part </description>
-      <pubDate>Tue, 27 Oct 2026 18:32:19 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/policy/healthcare/6175616-shuford-to-exit-cdc-november/</guid>
-    </item>
-    <item>
-      <title>[Politics] ESPN’s Pat McAfee blasted for comparing himself to Charlie Kirk</title>
-      <link>https://thehill.com/homenews/media/6175502-pat-mcafee-charlie-kirk-utah/</link>
-      <description>The Hill: ESPN personality Pat McAfee is facing widespread mockery for apparently comparing himself to the late conservative activist Charlie Kirk as he expressed discomfort with the way he was received by students at the University of Utah before a recent trip there for &amp;#8220;College GameDay.&amp;#8221; McAfee,</description>
-      <pubDate>Tue, 27 Oct 2026 18:30:01 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/homenews/media/6175502-pat-mcafee-charlie-kirk-utah/</guid>
-    </item>
-    <item>
       <title>[News / World] South Africa Deploys 500 Soldiers to Quell Anti-Immigration Violence</title>
       <link>https://www.nytimes.com/2026/10/27/world/africa/south-africa-durban-soldiers.html</link>
       <description>NYT — World: The deployment comes after a foreign national was beaten to death by a mob during an anti-immigrant protest last week.</description>
       <pubDate>Tue, 27 Oct 2026 18:28:59 +0000</pubDate>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/27/world/africa/south-africa-durban-soldiers.html</guid>
-    </item>
-    <item>
-      <title>[Politics] Justice Dept. Steps Up Moves on Comey and Others as Midterm Elections Near</title>
-      <link>https://www.nytimes.com/2026/10/27/us/politics/trump-blanche-elections-comey.html</link>
-      <description>NYT — Politics: In some cases, court paperwork bears unmistakable signs of urgency — typos, unorthodox tactics and the signatures of the department’s senior political leadership.</description>
-      <pubDate>Tue, 27 Oct 2026 18:28:43 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/27/us/politics/trump-blanche-elections-comey.html</guid>
     </item>
     <item>
       <title>[News / World] Norway and Finland leaders hold rare call with Putin</title>
@@ -167,32 +335,11 @@
       <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&amp;at_campaign=rss</guid>
     </item>
     <item>
-      <title>[News / World] Flávio Bolsonaro flees Brazil after presidential election loss, reports say</title>
-      <link>https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled</link>
-      <description>The Guardian — World: &lt;p&gt;Far-right senator on plane to US after missing deadline to hand over his passport since loss to Lula&lt;/p&gt;&lt;p&gt;The far-right senator &lt;a href=&quot;https://www.theguardian.com/world/fl-vio-bolsonaro&quot;&gt;Flávio Bolsonaro&lt;/a&gt; has reportedly fled Brazil and is on his way to the United States after losing Sunday’</description>
-      <pubDate>Tue, 27 Oct 2026 18:27:32 +0000</pubDate>
-      <guid isPermaLink="true">https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled</guid>
-    </item>
-    <item>
-      <title>[News / World] European Leaders Split Over Phone Call to Putin</title>
-      <link>https://www.nytimes.com/2026/10/27/world/europe/norway-finland-putin-call.html</link>
-      <description>NYT — World: The diplomatic outreach was part of an effort to push talks to end the war in Ukraine, though it was not welcome by all European leaders.</description>
-      <pubDate>Tue, 27 Oct 2026 18:26:02 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/27/world/europe/norway-finland-putin-call.html</guid>
-    </item>
-    <item>
-      <title>[News / World] ‘If they’re honest’: Trump casts latest suspicion on US midterm elections</title>
-      <link>https://www.aljazeera.com/news/2026/10/27/if-theyre-honest-trump-casts-latest-suspicion-on-us-midterm-elections?traffic_source=rss</link>
-      <description>Al Jazeera: Trump&amp;#039;s comments come as his administration files legal challenges to Democrat-led US states over election integrity.</description>
-      <pubDate>Tue, 27 Oct 2026 18:24:13 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/10/27/if-theyre-honest-trump-casts-latest-suspicion-on-us-midterm-elections?traffic_source=rss</guid>
-    </item>
-    <item>
-      <title>[News / World] US military says strike on alleged drug vessel in eastern Pacific kills five people</title>
-      <link>https://www.theguardian.com/us-news/2026/oct/27/us-military-strike-vessel-eastern-pacific</link>
-      <description>The Guardian — World: &lt;p&gt;US military says it carried out an airstrike on an alleged drug-trafficking boat in latest attack in region&lt;/p&gt;&lt;p&gt;The US ⁠military ⁠&lt;a href=&quot;https://x.com/Southcom/status/2115116783199735980&quot;&gt;said&lt;/a&gt; on ​Tuesday ⁠it killed ⁠five ​people ‌after ‌an airstrike on a ‌suspected drug-trafficking vesse</description>
-      <pubDate>Tue, 27 Oct 2026 17:35:50 +0000</pubDate>
-      <guid isPermaLink="true">https://www.theguardian.com/us-news/2026/oct/27/us-military-strike-vessel-eastern-pacific</guid>
+      <title>[News / World] Trump Explores Lifting Sanctions on Russia’s Flagship Investment Fund</title>
+      <link>https://www.nytimes.com/2026/10/27/us/politics/russia-fund-sanctions-trump.html</link>
+      <description>NYT — World: The move would be the latest U.S. concession to Moscow as President Trump pursues economic incentives he hopes will secure an end to war in Ukraine.</description>
+      <pubDate>Tue, 27 Oct 2026 17:30:52 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/27/us/politics/russia-fund-sanctions-trump.html</guid>
     </item>
     <item>
       <title>[Politics] Trump Explores Lifting Sanctions on Russia’s Flagship Investment Fund</title>
@@ -200,13 +347,6 @@
       <description>NYT — Politics: The move would be the latest U.S. concession to Moscow as President Trump pursues economic incentives he hopes will secure an end to war in Ukraine.</description>
       <pubDate>Tue, 27 Oct 2026 17:30:52 +0000</pubDate>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/27/us/politics/russia-fund-sanctions-trump.html</guid>
-    </item>
-    <item>
-      <title>[News / World] The Key Election Issues Dividing Israelis as They Vote</title>
-      <link>https://www.nytimes.com/2026/10/27/world/middleeast/israel-elections-key-issues.html</link>
-      <description>NYT — World: The question of accountability for the government’s failures in the Hamas-led attacks on Oct. 7, 2023, looms over the election.</description>
-      <pubDate>Tue, 27 Oct 2026 17:30:03 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/27/world/middleeast/israel-elections-key-issues.html</guid>
     </item>
     <item>
       <title>[News / World] Egyptian Court Orders News Site Closed as Critics Warn of a Crackdown</title>
@@ -223,13 +363,6 @@
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/27/world/europe/serbia-student-list-news-media-vucic.html</guid>
     </item>
     <item>
-      <title>[Politics] Nithya Raman Is Not L.A.’s Mamdani. But She Might Become Mayor, Too.</title>
-      <link>https://www.nytimes.com/2026/10/27/us/politics/los-angeles-mayor-nithya-raman-democratic-socialist.html</link>
-      <description>NYT — Politics: Little known a year ago, she is a Democratic Socialist drawing comparisons to New York’s Zohran Mamdani. She has mounted a strong challenge to the incumbent, Karen Bass.</description>
-      <pubDate>Tue, 27 Oct 2026 17:09:02 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/27/us/politics/los-angeles-mayor-nithya-raman-democratic-socialist.html</guid>
-    </item>
-    <item>
       <title>[News / World] A judge halted D.C. golf course renovations. Trump says they&#x27;ll still start next month</title>
       <link>https://www.npr.org/2026/10/27/nx-s1-6019192/east-potomac-golf-course-renovations-blocked-appeal</link>
       <description>NPR News: A federal judge has barred the government from clearing more trees or making other alterations to D.C.&#x27;s East Potomac Park without proper notice. Trump says his administration will appeal.</description>
@@ -237,25 +370,11 @@
       <guid isPermaLink="true">https://www.npr.org/2026/10/27/nx-s1-6019192/east-potomac-golf-course-renovations-blocked-appeal</guid>
     </item>
     <item>
-      <title>[Chicago] FBI Agent Fatally Shoots Man In Pilsen, Agency Says</title>
-      <link>https://blockclubchicago.org/2026/10/27/fbi-agent-fatally-shoots-man-in-pilsen-agency-says/</link>
-      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;682&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2026/10/BUR1.png?fit=1024%2C682&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figure&gt;The shooting happened around 5:30 p.m. Monday in the 1700 block of Sout</description>
-      <pubDate>Tue, 27 Oct 2026 16:52:44 +0000</pubDate>
-      <guid isPermaLink="true">https://blockclubchicago.org/2026/10/27/fbi-agent-fatally-shoots-man-in-pilsen-agency-says/</guid>
-    </item>
-    <item>
       <title>[Politics] Michigan Senate Race Drives Anxiety Among Jewish and Muslim Voters</title>
       <link>https://www.nytimes.com/2026/10/27/us/politics/michigan-senate-race-jewish-muslim-voters.html</link>
       <description>NYT — Politics: More than elsewhere in the country, U.S. policy toward Israel is at the forefront of the race between Mike Rogers and Abdul El-Sayed.</description>
       <pubDate>Tue, 27 Oct 2026 16:47:22 +0000</pubDate>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/27/us/politics/michigan-senate-race-jewish-muslim-voters.html</guid>
-    </item>
-    <item>
-      <title>[News / World] ‘Will Lula’s win end Latin America’s far right turn?’: Our correspondent in Brazil answered your questions</title>
-      <link>https://www.theguardian.com/world/live/2026/oct/27/brazil-election-reader-questions-lula-bolsonaro</link>
-      <description>The Guardian — World: &lt;p&gt;Having lost the first round of Brazil’s presidential election to far right rival Flávio Bolsonaro, incumbent Luiz Inácio Lula da Silva spectacularly triumphed in the second. The Guardian’s Latin America corrrespondent Tom Phillips answered your questions on what’s next for Brazil.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;J</description>
-      <pubDate>Tue, 27 Oct 2026 16:46:23 +0000</pubDate>
-      <guid isPermaLink="true">https://www.theguardian.com/world/live/2026/oct/27/brazil-election-reader-questions-lula-bolsonaro</guid>
     </item>
     <item>
       <title>[Chicago] Omar is a rich and stirring story of faith and resistance</title>
@@ -273,46 +392,11 @@
       <guid isPermaLink="true">https://dailynous.com/2026/10/27/new-oxford-studies-in-philosophy-of-ai-and-computing/</guid>
     </item>
     <item>
-      <title>[Politics] Supreme Court Allows Texas’ Deal With Justice Dept. on Deportation Proceedings</title>
-      <link>https://www.nytimes.com/2026/10/27/us/politics/supreme-court-texas-immigration.html</link>
-      <description>NYT — Politics: Immigrant advocates called the agreement “collusion” and had asked the justices to reinstate a Biden-era policy that gave immigration judges discretion.</description>
-      <pubDate>Tue, 27 Oct 2026 16:15:07 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/27/us/politics/supreme-court-texas-immigration.html</guid>
-    </item>
-    <item>
-      <title>[News / World] Truce begins in Ukraine city where residents ate weeds to survive</title>
-      <link>https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>BBC News — World: The Oleshky ceasefire, which the White House said was secured by US First Lady Melania Trump, is meant to allow aid to get in and civilians to get out.</description>
-      <pubDate>Tue, 27 Oct 2026 15:13:24 +0000</pubDate>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&amp;at_campaign=rss</guid>
-    </item>
-    <item>
-      <title>[Politics] Trump-Appointed CDC Deputy Director Jennifer Shuford Resigns After 4 Months</title>
-      <link>https://www.nytimes.com/2026/10/27/health/shuford-cdc-resign.html</link>
-      <description>NYT — Politics: Dr. Jennifer Shuford, a respected former Texas health official, had been appointed by President Trump to help steady the agency.</description>
-      <pubDate>Tue, 27 Oct 2026 15:07:59 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/27/health/shuford-cdc-resign.html</guid>
-    </item>
-    <item>
-      <title>[Politics] How Billionaires Are Fighting the Prop 40 California Wealth Tax</title>
-      <link>https://www.nytimes.com/2026/10/27/technology/proposition-40-california-billionaire-tax.html</link>
-      <description>NYT — Politics: The latest Silicon Valley billionaire club is a $333 million political ad machine that is heavily engaged in next week’s elections.</description>
-      <pubDate>Tue, 27 Oct 2026 14:55:35 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/27/technology/proposition-40-california-billionaire-tax.html</guid>
-    </item>
-    <item>
       <title>[News / World] Bolsonaro&#x27;s party accepts Brazil election defeat, but he refuses to concede</title>
       <link>https://www.npr.org/2026/10/27/nx-s1-6019217/bolsonaro-flavio-lula-brazil-election-trump</link>
       <description>NPR News: Brazil&#x27;s opposition party accepts President Luiz Inácio Lula da Silva&#x27;s election victory, but Flávio Bolsonaro won&#x27;t concede, while President Trump calls the vote &quot;rigged&quot; without offering evidence.</description>
       <pubDate>Tue, 27 Oct 2026 14:41:17 +0000</pubDate>
       <guid isPermaLink="true">https://www.npr.org/2026/10/27/nx-s1-6019217/bolsonaro-flavio-lula-brazil-election-trump</guid>
-    </item>
-    <item>
-      <title>[News / World] Ballon d&#x27;Or ceremony raises case of French sports journalist jailed in Algeria</title>
-      <link>https://www.bbc.co.uk/news/articles/c6x2qgyqr79wo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>BBC News — World: He is in jail accused of supporting terrorism after travelling to the politically sensitive region Kabylie.</description>
-      <pubDate>Tue, 27 Oct 2026 14:29:39 +0000</pubDate>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c6x2qgyqr79wo?at_medium=RSS&amp;at_campaign=rss</guid>
     </item>
     <item>
       <title>[News / World] Discursive Verses: Jay-Z, the Super Bowl and playing with house money</title>
@@ -329,32 +413,11 @@
       <guid isPermaLink="true">https://www.npr.org/2026/10/27/nx-s1-6010370/el-nino-floods-nairobi-green-army</guid>
     </item>
     <item>
-      <title>[News / World] In Israel’s Election, It’s Nationalism vs. Founding Ideals</title>
-      <link>https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-identity.html</link>
-      <description>NYT — World: As Israel votes, ever more strident hard-right views compete with hopes for a diverse land. The outcome could shape the country’s identity for years.</description>
-      <pubDate>Tue, 27 Oct 2026 14:10:11 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-identity.html</guid>
-    </item>
-    <item>
       <title>[History] Stolen Harvests: The Battle to Recover Generational Wealth in the Bracero Program</title>
       <link>https://www.chicagohistory.org/stolen-harvests-the-battle-to-recover-generational-wealth-in-the-bracero-program/</link>
       <description>Chicago History Museum Blog: &lt;p&gt;For National Immigrants Day, Jojo Galvan Mora, CHM Digital Humanities Curator, writes about braceros—workers from Mexico who came to the United States as part of a temporary labor initiative from &amp;#8230; &lt;a href=&quot;https://www.chicagohistory.org/stolen-harvests-the-battle-to-recover-generational-we</description>
       <pubDate>Tue, 27 Oct 2026 14:09:19 +0000</pubDate>
       <guid isPermaLink="true">https://www.chicagohistory.org/stolen-harvests-the-battle-to-recover-generational-wealth-in-the-bracero-program/</guid>
-    </item>
-    <item>
-      <title>[Chicago] Roseland Hospital Maternity Ward Closure A Huge Blow To South Side Parents: ‘What Is The Plan?’</title>
-      <link>https://blockclubchicago.org/2026/10/27/roseland-hospital-maternity-ward-closure-a-huge-blow-to-south-side-parents-what-is-the-plan/</link>
-      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;681&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2022/02/020822-Roseland-Enterprise-Story-Michigan-Ave-Colin-Boyle-8159.jpg?fit=1024%2C681&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figure&gt;The hospital’</description>
-      <pubDate>Tue, 27 Oct 2026 13:48:00 +0000</pubDate>
-      <guid isPermaLink="true">https://blockclubchicago.org/2026/10/27/roseland-hospital-maternity-ward-closure-a-huge-blow-to-south-side-parents-what-is-the-plan/</guid>
-    </item>
-    <item>
-      <title>[Chicago] As Chicago Father Enters Week 3 Of Hunger Strike In Texas ICE Facility, His Family Faces Eviction</title>
-      <link>https://blockclubchicago.org/2026/10/27/as-chicago-father-enters-week-3-of-hunger-strike-in-texas-ice-facility-his-family-faces-eviction/</link>
-      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;682&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2026/10/102626-Amaliia-Giacomo-Cain-4456.jpg?fit=1024%2C682&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figure&gt;The Russian asylum-seeker and father is amo</description>
-      <pubDate>Tue, 27 Oct 2026 13:46:00 +0000</pubDate>
-      <guid isPermaLink="true">https://blockclubchicago.org/2026/10/27/as-chicago-father-enters-week-3-of-hunger-strike-in-texas-ice-facility-his-family-faces-eviction/</guid>
     </item>
     <item>
       <title>[Philosophy] Don’t Sexually Harass Your Students (a continuing series)</title>
@@ -363,13 +426,6 @@
 &lt;p&gt;The post &lt;a href=&quot;https://dailynous.com/2026/10/27/dont-sexually-harass-your-students-a-continuing-series/&quot;</description>
       <pubDate>Tue, 27 Oct 2026 13:37:22 +0000</pubDate>
       <guid isPermaLink="true">https://dailynous.com/2026/10/27/dont-sexually-harass-your-students-a-continuing-series/</guid>
-    </item>
-    <item>
-      <title>[Chicago] Getting Campaign Material For Chicago’s School Board Election? We Fact-Checked Some Of It</title>
-      <link>https://blockclubchicago.org/2026/10/27/getting-campaign-material-for-chicagos-school-board-election-we-fact-checked-some-of-it/</link>
-      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;A collage of campaign mailers for Chicago&amp;#039;s school board elections.&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;682&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2026/10/CBAds.jpg?fit=1024%2C682&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figur</description>
-      <pubDate>Tue, 27 Oct 2026 13:26:10 +0000</pubDate>
-      <guid isPermaLink="true">https://blockclubchicago.org/2026/10/27/getting-campaign-material-for-chicagos-school-board-election-we-fact-checked-some-of-it/</guid>
     </item>
     <item>
       <title>[News / World] Mbappé sorry for &#x27;ill-judged&#x27; Mao remark after backlash in China</title>
@@ -392,41 +448,6 @@
       <description>Book Riot: A haunted pinball machine, a sapphic cozy fantasy, a courtroom thriller, and more of today&#x27;s best book deals.</description>
       <pubDate>Tue, 27 Oct 2026 13:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://bookriot.com/book-riots-deals-of-the-day-for-october-27-2026/</guid>
-    </item>
-    <item>
-      <title>[Chicago] Here Are The 5 Most Endangered Parts Of Chicago’s Lakefront</title>
-      <link>https://blockclubchicago.org/2026/10/27/here-are-the-5-most-endangered-parts-of-chicagos-lakefront/</link>
-      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;682&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2026/10/102426-Munsoon-Beach-Giacomo-Cain-9550.jpg?fit=1024%2C682&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figure&gt;A Chicago Park District study identif</description>
-      <pubDate>Tue, 27 Oct 2026 13:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://blockclubchicago.org/2026/10/27/here-are-the-5-most-endangered-parts-of-chicagos-lakefront/</guid>
-    </item>
-    <item>
-      <title>[Chicago] Connecting Data Centers To The Grid Projected To Cost ComEd $3.1B</title>
-      <link>https://blockclubchicago.org/2026/10/27/its-projected-to-cost-comed-3-1b-to-connect-data-centers-to-the-grid/</link>
-      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;Transmission lines carry high-voltage electricity across large geographic areas from power plants to local substations that can then distribute it to homes and businesses.&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;683&quot; src=&quot;https://i0.wp.com/bcc-n</description>
-      <pubDate>Tue, 27 Oct 2026 12:49:00 +0000</pubDate>
-      <guid isPermaLink="true">https://blockclubchicago.org/2026/10/27/its-projected-to-cost-comed-3-1b-to-connect-data-centers-to-the-grid/</guid>
-    </item>
-    <item>
-      <title>[Chicago] Students Have Been Using The Chicago River As A Classroom For 30 Years</title>
-      <link>https://blockclubchicago.org/2026/10/27/students-have-been-using-the-chicago-river-as-a-classroom-for-30-years/</link>
-      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;682&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2026/10/102026-Chicago-Calumet-River-Schools-Network-Colin-Boyle-1091.jpg?fit=1024%2C682&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figure&gt;In 1996, Frien</description>
-      <pubDate>Tue, 27 Oct 2026 12:45:00 +0000</pubDate>
-      <guid isPermaLink="true">https://blockclubchicago.org/2026/10/27/students-have-been-using-the-chicago-river-as-a-classroom-for-30-years/</guid>
-    </item>
-    <item>
-      <title>[Chicago] This Dia De Los Muertos, Southwest Side Groups Will Honor Cyclists, Neighbors Killed In Traffic Crashes</title>
-      <link>https://blockclubchicago.org/2026/10/27/this-dia-de-los-muertos-southwest-side-groups-will-honor-slain-cyclists-neighbors-killed-in-traffic-crashes/</link>
-      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;683&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2026/04/040826-BikeMemorial-ArthurMaiorella-021-scaled.jpg?fit=1024%2C683&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figure&gt;Gage Park Cyclists and the Li</description>
-      <pubDate>Tue, 27 Oct 2026 12:45:00 +0000</pubDate>
-      <guid isPermaLink="true">https://blockclubchicago.org/2026/10/27/this-dia-de-los-muertos-southwest-side-groups-will-honor-slain-cyclists-neighbors-killed-in-traffic-crashes/</guid>
-    </item>
-    <item>
-      <title>[News / World] King Charles Faces High Stakes Test With Caribbean Tour</title>
-      <link>https://www.nytimes.com/2026/10/27/world/europe/king-charles-caribbean-tour-uk-commonwealth.html</link>
-      <description>NYT — World: The king will confront calls for reparations and apologies for his country’s colonial past as he attends the Commonwealth heads of government meeting.</description>
-      <pubDate>Tue, 27 Oct 2026 12:02:49 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/27/world/europe/king-charles-caribbean-tour-uk-commonwealth.html</guid>
     </item>
     <item>
       <title>[Books &amp; Literature] Sexless in the City: The Second Life of Cynthia Buchanan’s Maiden</title>
@@ -455,13 +476,6 @@
       <description>Literary Hub: Who chooses the poems featured on the New York City subway? Meet the people behind Poetry in Motion. &amp;#124; Lit Hub Design Rebecca Birrell considers Jane Eyre, Lily Briscoe, and writing about amateur women artists in fiction. &amp;#124; Lit Hub</description>
       <pubDate>Tue, 27 Oct 2026 10:30:20 +0000</pubDate>
       <guid isPermaLink="true">https://lithub.com/lit-hub-daily-october-27-2026/</guid>
-    </item>
-    <item>
-      <title>[News / World] How Aldi is pushing down grocery prices</title>
-      <link>https://www.npr.org/sections/planet-money/2026/10/27/g-s1-149358/how-aldi-is-pushing-down-grocery-prices</link>
-      <description>NPR News: The German-owned chain&#x27;s low prices are winning over shoppers — and pushing competitors to respond.</description>
-      <pubDate>Tue, 27 Oct 2026 10:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.npr.org/sections/planet-money/2026/10/27/g-s1-149358/how-aldi-is-pushing-down-grocery-prices</guid>
     </item>
     <item>
       <title>[Books &amp; Literature] Travel to New Worlds Without the Danger With Cozy Fantasy Manga</title>
@@ -525,20 +539,6 @@
       <description>The Guardian — Books: &lt;p&gt;A fatal mistake sparks this juicy melodrama, in which a philosophy professor navigates the guilt of being a survivor&lt;/p&gt;&lt;p&gt;What if, battered by cancer and&amp;nbsp;cancer treatment, you decided to end your life? And what if it went wrong and you lived, but a friend died in your place? Would you tell </description>
       <pubDate>Tue, 27 Oct 2026 09:00:07 +0000</pubDate>
       <guid isPermaLink="true">https://www.theguardian.com/books/2026/oct/27/time-being-by-jude-cook-review-a-smart-existential-tale-of-midlife</guid>
-    </item>
-    <item>
-      <title>[News / World] Can Black voting power and Trump fatigue break Mississippi&#x27;s red wall?</title>
-      <link>https://www.npr.org/2026/10/27/nx-s1-6018592/mississippi-senate-trump-colom-black-voter-turnout</link>
-      <description>NPR News: Mississippi has the largest proportional Black population in the country. It&#x27;s one reason the U.S. Senate race has seen millions in last-minute spending and high-profile campaign visits.</description>
-      <pubDate>Tue, 27 Oct 2026 09:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.npr.org/2026/10/27/nx-s1-6018592/mississippi-senate-trump-colom-black-voter-turnout</guid>
-    </item>
-    <item>
-      <title>[News / World] Polymarket has investigated &#x27;dozens&#x27; of election-related cases</title>
-      <link>https://www.npr.org/2026/10/27/nx-s1-6012304/polymarket-election-betting-surveillance</link>
-      <description>NPR News: The prediction market has hired a former FBI official to make sure political insiders don&#x27;t use the platform for profit from confidential election information.&lt;strong&gt; &lt;/strong&gt;</description>
-      <pubDate>Tue, 27 Oct 2026 09:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.npr.org/2026/10/27/nx-s1-6012304/polymarket-election-betting-surveillance</guid>
     </item>
     <item>
       <title>[Books &amp; Literature] Books Set in Bookstores That Get the Book Business Right</title>
