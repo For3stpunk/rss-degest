@@ -3,56 +3,365 @@
   <title>A Character Quiz — Combined Digest</title>
   <link>https://www.acharacterquiz.com</link>
   <description>News, politics, books, history, philosophy, and Chicago — merged into one feed</description>
-  <lastBuildDate>Fri, 30 Oct 2026 15:35:38 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 30 Oct 2026 20:26:40 +0000</lastBuildDate>
   
+    <item>
+      <title>[Politics] Appeals Court Again Rejects Trump Effort to Impound California Ballots</title>
+      <link>https://www.nytimes.com/2026/10/30/us/politics/appeals-trump-california-ballots.html</link>
+      <description>NYT — Politics: In a 2-to-1 vote, an appeals court panel declined to order the state to set aside more than 20,000 mail-in ballots, calling the notion plainly unconstitutional.</description>
+      <pubDate>Fri, 30 Oct 2026 20:25:06 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/30/us/politics/appeals-trump-california-ballots.html</guid>
+    </item>
+    <item>
+      <title>[Politics] Prosecutors Suggest They May Seek Additional Comey Charges</title>
+      <link>https://www.nytimes.com/2026/10/30/us/politics/james-comey-charges-doj.html</link>
+      <description>NYT — Politics: At a hearing in federal court, prosecutors defended an unusual, 11th-hour criminal case accusing the former F.B.I. director of leaking classified information a decade ago.</description>
+      <pubDate>Fri, 30 Oct 2026 20:22:31 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/30/us/politics/james-comey-charges-doj.html</guid>
+    </item>
+    <item>
+      <title>[Politics] Obamacare Dealt Yet Another Blow as Premiums Rise Again</title>
+      <link>https://www.nytimes.com/2026/10/30/business/obamacare-health-insurance-rates.html</link>
+      <description>NYT — Politics: Premiums will jump by 13 percent for next year, though much of the price increase will be offset by subsidies. But customers who earn over $64,000 will pay more, on top of this year’s huge increases.</description>
+      <pubDate>Fri, 30 Oct 2026 20:18:50 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/30/business/obamacare-health-insurance-rates.html</guid>
+    </item>
+    <item>
+      <title>[Politics] Federal debt surpassed GDP for fiscal 2026</title>
+      <link>https://thehill.com/business/6185236-federal-debt-gdp-bea-cbo-treasury/</link>
+      <description>The Hill: The national debt topped the entire gross domestic product (GDP) for fiscal 2026, according to new data from the Bureau of Economic Analysis (BEA). From the fourth quarter of 2025 through the third quarter of this year, the country’s economic output was more than $32.2 trillion, according to the BEA</description>
+      <pubDate>Fri, 30 Oct 2026 20:13:56 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/business/6185236-federal-debt-gdp-bea-cbo-treasury/</guid>
+    </item>
+    <item>
+      <title>[Politics] El-Sayed’s Former Primary Rival Demands Apology Ahead of Joint Midterms Appearance</title>
+      <link>https://www.nytimes.com/2026/10/30/us/politics/el-sayed-stevens-michigan-senate-event.html</link>
+      <description>NYT — Politics: Representative Haley Stevens plans to campaign with Dr. Abdul El-Sayed in a pivotal race. But she also wants him to apologize for comments about Israel and disavow an ad she sees as antisemitic.</description>
+      <pubDate>Fri, 30 Oct 2026 20:13:31 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/30/us/politics/el-sayed-stevens-michigan-senate-event.html</guid>
+    </item>
+    <item>
+      <title>[Politics] Distaste for Lavrov Forces U.S. to Cancel G20 Photo Session in Atlanta</title>
+      <link>https://www.nytimes.com/2026/10/30/us/politics/lavrov-russia-photo-rubio.html</link>
+      <description>NYT — Politics: Some European foreign ministers had refused to pose alongside Russia’s top diplomat, Sergey Lavrov, at a Group of 20 gathering hosted by the United States.</description>
+      <pubDate>Fri, 30 Oct 2026 20:12:18 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/30/us/politics/lavrov-russia-photo-rubio.html</guid>
+    </item>
+    <item>
+      <title>[News / World] Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea</title>
+      <link>https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>BBC News — World: The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.</description>
+      <pubDate>Fri, 30 Oct 2026 20:10:56 +0000</pubDate>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&amp;at_campaign=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] Could El Salvador’s Bukele Be Haiti’s Savior?</title>
+      <link>https://www.nytimes.com/2026/10/30/world/americas/el-salvador-haiti-soldiers-bukele.html</link>
+      <description>NYT — World: The Salvadoran government dispatched more than 2,000 troops to Haiti this week in an extraordinary deployment on foreign soil.</description>
+      <pubDate>Fri, 30 Oct 2026 20:06:07 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/30/world/americas/el-salvador-haiti-soldiers-bukele.html</guid>
+    </item>
+    <item>
+      <title>[News / World] EU and Canada seek deeper ties amid worsening global uncertainty</title>
+      <link>https://www.aljazeera.com/news/2026/10/30/eu-and-canada-seek-deeper-ties-amid-worsening-global-uncertainty?traffic_source=rss</link>
+      <description>Al Jazeera: Both sides signed a digital trade deal, as Trump&amp;#039;s trade threats push Washington&amp;#039;s allies to seek closer ties elsewhere.</description>
+      <pubDate>Fri, 30 Oct 2026 20:00:10 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/10/30/eu-and-canada-seek-deeper-ties-amid-worsening-global-uncertainty?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[Politics] Appeals court rules against Trump — again — on California ballots</title>
+      <link>https://thehill.com/regulation/court-battles/6185093-trump-administration-california-ballots-ninth-circuit-appeals-court/</link>
+      <description>The Hill: A split federal appeals court panel again rejected the Trump administration&amp;#8217;s bid to set aside 20,000 California ballots it says are likely noncitizens until they can be verified.  The 2-1 majority on the U.S. Court of Appeals for the 9th Circuit didn’t dispute a lower court’s finding that the</description>
+      <pubDate>Fri, 30 Oct 2026 19:50:13 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/regulation/court-battles/6185093-trump-administration-california-ballots-ninth-circuit-appeals-court/</guid>
+    </item>
+    <item>
+      <title>[News / World] Canada and EU announce new alliance open to like-minded countries</title>
+      <link>https://www.theguardian.com/world/2026/oct/30/canada-european-union-alliance</link>
+      <description>The Guardian — World: &lt;p&gt;Alliance for the Future, unveiled at Montreal summit and open to other countries, conceived for world ‘shaken by new storms’&lt;/p&gt;&lt;p&gt;Canada and Europe have announced a new alliance of like-minded nations to&lt;strong&gt; &lt;/strong&gt;serve as both a “protective canopy under which our citizens can thrive” and</description>
+      <pubDate>Fri, 30 Oct 2026 19:42:15 +0000</pubDate>
+      <guid isPermaLink="true">https://www.theguardian.com/world/2026/oct/30/canada-european-union-alliance</guid>
+    </item>
+    <item>
+      <title>[Politics] Judge Appoints Special Master to Determine if Trump Officials Lied in Golf Course Suit</title>
+      <link>https://www.nytimes.com/2026/10/30/us/politics/special-master-reyes-trump-golf.html</link>
+      <description>NYT — Politics: Judge Ana C. Reyes said an outside investigator would help determine whether parks officials or Justice Department lawyers withheld plans for Washington’s East Potomac Park.</description>
+      <pubDate>Fri, 30 Oct 2026 19:40:42 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/30/us/politics/special-master-reyes-trump-golf.html</guid>
+    </item>
+    <item>
+      <title>[News / World] How 20-year-old Kimi Antonelli is making F1 history</title>
+      <link>https://www.aljazeera.com/video/newsfeed/2026/10/30/how-20-year-old-kimi-antonelli-is-making-f1-history?traffic_source=rss</link>
+      <description>Al Jazeera: Kimi Antonelli had an F1 licence before he could legally drive. Now he could become Formula One’s youngest champion.</description>
+      <pubDate>Fri, 30 Oct 2026 19:39:03 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/10/30/how-20-year-old-kimi-antonelli-is-making-f1-history?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] What to know about California’s midterm elections</title>
+      <link>https://www.aljazeera.com/news/2026/10/30/what-to-know-about-the-midterm-elections-in-california?traffic_source=rss</link>
+      <description>Al Jazeera: Redistricting in California, the most populous US state, could flip control of US House from Republican to Democrat.</description>
+      <pubDate>Fri, 30 Oct 2026 19:38:49 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/10/30/what-to-know-about-the-midterm-elections-in-california?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] Why is Netanyahu accusing Palestinian Israeli parties of fraud?</title>
+      <link>https://www.aljazeera.com/video/inside-story/2026/10/30/why-is-netanyahu-accusing-palestinian-israeli-parties-of-fraud?traffic_source=rss</link>
+      <description>Al Jazeera: Prime Minister claims the parties accepted foreign funding.</description>
+      <pubDate>Fri, 30 Oct 2026 19:34:36 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/video/inside-story/2026/10/30/why-is-netanyahu-accusing-palestinian-israeli-parties-of-fraud?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[Chicago] Langar’s Indo-Euro bistro drops its anchor at the next Monday Night Foodball</title>
+      <link>https://chicagoreader.com/food/monday-night-foodball/langar-indo-euro-bistro-anchor-usama-rafi-silk-road-punjabi-south-asian-food-muhajir/</link>
+      <description>Chicago Reader: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;997&quot; src=&quot;https://i0.wp.com/chicagoreader.com/wp-content/uploads/2026/10/IMG_2497_VSCO-1-scaled-e1793384428116.jpeg?fit=1024%2C997&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figure&gt;
+&lt;p&gt;Usama Rafi’s mother used to tease </description>
+      <pubDate>Fri, 30 Oct 2026 19:33:26 +0000</pubDate>
+      <guid isPermaLink="true">https://chicagoreader.com/food/monday-night-foodball/langar-indo-euro-bistro-anchor-usama-rafi-silk-road-punjabi-south-asian-food-muhajir/</guid>
+    </item>
+    <item>
+      <title>[Politics] A Resurgent Justice Democrats Could Reshape a Democratic Congress</title>
+      <link>https://www.nytimes.com/2026/10/30/us/politics/progressive-democrats-congress-2026.html</link>
+      <description>NYT — Politics: Justice Democrats, which gained prominence backing Alexandria Ocasio-Cortez, is on track to see more of its candidates elected. Will the party listen to them?</description>
+      <pubDate>Fri, 30 Oct 2026 19:28:01 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/30/us/politics/progressive-democrats-congress-2026.html</guid>
+    </item>
+    <item>
+      <title>[Politics] El-Sayed: I’ll go through metal detector if Trump sits for lie detector</title>
+      <link>https://thehill.com/homenews/campaign/6185014-abdul-el-sayed-donald-trump-lie-detector-test-midterms-michigan/</link>
+      <description>The Hill: Michigan Senate hopeful Abdul El-Sayed (D) on Thursday responded to President Trump’s suggestion that the Democratic candidate should be forced to go through a metal detector at the U.S. Capitol if elected to Congress. During a campaign rally in Kalamazoo, Mich., El-Sayed said he would accept the re</description>
+      <pubDate>Fri, 30 Oct 2026 19:21:45 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/homenews/campaign/6185014-abdul-el-sayed-donald-trump-lie-detector-test-midterms-michigan/</guid>
+    </item>
+    <item>
+      <title>[News / World] Texas grand jury indicts ICE officer accused of running over man in Houston</title>
+      <link>https://www.aljazeera.com/news/2026/10/30/texas-grand-jury-indicts-ice-officer-accused-of-running-over-man-in-houston?traffic_source=rss</link>
+      <description>Al Jazeera: The officer faces charges after allegedly striking a fleeing construction worker with an SUV during an immigration raid.</description>
+      <pubDate>Fri, 30 Oct 2026 19:16:30 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/10/30/texas-grand-jury-indicts-ice-officer-accused-of-running-over-man-in-houston?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] Russian News Outlet That Defied Kremlin Will Shut Down: ‘They Killed Us’</title>
+      <link>https://www.nytimes.com/2026/10/30/world/europe/russia-novaya-gazeta-newspaper.html</link>
+      <description>NYT — World: Journalists at the fiercely independent Novaya Gazeta, whose co-founder received the Nobel Peace Prize, said the government had orchestrated its demise.</description>
+      <pubDate>Fri, 30 Oct 2026 19:09:14 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/30/world/europe/russia-novaya-gazeta-newspaper.html</guid>
+    </item>
+    <item>
+      <title>[News / World] Pakistan army ‘cautiously optimistic’ about US-Iran mediation efforts</title>
+      <link>https://www.aljazeera.com/news/2026/10/30/pakistan-army-cautiously-optimistic-about-us-iran-mediation-efforts?traffic_source=rss</link>
+      <description>Al Jazeera: Pakistan&amp;#039;s military spokesman warns of &amp;#039;powerful spoilers and detractors&amp;#039; who still believe the conflict serves them.</description>
+      <pubDate>Fri, 30 Oct 2026 18:55:36 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/10/30/pakistan-army-cautiously-optimistic-about-us-iran-mediation-efforts?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] U.S. to Send Dozens Back to Afghanistan, Despite Risk of Persecution</title>
+      <link>https://www.nytimes.com/2026/10/30/world/asia/afghan-refugees-deported-flight-pakistan.html</link>
+      <description>NYT — World: The Trump administration plans to fly the Afghan immigrants from Louisiana to Pakistan, where they are expected to be expelled over the border to Afghanistan.</description>
+      <pubDate>Fri, 30 Oct 2026 18:53:37 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/30/world/asia/afghan-refugees-deported-flight-pakistan.html</guid>
+    </item>
     <item>
       <title>[News / World] Police Investigate Former Prince Andrew and Epstein’s Time at Balmoral, Royal Estate in Scotland</title>
       <link>https://www.nytimes.com/2026/10/30/world/europe/andrew-epstein-scotland-police-investigation-uk-balmoral.html</link>
       <description>NYT — World: Andrew Mountbatten-Windsor spent time with Jeffrey Epstein, the convicted sex offender, and his associate Ghislaine Maxwell, at Balmoral, the royal family’s Scottish retreat.</description>
-      <pubDate>Fri, 30 Oct 2026 15:30:41 +0000</pubDate>
+      <pubDate>Fri, 30 Oct 2026 18:51:14 +0000</pubDate>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/30/world/europe/andrew-epstein-scotland-police-investigation-uk-balmoral.html</guid>
     </item>
     <item>
-      <title>[Politics] The US should strongly advocate for political prisoner releases, global freedom</title>
-      <link>https://thehill.com/opinion/international/6182870-advocating-political-prisoner-release/</link>
-      <description>The Hill: While celebrating recent political prisoner releases, author Nicole Bibbins Sedaca argues that the United States must use sanctions and diplomatic pressure to challenge the systemic use of imprisonment by autocratic regimes.</description>
-      <pubDate>Fri, 30 Oct 2026 15:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/opinion/international/6182870-advocating-political-prisoner-release/</guid>
+      <title>[Chicago] Wicker Park Post Office Expected To Finally Open In December</title>
+      <link>https://blockclubchicago.org/2026/10/30/wicker-park-post-office-expected-to-finally-open-in-december/</link>
+      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;768&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2026/10/IMG_7827.jpg?fit=1024%2C768&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figure&gt;The branch will open on Damen Avenue after the neighborhood&#x27;s previ</description>
+      <pubDate>Fri, 30 Oct 2026 18:46:49 +0000</pubDate>
+      <guid isPermaLink="true">https://blockclubchicago.org/2026/10/30/wicker-park-post-office-expected-to-finally-open-in-december/</guid>
+    </item>
+    <item>
+      <title>[News / World] 3 Arrested in Connection With Deadly Blast in Central Athens</title>
+      <link>https://www.nytimes.com/2026/10/30/world/europe/greece-explosion-athens-arrests.html</link>
+      <description>NYT — World: The authorities said an attempt to steal copper gas pipes ultimately led to the massive explosion last month, which killed six people.</description>
+      <pubDate>Fri, 30 Oct 2026 18:45:35 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/30/world/europe/greece-explosion-athens-arrests.html</guid>
+    </item>
+    <item>
+      <title>[News / World] Israel demolishes homes of Palestinians blamed for attack on soldiers</title>
+      <link>https://www.aljazeera.com/news/2026/10/30/israel-demolishes-homes-of-palestinians-blamed-for-attack-on-soldiers?traffic_source=rss</link>
+      <description>Al Jazeera: Troops hold at least 12 Palestinians near demolished homes as nearly 5,000 remain displaced from Hebron neighbourhoods</description>
+      <pubDate>Fri, 30 Oct 2026 18:35:44 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/10/30/israel-demolishes-homes-of-palestinians-blamed-for-attack-on-soldiers?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] Oman rescues 25 from burning oil tanker in Strait of Hormuz</title>
+      <link>https://www.aljazeera.com/news/2026/10/30/oman-rescues-25-from-burning-oil-tanker-in-strait-of-hormuz?traffic_source=rss</link>
+      <description>Al Jazeera: Incident comes as Iran says three oil tankers were halted while attempting to use &amp;#039;unauthorised routes&amp;#039; to cross Hormuz.</description>
+      <pubDate>Fri, 30 Oct 2026 18:33:29 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/10/30/oman-rescues-25-from-burning-oil-tanker-in-strait-of-hormuz?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[Politics] Vance on Trump talking about GOP senator’s ‘a‑‑’: ‘I’m jealous’</title>
+      <link>https://thehill.com/homenews/6184799-vance-joked-trump-praised-husted/</link>
+      <description>The Hill: Vice President Vance joked Thursday he is “jealous” President Trump has repeatedly praised other male politicians&amp;#8217; appearances, namely that of Sen. Jon Husted (R-Ohio), and not his own. Asked by Fox News’s Jesse Watters during a town hall why the president continues to compliment Husted&amp;#8217;</description>
+      <pubDate>Fri, 30 Oct 2026 18:28:45 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/homenews/6184799-vance-joked-trump-praised-husted/</guid>
+    </item>
+    <item>
+      <title>[Chicago] Should Chicago Have Milwaukee-Style Public Festival Grounds?</title>
+      <link>https://blockclubchicago.org/2026/10/30/should-chicago-have-milwaukee-style-public-festival-grounds/</link>
+      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;683&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2026/10/Summerfest.jpg?fit=1024%2C683&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figure&gt;Festivals like Lollapalooza and Riot Fest leave sections of publi</description>
+      <pubDate>Fri, 30 Oct 2026 18:22:00 +0000</pubDate>
+      <guid isPermaLink="true">https://blockclubchicago.org/2026/10/30/should-chicago-have-milwaukee-style-public-festival-grounds/</guid>
+    </item>
+    <item>
+      <title>[Politics] Navy airman recounts USS Lincoln leap: ‘If I was supposed to die then I would have just been dead’</title>
+      <link>https://thehill.com/policy/defense/6184762-navy-airman-uss-abraham-lincoln-suicide-attempt-middle-east-conflict/</link>
+      <description>The Hill: One of the eight sailors who attempted suicide by jumping overboard during the grueling deployment of the USS Abraham Lincoln aircraft carrier strike group is speaking out after he was effectively punished for the incident.   Navy airman Nicholas McKelvey, 19, jumped overboard on Aug. 3, 255 days in</description>
+      <pubDate>Fri, 30 Oct 2026 18:12:50 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/policy/defense/6184762-navy-airman-uss-abraham-lincoln-suicide-attempt-middle-east-conflict/</guid>
+    </item>
+    <item>
+      <title>[Politics] Live updates: Judge orders investigation into DOJ and East Potomac Park; Trump set to rally in Daytona Beach</title>
+      <link>https://thehill.com/homenews/state-watch/6183073-live-updates-trump-midterm-elections/</link>
+      <description>The Hill: U.S. District Judge Ana Reyes has opened an investigation into the Department of Justice&amp;#8217;s (DOJ) conduct in the ongoing legal battle over President Trump’s desire to redevelop East Potomac Golf Links. She ordered the probe during Friday’s hearing, the latest fiery courtroom clash. Meanwhile, l</description>
+      <pubDate>Fri, 30 Oct 2026 18:08:06 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/homenews/state-watch/6183073-live-updates-trump-midterm-elections/</guid>
+    </item>
+    <item>
+      <title>[Books &amp; Literature] Sci-Fi and Fantasy Shows and Movies to Watch This Weekend</title>
+      <link>https://bookriot.com/sci-fi-and-fantasy-shows-and-movies-to-watch-this-weekend/</link>
+      <description>Book Riot: There’s Slavic witchcraft for fans of Hudson Williams, supernatural horror adapted from a modern classic, body horror, and more.</description>
+      <pubDate>Fri, 30 Oct 2026 18:08:06 +0000</pubDate>
+      <guid isPermaLink="true">https://bookriot.com/sci-fi-and-fantasy-shows-and-movies-to-watch-this-weekend/</guid>
+    </item>
+    <item>
+      <title>[News / World] Traffic Control Errors Caused Spain’s Deadly Train Crash, Official Says</title>
+      <link>https://www.nytimes.com/2026/10/30/world/europe/spain-crash-contoller-errors.html</link>
+      <description>NYT — World: The transport minister said a judge would investigate controllers’ actions, including authorizing a train to proceed at high speed though another was stalled in front of it.</description>
+      <pubDate>Fri, 30 Oct 2026 18:06:15 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/30/world/europe/spain-crash-contoller-errors.html</guid>
+    </item>
+    <item>
+      <title>[Politics] Comey lawyers fight for dismissal of third criminal prosecution</title>
+      <link>https://thehill.com/regulation/court-battles/6184780-comey-criminal-case-dismissal-hearing/</link>
+      <description>The Hill: Lawyers for James Comey tried to persuade a federal judge Friday that the Trump administration&amp;#8217;s third attempt to prosecute the former FBI director for allegedly disclosing national defense information should be stopped because the Department of Justice (DOJ) waited too long to bring the charg</description>
+      <pubDate>Fri, 30 Oct 2026 18:00:55 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/regulation/court-battles/6184780-comey-criminal-case-dismissal-hearing/</guid>
+    </item>
+    <item>
+      <title>[Politics] Democrats, Hopeful All Over the Senate Map, Remain Jittery About Iowa</title>
+      <link>https://www.nytimes.com/2026/10/30/us/politics/iowa-senate-race-josh-turek.html</link>
+      <description>NYT — Politics: In the final days of the race, Josh Turek, the Democratic Senate nominee, appears to be in a dead heat against his Republican rival, Representative Ashley Hinson.</description>
+      <pubDate>Fri, 30 Oct 2026 17:53:30 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/30/us/politics/iowa-senate-race-josh-turek.html</guid>
+    </item>
+    <item>
+      <title>[Politics] Judge opens East Potomac Park probe into potential DOJ misconduct</title>
+      <link>https://thehill.com/regulation/court-battles/6184378-ana-reyes-investigation-justice-department-golf-course/</link>
+      <description>The Hill: A federal judge has opened an investigation into concerns that the Trump administration lied to her in the ongoing legal battle over President Trump’s desire to redevelop East Potomac Golf Links. Friday’s hearing became the latest fiery courtroom clash between U.S. District Judge Ana Reyes and the D</description>
+      <pubDate>Fri, 30 Oct 2026 17:50:39 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/regulation/court-battles/6184378-ana-reyes-investigation-justice-department-golf-course/</guid>
+    </item>
+    <item>
+      <title>[Chicago] Festivals help burlesque and drag performers level up</title>
+      <link>https://chicagoreader.com/performing-arts/rhinestone-digest/rhinestone-digest-november-2026-festivals/</link>
+      <description>Chicago Reader: &lt;figure&gt;&lt;img alt=&quot;Drag king Spank Knightly is shown onstage in a tuxedo and white face makeup, flipping a middle finger.&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;683&quot; src=&quot;https://i0.wp.com/chicagoreader.com/wp-content/uploads/2026/10/Spank-Emerald-City-Kings-Ball</description>
+      <pubDate>Fri, 30 Oct 2026 17:47:32 +0000</pubDate>
+      <guid isPermaLink="true">https://chicagoreader.com/performing-arts/rhinestone-digest/rhinestone-digest-november-2026-festivals/</guid>
+    </item>
+    <item>
+      <title>[News / World] US tech stocks see sharp falls as AI spending nears $1tn</title>
+      <link>https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>BBC News — World: Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.</description>
+      <pubDate>Fri, 30 Oct 2026 17:47:01 +0000</pubDate>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&amp;at_campaign=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] ICE activity is surging ahead of midterms. So is voter turnout.</title>
+      <link>https://www.npr.org/2026/10/30/nx-s1-6023331/ice-activity-surge-midterms</link>
+      <description>NPR News: Across the country, there are reports of heightened ICE activity. Advocates worry about how close it is to midterms, but so far voter turnout is surging.</description>
+      <pubDate>Fri, 30 Oct 2026 17:45:27 +0000</pubDate>
+      <guid isPermaLink="true">https://www.npr.org/2026/10/30/nx-s1-6023331/ice-activity-surge-midterms</guid>
+    </item>
+    <item>
+      <title>[News / World] G20 &#x27;family photo&#x27; cancelled after protests over presence of Russian minister</title>
+      <link>https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>BBC News — World: European foreign ministers refused to be pictured with Sergei Lavrov at the summit being held in Atlanta.</description>
+      <pubDate>Fri, 30 Oct 2026 17:25:20 +0000</pubDate>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&amp;at_campaign=rss</guid>
+    </item>
+    <item>
+      <title>[Chicago] Review: La bola negra</title>
+      <link>https://chicagoreader.com/film-tv/movie-review/review-la-bola-negra/</link>
+      <description>Chicago Reader: &lt;figure&gt;&lt;img alt=&quot;a man in a suit stands in front of an audience of people in an ornate muraled room&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;576&quot; src=&quot;https://i0.wp.com/chicagoreader.com/wp-content/uploads/2026/10/bola-negra.jpg?fit=1024%2C576&amp;amp;ssl=1&quot; width=&quot;1</description>
+      <pubDate>Fri, 30 Oct 2026 17:22:41 +0000</pubDate>
+      <guid isPermaLink="true">https://chicagoreader.com/film-tv/movie-review/review-la-bola-negra/</guid>
+    </item>
+    <item>
+      <title>[Books &amp; Literature] Why is serial fiction having a moment?</title>
+      <link>https://lithub.com/why-is-serial-fiction-having-a-moment/</link>
+      <description>Literary Hub: In 1836, Charles Dickens hooked the good people of England on a story about a traveling men&amp;#8217;s group. Published over two years in 19 installments, The Pickwick Papers launched a craze for serialized fiction. The trend found traction across the pond. Later</description>
+      <pubDate>Fri, 30 Oct 2026 17:10:16 +0000</pubDate>
+      <guid isPermaLink="true">https://lithub.com/why-is-serial-fiction-having-a-moment/</guid>
+    </item>
+    <item>
+      <title>[News / World] US inmate Christa Pike says she woke up &#x27;confused and in pain&#x27; after failed execution</title>
+      <link>https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>BBC News — World: It is Pike&#x27;s first public statement since she survived an execution attempt by lethal injection in September.</description>
+      <pubDate>Fri, 30 Oct 2026 17:07:19 +0000</pubDate>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&amp;at_campaign=rss</guid>
+    </item>
+    <item>
+      <title>[Chicago] Three friends face religious trauma in Church Hurt</title>
+      <link>https://chicagoreader.com/performing-arts/theater/theater-review/church-hurt-red-theater/</link>
+      <description>Chicago Reader: &lt;figure&gt;&lt;img alt=&quot;Three women wearing yellow T shirts reading You Are the Light in the World stand together under a banner reading The Summit. They are holding Nerf guns.&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;683&quot; src=&quot;https://i0.wp.com/chicagoreader.com/wp-con</description>
+      <pubDate>Fri, 30 Oct 2026 16:52:15 +0000</pubDate>
+      <guid isPermaLink="true">https://chicagoreader.com/performing-arts/theater/theater-review/church-hurt-red-theater/</guid>
+    </item>
+    <item>
+      <title>[Chicago] In Mud Life, a budding hip-hop artist confronts family trauma and industry exploitation</title>
+      <link>https://chicagoreader.com/performing-arts/theater/theater-review/mud-life-collaboraction/</link>
+      <description>Chicago Reader: &lt;figure&gt;&lt;img alt=&quot;Two Black men stand facing each other, their hands slightly raised at their sides and smiling. Behind them is a red sofa and a brick and wooden wall.&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;683&quot; src=&quot;https://i0.wp.com/chicagoreader.com/wp-conten</description>
+      <pubDate>Fri, 30 Oct 2026 16:45:32 +0000</pubDate>
+      <guid isPermaLink="true">https://chicagoreader.com/performing-arts/theater/theater-review/mud-life-collaboraction/</guid>
+    </item>
+    <item>
+      <title>[Chicago] King Hedley II returns at City Lit Theater</title>
+      <link>https://chicagoreader.com/performing-arts/theater/theater-review/king-hedley-ii-city-lit-theater/</link>
+      <description>Chicago Reader: &lt;figure&gt;&lt;img alt=&quot;An older Black man in a gray suit and tie sits in a backyard chair at left. A younger Black man in jeans, T shirt and a black head covering sits right. He has a visible scar on his cheek. A wooden backstairs is visible at the left behind them.&quot; class=&quot;attachment-rss-image-size size</description>
+      <pubDate>Fri, 30 Oct 2026 16:41:28 +0000</pubDate>
+      <guid isPermaLink="true">https://chicagoreader.com/performing-arts/theater/theater-review/king-hedley-ii-city-lit-theater/</guid>
+    </item>
+    <item>
+      <title>[News / World] Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire</title>
+      <link>https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>BBC News — World: Hundreds of people are also understood to have stayed in the front-line town, despite the dangers.</description>
+      <pubDate>Fri, 30 Oct 2026 16:26:11 +0000</pubDate>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&amp;at_campaign=rss</guid>
+    </item>
+    <item>
+      <title>[Books &amp; Literature] Andreas Malm has been barred from entering the UK over his solidarity with Palestine.</title>
+      <link>https://lithub.com/andreas-malm-has-been-barred-from-entering-the-uk-over-his-solidarity-with-palestine/</link>
+      <description>Literary Hub: Author Andreas Malm has been denied entry to the United Kingdom on the grounds that his “presence in the UK is not considered to be conducive to the public good,” according to The Guardian and Al Jazeera. Malm was traveling</description>
+      <pubDate>Fri, 30 Oct 2026 15:42:10 +0000</pubDate>
+      <guid isPermaLink="true">https://lithub.com/andreas-malm-has-been-barred-from-entering-the-uk-over-his-solidarity-with-palestine/</guid>
+    </item>
+    <item>
+      <title>[Chicago] March Aims To Protect Housing Affordability: ‘I Get To Raise My Children In Logan Square’</title>
+      <link>https://blockclubchicago.org/2026/10/30/march-aims-to-protect-housing-affordability-i-get-to-raise-my-children-in-logan-square/</link>
+      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;683&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2026/10/AffordableMarch-102726-15-scaled.jpg?fit=1024%2C683&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figure&gt;With rents increasing by 40-60 percent in s</description>
+      <pubDate>Fri, 30 Oct 2026 15:41:56 +0000</pubDate>
+      <guid isPermaLink="true">https://blockclubchicago.org/2026/10/30/march-aims-to-protect-housing-affordability-i-get-to-raise-my-children-in-logan-square/</guid>
+    </item>
+    <item>
+      <title>[History] This lesbian Lithuanian princess went to war with Rasputin – but that&#x27;s not what she&#x27;s most famous for</title>
+      <link>https://www.historyextra.com/membership/this-lesbian-lithuanian-princess-went-to-war-with-rasputin-but-thats-not-what-shes-most-famous-for/</link>
+      <description>HistoryExtra: Kavita Puri on the extraordinary story of a lesbian Lithuanian princess and surgeon</description>
+      <pubDate>Fri, 30 Oct 2026 15:30:01 +0000</pubDate>
+      <guid isPermaLink="true">https://www.historyextra.com/membership/this-lesbian-lithuanian-princess-went-to-war-with-rasputin-but-thats-not-what-shes-most-famous-for/</guid>
     </item>
     <item>
       <title>[Chicago] Film Showing How Austin Leaders Are Redefining The West Side Takes Home Emmy</title>
       <link>https://blockclubchicago.org/2026/10/30/film-showing-how-austin-leaders-are-redefining-the-west-side-takes-home-emmy/</link>
-      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;683&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2026/10/The-Good-News-Austin-Coming-Together-scaled.png?fit=1024%2C683&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figure&gt;The 2025 film co-produced by loc</description>
+      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;683&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2026/10/The-Good-News-Austin-Coming-Together-scaled.png?fit=1024%2C683&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figure&gt;The 2025 film “The Good News” co</description>
       <pubDate>Fri, 30 Oct 2026 15:28:53 +0000</pubDate>
       <guid isPermaLink="true">https://blockclubchicago.org/2026/10/30/film-showing-how-austin-leaders-are-redefining-the-west-side-takes-home-emmy/</guid>
-    </item>
-    <item>
-      <title>[Politics] New federal rule requires drug middlemen to disclose how they’re paid</title>
-      <link>https://thehill.com/policy/healthcare/6184172-trump-dol-pbm-transparency-rule/</link>
-      <description>The Hill: The companies that manage billions of dollars in prescription drug spending for employers and workers will soon be required to inform their clients all the different ways they get paid under a new rule released by the Trump administration Thursday.&amp;#160; A final rule by the Department of Labor (DOL)</description>
-      <pubDate>Fri, 30 Oct 2026 15:28:12 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/policy/healthcare/6184172-trump-dol-pbm-transparency-rule/</guid>
-    </item>
-    <item>
-      <title>[News / World] US tech stocks see sharp falls over AI cost fears</title>
-      <link>https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>BBC News — World: Shares in Intel have continued to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.</description>
-      <pubDate>Fri, 30 Oct 2026 15:27:54 +0000</pubDate>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&amp;at_campaign=rss</guid>
-    </item>
-    <item>
-      <title>[Politics] Leo XIV becomes first pope ever to vote in US general election</title>
-      <link>https://thehill.com/homenews/campaign/6183683-pope-leo-xiv-votes-early-midterms-historical/</link>
-      <description>The Hill: Pope Leo XIV has become the first pope to vote in a U.S. general election.</description>
-      <pubDate>Fri, 30 Oct 2026 15:25:33 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/homenews/campaign/6183683-pope-leo-xiv-votes-early-midterms-historical/</guid>
-    </item>
-    <item>
-      <title>[News / World] Democratic senator blames Egypt press crackdown on US military aid decision</title>
-      <link>https://www.bbc.co.uk/news/articles/c63r529wn2vzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>BBC News — World: Chris Murphy said waiving a human rights condition on aid paved the way for arrests of journalists.</description>
-      <pubDate>Fri, 30 Oct 2026 15:17:11 +0000</pubDate>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c63r529wn2vzo?at_medium=RSS&amp;at_campaign=rss</guid>
     </item>
     <item>
       <title>[Books &amp; Literature] Book Riot’s Deals of the Day for October 30, 2026</title>
@@ -60,20 +369,6 @@
       <description>Book Riot: </description>
       <pubDate>Fri, 30 Oct 2026 15:15:25 +0000</pubDate>
       <guid isPermaLink="true">https://bookriot.com/book-riots-deals-of-the-day-for-october-30-2026/</guid>
-    </item>
-    <item>
-      <title>[Politics] Democrats and Republicans Share Dueling Health Care Messages in Final Midterms Push</title>
-      <link>https://www.nytimes.com/2026/10/30/us/politics/midterms-health-care-affordability-fraud.html</link>
-      <description>NYT — Politics: After concentrating on the high price of gas and groceries, Democrats are using health costs to make their case about an “affordability crisis.”</description>
-      <pubDate>Fri, 30 Oct 2026 15:09:29 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/30/us/politics/midterms-health-care-affordability-fraud.html</guid>
-    </item>
-    <item>
-      <title>[News / World] Israeli forces blow up homes of Palestinians accused of killing soldiers</title>
-      <link>https://www.aljazeera.com/video/newsfeed/2026/10/30/israeli-forces-blow-up-homes-of-palestinians-accused-of-killing-soldiers?traffic_source=rss</link>
-      <description>Al Jazeera: Israeli forces demolished the homes of two Palestinians accused of killing two Israeli soldiers in Hebron last week.</description>
-      <pubDate>Fri, 30 Oct 2026 15:06:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/10/30/israeli-forces-blow-up-homes-of-palestinians-accused-of-killing-soldiers?traffic_source=rss</guid>
     </item>
     <item>
       <title>[News / World] Spain transport minister says he won&#x27;t resign over high-speed rail disaster</title>
@@ -97,27 +392,6 @@
       <guid isPermaLink="true">https://www.npr.org/2026/10/30/nx-s1-6008113/npr-special-swing-voter-focus-groups</guid>
     </item>
     <item>
-      <title>[Politics] Drone warfare will be won at the operator level</title>
-      <link>https://thehill.com/opinion/national-security/6182253-battlefield-ai-decision-advantage/</link>
-      <description>The Hill: Rather than building systems around individual platforms and asking operators to navigate between them, we should build around the operator.</description>
-      <pubDate>Fri, 30 Oct 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/opinion/national-security/6182253-battlefield-ai-decision-advantage/</guid>
-    </item>
-    <item>
-      <title>[Politics] Top Science Democrat probes cuts to research spending at National Science Foundation</title>
-      <link>https://thehill.com/policy/energy-environment/6182800-science-national-science-foundation-nsf-lofgren/</link>
-      <description>The Hill: A key Democrat is looking into a massive amount of money that was appropriated to the National Science Foundation (NSF) but reportedly not spent. In a letter first shared with The Hill, House Committee on Science, Space and Technology ranking member Zoe Lofgren (D-Calif.) accused the foundation of v</description>
-      <pubDate>Fri, 30 Oct 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/policy/energy-environment/6182800-science-national-science-foundation-nsf-lofgren/</guid>
-    </item>
-    <item>
-      <title>[Politics] If Trump Gets Another Supreme Court Pick, MAGA Wants a Loyalist</title>
-      <link>https://www.nytimes.com/2026/10/30/us/politics/trump-supreme-court-judge-ho.html</link>
-      <description>NYT — Politics: For years, Supreme Court aspirants have avoided talking about how they might rule. Trump’s frustrations with his first-term picks could change that.</description>
-      <pubDate>Fri, 30 Oct 2026 14:59:32 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/30/us/politics/trump-supreme-court-judge-ho.html</guid>
-    </item>
-    <item>
       <title>[News / World] Pope Leo XIV becomes first pontiff to vote in a US election</title>
       <link>https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&amp;at_campaign=rss</link>
       <description>BBC News — World: The Chicago-born pontiff, who has a tense relationship with Trump, mailed in a ballot for the midterm elections that will decide control of the US Congress.</description>
@@ -132,75 +406,12 @@
       <guid isPermaLink="true">https://blockclubchicago.org/2026/10/30/west-side-jobs-program-keeps-ex-offenders-out-of-prison-uic-report-finds/</guid>
     </item>
     <item>
-      <title>[Politics] Chris Sununu: ‘Texas is in trouble for Republicans’</title>
-      <link>https://thehill.com/homenews/campaign/6184054-sununu-predicts-texas-senatorial-loss/</link>
-      <description>The Hill: Former New Hampshire Gov. Chris Sununu (R) is predicting doom for Republicans in the Texas Senate race, even as he maintains a more optimistic picture for his party nationally. Speaking with NewsNation’s Chris Cuomo on Thursday night, Sununu predicted that Republican Ken Paxton would lose to Democra</description>
-      <pubDate>Fri, 30 Oct 2026 14:45:57 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/homenews/campaign/6184054-sununu-predicts-texas-senatorial-loss/</guid>
-    </item>
-    <item>
-      <title>[News / World] 3 Arrested in Connection With Deadly Blast in Central Athens</title>
-      <link>https://www.nytimes.com/2026/10/30/world/europe/greece-explosion-athens-arrests.html</link>
-      <description>NYT — World: The authorities said an attempt to steal copper gas pipes ultimately led to the massive explosion last month, which killed six people.</description>
-      <pubDate>Fri, 30 Oct 2026 14:45:46 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/30/world/europe/greece-explosion-athens-arrests.html</guid>
-    </item>
-    <item>
       <title>[Chicago] New federal lawsuit accuses feds, Indiana of human rights abuses in “Speedway Slammer” immigration jail</title>
       <link>https://chicagoreader.com/news/federal-lawsuit-ice-indiana-speedway-slammer-immigration-jail/</link>
       <description>Chicago Reader: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;768&quot; src=&quot;https://i0.wp.com/chicagoreader.com/wp-content/uploads/2026/10/Miami-correctional-facility.jpg?fit=1024%2C768&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figure&gt;
 &lt;p&gt;Denial of medication. Beatings. Cells flooded</description>
       <pubDate>Fri, 30 Oct 2026 14:41:23 +0000</pubDate>
       <guid isPermaLink="true">https://chicagoreader.com/news/federal-lawsuit-ice-indiana-speedway-slammer-immigration-jail/</guid>
-    </item>
-    <item>
-      <title>[News / World] Senators briefed on Trump’s ‘insane’ plan to restart war on Iran</title>
-      <link>https://www.aljazeera.com/video/newsfeed/2026/10/30/senators-briefed-on-trumps-insane-plan-to-restart-war-on-iran-2?traffic_source=rss</link>
-      <description>Al Jazeera: Senator Chris Murphy says he’s been briefed on Trump’s plan to restart the war on Iran.</description>
-      <pubDate>Fri, 30 Oct 2026 14:40:19 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/10/30/senators-briefed-on-trumps-insane-plan-to-restart-war-on-iran-2?traffic_source=rss</guid>
-    </item>
-    <item>
-      <title>[Politics] Trump’s in-person rallies in Kansas, Iowa back on</title>
-      <link>https://thehill.com/homenews/campaign/6183998-trump-iowa-kansas-rallies-back-on/</link>
-      <description>The Hill: President Trump will hold in-person rallies in Iowa and Kansas after all, a source familiar with the matter told The Hill. The Thursday announcement that he would shift to tele-rallies in the battleground states stirred speculation about the president&amp;#8217;s reason for scaling back his midterm trav</description>
-      <pubDate>Fri, 30 Oct 2026 14:36:23 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/homenews/campaign/6183998-trump-iowa-kansas-rallies-back-on/</guid>
-    </item>
-    <item>
-      <title>[Politics] The middle powers step in, to America’s detriment</title>
-      <link>https://thehill.com/opinion/national-security/6181190-middle-powers-hedge-american-support/</link>
-      <description>The Hill: Last week, British Typhoon aircraft escorted French Rafale multirole fighters in a first-ever Anglo-French airborne nuclear strike exercise, codenamed Exercise Rummy. My former boss, Donald Rumsfeld, would not have been amused; it did not include American forces. Instead, as London stated, the exerc</description>
-      <pubDate>Fri, 30 Oct 2026 14:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/opinion/national-security/6181190-middle-powers-hedge-american-support/</guid>
-    </item>
-    <item>
-      <title>[News / World] Russian, Ukrainian humanitarian officials enter Oleshky</title>
-      <link>https://www.aljazeera.com/video/newsfeed/2026/10/30/russian-ukrainian-humanitarian-officials-enter-oleshky?traffic_source=rss</link>
-      <description>Al Jazeera: A humanitarian aid convoy containing both Russian and Ukrainian officials entered the besieged Ukrainian city of Oleshky</description>
-      <pubDate>Fri, 30 Oct 2026 14:19:49 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/10/30/russian-ukrainian-humanitarian-officials-enter-oleshky?traffic_source=rss</guid>
-    </item>
-    <item>
-      <title>[News / World] US inmate Christa Pike says she woke up &#x27;confused and in pain&#x27; after failed execution</title>
-      <link>https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>BBC News — World: It is Pike&#x27;s first public statement since she survived an execution attempt by lethal injection in September.</description>
-      <pubDate>Fri, 30 Oct 2026 14:19:43 +0000</pubDate>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&amp;at_campaign=rss</guid>
-    </item>
-    <item>
-      <title>[News / World] Ethnic cleansing fears rise as Israel squeezes space in Gaza: UN</title>
-      <link>https://www.aljazeera.com/news/2026/10/30/ethnic-cleansing-fears-rise-as-israel-squeezes-space-in-gaza-un?traffic_source=rss</link>
-      <description>Al Jazeera: Israeli forces are treating the &amp;#039;Yellow Line&amp;#039;, which is encroaching westward, as &amp;#039;a kill zone&amp;#039;, the OHCHR says.</description>
-      <pubDate>Fri, 30 Oct 2026 14:18:07 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/10/30/ethnic-cleansing-fears-rise-as-israel-squeezes-space-in-gaza-un?traffic_source=rss</guid>
-    </item>
-    <item>
-      <title>[News / World] Novaya Gazeta, Fiercely Independent Russian News Outlet, Says It Will Shut Down</title>
-      <link>https://www.nytimes.com/2026/10/30/world/europe/russia-novaya-gazeta-newspaper.html</link>
-      <description>NYT — World: Journalists at Novaya Gazeta, whose co-founder received the Nobel Peace Prize, said the government had orchestrated its demise: “They killed us.”</description>
-      <pubDate>Fri, 30 Oct 2026 14:12:50 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/30/world/europe/russia-novaya-gazeta-newspaper.html</guid>
     </item>
     <item>
       <title>[News / World] ‘Amateur morons’: Flávio Bolsonaro’s short-lived ‘president-elect’ claim met with mockery</title>
@@ -217,53 +428,12 @@
       <guid isPermaLink="true">https://blockclubchicago.org/2026/10/30/pope-leo-xiv-the-1st-pope-in-history-to-vote-in-a-us-general-election/</guid>
     </item>
     <item>
-      <title>[News / World] Bhutan hot springs hit by flood from glacial lake burst</title>
-      <link>https://www.aljazeera.com/news/2026/10/30/bhutan-hot-springs-hit-by-flood-from-glacial-lake-burst?traffic_source=rss</link>
-      <description>Al Jazeera: No injuries reported after glacial lake burst, causing a flash flood and disrupting Bhutan&amp;#039;s Gasa Tshachu hot springs.</description>
-      <pubDate>Fri, 30 Oct 2026 14:01:03 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/10/30/bhutan-hot-springs-hit-by-flood-from-glacial-lake-burst?traffic_source=rss</guid>
-    </item>
-    <item>
-      <title>[News / World] MLB World Series: Why did baseball’s biggest stage struggle for viewership?</title>
-      <link>https://www.aljazeera.com/sports/2026/10/30/major-league-baseball-world-series-brewers-rays-nba-nfl-united-states?traffic_source=rss</link>
-      <description>Al Jazeera: When Brewers and Rays faced off, it marked the first World Series between two of MLB&amp;#039;s smallest spenders in 35 years.</description>
-      <pubDate>Fri, 30 Oct 2026 13:58:04 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/sports/2026/10/30/major-league-baseball-world-series-brewers-rays-nba-nfl-united-states?traffic_source=rss</guid>
-    </item>
-    <item>
-      <title>[News / World] Chase sparks Bangladesh collapse as West Indies on top in Mirpur Test</title>
-      <link>https://www.aljazeera.com/sports/2026/10/30/chase-sparks-bangladesh-collapse-as-west-indies-on-top-in-mirpur-test?traffic_source=rss</link>
-      <description>Al Jazeera: West Indies&amp;#039; Royston Chase forces collapse as Bangladesh slump to 79-6, a lead of 106 runs, on day three of first Test.</description>
-      <pubDate>Fri, 30 Oct 2026 13:56:22 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/sports/2026/10/30/chase-sparks-bangladesh-collapse-as-west-indies-on-top-in-mirpur-test?traffic_source=rss</guid>
-    </item>
-    <item>
-      <title>[News / World] Ukrainians Are Fighting Russians Inside Underground Gas Pipes. I Went in One.</title>
-      <link>https://www.nytimes.com/2026/10/30/world/europe/ukraine-russia-natural-gas-pipes.html</link>
-      <description>NYT — World: I experienced war’s subterranean future as drones dominate the skies. I didn’t like it.</description>
-      <pubDate>Fri, 30 Oct 2026 13:33:25 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/30/world/europe/ukraine-russia-natural-gas-pipes.html</guid>
-    </item>
-    <item>
-      <title>[News / World] Palestinian child survives Israeli gunshot to the head</title>
-      <link>https://www.aljazeera.com/video/newsfeed/2026/10/30/palestinian-child-survives-israeli-gunshot-to-the-head?traffic_source=rss</link>
-      <description>Al Jazeera: Imad Salem Zahra, the Palestinian child whose photo went viral after he was shot in the head by Israeli soldiers.</description>
-      <pubDate>Fri, 30 Oct 2026 13:32:24 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/10/30/palestinian-child-survives-israeli-gunshot-to-the-head?traffic_source=rss</guid>
-    </item>
-    <item>
-      <title>[Politics] Melania Trump’s Halloween Coat Was Its Own Kind of Costume</title>
-      <link>https://www.nytimes.com/2026/10/30/style/melania-trump-halloween-coat-white-house.html</link>
-      <description>NYT — Politics: The first lady continues to let her coats do the talking.</description>
-      <pubDate>Fri, 30 Oct 2026 13:22:12 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/30/style/melania-trump-halloween-coat-white-house.html</guid>
-    </item>
-    <item>
-      <title>[Politics] Are Trump Voters Refusing to Take Polls? And Other Polling Risks.</title>
-      <link>https://www.nytimes.com/2026/10/30/upshot/times-siena-poll-midterms-questions.html</link>
-      <description>NYT — Politics: Answers to readers’ queries about the reasons a survey could misfire.</description>
-      <pubDate>Fri, 30 Oct 2026 13:20:22 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/30/upshot/times-siena-poll-midterms-questions.html</guid>
+      <title>[Philosophy] Mini-Heap</title>
+      <link>https://dailynous.com/2026/10/30/mini-heap-735/</link>
+      <description>Daily Nous: &lt;p&gt;New links to check out&amp;#8230; Mini-Heap posts usually appear when several new items accumulate in the&amp;#160;Heap of Links, a collection of items from around the [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://dailynous.com/2026/10/30/mini-heap-735/&quot;&gt;Mini-Heap&lt;/a&gt; appeared first on &lt;a href=&quot;https://dail</description>
+      <pubDate>Fri, 30 Oct 2026 13:58:05 +0000</pubDate>
+      <guid isPermaLink="true">https://dailynous.com/2026/10/30/mini-heap-735/</guid>
     </item>
     <item>
       <title>[Chicago] 5 Candidates File To Run In 27th Ward, Challenging Burnett Family’s Decades-Long Hold On Seat</title>
@@ -294,46 +464,11 @@
       <guid isPermaLink="true">https://blockclubchicago.org/2026/10/30/chicago-avenue-bridge-reopening-delayed-to-next-spring-as-alderman-fumes/</guid>
     </item>
     <item>
-      <title>[Chicago] 42nd Ward Alderman Brendan Reilly Faces One Challenger In 2027 Election</title>
-      <link>https://blockclubchicago.org/2026/10/30/42nd-ward-alderman-brendan-reilly-faces-one-challenger-in-2027-election/</link>
-      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;681&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2026/07/072926-500-N-Michigan-Colin-Boyle-0254.jpg?fit=1024%2C681&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figure&gt;It could be the first time Reilly has</description>
-      <pubDate>Fri, 30 Oct 2026 13:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://blockclubchicago.org/2026/10/30/42nd-ward-alderman-brendan-reilly-faces-one-challenger-in-2027-election/</guid>
-    </item>
-    <item>
-      <title>[Chicago] 16 Things To Do Outside In Chicago This November</title>
-      <link>https://blockclubchicago.org/2026/10/30/16-things-to-do-outside-in-chicago-this-november/</link>
-      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;683&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2026/10/20251112_lightscape_family_jc_488-scaled.jpg?fit=1024%2C683&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figure&gt;Join an Owl Prowl, go forest bathin</description>
-      <pubDate>Fri, 30 Oct 2026 13:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://blockclubchicago.org/2026/10/30/16-things-to-do-outside-in-chicago-this-november/</guid>
-    </item>
-    <item>
-      <title>[Chicago] Tracing The Scottish Roots Of Chicago’s Halloween</title>
-      <link>https://blockclubchicago.org/2026/10/30/tracing-the-scottish-roots-of-chicagos-halloween/</link>
-      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;Residents of the Scottish Old Peoples Home in Riverside, Illinois, circa 1921.&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;817&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2026/10/ScottishOldPeopleCHM-scaled.jpg?fit=1024%2C817&amp;amp;s</description>
-      <pubDate>Fri, 30 Oct 2026 13:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://blockclubchicago.org/2026/10/30/tracing-the-scottish-roots-of-chicagos-halloween/</guid>
-    </item>
-    <item>
       <title>[Chicago] Jorja Smith crafts sultry R&amp;B for late-night dancing on What Are the Odds</title>
       <link>https://chicagoreader.com/music/concert-preview/jorja-smith-riviera-theatre/</link>
       <description>Chicago Reader: &lt;figure&gt;&lt;img alt=&quot;a woman with blonde hair poses in front of a red wall&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;576&quot; src=&quot;https://i0.wp.com/chicagoreader.com/wp-content/uploads/2026/10/Jorja-Smith-by-Bolade-Banjo-1_social.jpg?fit=1024%2C576&amp;amp;ssl=1&quot; width=&quot;1024</description>
       <pubDate>Fri, 30 Oct 2026 13:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://chicagoreader.com/music/concert-preview/jorja-smith-riviera-theatre/</guid>
-    </item>
-    <item>
-      <title>[Chicago] Stevie Wonder celebrates 50 years of his magnum opus, Songs in the Key of Life</title>
-      <link>https://chicagoreader.com/music/concert-preview/stevie-wonder-key-of-life-united-center/</link>
-      <description>Chicago Reader: &lt;figure&gt;&lt;img alt=&quot;Stevie Wonder wears a green jacket and black hat as he plays a harmonica&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;576&quot; src=&quot;https://i0.wp.com/chicagoreader.com/wp-content/uploads/2026/10/Stevie-Wonder-courtesy-the-artist_websocial.jpg?fit=1024%2C</description>
-      <pubDate>Fri, 30 Oct 2026 13:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://chicagoreader.com/music/concert-preview/stevie-wonder-key-of-life-united-center/</guid>
-    </item>
-    <item>
-      <title>[News / World] Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens</title>
-      <link>https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>BBC News — World: Several hundred people are understood to have decided to stay in the frontline town, despite the lack of gas, electricity and running water.</description>
-      <pubDate>Fri, 30 Oct 2026 12:25:53 +0000</pubDate>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&amp;at_campaign=rss</guid>
     </item>
     <item>
       <title>[Books &amp; Literature] The best recent translated fiction – review roundup</title>
@@ -393,13 +528,6 @@
       <guid isPermaLink="true">https://www.npr.org/sections/planet-money/2026/10/30/nx-s1-6022515/the-two-most-interesting-risks-to-anthropic</guid>
     </item>
     <item>
-      <title>[Politics] U.S. Oil Industry Earned Over $130 Billion in Profit During Iran War</title>
-      <link>https://www.nytimes.com/2026/10/30/business/energy-environment/exxon-chevron-oil-profits-iran-war.html</link>
-      <description>NYT — Politics: That was almost three times as much as what businesses producing and refining oil in the United States made in the same period in 2025.</description>
-      <pubDate>Fri, 30 Oct 2026 10:35:33 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/30/business/energy-environment/exxon-chevron-oil-profits-iran-war.html</guid>
-    </item>
-    <item>
       <title>[Books &amp; Literature] Lit Hub Daily: October 30, 2026</title>
       <link>https://lithub.com/lit-hub-daily-october-30-2026/</link>
       <description>Literary Hub: How AI is dragging us towards a future that rips the body out of body horror. &amp;#124; Lit Hub Technology October&amp;#8217;s best book covers aren&amp;#8217;t spooky, but it&amp;#8217;s scary how much we love them. &amp;#124; Lit Hub Design Liz DiGregorio</description>
@@ -442,7 +570,7 @@
       <guid isPermaLink="true">https://bookriot.com/new-middle-grade-books-by-award-winning-authors/</guid>
     </item>
     <item>
-      <title>[Books &amp; Literature] Philippa Gregory: ‘I read 100 of the best 18th century novels – the perfect author’s apprenticeship’</title>
+      <title>[Books &amp; Literature] Philippa Gregory: ‘I read 100 of the 18th century’s most popular novels – the perfect author’s apprenticeship’</title>
       <link>https://www.theguardian.com/books/2026/oct/30/philippa-gregory-i-read-100-of-the-best-18th-century-novels-the-perfect-authors-apprenticeship</link>
       <description>The Guardian — Books: &lt;p&gt;The British novelist on discovering Molly Keane, coming to Dickens late, and the books that taught her the importance of writing about history&lt;/p&gt;&lt;p&gt;&lt;strong&gt;My earliest reading&amp;nbsp;memory&lt;/strong&gt;
  &lt;br /&gt;
@@ -465,13 +593,6 @@
       <guid isPermaLink="true">https://aeon.co/essays/why-the-dilettante-is-the-anti-hero-of-our-over-optimised-age</guid>
     </item>
     <item>
-      <title>[Books &amp; Literature] 📚 AI’s sticky fingers</title>
-      <link>https://bookriot.com/ais-sticky-fingers/</link>
-      <description>Book Riot: The publisher who threw a welcome party for an AI assistant</description>
-      <pubDate>Fri, 30 Oct 2026 09:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://bookriot.com/ais-sticky-fingers/</guid>
-    </item>
-    <item>
       <title>[News / World] Israel’s Election Is Unlikely to Change Its Policies and Global Isolation</title>
       <link>https://www.nytimes.com/2026/10/30/world/europe/israel-election-netanyahu-eisenkot.html</link>
       <description>NYT — World: The leading contenders, Prime Minister Benjamin Netanyahu and Gadi Eisenkot, aren’t substantially different in their approach to Israel’s security or in their opposition to a Palestinian state.</description>
@@ -479,46 +600,11 @@
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/30/world/europe/israel-election-netanyahu-eisenkot.html</guid>
     </item>
     <item>
-      <title>[Politics] As Voters Worry About Prices, Many Senate Candidates Are Millionaires</title>
-      <link>https://www.nytimes.com/2026/10/30/us/politics/senate-candidates-net-worth.html</link>
-      <description>NYT — Politics: The wealthy are well represented in the ranks of major candidates for the chamber, according to a New York Times review of financial disclosure forms.</description>
-      <pubDate>Fri, 30 Oct 2026 09:03:36 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/30/us/politics/senate-candidates-net-worth.html</guid>
-    </item>
-    <item>
-      <title>[Politics] How Michigan’s Midterm Senate Race Could Influence the 2028 Democratic Presidential Primary</title>
-      <link>https://www.nytimes.com/2026/10/30/us/politics/michigan-senate-democratic-presidential-primary.html</link>
-      <description>NYT — Politics: The fate of Dr. Abdul El-Sayed, the progressive candidate in the race, will serve as a litmus test for the left’s potency heading into the next presidential contest.</description>
-      <pubDate>Fri, 30 Oct 2026 09:02:02 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/30/us/politics/michigan-senate-democratic-presidential-primary.html</guid>
-    </item>
-    <item>
-      <title>[News / World] New ‘Call of Duty’ Game Draws Criticism for Using Footage of Deadly Seoul Crowd Crush</title>
-      <link>https://www.nytimes.com/2026/10/30/world/asia/call-of-duty-seoul-itaweon-crowd-crush.html</link>
-      <description>NYT — World: Call of Duty: Modern Warfare 4 uses actual visuals from a Halloween crowd crush in South Korea, in which over 150 people died in a narrow alleyway.</description>
-      <pubDate>Fri, 30 Oct 2026 09:01:55 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/30/world/asia/call-of-duty-seoul-itaweon-crowd-crush.html</guid>
-    </item>
-    <item>
-      <title>[News / World] Colombia’s ‘Narcoterrorist’ Crackdown Raises Questions Over Killings</title>
-      <link>https://www.nytimes.com/2026/10/30/world/americas/colombia-crackdown-army-killings-de-la-espriella.html</link>
-      <description>NYT — World: Military-involved deaths have roiled a country with an iron-fisted new president — and a history of extrajudicial killings.</description>
-      <pubDate>Fri, 30 Oct 2026 09:00:55 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/30/world/americas/colombia-crackdown-army-killings-de-la-espriella.html</guid>
-    </item>
-    <item>
-      <title>[News / World] Candy prices got you scared stiff? What to know about the cost of Halloween this year</title>
-      <link>https://www.npr.org/2026/10/30/nx-s1-6018566/halloween-candy-prices-chocolate</link>
-      <description>NPR News: Prices for candy, the most popular Halloween purchase, and gum have risen 7.7% in one year and are up more than 18% in two years, according to the latest federal data.</description>
+      <title>[News / World] Democrats seek to weaken the Republican lead in state legislatures</title>
+      <link>https://www.npr.org/2026/10/30/nx-s1-6022353/midterms-state-legislatures-pennsylvania</link>
+      <description>NPR News: Republicans control 10 more state legislatures than Democrats. That&#x27;s where most laws on taxes, abortion, crime and schools are made.</description>
       <pubDate>Fri, 30 Oct 2026 09:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.npr.org/2026/10/30/nx-s1-6018566/halloween-candy-prices-chocolate</guid>
-    </item>
-    <item>
-      <title>[News / World] &#x27;Affordability? For who?&#x27; Voters decide between helping homeowners or public services</title>
-      <link>https://www.npr.org/2026/10/30/nx-s1-6018258/affordability-florida-amendment-3</link>
-      <description>NPR News: Candidates across the U.S. have paid lip service to affordability issues. In Florida, the question of how to save voters money, and at what cost, is literally on the ballot.</description>
-      <pubDate>Fri, 30 Oct 2026 09:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.npr.org/2026/10/30/nx-s1-6018258/affordability-florida-amendment-3</guid>
+      <guid isPermaLink="true">https://www.npr.org/2026/10/30/nx-s1-6022353/midterms-state-legislatures-pennsylvania</guid>
     </item>
     <item>
       <title>[Books &amp; Literature] If Salvador Dalí Died in 1989, Then Why Can He Still Take a Selfie With You?</title>
@@ -554,20 +640,6 @@
       <description>Literary Hub: Another month of books, another month of book covers. What my favorites from October lack in spookiness, they make up for in clever color stories, delicious textures, and a little bit of cheek. Here are my picks for the best</description>
       <pubDate>Fri, 30 Oct 2026 08:45:48 +0000</pubDate>
       <guid isPermaLink="true">https://lithub.com/the-10-best-book-covers-of-october-5/</guid>
-    </item>
-    <item>
-      <title>[Books &amp; Literature] Something Wicked This Way Comes: 10 Poems to Read This Halloween</title>
-      <link>https://lithub.com/something-wicked-this-way-comes-10-poems-to-read-this-halloween/</link>
-      <description>Literary Hub: Most poetry-lovers know classic horror poems by writers like Edgar Allan Poe, Emily Dickinson and Percy Bysshe Shelley. But there are also many eerie poems written by poets who aren’t known specifically for their gothic or horror writing. Some of</description>
-      <pubDate>Fri, 30 Oct 2026 08:40:59 +0000</pubDate>
-      <guid isPermaLink="true">https://lithub.com/something-wicked-this-way-comes-10-poems-to-read-this-halloween/</guid>
-    </item>
-    <item>
-      <title>[Books &amp; Literature] The Literary Film &amp; TV You Need to Stream in November</title>
-      <link>https://lithub.com/the-literary-film-tv-you-need-to-stream-in-november-4/</link>
-      <description>Literary Hub: Every month, all the major streaming services add a host of newly acquired (or just plain new) shows, movies, and documentaries into their ever-rotating libraries. So what’s a dedicated reader to watch? Well, whatever you want, of course, but the</description>
-      <pubDate>Fri, 30 Oct 2026 08:34:51 +0000</pubDate>
-      <guid isPermaLink="true">https://lithub.com/the-literary-film-tv-you-need-to-stream-in-november-4/</guid>
     </item>
     <item>
       <title>[History] The History Round: our weekly trivia challenge</title>
@@ -626,20 +698,6 @@
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/30/world/middleeast/arab-voters-israel-election-taibe.html</guid>
     </item>
     <item>
-      <title>[Politics] Republicans Ramp Up Investigation Into Democratic Plan to Pack Alaska’s Ballot</title>
-      <link>https://www.nytimes.com/2026/10/29/us/politics/alaska-dan-sullivan-peltola-ballot-investigation-trump.html</link>
-      <description>NYT — Politics: The Justice Department issued subpoenas, a House oversight committee sought interviews and the state opened its own inquiry into a Democratic plan to recruit a spoiler into a Senate race.</description>
-      <pubDate>Fri, 30 Oct 2026 02:18:43 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/29/us/politics/alaska-dan-sullivan-peltola-ballot-investigation-trump.html</guid>
-    </item>
-    <item>
-      <title>[News / World] Mushroom murderer fails to overturn convictions in Australian court challenge</title>
-      <link>https://www.bbc.co.uk/news/articles/ck8dz8j5n993o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>BBC News — World: Erin Patterson argued her trial was unfair due to seven grounds but three appeal judges dismissed them all.</description>
-      <pubDate>Fri, 30 Oct 2026 01:35:40 +0000</pubDate>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/ck8dz8j5n993o?at_medium=RSS&amp;at_campaign=rss</guid>
-    </item>
-    <item>
       <title>[History] Chicago History Museum to Host Chicago LGBT Hall of Fame Induction Ceremony Next Week</title>
       <link>https://www.chicagohistory.org/chicago-history-museum-to-host-chicago-lgbt-hall-of-fame-induction-ceremony-next-week/</link>
       <description>Chicago History Museum Blog: &lt;p&gt;A longstanding partner of the Chicago LGBT Hall of Fame, the Chicago History Museum is proud to host a free induction ceremony open to the public on Nov. 5, 2026 &amp;#8230; &lt;a href=&quot;https://www.chicagohistory.org/chicago-history-museum-to-host-chicago-lgbt-hall-of-fame-induction-ceremony-next-week/&quot;</description>
@@ -647,68 +705,10 @@
       <guid isPermaLink="true">https://www.chicagohistory.org/chicago-history-museum-to-host-chicago-lgbt-hall-of-fame-induction-ceremony-next-week/</guid>
     </item>
     <item>
-      <title>[Chicago] Review: Once Upon a Time in Harlem</title>
-      <link>https://chicagoreader.com/film-tv/movie-review/review-once-upon-a-time-in-harlem/</link>
-      <description>Chicago Reader: &lt;figure&gt;&lt;img alt=&quot;a group of nine older Black people in the 1970s gather in a nice home&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;677&quot; src=&quot;https://i0.wp.com/chicagoreader.com/wp-content/uploads/2026/10/Still-2-ONCE-UPON-A-TIME-IN-HARLEM_Courtesy-of-NEON-scaled.jpg</description>
-      <pubDate>Thu, 29 Oct 2026 18:46:27 +0000</pubDate>
-      <guid isPermaLink="true">https://chicagoreader.com/film-tv/movie-review/review-once-upon-a-time-in-harlem/</guid>
-    </item>
-    <item>
-      <title>[News / World] Cuts like a knife: Canadian rocker Bryan Adams trolls Trump with new song</title>
-      <link>https://www.theguardian.com/world/2026/oct/29/bryan-adams-donald-trump-song</link>
-      <description>The Guardian — World: &lt;p&gt;Musician wrote a ‘love letter’ to Canada with a new album – and some pointed commentary about the US president&lt;/p&gt;&lt;p&gt;Lake Ontario, the vast body of water that straddles the US-Canada border, has gone by many names over the centuries: Lac Saint-Louis, Lacus Ontarius, Skaniadorio, Cataraqui Lake. B</description>
-      <pubDate>Thu, 29 Oct 2026 17:49:47 +0000</pubDate>
-      <guid isPermaLink="true">https://www.theguardian.com/world/2026/oct/29/bryan-adams-donald-trump-song</guid>
-    </item>
-    <item>
       <title>[Books &amp; Literature] Sarah Howe wins Forward poetry prize for best collection</title>
       <link>https://www.theguardian.com/books/2026/oct/29/sarah-howe-wins-forward-poetry-prize-for-best-collection</link>
       <description>The Guardian — Books: &lt;p&gt;Howe’s ‘exceptional’ Foretokens took the main £10,000 award, while Nur Turkmani, Tara Bergin and Biff Smith swept up the remaining categories&lt;/p&gt;&lt;p&gt;Sarah Howe has won the Forward prize for best collection, one of the UK’s most prestigious poetry awards, for Foretokens, a collection that explores </description>
       <pubDate>Thu, 29 Oct 2026 16:32:12 +0000</pubDate>
       <guid isPermaLink="true">https://www.theguardian.com/books/2026/oct/29/sarah-howe-wins-forward-poetry-prize-for-best-collection</guid>
-    </item>
-    <item>
-      <title>[Philosophy] When Philosophers Reinvent The Wheel</title>
-      <link>https://dailynous.com/2026/10/29/when-philosophers-reinvent-the-wheel/</link>
-      <description>Daily Nous: &lt;p&gt;You may not believe this, but philosophers sometimes work in ignorance of research programs, bodies of literature, methodologies, and findings outside of philosophy that could [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://dailynous.com/2026/10/29/when-philosophers-reinvent-the-wheel/&quot;&gt;When Philosoph</description>
-      <pubDate>Thu, 29 Oct 2026 13:33:17 +0000</pubDate>
-      <guid isPermaLink="true">https://dailynous.com/2026/10/29/when-philosophers-reinvent-the-wheel/</guid>
-    </item>
-    <item>
-      <title>[History] History’s Greatest Cities: Season 5</title>
-      <link>https://www.historyextra.com/membership/historys-greatest-cities-season-5/</link>
-      <description>HistoryExtra: Take a tour of the world&#x27;s most-storied cities. In this season: Kraków, Samarkand, Glasgow, Boston, Siena, Boston, Kyoto, Vienna, Tunis</description>
-      <pubDate>Thu, 29 Oct 2026 13:10:53 +0000</pubDate>
-      <guid isPermaLink="true">https://www.historyextra.com/membership/historys-greatest-cities-season-5/</guid>
-    </item>
-    <item>
-      <title>[Chicago] Resurrected postmetal giants Neurosis lament the plight of humanity on An Undying Love for a Burning World</title>
-      <link>https://chicagoreader.com/music/concert-preview/neurosis-metro/</link>
-      <description>Chicago Reader: &lt;figure&gt;&lt;img alt=&quot;a black and white portrait of neurosis&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;576&quot; src=&quot;https://i0.wp.com/chicagoreader.com/wp-content/uploads/2026/10/Neurosis-courtesy-the-artist_social.jpg?fit=1024%2C576&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figure&gt;
-&lt;p</description>
-      <pubDate>Thu, 29 Oct 2026 13:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://chicagoreader.com/music/concert-preview/neurosis-metro/</guid>
-    </item>
-    <item>
-      <title>[Chicago] Multi-instrumentalist Robbie Lynn Hunsinger presents compositional, political, and intermedia work</title>
-      <link>https://chicagoreader.com/music/concert-preview/robbie-lynn-hunsinger-constellation/</link>
-      <description>Chicago Reader: &lt;figure&gt;&lt;img alt=&quot;a woman with short hair stands holding a trumpet, she stands next to a blue light that resembles an eclipse&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;576&quot; src=&quot;https://i0.wp.com/chicagoreader.com/wp-content/uploads/2026/10/Robbie-Hunsinger-photo-b</description>
-      <pubDate>Thu, 29 Oct 2026 13:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://chicagoreader.com/music/concert-preview/robbie-lynn-hunsinger-constellation/</guid>
-    </item>
-    <item>
-      <title>[Books &amp; Literature] Alisa Weilerstein’s Cello</title>
-      <link>https://www.theparisreview.org/blog/2026/10/29/alisa-weilersteins-cello-lucy-ellmann/</link>
-      <description>The Paris Review: “ ‘It’s a bird, it’s a plane!’ people cried. No, just a cello on a moonlit flit.”</description>
-      <pubDate>Thu, 29 Oct 2026 12:00:28 +0000</pubDate>
-      <guid isPermaLink="true">https://www.theparisreview.org/blog/2026/10/29/alisa-weilersteins-cello-lucy-ellmann/</guid>
-    </item>
-    <item>
-      <title>[Philosophy] Hills and mountains</title>
-      <link>https://aeon.co/videos/an-afghan-woman-recalls-how-her-countrys-devastation-led-to-her-own</link>
-      <description>Aeon: &lt;p&gt;&lt;img alt=&quot;Photo of a mosque on a street with snow-capped mountains and blue sky in background and people, cars and a flying pigeon in the foreground&quot; src=&quot;https://images.aeonmedia.co/images/ff45dbb1-3bc0-4c05-b179-66f23dd04c84/hills-and-mountains-landscape-1.jpg?width=1200&amp;amp;quality=75&amp;amp;form</description>
-      <pubDate>Thu, 29 Oct 2026 10:01:00 +0000</pubDate>
-      <guid isPermaLink="true">https://aeon.co/videos/an-afghan-woman-recalls-how-her-countrys-devastation-led-to-her-own</guid>
     </item>
 </channel></rss>
