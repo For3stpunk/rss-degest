@@ -3,21 +3,556 @@
   <title>A Character Quiz — Combined Digest</title>
   <link>https://www.acharacterquiz.com</link>
   <description>News, politics, books, history, philosophy, and Chicago — merged into one feed</description>
-  <lastBuildDate>Fri, 06 Nov 2026 07:42:01 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 06 Nov 2026 15:41:53 +0000</lastBuildDate>
   
     <item>
-      <title>[News / World] Major construction ongoing near Iran missile bases, satellite images suggest</title>
-      <link>https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>BBC News — World: Evidence of digging and new buildings are visible in satellite imagery taken in November, satellite images suggest.</description>
-      <pubDate>Fri, 06 Nov 2026 07:33:41 +0000</pubDate>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro?at_medium=RSS&amp;at_campaign=rss</guid>
+      <title>[Books &amp; Literature] November’s Buzziest Literary Fiction</title>
+      <link>https://bookriot.com/</link>
+      <description>Book Riot: This month&#x27;s buzziest literary fiction will have you reaching for the tissues!</description>
+      <pubDate>Fri, 06 Nov 2026 15:41:49 +0000</pubDate>
+      <guid isPermaLink="true">https://bookriot.com/</guid>
     </item>
     <item>
-      <title>[News / World] Israel’s President Herzog to name candidate to form government on Sunday</title>
-      <link>https://www.aljazeera.com/news/2026/11/6/israels-herzog-to-name-a-candidate-to-form-government-on-sunday?traffic_source=rss</link>
-      <description>Al Jazeera: Announcement comes after majority of Israeli lawmakers endorse Eisenkot over Netanyahu.</description>
-      <pubDate>Fri, 06 Nov 2026 07:09:42 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/11/6/israels-herzog-to-name-a-candidate-to-form-government-on-sunday?traffic_source=rss</guid>
+      <title>[Politics] U.S. Attorney Who Oversaw Centerpiece of Trump’s Revenge Campaign Resigns</title>
+      <link>https://www.nytimes.com/2026/11/06/us/politics/jason-reding-quinones-resigns.html</link>
+      <description>NYT — Politics: Jason Reding Quiñones is the latest prosecutor to leave the Justice Department after being assigned a sprawling investigation seeking retribution against President Trump’s perceived enemies.</description>
+      <pubDate>Fri, 06 Nov 2026 15:34:51 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/06/us/politics/jason-reding-quinones-resigns.html</guid>
+    </item>
+    <item>
+      <title>[News / World] Two dead after bus crashes in France, officials say</title>
+      <link>https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>BBC News — World: One child and one young adult were killed in the crash, local authorities say, with more injured.</description>
+      <pubDate>Fri, 06 Nov 2026 15:33:52 +0000</pubDate>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&amp;at_campaign=rss</guid>
+    </item>
+    <item>
+      <title>[Politics] Netanyahu’s reign may not be over, but it should be</title>
+      <link>https://thehill.com/opinion/international/6199882-netanyahu-likud-election-results/</link>
+      <description>The Hill: Another Netanyahu government would not bode well either for Israel or for the U.S.</description>
+      <pubDate>Fri, 06 Nov 2026 15:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/opinion/international/6199882-netanyahu-likud-election-results/</guid>
+    </item>
+    <item>
+      <title>[Politics] Tesla winding down Cybertruck production</title>
+      <link>https://thehill.com/policy/technology/6203765-tesla-cybertruck-production-ending/</link>
+      <description>The Hill: Elon Musk announced on Friday that Tesla will wind down production of its Cybertruck next year after years of poor sales for the electric truck. In a post on the social platform X, the Tesla CEO said Cybertruck production will wind down at Gigafactory Texas in mid-2027 &amp;#8220;to make room for increa</description>
+      <pubDate>Fri, 06 Nov 2026 15:27:24 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/policy/technology/6203765-tesla-cybertruck-production-ending/</guid>
+    </item>
+    <item>
+      <title>[News / World] New bomb threats target European broadcasters, air traffic</title>
+      <link>https://www.aljazeera.com/news/2026/11/6/new-bomb-threats-target-european-broadcasters-air-traffic?traffic_source=rss</link>
+      <description>Al Jazeera: A string of hoax alerts causing flight diversions across Europe this week has broadened to include newsrooms.</description>
+      <pubDate>Fri, 06 Nov 2026 15:24:54 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/11/6/new-bomb-threats-target-european-broadcasters-air-traffic?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] European air traffic is targeted by new threats after a week of hoaxes</title>
+      <link>https://www.npr.org/2026/11/06/nx-s1-6032612/europe-flights-hoaxes</link>
+      <description>NPR News: Officials across Europe reported a fresh slew of bomb threats against multiple flights on Friday, following a string of hoaxes that have caused flight diversions this week. Two broadcasters also received security threats.</description>
+      <pubDate>Fri, 06 Nov 2026 15:21:31 +0000</pubDate>
+      <guid isPermaLink="true">https://www.npr.org/2026/11/06/nx-s1-6032612/europe-flights-hoaxes</guid>
+    </item>
+    <item>
+      <title>[Politics] Top prosecutor in office that housed Trump’s ‘grand conspiracy’ probe resigns from DOJ</title>
+      <link>https://thehill.com/regulation/court-battles/6203924-reding-quinones-doj-resignation/</link>
+      <description>The Hill: The prosecutor whose South Florida office oversaw President Trump’s so-called grand conspiracy probe has resigned from the Justice Department, Attorney General Todd Blanche announced Friday. “United States Attorney for the Southern District of Florida Jason Reding Quiñones submitted his resignation </description>
+      <pubDate>Fri, 06 Nov 2026 15:19:15 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/regulation/court-battles/6203924-reding-quinones-doj-resignation/</guid>
+    </item>
+    <item>
+      <title>[Politics] Fed’s Williams says inflation too high, targets 2 percent</title>
+      <link>https://thehill.com/business/6203854-fed-williams-inflation-too-high/</link>
+      <description>The Hill: John Williams, the president of the Federal Reserve Bank of New York, said Friday inflation remains too high amid multiple price shocks. &amp;#8220;Inflation is absolutely too ​high. It&amp;#8217;s been too high for too long,&amp;#8221; Williams said at a ​European Central Bank conference in Germany. He later a</description>
+      <pubDate>Fri, 06 Nov 2026 15:18:36 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/business/6203854-fed-williams-inflation-too-high/</guid>
+    </item>
+    <item>
+      <title>[Politics] Zelensky: Ukraine may receive increased U.S. assistance following ‘new political infrastructure’</title>
+      <link>https://thehill.com/policy/international/6203855-zelensky-ukraine-us-aid-midterms/</link>
+      <description>The Hill: The chances have increased for Ukraine to receive additional U.S. assistance, Ukrainian President Volodymyr Zelensky said Thursday, reacting to Democrats&amp;#8217; overwhelming victories in the midterm elections.&amp;#160; Ukraine needs to consolidate bipartisan support in the U.S. and “move toward” the ne</description>
+      <pubDate>Fri, 06 Nov 2026 15:16:30 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/policy/international/6203855-zelensky-ukraine-us-aid-midterms/</guid>
+    </item>
+    <item>
+      <title>[News / World] Claims of a Ukrainian ‘torture chamber’ went viral. What really happened?</title>
+      <link>https://www.aljazeera.com/news/2026/11/6/claims-of-a-ukrainian-torture-chamber-went-viral-what-really-happened?traffic_source=rss</link>
+      <description>Al Jazeera: A woman who claimed that men were being violently assaulted in a house for evading the draft has been arrested.</description>
+      <pubDate>Fri, 06 Nov 2026 15:14:35 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/11/6/claims-of-a-ukrainian-torture-chamber-went-viral-what-really-happened?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] Kenyan doomsday sect leader jailed for 200 years over 191 murders</title>
+      <link>https://www.theguardian.com/world/2026/nov/06/kenyan-doomsday-sect-leader-jailed-murders-paul-mackenzie</link>
+      <description>The Guardian — World: &lt;p&gt;Paul Mackenzie convicted over the deaths of 190 children and one adult after followers were ordered to starve themselves and their families&lt;/p&gt;&lt;p&gt;The leader of a Kenyan doomsday sect has been sentenced to 200 years in prison for the murders of 190 children and one adult in one of the world’s wors</description>
+      <pubDate>Fri, 06 Nov 2026 15:08:43 +0000</pubDate>
+      <guid isPermaLink="true">https://www.theguardian.com/world/2026/nov/06/kenyan-doomsday-sect-leader-jailed-murders-paul-mackenzie</guid>
+    </item>
+    <item>
+      <title>[News / World] Bomb Threats in Europe Probably a Coordinated Campaign, Ireland Says</title>
+      <link>https://www.nytimes.com/2026/11/06/world/europe/bomb-threats-flights-campaign-ireland.html</link>
+      <description>NYT — World: Multiple flights in Europe were disrupted and several newsrooms in Ireland were evacuated after bomb threats, the latest of a series of security incidents.</description>
+      <pubDate>Fri, 06 Nov 2026 15:04:13 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/06/world/europe/bomb-threats-flights-campaign-ireland.html</guid>
+    </item>
+    <item>
+      <title>[Politics] Former DHS official: Agents ‘will confess … they don’t know what they’re doing’</title>
+      <link>https://thehill.com/homenews/administration/6203724-dhs-immigration-arrests-midterms/</link>
+      <description>The Hill: A former official at the Department of Homeland Security (DHS) said it is “going to take a generation for people to trust the department again,” adding that immigration agents “don&amp;#8217;t know what they&amp;#8217;re doing.” “Those agents need to be out there investigating spies, terrorists, pedophile r</description>
+      <pubDate>Fri, 06 Nov 2026 15:04:11 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/homenews/administration/6203724-dhs-immigration-arrests-midterms/</guid>
+    </item>
+    <item>
+      <title>[Politics] Newsom death penalty move ‘impossible to view outside a political lens’: Geragos</title>
+      <link>https://thehill.com/homenews/state-watch/6203777-newsom-death-penalty-commutations/</link>
+      <description>The Hill: California criminal defense attorney Mark Geragos said California Gov. Gavin Newsom’s (D) move to commute all death-row sentences in his state was political.  Geragos joined NewsNation’s Jesse Weber on Thursday and said the California governor’s move to commute the sentences of 548 inmates facing ex</description>
+      <pubDate>Fri, 06 Nov 2026 15:00:20 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/homenews/state-watch/6203777-newsom-death-penalty-commutations/</guid>
+    </item>
+    <item>
+      <title>[Politics] Congress has a new majority, but immigration policy won’t change just yet</title>
+      <link>https://thehill.com/opinion/immigration/6201644-new-congress-immigration-agenda/</link>
+      <description>The Hill: Democrats may be in charge of the legislative branch, but it&#x27;s likely to be a long two years — at least — before they get anything done.</description>
+      <pubDate>Fri, 06 Nov 2026 15:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/opinion/immigration/6201644-new-congress-immigration-agenda/</guid>
+    </item>
+    <item>
+      <title>[Chicago] Meaning over materiality</title>
+      <link>https://chicagoreader.com/film-tv/the-cinema-scrapbook/once-upon-a-time-in-harlem-beatriz-gonzalez-art-institute-of-chicago/</link>
+      <description>Chicago Reader: &lt;figure&gt;&lt;img alt=&quot;a diptych of a film still depicting two older Black people in the 70s and a bold color painting of two royal figures&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;597&quot; src=&quot;https://i0.wp.com/chicagoreader.com/wp-content/uploads/2026/10/cinema-scrapboo</description>
+      <pubDate>Fri, 06 Nov 2026 15:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://chicagoreader.com/film-tv/the-cinema-scrapbook/once-upon-a-time-in-harlem-beatriz-gonzalez-art-institute-of-chicago/</guid>
+    </item>
+    <item>
+      <title>[News / World] Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason</title>
+      <link>https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>BBC News — World: The 58-year-old, who has been detained since April last year, says the charges are politically motivated.</description>
+      <pubDate>Fri, 06 Nov 2026 14:57:08 +0000</pubDate>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&amp;at_campaign=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] The leader of a Kenyan doomsday cult is sentenced to 200 years in prison</title>
+      <link>https://www.npr.org/2026/11/06/nx-s1-6032593/kenya-cult-leader-paul-mackenzie-sentenced-murder</link>
+      <description>NPR News: Cult leader Paul Mackenzie was convicted of murdering 190 children and one adult after he ordered his followers to starve themselves to death in order to meet Jesus.</description>
+      <pubDate>Fri, 06 Nov 2026 14:53:46 +0000</pubDate>
+      <guid isPermaLink="true">https://www.npr.org/2026/11/06/nx-s1-6032593/kenya-cult-leader-paul-mackenzie-sentenced-murder</guid>
+    </item>
+    <item>
+      <title>[News / World] Kenyan doomsday cult leader given life sentence for murdering 191 people</title>
+      <link>https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>BBC News — World: Paul Mackenzie ordered his followers to starve their children to death in a forest so they could &quot;meet Jesus&quot;.</description>
+      <pubDate>Fri, 06 Nov 2026 14:46:03 +0000</pubDate>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&amp;at_campaign=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] Saudi-Led Forces Bombed Yemeni Home, Killing Nine Family Members, Relatives Say</title>
+      <link>https://www.nytimes.com/2026/11/06/world/middleeast/saudi-arabia-bombing-yemen-civilians-houthi-war.html</link>
+      <description>NYT — World: The attack in October cast a spotlight on civilian casualties in the Saudi-led and U.S.-assisted bombing campaign against the Houthis.</description>
+      <pubDate>Fri, 06 Nov 2026 14:37:55 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/06/world/middleeast/saudi-arabia-bombing-yemen-civilians-houthi-war.html</guid>
+    </item>
+    <item>
+      <title>[Chicago] 7 Candidates Running In Coveted Race For 25th Ward Alderman</title>
+      <link>https://blockclubchicago.org/2026/11/06/7-candidates-running-in-coveted-race-for-25th-ward-alderman/</link>
+      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;682&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2026/09/092326-City-Council-Colin-Boyle-0564.jpeg?fit=1024%2C682&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figure&gt;Aida Flores, Nubia Batista Willman, Ia</description>
+      <pubDate>Fri, 06 Nov 2026 14:36:00 +0000</pubDate>
+      <guid isPermaLink="true">https://blockclubchicago.org/2026/11/06/7-candidates-running-in-coveted-race-for-25th-ward-alderman/</guid>
+    </item>
+    <item>
+      <title>[News / World] 12 Planes in 12 Days: Pope Begins Major Latin America Tour, Weeks After Surgery</title>
+      <link>https://www.nytimes.com/2026/11/06/world/europe/pope-leo-visit-uruguay-argentina-peru.html</link>
+      <description>NYT — World: Pope Leo XIV’s tour of Uruguay, Argentina and Peru is his first major trip since an operation on his lung last month.</description>
+      <pubDate>Fri, 06 Nov 2026 14:35:42 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/06/world/europe/pope-leo-visit-uruguay-argentina-peru.html</guid>
+    </item>
+    <item>
+      <title>[Chicago] 2 Logan Square Residents To Challenge 35th Ward Ald. Anthony Quezada In His 1st Election</title>
+      <link>https://blockclubchicago.org/2026/11/06/2-logan-square-residents-to-challenge-35th-ward-ald-anthony-quezada-in-his-1st-election/</link>
+      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;682&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2026/01/012126-City-Council-Colin-Boyle-1820.jpg?fit=1024%2C682&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figure&gt;Quezada, appointed last year by the may</description>
+      <pubDate>Fri, 06 Nov 2026 14:22:00 +0000</pubDate>
+      <guid isPermaLink="true">https://blockclubchicago.org/2026/11/06/2-logan-square-residents-to-challenge-35th-ward-ald-anthony-quezada-in-his-1st-election/</guid>
+    </item>
+    <item>
+      <title>[Chicago] Family Mourns 21-Year-Old Man Killed In Logan Square Drive-By: ‘Senseless Loss’</title>
+      <link>https://blockclubchicago.org/2026/11/06/family-mourns-21-year-old-man-killed-in-logan-square-drive-by-senseless-loss/</link>
+      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;Santino Delgado, 21, was killed in a drive-by shooting in Logan Square on Tuesday.&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;576&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2026/11/Delgado-1.jpg?fit=1024%2C576&amp;amp;ssl=1&quot; width=&quot;1</description>
+      <pubDate>Fri, 06 Nov 2026 14:13:00 +0000</pubDate>
+      <guid isPermaLink="true">https://blockclubchicago.org/2026/11/06/family-mourns-21-year-old-man-killed-in-logan-square-drive-by-senseless-loss/</guid>
+    </item>
+    <item>
+      <title>[Chicago] Humboldt Park Art Show Tells Story Of ‘Rupture,’ Chicago Creator’s New Strategy Card Game</title>
+      <link>https://blockclubchicago.org/2026/11/06/humboldt-park-art-show-tells-story-of-rupture-chicago-creators-new-strategy-card-game/</link>
+      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;654&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2026/11/henry-bruce-1-scaled.jpeg?fit=1024%2C654&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figure&gt;The show at Coming Soon gallery will have 75 pieces of</description>
+      <pubDate>Fri, 06 Nov 2026 14:13:00 +0000</pubDate>
+      <guid isPermaLink="true">https://blockclubchicago.org/2026/11/06/humboldt-park-art-show-tells-story-of-rupture-chicago-creators-new-strategy-card-game/</guid>
+    </item>
+    <item>
+      <title>[Politics] John D. Rockefeller IV, West Virginia Governor and Senator, Dies at 89</title>
+      <link>https://www.nytimes.com/2026/11/06/us/politics/jay-rockefeller-dead.html</link>
+      <description>NYT — Politics: The rare Democrat in a fabled family of wealthy Republicans, he served 30 years as senator and helped bring health insurance to millions of low-income children.</description>
+      <pubDate>Fri, 06 Nov 2026 14:10:45 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/06/us/politics/jay-rockefeller-dead.html</guid>
+    </item>
+    <item>
+      <title>[Politics] Day Drinking With the President</title>
+      <link>https://www.nytimes.com/2026/11/06/us/politics/lbj-ranch-1965-robert-b-semple-jr.html</link>
+      <description>NYT — Politics: On a visit to Lyndon Johnson’s Texas ranch, a cub reporter learned why it pays to get out of Washington.</description>
+      <pubDate>Fri, 06 Nov 2026 14:07:34 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/06/us/politics/lbj-ranch-1965-robert-b-semple-jr.html</guid>
+    </item>
+    <item>
+      <title>[Chicago] 3 Candidates File To Replace Matt O’Shea As  19th Ward Alderman</title>
+      <link>https://blockclubchicago.org/2026/11/06/3-candidates-file-to-replace-matt-oshea-as-19th-ward-alderman/</link>
+      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;682&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2024/10/100924-City-Council-Colin-Boyle-2326.jpg?fit=1024%2C682&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figure&gt;Erin Ross, O’Shea’s chief of staff, is </description>
+      <pubDate>Fri, 06 Nov 2026 14:03:47 +0000</pubDate>
+      <guid isPermaLink="true">https://blockclubchicago.org/2026/11/06/3-candidates-file-to-replace-matt-oshea-as-19th-ward-alderman/</guid>
+    </item>
+    <item>
+      <title>[Chicago] Sears Sunken Garden’s Historic Pergola Renovation Hits Milestone In Overhaul</title>
+      <link>https://blockclubchicago.org/2026/11/06/sears-sunken-gardens-historic-pergola-renovation-hits-milestone-as-1st-part-of-landmarks-overhaul/</link>
+      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;683&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2026/11/IMG_5231-scaled.jpg?fit=1024%2C683&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figure&gt;began installing concrete columns for the West Side landmark</description>
+      <pubDate>Fri, 06 Nov 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://blockclubchicago.org/2026/11/06/sears-sunken-gardens-historic-pergola-renovation-hits-milestone-as-1st-part-of-landmarks-overhaul/</guid>
+    </item>
+    <item>
+      <title>[Chicago] Art Institute Of Chicago Publishes 1st Children’s Book In 20 Years</title>
+      <link>https://blockclubchicago.org/2026/11/06/art-institute-of-chicago-publishes-1st-childrens-book-in-20-years/</link>
+      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;768&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2022/11/Screen-Shot-2022-11-14-at-10.23.53-PM.png?fit=1024%2C768&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figure&gt;“ABCs at the Art Institute of Chicago”</description>
+      <pubDate>Fri, 06 Nov 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://blockclubchicago.org/2026/11/06/art-institute-of-chicago-publishes-1st-childrens-book-in-20-years/</guid>
+    </item>
+    <item>
+      <title>[Chicago] Two Weeks In Photos: Election Day, A Backyard Railroad Garden And More</title>
+      <link>https://blockclubchicago.org/2026/11/06/two-weeks-in-photos-election-day-a-backyard-railroad-garden-and-more/</link>
+      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;682&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2026/11/110326-Election-Day-Colin-Boyle-3743.jpg?fit=1024%2C682&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figure&gt;PHOTOS: Take a peek at life in the city</description>
+      <pubDate>Fri, 06 Nov 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://blockclubchicago.org/2026/11/06/two-weeks-in-photos-election-day-a-backyard-railroad-garden-and-more/</guid>
+    </item>
+    <item>
+      <title>[Chicago] Lucy Bedroque raps like they can’t sit still</title>
+      <link>https://chicagoreader.com/music/concert-preview/lucy-bedroque-metro/</link>
+      <description>Chicago Reader: &lt;figure&gt;&lt;img alt=&quot;a black person has a silver nose ring and short black hair, they are wearing a white long sleeve top&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;683&quot; src=&quot;https://i0.wp.com/chicagoreader.com/wp-content/uploads/2026/10/Lucy-Bedroque-courtesy-the-arti</description>
+      <pubDate>Fri, 06 Nov 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://chicagoreader.com/music/concert-preview/lucy-bedroque-metro/</guid>
+    </item>
+    <item>
+      <title>[News / World] Veto or deals: Can Trump find a way to work with Democrats?</title>
+      <link>https://www.aljazeera.com/news/2026/11/6/veto-or-deals-can-trump-find-a-way-to-work-with-democrats?traffic_source=rss</link>
+      <description>Al Jazeera: Trump has three options to affect legislation, say analysts: veto legislation, enforce executive orders or make deals.</description>
+      <pubDate>Fri, 06 Nov 2026 13:58:03 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/11/6/veto-or-deals-can-trump-find-a-way-to-work-with-democrats?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] Ex-lawmaker gets 12.5 years in Macao&#x27;s first national security case</title>
+      <link>https://www.npr.org/2026/11/06/g-s1-152217/ex-lawmaker-gets-12-5-years-in-macaos-first-national-security-case</link>
+      <description>NPR News: Au&#x27;s arrest last year was the first publicly known prosecution under Macao&#x27;s national security law since it was enacted in 2009.</description>
+      <pubDate>Fri, 06 Nov 2026 13:56:43 +0000</pubDate>
+      <guid isPermaLink="true">https://www.npr.org/2026/11/06/g-s1-152217/ex-lawmaker-gets-12-5-years-in-macaos-first-national-security-case</guid>
+    </item>
+    <item>
+      <title>[News / World] Kenya Cult Leader Handed 200 Year Prison Sentence for Mass Murder</title>
+      <link>https://www.nytimes.com/2026/11/06/world/africa/kenya-cult-leader-prison-sentence-mass-murder-paul-mackenzie.html</link>
+      <description>NYT — World: Paul Nthenge Mackenzie forced followers to starve themselves to meet Jesus and told parents to make sure their children fasted in the sun and died first.</description>
+      <pubDate>Fri, 06 Nov 2026 13:53:33 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/06/world/africa/kenya-cult-leader-prison-sentence-mass-murder-paul-mackenzie.html</guid>
+    </item>
+    <item>
+      <title>[News / World] Hiring jumps: The economy added 165,000 jobs last month</title>
+      <link>https://www.npr.org/2026/11/06/nx-s1-6030867/jobs-labor-market-economy-wages-inflation</link>
+      <description>NPR News: The U.S. job market improved last month, according to a report from the Labor Department Friday.  Employers added more jobs than forecasters had expected and the unemployment rate dipped to 4.1%.</description>
+      <pubDate>Fri, 06 Nov 2026 13:49:21 +0000</pubDate>
+      <guid isPermaLink="true">https://www.npr.org/2026/11/06/nx-s1-6030867/jobs-labor-market-economy-wages-inflation</guid>
+    </item>
+    <item>
+      <title>[News / World] What a Trump-Xi-Putin summit could mean – and what it wouldn’t</title>
+      <link>https://www.aljazeera.com/news/2026/11/6/what-a-trump-xi-putin-summit-would-mean-and-what-it-wouldnt?traffic_source=rss</link>
+      <description>Al Jazeera: A Trump-Xi-Putin meeting at APEC would be a coup for Moscow, analysts say, but Beijing appears lukewarm.</description>
+      <pubDate>Fri, 06 Nov 2026 13:49:07 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/11/6/what-a-trump-xi-putin-summit-would-mean-and-what-it-wouldnt?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] Who is Kenya’s starvation cult leader?</title>
+      <link>https://www.aljazeera.com/video/newsfeed/2026/11/6/who-is-kenyas-starvation-cult-leader?traffic_source=rss</link>
+      <description>Al Jazeera: Who is Kenya’s starvation cult leader?</description>
+      <pubDate>Fri, 06 Nov 2026 13:43:41 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/11/6/who-is-kenyas-starvation-cult-leader?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[Chicago] Cold, hard (ethically and righteously acquired) cash</title>
+      <link>https://chicagoreader.com/columns-opinion/staff-notes/columns-opinion-staff-notes-the-admiral-november-2026/</link>
+      <description>Chicago Reader: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;732&quot; src=&quot;https://i0.wp.com/chicagoreader.com/wp-content/uploads/2026/11/Whitney-Bedford_Veduta-Church-Seaside-Moonlight-2026_Evan-Bedford-courtesy-of-the-artist-and-Secrist-Beach_web.jpg?fit=1024%2C732&amp;a</description>
+      <pubDate>Fri, 06 Nov 2026 13:31:22 +0000</pubDate>
+      <guid isPermaLink="true">https://chicagoreader.com/columns-opinion/staff-notes/columns-opinion-staff-notes-the-admiral-november-2026/</guid>
+    </item>
+    <item>
+      <title>[News / World] Ukraine raises Zaporizhia aid strike death toll to at least 50</title>
+      <link>https://www.aljazeera.com/news/2026/11/6/ukraine-raises-zaporizhia-aid-strike-death-toll-to-at-least-50?traffic_source=rss</link>
+      <description>Al Jazeera: Ukrainian officials say DNA tests are being used to identify bodies while up to 39 remain trapped under rubble.</description>
+      <pubDate>Fri, 06 Nov 2026 13:30:18 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/11/6/ukraine-raises-zaporizhia-aid-strike-death-toll-to-at-least-50?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[Politics] Melania Trump Repositions the White Suit</title>
+      <link>https://www.nytimes.com/2026/11/06/style/melania-trump-white-suit-russia-ukraine-cease-fire.html</link>
+      <description>NYT — Politics: The first lady wore a white suit to preside over the White House meeting of delegations from Russia and Ukraine.</description>
+      <pubDate>Fri, 06 Nov 2026 13:29:47 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/06/style/melania-trump-white-suit-russia-ukraine-cease-fire.html</guid>
+    </item>
+    <item>
+      <title>[News / World] Portugal FA pledges to honour Cristiano Ronaldo as Jorge Jesus names squad</title>
+      <link>https://www.aljazeera.com/sports/2026/11/6/portugal-fa-pledges-to-honour-cristiano-ronaldo-as-jorge-jesus-names-squad?traffic_source=rss</link>
+      <description>Al Jazeera: Portuguese FA promises to celebrate Ronaldo, although it is unclear whether he ⁠would agree to a farewell appearance.</description>
+      <pubDate>Fri, 06 Nov 2026 13:23:52 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/sports/2026/11/6/portugal-fa-pledges-to-honour-cristiano-ronaldo-as-jorge-jesus-names-squad?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] Wave of Hoax Bomb Threats to Flights in Europe Leaves Travelers Frustrated</title>
+      <link>https://www.nytimes.com/2026/11/06/world/europe/bomb-threats-planes-flights-europe-travel.html</link>
+      <description>NYT — World: Bomb threats have disrupted dozens of flights in Europe over the past week. At airports in Rome, Madrid and Warsaw, travelers were more frustrated than fearful.</description>
+      <pubDate>Fri, 06 Nov 2026 13:11:33 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/06/world/europe/bomb-threats-planes-flights-europe-travel.html</guid>
+    </item>
+    <item>
+      <title>[News / World] Flávio Bolsonaro battles to remain relevant as he speaks at rightwing conference at Mar-a-Lago</title>
+      <link>https://www.theguardian.com/world/2026/nov/06/flavio-bolsonaro-upbeat-brazil-election-us</link>
+      <description>The Guardian — World: &lt;p&gt;Far-right politician addresses Conservative Political Action Conference and makes unsubstantiated claims about election fraud&lt;/p&gt;&lt;p&gt;Flávio Bolsonaro, the far-right politician who lost Brazil’s presidential election last month, has insisted his defeat is not “the end for Brazil” as he battles to m</description>
+      <pubDate>Fri, 06 Nov 2026 13:03:38 +0000</pubDate>
+      <guid isPermaLink="true">https://www.theguardian.com/world/2026/nov/06/flavio-bolsonaro-upbeat-brazil-election-us</guid>
+    </item>
+    <item>
+      <title>[Chicago] Azadi Folk School teaches Chicagoans to ferment, forage, and reclaim their roots</title>
+      <link>https://chicagoreader.com/food/food-drink-feature/azadi-folk-school-lameese-yousef-sudanese-food-fermentation-mish-nylah-muhammad-singh/</link>
+      <description>Chicago Reader: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;683&quot; src=&quot;https://i0.wp.com/chicagoreader.com/wp-content/uploads/2026/11/DSC_3149-copy-scaled.jpg?fit=1024%2C683&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figure&gt;
+&lt;p&gt;Lameese Yousef weaves through the table’s row of ing</description>
+      <pubDate>Fri, 06 Nov 2026 13:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://chicagoreader.com/food/food-drink-feature/azadi-folk-school-lameese-yousef-sudanese-food-fermentation-mish-nylah-muhammad-singh/</guid>
+    </item>
+    <item>
+      <title>[News / World] Russia to UAE, Iran steps up diplomacy amid Trump threats: What we know</title>
+      <link>https://www.aljazeera.com/news/2026/11/6/russia-to-uae-iran-steps-up-diplomacy-amid-trump-threats-what-we-know?traffic_source=rss</link>
+      <description>Al Jazeera: Iran launches diplomatic offensive as US mulls resumption of war.</description>
+      <pubDate>Fri, 06 Nov 2026 12:57:33 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/11/6/russia-to-uae-iran-steps-up-diplomacy-amid-trump-threats-what-we-know?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] ANC faces bruising defeat in South African local elections with 80% of ballots counted</title>
+      <link>https://www.theguardian.com/world/2026/nov/06/anc-faces-defeat-south-african-local-elections</link>
+      <description>The Guardian — World: &lt;p&gt;Former liberation movement’s share of national vote almost 14 percentage points below 2021 result&lt;/p&gt;&lt;p&gt;The African National Congress is on course to suffer a bruising defeat in South Africa’s local elections, with the once dominant party of Nelson Mandela falling to under a third of the vote nat</description>
+      <pubDate>Fri, 06 Nov 2026 12:48:37 +0000</pubDate>
+      <guid isPermaLink="true">https://www.theguardian.com/world/2026/nov/06/anc-faces-defeat-south-african-local-elections</guid>
+    </item>
+    <item>
+      <title>[Politics] Fed Up With Politics and Struggle, Young Voters Rose Up</title>
+      <link>https://www.nytimes.com/2026/11/06/us/politics/young-voters-democratic-wave-midterms.html</link>
+      <description>NYT — Politics: Young people powered Democratic candidates, joining global demands for generational change from a cohort weary of older people sitting on jobs and devouring resources.</description>
+      <pubDate>Fri, 06 Nov 2026 12:26:55 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/06/us/politics/young-voters-democratic-wave-midterms.html</guid>
+    </item>
+    <item>
+      <title>[News / World] Judge halts construction of Trump&#x27;s arch. And, Labor Department to release jobs report</title>
+      <link>https://www.npr.org/2026/11/06/g-s1-152213/up-first-newsletter-job-market-trump-arch-school-enrollment-harmeet-dhillon</link>
+      <description>NPR News: A judge has blocked construction of Trump&#x27;s arch moments after it won federal approval to proceed. And, the Labor Department is set to release the latest jobs report today, a day after stocks plunged.</description>
+      <pubDate>Fri, 06 Nov 2026 12:24:52 +0000</pubDate>
+      <guid isPermaLink="true">https://www.npr.org/2026/11/06/g-s1-152213/up-first-newsletter-job-market-trump-arch-school-enrollment-harmeet-dhillon</guid>
+    </item>
+    <item>
+      <title>[Books &amp; Literature] The best recent poetry – review roundup</title>
+      <link>https://www.theguardian.com/books/2026/nov/06/the-best-recent-poetry-review-roundup</link>
+      <description>The Guardian — Books: &lt;p&gt;The Universe is an Animal by Jessica Mookherjee; Sleep Gate by Sylvia Legris; The Other Love by Henri Cole; Stay Winter by Nidhi Zak/Aria Eipe &lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://guardianbookshop.com/the-universe-is-an-animal-9781916760523/?utm_source=editoriallink&amp;amp;utm_medium=merch&amp;amp;utm_campai</description>
+      <pubDate>Fri, 06 Nov 2026 12:00:41 +0000</pubDate>
+      <guid isPermaLink="true">https://www.theguardian.com/books/2026/nov/06/the-best-recent-poetry-review-roundup</guid>
+    </item>
+    <item>
+      <title>[News / World] Why gold prices are surprisingly low</title>
+      <link>https://www.npr.org/sections/planet-money/2026/11/06/nx-s1-6030995/why-gold-prices-are-surprisingly-low</link>
+      <description>NPR News: Gold tends to go up when there&#x27;s uncertainty in the economy. For a while, the price reflected that. But this week, it dropped from a nearly $5,600 in January to below $4,000. What&#x27;s going on?</description>
+      <pubDate>Fri, 06 Nov 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.npr.org/sections/planet-money/2026/11/06/nx-s1-6030995/why-gold-prices-are-surprisingly-low</guid>
+    </item>
+    <item>
+      <title>[News / World] &#x27;He&#x27;s got to go&#x27;: Hakeem Jeffries calls for Hegseth&#x27;s removal but stops short of impeachment</title>
+      <link>https://www.npr.org/2026/11/06/nx-s1-6030799/democrats-ran-on-affordability-how-will-the-party-make-it-happen</link>
+      <description>NPR News: Speaking with &lt;em&gt;Morning Edition&lt;/em&gt;, Hakeem Jeffries discussed ending the Iran war, holding Trump accountable and calls for new Democratic leadership, but offered few specifics on how Democrats would deliver.</description>
+      <pubDate>Fri, 06 Nov 2026 11:58:56 +0000</pubDate>
+      <guid isPermaLink="true">https://www.npr.org/2026/11/06/nx-s1-6030799/democrats-ran-on-affordability-how-will-the-party-make-it-happen</guid>
+    </item>
+    <item>
+      <title>[News / World] Past White House adviser Raj Panjabi has written a playbook for &#x27;living room&#x27; crises</title>
+      <link>https://www.npr.org/2026/11/06/nx-s1-6021013/white-house-adviser-raj-panjabi-safer-playbook</link>
+      <description>NPR News: Dr. Raj Panjabi is the author of &lt;em&gt;Safer: A Playbook.&lt;/em&gt; His goal is to help people face a personal crisis — health, workplace, family conflicts — and &quot;turn fear into action.&quot;</description>
+      <pubDate>Fri, 06 Nov 2026 11:57:32 +0000</pubDate>
+      <guid isPermaLink="true">https://www.npr.org/2026/11/06/nx-s1-6021013/white-house-adviser-raj-panjabi-safer-playbook</guid>
+    </item>
+    <item>
+      <title>[Books &amp; Literature] Lit Hub Daily: November 6, 2026</title>
+      <link>https://lithub.com/lit-hub-daily-november-6-2026/</link>
+      <description>Literary Hub: Katherine Kelaidis on Sergey Davydov and why stories of ordinary life are essential in times of political upheaval: “Hatred and division, the business of political conflict, are not the organizing principles of his inner world. Love is.” &amp;#124; Lit Hub</description>
+      <pubDate>Fri, 06 Nov 2026 11:30:54 +0000</pubDate>
+      <guid isPermaLink="true">https://lithub.com/lit-hub-daily-november-6-2026/</guid>
+    </item>
+    <item>
+      <title>[Books &amp; Literature] The Most Read Books on Goodreads This Week</title>
+      <link>https://bookriot.com/most-read-books-on-goodreads-november-6-2026/</link>
+      <description>Book Riot: In this week&#x27;s most read books on Goodreads, romantasy is back with a vengeance: almost 1 in 4 of the most popular books are by Sarah J. Maas.</description>
+      <pubDate>Fri, 06 Nov 2026 11:05:00 +0000</pubDate>
+      <guid isPermaLink="true">https://bookriot.com/most-read-books-on-goodreads-november-6-2026/</guid>
+    </item>
+    <item>
+      <title>[Books &amp; Literature] These Are The Best New Romcom Manga To Fall in Love With</title>
+      <link>https://bookriot.com/best-new-romcom-manga/</link>
+      <description>Book Riot: Laugh out loud and swoon just as hard with some of the best new romcom manga, like Smoking Behind the Supermarket With You.</description>
+      <pubDate>Fri, 06 Nov 2026 11:02:00 +0000</pubDate>
+      <guid isPermaLink="true">https://bookriot.com/best-new-romcom-manga/</guid>
+    </item>
+    <item>
+      <title>[Books &amp; Literature] Stay Scared: New Horror Book Releases for November</title>
+      <link>https://bookriot.com/new-horror-book-releases-november-2026/</link>
+      <description>Book Riot: New horror book releases for November include a new spin on &quot;The Yellow Wallpaper,&quot; short story collections, amnesia, and more.</description>
+      <pubDate>Fri, 06 Nov 2026 11:01:00 +0000</pubDate>
+      <guid isPermaLink="true">https://bookriot.com/new-horror-book-releases-november-2026/</guid>
+    </item>
+    <item>
+      <title>[Books &amp; Literature] What are You Reading in November?</title>
+      <link>https://bookriot.com/what-are-you-reading-in-november-2026/</link>
+      <description>Book Riot: We are rapidly approaching the end of the year!</description>
+      <pubDate>Fri, 06 Nov 2026 11:01:00 +0000</pubDate>
+      <guid isPermaLink="true">https://bookriot.com/what-are-you-reading-in-november-2026/</guid>
+    </item>
+    <item>
+      <title>[Philosophy] Celestial nuisance</title>
+      <link>https://aeon.co/essays/why-astrophysics-needs-to-abandon-the-big-questions</link>
+      <description>Aeon: &lt;p&gt;&lt;img alt=&quot;An image of a vibrant, multicoloured nebula with stars, glowing clouds and cosmic dust in deep space.&quot; src=&quot;https://images.aeonmedia.co/images/7129c5df-be79-48ee-bcbd-f31854ec3aa3/essay-weic2425c.jpg?width=1200&amp;amp;quality=75&amp;amp;format=auto&quot; /&gt;&lt;/p&gt;&lt;p&gt;The cosmos has become a lab for the</description>
+      <pubDate>Fri, 06 Nov 2026 11:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://aeon.co/essays/why-astrophysics-needs-to-abandon-the-big-questions</guid>
+    </item>
+    <item>
+      <title>[Books &amp; Literature] 📚 So much to celebrate</title>
+      <link>https://bookriot.com/so-much-to-celebrate/</link>
+      <description>Book Riot: Native American women are making history.</description>
+      <pubDate>Fri, 06 Nov 2026 10:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://bookriot.com/so-much-to-celebrate/</guid>
+    </item>
+    <item>
+      <title>[News / World] Guarded Optimism, and Some Jokes, in Ukraine Over Trump’s Midterm Wipeout</title>
+      <link>https://www.nytimes.com/2026/11/06/world/europe/russia-ukraine-trump-midterms.html</link>
+      <description>NYT — World: Victory for Democrats could alter the course of peace negotiations and a war nearing its fifth year.</description>
+      <pubDate>Fri, 06 Nov 2026 10:22:24 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/06/world/europe/russia-ukraine-trump-midterms.html</guid>
+    </item>
+    <item>
+      <title>[Politics] Guarded Optimism, and Some Jokes, in Ukraine Over Trump’s Midterm Wipeout</title>
+      <link>https://www.nytimes.com/2026/11/06/world/europe/russia-ukraine-trump-midterms.html</link>
+      <description>NYT — Politics: Victory for Democrats could alter the course of peace negotiations and a war nearing its fifth year.</description>
+      <pubDate>Fri, 06 Nov 2026 10:22:24 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/06/world/europe/russia-ukraine-trump-midterms.html</guid>
+    </item>
+    <item>
+      <title>[Politics] These Newly Elected Lawmakers Know Something Trump Doesn’t: Science</title>
+      <link>https://www.nytimes.com/2026/11/06/science/scientists-election-congress.html</link>
+      <description>NYT — Politics: Among those elected to Congress on Tuesday are a mathematician, a microbiologist and a chemical engineer. They plan to take on a White House that has threatened funding cuts to research.</description>
+      <pubDate>Fri, 06 Nov 2026 10:03:57 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/06/science/scientists-election-congress.html</guid>
+    </item>
+    <item>
+      <title>[Books &amp; Literature] Nikita Gill: ‘I read Flowers in the Attic too young. Someone should have stopped me’</title>
+      <link>https://www.theguardian.com/books/2026/nov/06/nikita-gill-i-read-flowers-in-the-attic-too-young-someone-should-have-stopped-me</link>
+      <description>The Guardian — Books: &lt;p&gt;The Indian-Irish poet on the Mahabharata retelling that inspired her to write, Arundhati Roy’s courage, and the poetry of Lucille Clifton&lt;/p&gt;&lt;p&gt;&lt;strong&gt;My earliest reading&amp;nbsp;memory
+  &lt;br /&gt;&lt;/strong&gt;My father was a sailor and my mother a teacher. They were both voracious readers. I was lucky en</description>
+      <pubDate>Fri, 06 Nov 2026 10:00:50 +0000</pubDate>
+      <guid isPermaLink="true">https://www.theguardian.com/books/2026/nov/06/nikita-gill-i-read-flowers-in-the-attic-too-young-someone-should-have-stopped-me</guid>
+    </item>
+    <item>
+      <title>[News / World] Europe Still Sees Trump As Powerful, Especially in Foreign Policy</title>
+      <link>https://www.nytimes.com/2026/11/06/world/europe/europe-trump-midterms.html</link>
+      <description>NYT — World: The commanding victory of the Democrats has brought private relief to some Europeans but no official glee, with Ukraine, Iran and NATO all hanging in the balance.</description>
+      <pubDate>Fri, 06 Nov 2026 10:00:19 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/06/world/europe/europe-trump-midterms.html</guid>
+    </item>
+    <item>
+      <title>[Books &amp; Literature] Science Friction: An Argument for More Sex in Sci-Fi</title>
+      <link>https://lithub.com/science-friction-an-argument-for-more-sex-in-sci-fi/</link>
+      <description>Literary Hub: This first appeared in Lit Hub’s Craft of Writing newsletter—sign up here. For centuries, sailors enduring months-long voyages would gaze out at sea mammals sunning themselves and think the thought as old as thought itself: ​ “Would.” ​ Even famously reliable Christopher</description>
+      <pubDate>Fri, 06 Nov 2026 10:00:07 +0000</pubDate>
+      <guid isPermaLink="true">https://lithub.com/science-friction-an-argument-for-more-sex-in-sci-fi/</guid>
+    </item>
+    <item>
+      <title>[Books &amp; Literature] The Banning of Banned Books Week, 2026: Book Censorship News, November 6, 2026</title>
+      <link>https://bookriot.com/banning-banned-books-week-2026/</link>
+      <description>Book Riot: In 2026, Banned Books Week was banned across numerous libraries nationwide for reasons ranging from quiet compliance to legislation and more.</description>
+      <pubDate>Fri, 06 Nov 2026 10:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://bookriot.com/banning-banned-books-week-2026/</guid>
+    </item>
+    <item>
+      <title>[Books &amp; Literature] Who Gets to Write About Ordinary Life?</title>
+      <link>https://lithub.com/who-gets-to-write-about-ordinary-life/</link>
+      <description>Literary Hub: We keep asking Sergey Davydov for a news report, but what he really wants to tell us is a love story. It would be to our advantage if we do it his way. His sophomore foray outside of theatre, Мидвест</description>
+      <pubDate>Fri, 06 Nov 2026 09:59:15 +0000</pubDate>
+      <guid isPermaLink="true">https://lithub.com/who-gets-to-write-about-ordinary-life/</guid>
+    </item>
+    <item>
+      <title>[News / World] Elon Musk appears to signal the end of the road for Cybertruck</title>
+      <link>https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>BBC News — World: Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.</description>
+      <pubDate>Fri, 06 Nov 2026 09:57:04 +0000</pubDate>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&amp;at_campaign=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] Low pressure in US midwest brings unseasonable heat to New York and Boston</title>
+      <link>https://www.theguardian.com/environment/2026/nov/06/new-york-boston-us-weather-tracker</link>
+      <description>The Guardian — World: &lt;p&gt;Further south this week, severe thunderstorms affected midterms voting in Florida, Oklahoma and Colorado&lt;/p&gt;&lt;p&gt;Despite the rapid descent into autumn in the northern hemisphere, parts of eastern North America have experienced an exceptionally late taste of summer in recent days. Temperatures appro</description>
+      <pubDate>Fri, 06 Nov 2026 09:54:12 +0000</pubDate>
+      <guid isPermaLink="true">https://www.theguardian.com/environment/2026/nov/06/new-york-boston-us-weather-tracker</guid>
+    </item>
+    <item>
+      <title>[Books &amp; Literature] How Neuroscience Can Give Paralyzed People The Chance to Speak Again</title>
+      <link>https://lithub.com/how-neuroscience-can-give-paralyzed-people-the-chance-to-speak-again/</link>
+      <description>Literary Hub: A young adult man with closely cropped dark brown hair sits in a wheelchair in a dimly lit room, facing a computer screen on which a simple phrase is typed out: “How are you ­today?” Underneath the question on the</description>
+      <pubDate>Fri, 06 Nov 2026 09:31:39 +0000</pubDate>
+      <guid isPermaLink="true">https://lithub.com/how-neuroscience-can-give-paralyzed-people-the-chance-to-speak-again/</guid>
+    </item>
+    <item>
+      <title>[Books &amp; Literature] ”Arabic Music,” a Poem by Mahmoud Darwish</title>
+      <link>https://lithub.com/arabic-music-a-poem-by-mahmoud-darwish/</link>
+      <description>Literary Hub: “If only men were stones.” If only I were a stone… Whenever the eyes wander, Do these clouds, one by one, Put me to flight? When a sparrow scratches at the horizon Do I search for an idol? At each</description>
+      <pubDate>Fri, 06 Nov 2026 09:30:53 +0000</pubDate>
+      <guid isPermaLink="true">https://lithub.com/arabic-music-a-poem-by-mahmoud-darwish/</guid>
+    </item>
+    <item>
+      <title>[News / World] Trump signs order to preserve Oval Office as national monument</title>
+      <link>https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>BBC News — World: The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing.</description>
+      <pubDate>Fri, 06 Nov 2026 09:19:57 +0000</pubDate>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&amp;at_campaign=rss</guid>
+    </item>
+    <item>
+      <title>[Books &amp; Literature] Priyanka Kumar on Incorporating Art Into Her Nature Writing</title>
+      <link>https://lithub.com/priyanka-kumar-on-incorporating-art-into-her-nature-writing/</link>
+      <description>Literary Hub: On a snowy winter afternoon, a coyote was slipping out of the microwild around my home as I tried, without success, to get a good photograph. (I created the concept of the microwild while writing the book The Light Between</description>
+      <pubDate>Fri, 06 Nov 2026 09:15:57 +0000</pubDate>
+      <guid isPermaLink="true">https://lithub.com/priyanka-kumar-on-incorporating-art-into-her-nature-writing/</guid>
+    </item>
+    <item>
+      <title>[Books &amp; Literature] What Should You Read Next? Here Are the Best Reviewed Books of the Week</title>
+      <link>https://lithub.com/what-should-you-read-next-here-are-the-best-reviewed-books-of-the-week-17/</link>
+      <description>Literary Hub: Judi Dench’s Is It Too Late to Make a Run for It?, Ian Rankin’s The Heights, Louise Kennedy’s Stations, and Simon Garfield’s The Pen: A Human History all feature among the best reviewed books of the week. Brought to you by Book Marks, Lit Hub’s home</description>
+      <pubDate>Fri, 06 Nov 2026 09:07:40 +0000</pubDate>
+      <guid isPermaLink="true">https://lithub.com/what-should-you-read-next-here-are-the-best-reviewed-books-of-the-week-17/</guid>
+    </item>
+    <item>
+      <title>[Books &amp; Literature] Dams</title>
+      <link>https://lithub.com/dams/</link>
+      <description>Literary Hub: This is Ada noticing on her tongue the translucence of the word escriure and the word novel·la, to write and novel, respectively. The coffee tinting them, melting them, like ice cubes. Ada who is ex-plaining that now that she’s returned</description>
+      <pubDate>Fri, 06 Nov 2026 08:00:53 +0000</pubDate>
+      <guid isPermaLink="true">https://lithub.com/dams/</guid>
+    </item>
+    <item>
+      <title>[Philosophy] University of Cape Town vs. Free Speech</title>
+      <link>https://dailynous.com/2026/11/06/university-of-cape-town-vs-free-speech/</link>
+      <description>Daily Nous: &lt;p&gt;Mark Oppenheimer, a lawyer in South Africa whom readers may know as the co-host of the popular Brain in a Vat philosophy podcast, is facing [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://dailynous.com/2026/11/06/university-of-cape-town-vs-free-speech/&quot;&gt;University of Cape Town vs. Free Speech&lt;/a&gt; appe</description>
+      <pubDate>Fri, 06 Nov 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://dailynous.com/2026/11/06/university-of-cape-town-vs-free-speech/</guid>
     </item>
     <item>
       <title>[Books &amp; Literature] True North by Paul Theroux review – an American’s view of Canada</title>
@@ -34,27 +569,6 @@
       <guid isPermaLink="true">https://www.historyextra.com/membership/daily-history-trivia-quiz/</guid>
     </item>
     <item>
-      <title>[News / World] Australia appoint Mike Hussey as consultant for Ashes and Cricket World Cup</title>
-      <link>https://www.aljazeera.com/sports/2026/11/6/mike-hussey-australia-cricket-batting-consultant-ashes-world-cup?traffic_source=rss</link>
-      <description>Al Jazeera: Hussey, known as &amp;#039;Mr Cricket&amp;#039; for his technical expertise, will also work with Australia during the LA 2028 Olympics.</description>
-      <pubDate>Fri, 06 Nov 2026 06:52:30 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/sports/2026/11/6/mike-hussey-australia-cricket-batting-consultant-ashes-world-cup?traffic_source=rss</guid>
-    </item>
-    <item>
-      <title>[News / World] Macau jails pro-democracy campaigner in city&#x27;s first national security case</title>
-      <link>https://www.bbc.co.uk/news/articles/cmdx33v9vvr2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>BBC News — World: Au Kam San was sentenced to 12 years and six months&#x27; jail for &quot;subversion against the political power of the state&quot;.</description>
-      <pubDate>Fri, 06 Nov 2026 06:46:21 +0000</pubDate>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cmdx33v9vvr2o?at_medium=RSS&amp;at_campaign=rss</guid>
-    </item>
-    <item>
-      <title>[News / World] Who is Kozo Tashima, the Japanese official running for FIFA presidency?</title>
-      <link>https://www.aljazeera.com/sports/2026/11/6/kozo-tashima-japan-fifa-president-election-gianni-infantino?traffic_source=rss</link>
-      <description>Al Jazeera: Tashima has served as a football player, coach and bureaucrat, and has a reputation for being a safe pair of hands.</description>
-      <pubDate>Fri, 06 Nov 2026 06:43:42 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/sports/2026/11/6/kozo-tashima-japan-fifa-president-election-gianni-infantino?traffic_source=rss</guid>
-    </item>
-    <item>
       <title>[News / World] Paraguay’s president quits after millions of people’s savings frozen in bank crisis</title>
       <link>https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns</link>
       <description>The Guardian — World: &lt;p&gt;Santiago Peña’s rightwing administration had authorised Ueno Bank to drastically expand operations before collapse&lt;/p&gt;&lt;p&gt;Paraguay’s rightwing president, Santiago Peña, resigned on Thursday after a political and financial crisis collapsed the South American country’s banking system in recent days.</description>
@@ -62,67 +576,11 @@
       <guid isPermaLink="true">https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns</guid>
     </item>
     <item>
-      <title>[News / World] Why is Iran exempting India, China, Qatar, Iraq from Hormuz restrictions?</title>
-      <link>https://www.aljazeera.com/news/2026/11/6/why-is-iran-exempting-india-china-qatar-iraq-from-hormuz-restrictions?traffic_source=rss</link>
-      <description>Al Jazeera: Tehran says ships from four countries can cross Hormuz freely, but analysts say the deals carry political risks.</description>
-      <pubDate>Fri, 06 Nov 2026 06:06:24 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/11/6/why-is-iran-exempting-india-china-qatar-iraq-from-hormuz-restrictions?traffic_source=rss</guid>
-    </item>
-    <item>
-      <title>[News / World] In Athens’s pro-Palestinian heartland, Israeli buyers spark resentment</title>
-      <link>https://www.aljazeera.com/video/newsfeed/2026/11/6/in-athenss-pro-palestinian-heartland-israeli-buyers-spark-resentment?traffic_source=rss</link>
-      <description>Al Jazeera: In Athens’s pro-Palestinian heartland, Israeli buyers spark resentment</description>
-      <pubDate>Fri, 06 Nov 2026 05:59:54 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/11/6/in-athenss-pro-palestinian-heartland-israeli-buyers-spark-resentment?traffic_source=rss</guid>
-    </item>
-    <item>
-      <title>[News / World] US Justice Department sues Penn State over undocumented students’ tuition</title>
-      <link>https://www.aljazeera.com/news/2026/11/6/us-justice-department-sues-penn-state-over-undocumented-students-tuition?traffic_source=rss</link>
-      <description>Al Jazeera: The lawsuit challenges Penn State&amp;#039;s policy that allows undocumented students to qualify for reduced tuition rates.</description>
-      <pubDate>Fri, 06 Nov 2026 05:57:27 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/11/6/us-justice-department-sues-penn-state-over-undocumented-students-tuition?traffic_source=rss</guid>
-    </item>
-    <item>
-      <title>[News / World] A judge blocks construction of Trump&#x27;s arch moments after it won federal approval</title>
-      <link>https://www.npr.org/2026/11/06/nx-s1-6031990/trump-arch-planning-commission-injunction</link>
-      <description>NPR News: The Trump administration hoped to begin construction immediately after a federal panel approved its arch late Thursday. But just after midnight, the judge issued an order blocking work for 14 days.</description>
-      <pubDate>Fri, 06 Nov 2026 05:05:43 +0000</pubDate>
-      <guid isPermaLink="true">https://www.npr.org/2026/11/06/nx-s1-6031990/trump-arch-planning-commission-injunction</guid>
-    </item>
-    <item>
-      <title>[News / World] Why one Republican won a redrawn Texas district despite blue tsunami</title>
-      <link>https://www.aljazeera.com/news/2026/11/6/why-one-republican-won-a-redrawn-texas-district-despite-blue-tsunami?traffic_source=rss</link>
-      <description>Al Jazeera: Republican redistricting largely backfired in Texas and beyond, but one redrawn district delivered for the party.</description>
-      <pubDate>Fri, 06 Nov 2026 05:03:57 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/11/6/why-one-republican-won-a-redrawn-texas-district-despite-blue-tsunami?traffic_source=rss</guid>
-    </item>
-    <item>
-      <title>[News / World] Iraq’s al-Zaidi talks to Trump as Baghdad seeks to stay out of war on Iran</title>
-      <link>https://www.aljazeera.com/news/2026/11/6/iraqs-al-zaidi-talks-to-trump-as-baghdad-seeks-to-stay-out-of-war-on-iran?traffic_source=rss</link>
-      <description>Al Jazeera: Call comes as Iraq&amp;#039;s top diplomat urges armed groups not to join any Iranian retaliation to US attacks.</description>
-      <pubDate>Fri, 06 Nov 2026 05:00:47 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/11/6/iraqs-al-zaidi-talks-to-trump-as-baghdad-seeks-to-stay-out-of-war-on-iran?traffic_source=rss</guid>
-    </item>
-    <item>
-      <title>[News / World] Trump signs order preventing future presidents from changing Oval Office</title>
-      <link>https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>BBC News — World: The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing.</description>
-      <pubDate>Fri, 06 Nov 2026 04:29:25 +0000</pubDate>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&amp;at_campaign=rss</guid>
-    </item>
-    <item>
-      <title>[Politics] Hegseth not in consideration for Tennessee Senate: Report</title>
-      <link>https://thehill.com/policy/defense/6203115-hegseth-tennessee-senate-seat-blackburn/</link>
-      <description>The Hill: Defense Secretary Pete Hegseth is reportedly not in consideration to replace Tennessee Gov.-elect Marsha Blackburn’s (R) open Senate seat. An Associated Press report, citing a person familiar with the matter who discussed the private conversations on condition of anonymity, stated that Hegseth is no</description>
-      <pubDate>Fri, 06 Nov 2026 03:36:55 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/policy/defense/6203115-hegseth-tennessee-senate-seat-blackburn/</guid>
-    </item>
-    <item>
-      <title>[Politics] NCPC approves plan to build Trump’s triumphal arch</title>
-      <link>https://thehill.com/homenews/administration/6202351-ncpc-approves-trump-arch/</link>
-      <description>The Hill: The National Capital Planning Commission (NCPC) on Thursday voted to approve plans to build a triumphal arch championed by President Trump between the Lincoln Memorial and Arlington National Cemetery. The motion to approve the project passed by an 8-4 vote after listening to over 100 public remarks </description>
-      <pubDate>Fri, 06 Nov 2026 03:34:58 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/homenews/administration/6202351-ncpc-approves-trump-arch/</guid>
+      <title>[News / World] Pope Leo’s Trip to Latin America: What to Know</title>
+      <link>https://www.nytimes.com/2026/11/06/world/americas/pope-leo-uruguay-argentina-peru.html</link>
+      <description>NYT — World: Less than a month after lung surgery, Pope Leo XIV is landing in Uruguay on Friday, the first stop of a 12-day voyage across South America.</description>
+      <pubDate>Fri, 06 Nov 2026 05:01:17 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/06/world/americas/pope-leo-uruguay-argentina-peru.html</guid>
     </item>
     <item>
       <title>[Politics] Rubio Says Elections in Venezuela Would ‘Ideally’ Be Held Next Year</title>
@@ -132,88 +590,11 @@
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/05/us/politics/rubio-elections-venezuela.html</guid>
     </item>
     <item>
-      <title>[Politics] Hinojosa vows to protect Texas citizens from data centers</title>
-      <link>https://thehill.com/homenews/state-watch/6203045-texas-hinojosa-data-centers/</link>
-      <description>The Hill: Texas Gov.-elect Gina Hinojosa (D) vowed to protect Texans from data center projects after she is sworn into office in January. “Well, we have always been a pro-business state in Texas, but what changes now with me as governor is it has to be a partnership that benefits Texans,” Hinojosa said during</description>
-      <pubDate>Fri, 06 Nov 2026 02:28:10 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/homenews/state-watch/6203045-texas-hinojosa-data-centers/</guid>
-    </item>
-    <item>
-      <title>[Politics] Washington voters approve transgender athlete ban</title>
-      <link>https://thehill.com/homenews/campaign/6190015-washington-voters-approve-transgender-athlete-ballot-measure/</link>
-      <description>The Hill: Washington voters are projected to reverse the state’s long-standing policy that has allowed transgender girls to compete on girls’ and women’s school sports teams, according to Decision Desk HQ.&amp;#160; The ballot measure will require students to submit documentation from a healthcare provider verify</description>
-      <pubDate>Fri, 06 Nov 2026 02:14:14 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/homenews/campaign/6190015-washington-voters-approve-transgender-athlete-ballot-measure/</guid>
-    </item>
-    <item>
       <title>[News / World] White House denies Hegseth and Rubio to leave jobs after Republican election losses</title>
       <link>https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>BBC News — World: US media reports there are calls to replace Pete Hegseth, who also faces a possible impeachment vote, while Mark Rubio is rumoured to be eyeing a presidential run.</description>
+      <description>BBC News — World: US media reports there are calls to replace Pete Hegseth, who also faces a possible impeachment vote, while Marco Rubio is rumoured to be eyeing a presidential run.</description>
       <pubDate>Fri, 06 Nov 2026 02:08:57 +0000</pubDate>
       <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&amp;at_campaign=rss</guid>
-    </item>
-    <item>
-      <title>[Politics] 2 House Democrats float idea of Blanche impeachment</title>
-      <link>https://thehill.com/homenews/house/6203031-house-democrats-push-blanche-impeachment/</link>
-      <description>The Hill: Two House Democrats are already floating the impeachment of Attorney General Todd Blanche after the GOP’s sweeping midterm election defeats, suggesting Democrats could win enough Republican support in the Senate to remove him from office. Reps. Hank Johnson (D-Ga.) and Deborah Ross (D-N.C.) voiced t</description>
-      <pubDate>Fri, 06 Nov 2026 02:08:29 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/homenews/house/6203031-house-democrats-push-blanche-impeachment/</guid>
-    </item>
-    <item>
-      <title>[Politics] Democrat Jessica Killin flips longtime GOP-held Colorado House seat</title>
-      <link>https://thehill.com/homenews/campaign/6180533-jessica-killin-unseats-jeff-crank-colorado-5th-district/</link>
-      <description>The Hill: Democrat Jessica Killin is projected to unseat Rep. Jeff Crank (R-Colo.) in Colorado&amp;#8217;s 5th Congressional District, according to Decision Desk HQ (DDHQ). Killin&amp;#8217;s win marks a political first for the Colorado Springs-area district, which has never elected a Democrat since its creation in 1</description>
-      <pubDate>Fri, 06 Nov 2026 01:58:35 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/homenews/campaign/6180533-jessica-killin-unseats-jeff-crank-colorado-5th-district/</guid>
-    </item>
-    <item>
-      <title>[Politics] Rubio places additional sanctions on Cuba, targeting ‘illicit’ shipping network</title>
-      <link>https://thehill.com/policy/defense/6202991-rubio-broadens-cuba-sanctions-crude-oil/</link>
-      <description>The Hill: The Trump administration announced another wave of sanctions against Cuba Thursday, targeting 10 individuals and entities tied to the country&amp;#8217;s government, military and oil industry. The State Department accused Cuba’s “ruling elite” in its announcement of “hoarding the island’s energy, shippi</description>
-      <pubDate>Fri, 06 Nov 2026 01:53:06 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/policy/defense/6202991-rubio-broadens-cuba-sanctions-crude-oil/</guid>
-    </item>
-    <item>
-      <title>[Politics] Top Democrat vows ‘vigorous’ oversight of Pentagon</title>
-      <link>https://thehill.com/newsletters/defense-national-security/6202978-asmith-pentagon-oversight-armed-services-committee/</link>
-      <description>The Hill: Welcome to The Hill&amp;#8217;s Defense &amp;#038; NatSec newsletter {beacon} Defense &amp;#038;National Security Defense &amp;#038;National Security &amp;#8202; The Big Story&amp;#160; Top Democrat vows &amp;#8216;vigorous&amp;#8217; oversight of Pentagon Rep. Adam Smith (D-Wash.), the ranking member of the House Armed Services C</description>
-      <pubDate>Fri, 06 Nov 2026 01:48:13 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/newsletters/defense-national-security/6202978-asmith-pentagon-oversight-armed-services-committee/</guid>
-    </item>
-    <item>
-      <title>[Politics] Trump Moves to Make Oval Office a National Monument</title>
-      <link>https://www.nytimes.com/2026/11/05/us/politics/trump-oval-office-national-monument.html</link>
-      <description>NYT — Politics: The president’s announcement reinforced his post-midterm elections preoccupation on White House renovation projects.</description>
-      <pubDate>Fri, 06 Nov 2026 01:24:38 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/05/us/politics/trump-oval-office-national-monument.html</guid>
-    </item>
-    <item>
-      <title>[News / World] Peru airport officials discover 3,000 tarantulas smuggled inside dirty socks</title>
-      <link>https://www.theguardian.com/world/2026/nov/06/3000-tarantulas-smuggled-inside-dirty-socks-peru</link>
-      <description>The Guardian — World: &lt;p&gt;Three suitcases’ worth of the spiders were on their way to Germany, where they could fetch an estimated €1.5m&lt;/p&gt;&lt;p&gt;More than 3,000 tarantulas were seized at an airport in Lima on their way to Germany, Peruvian authorities said.&lt;/p&gt;&lt;p&gt;The spiders were hidden inside dirty socks contained in three </description>
-      <pubDate>Fri, 06 Nov 2026 01:22:49 +0000</pubDate>
-      <guid isPermaLink="true">https://www.theguardian.com/world/2026/nov/06/3000-tarantulas-smuggled-inside-dirty-socks-peru</guid>
-    </item>
-    <item>
-      <title>[News / World] Fears of an AI crackdown after midterms spark $2 trillion rout in tech stocks</title>
-      <link>https://www.npr.org/2026/11/05/nx-s1-6031987/stock-markets-ai-midterm-elections</link>
-      <description>NPR News: Shares sank, with the tech-heavy Nasdaq dropping over 5%, as investors reacted with fear that a Democratic Congress — and states across the country -— would crack down on AI and data centers.</description>
-      <pubDate>Fri, 06 Nov 2026 00:16:53 +0000</pubDate>
-      <guid isPermaLink="true">https://www.npr.org/2026/11/05/nx-s1-6031987/stock-markets-ai-midterm-elections</guid>
-    </item>
-    <item>
-      <title>[News / World] These are the races in the House and Senate that haven&#x27;t been called yet</title>
-      <link>https://www.npr.org/2026/11/05/g-s1-152127/house-senate-uncalled-races</link>
-      <description>NPR News: Democrats are poised to have a strong majority in the upcoming Congress. The final numbers are still being determined. Here&#x27;s where things stand in the races that are waiting to be called by the AP.</description>
-      <pubDate>Fri, 06 Nov 2026 00:03:45 +0000</pubDate>
-      <guid isPermaLink="true">https://www.npr.org/2026/11/05/g-s1-152127/house-senate-uncalled-races</guid>
-    </item>
-    <item>
-      <title>[Politics] These 5 Midterm Races Tell the Story of the Democrats’ Blue Wave</title>
-      <link>https://www.nytimes.com/2026/11/05/us/politics/democrats-blue-wave-elections-districts.html</link>
-      <description>NYT — Politics: The districts are very different, but they all explain how the Democrats won so big.</description>
-      <pubDate>Fri, 06 Nov 2026 00:03:36 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/05/us/politics/democrats-blue-wave-elections-districts.html</guid>
     </item>
     <item>
       <title>[News / World] Pope begins lengthy trip to Latin America weeks after lung cancer surgery</title>
@@ -221,48 +602,6 @@
       <description>BBC News — World: Pope Leo, who had part of a lung removed last month, will visit Uruguay, Argentina and Peru.</description>
       <pubDate>Fri, 06 Nov 2026 00:02:57 +0000</pubDate>
       <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&amp;at_campaign=rss</guid>
-    </item>
-    <item>
-      <title>[News / World] Melania Trump touts rare agreement she brokered between Russia and Ukraine</title>
-      <link>https://www.npr.org/2026/11/05/nx-s1-6030662/melania-trump-touts-rare-agreement-she-brokered-between-russia-and-ukraine</link>
-      <description>NPR News: The six-day pause from the Russian-occupied city of Oleshky comes as the administration ramps up efforts to secure an agreement to end the war in Ukraine.</description>
-      <pubDate>Thu, 05 Nov 2026 23:52:48 +0000</pubDate>
-      <guid isPermaLink="true">https://www.npr.org/2026/11/05/nx-s1-6030662/melania-trump-touts-rare-agreement-she-brokered-between-russia-and-ukraine</guid>
-    </item>
-    <item>
-      <title>[Politics] Trump Says He Met With a Senior Russian Official on a Ukraine Peace Deal</title>
-      <link>https://www.nytimes.com/2026/11/05/us/politics/trump-russian-official-ukraine-peace-deal.html</link>
-      <description>NYT — Politics: President Trump said the deal “might involve all of Europe.” He indicated he had met with a Kremlin envoy whom Melania Trump hosted at the White House on Thursday.</description>
-      <pubDate>Thu, 05 Nov 2026 23:47:35 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/05/us/politics/trump-russian-official-ukraine-peace-deal.html</guid>
-    </item>
-    <item>
-      <title>[Chicago] Welch Will Not Seek New Term As Speaker After 26 House Democrats Call For Change</title>
-      <link>https://blockclubchicago.org/2026/11/05/welch-will-not-seek-new-term-as-speaker-after-26-house-democrats-call-for-change/</link>
-      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;House Speaker Emanuel “Chris” Welch speaks on the House floor on Monday, June 1.&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;512&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2026/06/BearsCapNews260601-WELCH-JN-0410.jpeg?fit=1024%2C5</description>
-      <pubDate>Thu, 05 Nov 2026 23:40:47 +0000</pubDate>
-      <guid isPermaLink="true">https://blockclubchicago.org/2026/11/05/welch-will-not-seek-new-term-as-speaker-after-26-house-democrats-call-for-change/</guid>
-    </item>
-    <item>
-      <title>[News / World] How North Carolina Democrats flipped several House seats in historically GOP districts</title>
-      <link>https://www.npr.org/2026/11/05/nx-s1-6031719/north-carolina-democrats-flip-house-seats-republican-districts</link>
-      <description>NPR News: All of these seats were in districts redrawn in 2023 to favor Republican candidates.</description>
-      <pubDate>Thu, 05 Nov 2026 23:34:36 +0000</pubDate>
-      <guid isPermaLink="true">https://www.npr.org/2026/11/05/nx-s1-6031719/north-carolina-democrats-flip-house-seats-republican-districts</guid>
-    </item>
-    <item>
-      <title>[Politics] Hegseth Lashes Out at Critics Calling for His Firing</title>
-      <link>https://www.nytimes.com/2026/11/05/us/politics/hegseth-video-midterms-trump.html</link>
-      <description>NYT — Politics: In a new video, the defense secretary vowed to “finish what we have started.” Some Republicans say the Iran war was a big factor in their party’s midterm losses.</description>
-      <pubDate>Thu, 05 Nov 2026 23:30:30 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/05/us/politics/hegseth-video-midterms-trump.html</guid>
-    </item>
-    <item>
-      <title>[News / World] California governor commutes sentences for state&#x27;s 548 death row inmates</title>
-      <link>https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>BBC News — World: California has historically had the largest population of people on death row in the US.</description>
-      <pubDate>Thu, 05 Nov 2026 23:09:33 +0000</pubDate>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&amp;at_campaign=rss</guid>
     </item>
     <item>
       <title>[Chicago] Chicago police strengthen criticized missing person policy for the first time in a decade</title>
@@ -273,75 +612,12 @@
       <guid isPermaLink="true">https://chicagoreader.com/news/chicago-police-strengthen-criticized-missing-person-policy-for-the-first-time-in-a-decade/</guid>
     </item>
     <item>
-      <title>[Politics] National Guard to Expand Patrols in Washington With Military Vehicles and Boats</title>
-      <link>https://www.nytimes.com/2026/11/05/us/politics/washington-dc-national-guard-troops-hegseth-trump.html</link>
-      <description>NYT — Politics: The Pentagon said that the decision by Pete Hegseth to widen the patrols was made on Oct. 29, just before a landslide defeat for Republicans in the midterm elections.</description>
-      <pubDate>Thu, 05 Nov 2026 22:50:58 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/05/us/politics/washington-dc-national-guard-troops-hegseth-trump.html</guid>
-    </item>
-    <item>
-      <title>[Politics] Rubio Dismisses Reports He Will Leave His Jobs to Run for President</title>
-      <link>https://www.nytimes.com/2026/11/05/us/politics/marco-rubio-2028.html</link>
-      <description>NYT — Politics: President Trump’s secretary of state and national security adviser said he intended to stick with the administration to the end.</description>
-      <pubDate>Thu, 05 Nov 2026 22:49:38 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/05/us/politics/marco-rubio-2028.html</guid>
-    </item>
-    <item>
-      <title>[Politics] Steve Kornacki and NBC Drew Crowds as Midterms Got a Ratings Bump</title>
-      <link>https://www.nytimes.com/2026/11/05/business/media/tv-ratings-midterms-steve-kornacki.html</link>
-      <description>NYT — Politics: More than 31 million viewers followed along with the Democrats’ big night on television, a 23 percent jump from the 2022 midterm elections.</description>
-      <pubDate>Thu, 05 Nov 2026 22:47:35 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/05/business/media/tv-ratings-midterms-steve-kornacki.html</guid>
-    </item>
-    <item>
-      <title>[Chicago] Pedestrians Hit By Paintballs From Moving Car In Little Italy, Police Say</title>
-      <link>https://blockclubchicago.org/2026/11/05/pedestrians-hit-by-paintballs-from-moving-car-in-little-italy-police-say/</link>
-      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;681&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2023/09/092723-CAPS-CPD-Bucktown-Colin-Boyle-6737.jpg?fit=1024%2C681&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figure&gt;Wednesday’s incident on Taylor Str</description>
-      <pubDate>Thu, 05 Nov 2026 21:39:22 +0000</pubDate>
-      <guid isPermaLink="true">https://blockclubchicago.org/2026/11/05/pedestrians-hit-by-paintballs-from-moving-car-in-little-italy-police-say/</guid>
-    </item>
-    <item>
-      <title>[News / World] How Melania Trump Became a Dark-Horse Diplomat on Ukraine</title>
-      <link>https://www.nytimes.com/2026/11/05/world/europe/melania-trump-oleshky-ukraine-ceasefire.html</link>
-      <description>NYT — World: Both Moscow and Kyiv say Mrs. Trump’s team was the driving force behind an evacuation of a besieged city. It was also in their interest to deliver her a humanitarian win.</description>
-      <pubDate>Thu, 05 Nov 2026 21:07:31 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/05/world/europe/melania-trump-oleshky-ukraine-ceasefire.html</guid>
-    </item>
-    <item>
       <title>[History] Facing Freedom Learning Guide</title>
       <link>https://www.chicagohistory.org/facing-freedom-learning-guide/</link>
       <description>Chicago History Museum Blog: &lt;p&gt;The United States began with certain freedoms outlined in the Declaration of Independence and the Constitution, but the framers didn’t have the last word. Over time, people have shaped freedom &amp;#8230; &lt;a href=&quot;https://www.chicagohistory.org/facing-freedom-learning-guide/&quot;&gt;Learn More&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Th</description>
       <pubDate>Thu, 05 Nov 2026 20:54:56 +0000</pubDate>
       <guid isPermaLink="true">https://www.chicagohistory.org/facing-freedom-learning-guide/</guid>
-    </item>
-    <item>
-      <title>[News / World] Bolsonaro’s Escape From Brazil Was Aided by Milei Adviser at Argentine Airport</title>
-      <link>https://www.nytimes.com/2026/11/05/world/americas/bolsonaro-escape-brazil-milei-adviser-argentina.html</link>
-      <description>NYT — World: A top adviser to President Javier Milei of Argentina met Flávio Bolsonaro, the defeated Brazilian presidential candidate, at an Argentine airport, three people involved in the operation said.</description>
-      <pubDate>Thu, 05 Nov 2026 20:51:57 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/05/world/americas/bolsonaro-escape-brazil-milei-adviser-argentina.html</guid>
-    </item>
-    <item>
-      <title>[News / World] Lana Nusseibeh’s U.N. Bid Collides With U.A.E.’s Role in Sudan</title>
-      <link>https://www.nytimes.com/2026/11/05/world/africa/lana-nusseibeh-united-nations-uae-sudan.html</link>
-      <description>NYT — World: Lana Nusseibeh, one of the Gulf nation’s top diplomats, has led the effort to deny her country’s role in Sudan. Now it’s complicating her bid to become secretary general of the United Nations.</description>
-      <pubDate>Thu, 05 Nov 2026 20:38:43 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/05/world/africa/lana-nusseibeh-united-nations-uae-sudan.html</guid>
-    </item>
-    <item>
-      <title>[News / World] How Did Flávio Bolsonaro Flee Brazil? ‘I’ll Take That to the Grave,’ He Says</title>
-      <link>https://www.nytimes.com/2026/11/05/world/americas/flavio-bolsonaro-florida-brazil.html</link>
-      <description>NYT — World: From Miami, Flávio Bolsonaro is making unfounded claims of a stolen election and plotting to sway his nation’s politics from afar, even though his party is not challenging the results.</description>
-      <pubDate>Thu, 05 Nov 2026 19:56:52 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/05/world/americas/flavio-bolsonaro-florida-brazil.html</guid>
-    </item>
-    <item>
-      <title>[News / World] Bomb Threats Disrupt European Flights and Rattle Passengers</title>
-      <link>https://www.nytimes.com/2026/11/05/world/europe/bomb-threats-airline-passengers.html</link>
-      <description>NYT — World: Passengers recounted landing at a military base and being subjected to security checks and travel delays after threats that turned out to be hoaxes affected planes in Italy, Poland and Spain.</description>
-      <pubDate>Thu, 05 Nov 2026 19:39:19 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/05/world/europe/bomb-threats-airline-passengers.html</guid>
     </item>
     <item>
       <title>[Chicago] Dolores Huerta’s tireless, open spirit</title>
@@ -352,34 +628,6 @@
       <guid isPermaLink="true">https://chicagoreader.com/city-life/saying-goodbye-dolores-huerta/</guid>
     </item>
     <item>
-      <title>[Chicago] Family Of 4 Dies In Rogers Park Fire: ‘Devastating Tragedy’</title>
-      <link>https://blockclubchicago.org/2026/11/05/family-of-4-dies-in-rogers-park-fire-devastating-tragedy/</link>
-      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;Fire officials are still investigating the cause of a Far North Side fire that killed a family of four.&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;768&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2026/11/IMG_5801-scaled.jpg?fit=102</description>
-      <pubDate>Thu, 05 Nov 2026 19:03:37 +0000</pubDate>
-      <guid isPermaLink="true">https://blockclubchicago.org/2026/11/05/family-of-4-dies-in-rogers-park-fire-devastating-tragedy/</guid>
-    </item>
-    <item>
-      <title>[Books &amp; Literature] Here’s the winner of the 2026 American Library in Paris Book Award.</title>
-      <link>https://lithub.com/heres-the-winner-of-the-2026-american-library-in-paris-book-award/</link>
-      <description>Literary Hub: Today, the American Library in Paris announced the winner of their 2026 Book Award, which “celebrates works of literature, both fiction and nonfiction, that draw on France as a timeless source of inspiration.” This year&amp;#8217;s winner is Hotel Exile: Paris</description>
-      <pubDate>Thu, 05 Nov 2026 19:00:59 +0000</pubDate>
-      <guid isPermaLink="true">https://lithub.com/heres-the-winner-of-the-2026-american-library-in-paris-book-award/</guid>
-    </item>
-    <item>
-      <title>[News / World] Paraguay&#x27;s president is impeached minutes after resigning following a bank collapse</title>
-      <link>https://www.npr.org/2026/11/05/nx-s1-6030842/paraguay-president-impeached-bank-collapse</link>
-      <description>NPR News: Paraguayan lawmakers voted to impeach President Santiago Peña minutes after his resignation, as the collapse of a digital bank tied to his government froze millions of people&#x27;s savings.</description>
-      <pubDate>Thu, 05 Nov 2026 18:30:16 +0000</pubDate>
-      <guid isPermaLink="true">https://www.npr.org/2026/11/05/nx-s1-6030842/paraguay-president-impeached-bank-collapse</guid>
-    </item>
-    <item>
-      <title>[News / World] Iran is Reviewing ‘Concrete Proposals’ on Nuclear Program, Officials Say</title>
-      <link>https://www.nytimes.com/2026/11/05/world/middleeast/peace-talks-iran-united-states-qatar-nuclear-program.html</link>
-      <description>NYT — World: Iran’s willingness to re-engage on the issue suggests that Qatar-led diplomatic efforts to avert full-blown war between the U.S. and Iran have had some success.</description>
-      <pubDate>Thu, 05 Nov 2026 18:27:59 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/05/world/middleeast/peace-talks-iran-united-states-qatar-nuclear-program.html</guid>
-    </item>
-    <item>
       <title>[Books &amp; Literature] Winner of the Prix Goncourt literary prize admits to using AI</title>
       <link>https://www.theguardian.com/books/2026/nov/05/winner-of-the-prix-goncourt-literary-prize-admits-to-using-ai-philippe-jaenada</link>
       <description>The Guardian — Books: &lt;p&gt;Philippe Jaenada told French radio that he used ChatGPT to ‘play with the reader’, after the prize removed a different book from its longlist over allegations of AI use&lt;/p&gt;&lt;p&gt;The winner of France’s most prestigious literary prize has admitted using artificial intelligence while writing his novel,</description>
@@ -387,46 +635,11 @@
       <guid isPermaLink="true">https://www.theguardian.com/books/2026/nov/05/winner-of-the-prix-goncourt-literary-prize-admits-to-using-ai-philippe-jaenada</guid>
     </item>
     <item>
-      <title>[News / World] Head of Justice Department office on Civil Rights resigns</title>
-      <link>https://www.npr.org/2026/11/05/g-s1-152080/head-of-justice-department-office-on-civil-rights-resigns</link>
-      <description>NPR News: The head of the Justice Department&#x27;s Civil Rights Division, Harmeet Dhillon, is out after 18 tumultuous months in charge.</description>
-      <pubDate>Thu, 05 Nov 2026 18:01:57 +0000</pubDate>
-      <guid isPermaLink="true">https://www.npr.org/2026/11/05/g-s1-152080/head-of-justice-department-office-on-civil-rights-resigns</guid>
-    </item>
-    <item>
-      <title>[News / World] Paraguay President Santiago Peña resigns after bank collapse</title>
-      <link>https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>BBC News — World: The move follows a bank collapse and after the lower house of congress voted in favour of pursuing an impeachment trial against him.</description>
-      <pubDate>Thu, 05 Nov 2026 17:40:40 +0000</pubDate>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&amp;at_campaign=rss</guid>
-    </item>
-    <item>
       <title>[News / World] Hoax bomb threats target European airlines and airports for second time in a week</title>
       <link>https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&amp;at_campaign=rss</link>
       <description>BBC News — World: At least 21 flights across Europe are affected in what the UK government calls a &quot;malicious hoax threat&quot;.</description>
       <pubDate>Thu, 05 Nov 2026 17:39:48 +0000</pubDate>
       <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&amp;at_campaign=rss</guid>
-    </item>
-    <item>
-      <title>[Chicago] Nonstop Christmas Music Returns Thursday To 93.9 LITE FM</title>
-      <link>https://blockclubchicago.org/2026/11/05/nonstop-christmas-music-returns-thursday-to-93-9-lite-fm/</link>
-      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;681&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2021/12/120721-Holiday-Lights-11144-S-Albany-Colin-Boyle-4324.jpg?fit=1024%2C681&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figure&gt;Around-the-clock holid</description>
-      <pubDate>Thu, 05 Nov 2026 16:50:49 +0000</pubDate>
-      <guid isPermaLink="true">https://blockclubchicago.org/2026/11/05/nonstop-christmas-music-returns-thursday-to-93-9-lite-fm/</guid>
-    </item>
-    <item>
-      <title>[News / World] American Is Convicted of Murder in Case That Gripped Italy</title>
-      <link>https://www.nytimes.com/2026/11/05/world/europe/italy-american-murder-case.html</link>
-      <description>NYT — World: A TV program helped to identify the victims, a Russian woman and her young daughter, who were found dead in a Rome park.</description>
-      <pubDate>Thu, 05 Nov 2026 16:33:59 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/05/world/europe/italy-american-murder-case.html</guid>
-    </item>
-    <item>
-      <title>[News / World] Discursive Verses: Is &#x27;Spend Dat&#x27; the best financial indicator of America&#x27;s grift economy?</title>
-      <link>https://www.npr.org/2026/11/05/nx-s1-6029747/the-week-in-hip-hop-yung-miami-spend-dat</link>
-      <description>NPR News: NPR Music culture critic and reporter Rodney Carmichael ruminates on the latest in rap culture. This week: How Yung Miami&#x27;s summer bop became a sweeping indictment.</description>
-      <pubDate>Thu, 05 Nov 2026 16:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.npr.org/2026/11/05/nx-s1-6029747/the-week-in-hip-hop-yung-miami-spend-dat</guid>
     </item>
     <item>
       <title>[History] Chicago History Museum to Conclude this Year’s Dave Truitt Film Series with Emmy-Winning Documentary on the Great Lakes</title>
@@ -464,40 +677,12 @@
       <guid isPermaLink="true">https://www.historyextra.com/period/general-history/famous-inventors/</guid>
     </item>
     <item>
-      <title>[Chicago] Proposed Smoke Shop Isn’t Fit For Wells Street, Old Town Neighbors And Alderman Say</title>
-      <link>https://blockclubchicago.org/2026/11/05/proposed-smoke-shop-isnt-fit-for-wells-street-old-town-neighbors-and-alderman-say/</link>
-      <description>Block Club Chicago: Ald. Brian Hopkins and a local business group are urging the city to reject the license applications for Exotic Corner, which they say put up large signage and started construction without notice.</description>
-      <pubDate>Thu, 05 Nov 2026 14:39:00 +0000</pubDate>
-      <guid isPermaLink="true">https://blockclubchicago.org/2026/11/05/proposed-smoke-shop-isnt-fit-for-wells-street-old-town-neighbors-and-alderman-say/</guid>
-    </item>
-    <item>
-      <title>[Chicago] From Station Stoves To Overhead Heat: The History Of The CTA’s Warming Lamps</title>
-      <link>https://blockclubchicago.org/2026/11/05/from-station-stoves-to-overhead-heat-the-history-of-the-ctas-warming-lamps/</link>
-      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;681&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2026/10/013123-Jefferson-Park-Blue-Line-Homelessness-Colin-Boyle-3986-1.jpg?fit=1024%2C681&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figure&gt;The electric</description>
-      <pubDate>Thu, 05 Nov 2026 14:33:00 +0000</pubDate>
-      <guid isPermaLink="true">https://blockclubchicago.org/2026/11/05/from-station-stoves-to-overhead-heat-the-history-of-the-ctas-warming-lamps/</guid>
-    </item>
-    <item>
       <title>[Chicago] Estrella del Mar returns to the next Monday Night Foodball</title>
       <link>https://chicagoreader.com/food/monday-night-foodball/estrella-del-mar-star-urquidi-miya-medina-mexican-hawaiian-food-thattu/</link>
       <description>Chicago Reader: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;792&quot; src=&quot;https://i0.wp.com/chicagoreader.com/wp-content/uploads/2026/11/IMG_7693.jpeg?fit=1024%2C792&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figure&gt;
 &lt;p&gt;Star Urquidi will fuck up a pizza, a Polish, fried rice, or win</description>
       <pubDate>Thu, 05 Nov 2026 14:27:09 +0000</pubDate>
       <guid isPermaLink="true">https://chicagoreader.com/food/monday-night-foodball/estrella-del-mar-star-urquidi-miya-medina-mexican-hawaiian-food-thattu/</guid>
-    </item>
-    <item>
-      <title>[Chicago] This Southeast Side Park Needs A Name, And Neighbors Can Weigh In</title>
-      <link>https://blockclubchicago.org/2026/11/05/this-southeast-side-park-needs-a-name-and-neighbors-can-weigh-in/</link>
-      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;681&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2025/01/010825-Park-566-Nature-South-Chicago-Colin-Boyle-4646.jpg?fit=1024%2C681&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figure&gt;The Steelworkers Park </description>
-      <pubDate>Thu, 05 Nov 2026 14:10:12 +0000</pubDate>
-      <guid isPermaLink="true">https://blockclubchicago.org/2026/11/05/this-southeast-side-park-needs-a-name-and-neighbors-can-weigh-in/</guid>
-    </item>
-    <item>
-      <title>[Chicago] Edgewater Neighbors Appeal Judge’s Broadway Upzoning Ruling</title>
-      <link>https://blockclubchicago.org/2026/11/05/edgewater-neighbors-appeal-judges-broadway-upzoning-ruling/</link>
-      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;682&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2025/04/041425-Broadway-Zoning-Colin-Boyle-6935.jpg?fit=1024%2C682&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figure&gt;The plaintiffs are asking for a judg</description>
-      <pubDate>Thu, 05 Nov 2026 14:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://blockclubchicago.org/2026/11/05/edgewater-neighbors-appeal-judges-broadway-upzoning-ruling/</guid>
     </item>
     <item>
       <title>[Chicago] Yaelokre brings their theatrical folk-pop fantasy to Chicago</title>
@@ -516,20 +701,6 @@
       <guid isPermaLink="true">https://dailynous.com/2026/11/05/the-enhanced-sep-experience-version-2/</guid>
     </item>
     <item>
-      <title>[Chicago] ‘Printmaking as a social force’</title>
-      <link>https://chicagoreader.com/visual-arts/art-feature/grabadolandia-tinta-ardiente-national-museum-mexican-art/</link>
-      <description>Chicago Reader: &lt;figure&gt;&lt;img alt=&quot;A black and white print of a long, twisting serpent, with its mouth open and a fire below its head with the words: Melt ICE.&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;512&quot; src=&quot;https://i0.wp.com/chicagoreader.com/wp-content/uploads/2026/11/Xiuhcoa</description>
-      <pubDate>Thu, 05 Nov 2026 13:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://chicagoreader.com/visual-arts/art-feature/grabadolandia-tinta-ardiente-national-museum-mexican-art/</guid>
-    </item>
-    <item>
-      <title>[Chicago] Sloane Murphy’s wild, heartfelt story collection</title>
-      <link>https://chicagoreader.com/books/book-review/sloane-murphy-shut-up-i-love-you/</link>
-      <description>Chicago Reader: &lt;figure&gt;&lt;img alt=&quot;On the left is the book cover, which is orange with a photo of a woman&amp;#039;s torso holding a beer in the center; on the right is a black and white smiling author headshot&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;576&quot; src=&quot;https://i0.wp.com/chica</description>
-      <pubDate>Thu, 05 Nov 2026 13:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://chicagoreader.com/books/book-review/sloane-murphy-shut-up-i-love-you/</guid>
-    </item>
-    <item>
       <title>[Books &amp; Literature] Where to start with: John Berger</title>
       <link>https://www.theguardian.com/books/2026/nov/05/where-to-start-with-john-berger</link>
       <description>The Guardian — Books: &lt;p&gt;The influential British writer and critic was born 100 years ago today. Here’s a guide to his genre-bending writing on art, love, sex, mortality and more&lt;/p&gt;&lt;p&gt;John Berger was born a hundred years ago today. He was an artist, critic, novelist, poet, polemicist and playwright who made impassioned,</description>
@@ -537,178 +708,10 @@
       <guid isPermaLink="true">https://www.theguardian.com/books/2026/nov/05/where-to-start-with-john-berger</guid>
     </item>
     <item>
-      <title>[Books &amp; Literature] Lit Hub Daily: November 5, 2026</title>
-      <link>https://lithub.com/lit-hub-daily-november-5-2026/</link>
-      <description>Literary Hub: Ed Simon explores the symbol of Guy Fawkes and V for Vendetta&amp;#8216;s anti-authoritarian afterlives. &amp;#124; Lit Hub Criticism Hanif Abdurraqib reflects on lessons learned from June Jordan: &amp;#8220;Life is ACTION, inaction is DEATH! If you can’t see that, at this</description>
-      <pubDate>Thu, 05 Nov 2026 11:30:58 +0000</pubDate>
-      <guid isPermaLink="true">https://lithub.com/lit-hub-daily-november-5-2026/</guid>
-    </item>
-    <item>
       <title>[History] Is British history too woke? This historian certainly thinks so</title>
       <link>https://www.historyextra.com/membership/is-british-history-too-woke-this-historian-certainly-thinks-so/</link>
       <description>HistoryExtra: Critics like to cast Britain as a global villain. Yet a truly honest, rational assessment of the facts can only lead to a more positive conclusion, writes Robert Tombs</description>
       <pubDate>Thu, 05 Nov 2026 11:30:29 +0000</pubDate>
       <guid isPermaLink="true">https://www.historyextra.com/membership/is-british-history-too-woke-this-historian-certainly-thinks-so/</guid>
-    </item>
-    <item>
-      <title>[News / World] Netanyahu Alleges Election Fraud in Connection With Arab Turnout</title>
-      <link>https://www.nytimes.com/2026/11/05/world/middleeast/israel-election-netanyahu-trump.html</link>
-      <description>NYT — World: The Israeli leader and his allies are alleging that Arab voters last month stole the election. Election officials say that while foul play was being investigated, it could not have affected the result.</description>
-      <pubDate>Thu, 05 Nov 2026 11:04:18 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/05/world/middleeast/israel-election-netanyahu-trump.html</guid>
-    </item>
-    <item>
-      <title>[Books &amp; Literature] The Bestselling Books of the Week, According to All the Lists</title>
-      <link>https://bookriot.com/bestselling-books-november-5-2026/</link>
-      <description>Book Riot: USA Today, Publishers Weekly, NYT, Amazon, and Indie Booksellers all have their own bestseller lists. Here are the combined results.</description>
-      <pubDate>Thu, 05 Nov 2026 11:03:00 +0000</pubDate>
-      <guid isPermaLink="true">https://bookriot.com/bestselling-books-november-5-2026/</guid>
-    </item>
-    <item>
-      <title>[Books &amp; Literature] Renovation Romance Books to Fix Up Your Mood</title>
-      <link>https://bookriot.com/renovation-romance-books/</link>
-      <description>Book Riot: In these renovation romance books, characters fall in love as they fix up crumbling houses, inns, and farms.</description>
-      <pubDate>Thu, 05 Nov 2026 11:02:00 +0000</pubDate>
-      <guid isPermaLink="true">https://bookriot.com/renovation-romance-books/</guid>
-    </item>
-    <item>
-      <title>[Books &amp; Literature] 4 New Native and Indigenous Speculative Fiction Books</title>
-      <link>https://bookriot.com/new-native-and-indigenous-speculative-fiction-books/</link>
-      <description>Book Riot: It&#x27;s been a banner year for speculative fiction.</description>
-      <pubDate>Thu, 05 Nov 2026 11:01:00 +0000</pubDate>
-      <guid isPermaLink="true">https://bookriot.com/new-native-and-indigenous-speculative-fiction-books/</guid>
-    </item>
-    <item>
-      <title>[Books &amp; Literature] Tyra’s YA Novel Is Coming Back, Adaptations Aplenty, and More YA Book News for November</title>
-      <link>https://bookriot.com/ya-book-news-november-2026/</link>
-      <description>Book Riot: Catch up on the latest in YA book news for November 2026, including a wave of upcoming adaptations, Tyra&#x27;s YA revival, and more.</description>
-      <pubDate>Thu, 05 Nov 2026 11:01:00 +0000</pubDate>
-      <guid isPermaLink="true">https://bookriot.com/ya-book-news-november-2026/</guid>
-    </item>
-    <item>
-      <title>[Philosophy] Their eyes</title>
-      <link>https://aeon.co/videos/meet-the-invisible-workers-who-teach-self-driving-cars-to-see</link>
-      <description>Aeon: &lt;p&gt;&lt;img alt=&quot;Digital image of a city street with abstract colours: blue trees, pink sky, yellow buildings, purple car and labels like “vegetation”.&quot; src=&quot;https://images.aeonmedia.co/images/5aa87f08-a1a8-4922-981a-d498103bdf35/their-eyes-landscape-1.jpg?width=1200&amp;amp;quality=75&amp;amp;format=auto&quot; /&gt;&lt;/</description>
-      <pubDate>Thu, 05 Nov 2026 11:01:00 +0000</pubDate>
-      <guid isPermaLink="true">https://aeon.co/videos/meet-the-invisible-workers-who-teach-self-driving-cars-to-see</guid>
-    </item>
-    <item>
-      <title>[News / World] How elderly ‘unsung heroes’ powered Lula’s historic fightback in Brazil</title>
-      <link>https://www.theguardian.com/world/2026/nov/05/unsung-heroes-behind-lula-surprise-election-triumph-brazil-runoff-bolsonaro</link>
-      <description>The Guardian — World: &lt;p&gt;Older voters praised for helping tip balance in leftwing president’s favour against far-right Flávio Bolsonaro in runoff&lt;/p&gt;&lt;p&gt;It had been nearly a decade since Celia de Oliveira Soares last voted, and months since the 101-year-old great-grandmother last left her home.&lt;/p&gt;&lt;p&gt;But on 25 October, wh</description>
-      <pubDate>Thu, 05 Nov 2026 11:00:21 +0000</pubDate>
-      <guid isPermaLink="true">https://www.theguardian.com/world/2026/nov/05/unsung-heroes-behind-lula-surprise-election-triumph-brazil-runoff-bolsonaro</guid>
-    </item>
-    <item>
-      <title>[Books &amp; Literature] 7 of the Best New Children’s Books of November 2026</title>
-      <link>https://bookriot.com/new-childrens-books-november-2026/</link>
-      <description>Book Riot: The best new children&#x27;s books out in November 2026 include the new Dog Man book by Dav Pilkey and a fable about grief by Margaret Wise Brown.</description>
-      <pubDate>Thu, 05 Nov 2026 11:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://bookriot.com/new-childrens-books-november-2026/</guid>
-    </item>
-    <item>
-      <title>[Philosophy] Methodical/mercurial</title>
-      <link>https://aeon.co/essays/welcome-to-the-mixed-up-joyful-world-of-audhd</link>
-      <description>Aeon: &lt;p&gt;&lt;img alt=&quot;Abstract photo of a blurred person sitting at a desk behind textured glass, creating a warm, distorted effect.&quot; src=&quot;https://images.aeonmedia.co/images/38d6ec42-ad97-412b-800e-8e5c327d2c8f/essay-claudio-schwarz-exb9oi0i1ha-unsplash.jpg?width=1200&amp;amp;quality=75&amp;amp;format=auto&quot; /&gt;&lt;/p&gt;&lt;p</description>
-      <pubDate>Thu, 05 Nov 2026 11:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://aeon.co/essays/welcome-to-the-mixed-up-joyful-world-of-audhd</guid>
-    </item>
-    <item>
-      <title>[Books &amp; Literature] 📚 Run through the tape</title>
-      <link>https://bookriot.com/run-through-the-tape/</link>
-      <description>Book Riot: The countdown is on for the 2026 Read Harder Challenge.</description>
-      <pubDate>Thu, 05 Nov 2026 10:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://bookriot.com/run-through-the-tape/</guid>
-    </item>
-    <item>
-      <title>[Books &amp; Literature] Hanif Abdurraqib on the Lessons of June Jordan</title>
-      <link>https://lithub.com/hanif-abdurraqib-on-the-lessons-of-june-jordan/</link>
-      <description>Literary Hub: Every year, starting in late August, I gather with a new group of high school writers from the Columbus City Schools district in my hometown of Columbus, Ohio. The group is small but eager, curious, vibrant. There are usually around</description>
-      <pubDate>Thu, 05 Nov 2026 10:00:40 +0000</pubDate>
-      <guid isPermaLink="true">https://lithub.com/hanif-abdurraqib-on-the-lessons-of-june-jordan/</guid>
-    </item>
-    <item>
-      <title>[Books &amp; Literature] 4 Sweet and Satisfying Books to Read for Diwali</title>
-      <link>https://bookriot.com/diwali-reads/</link>
-      <description>Book Riot: Award-winning romance author Sonali Devi recommends four books that feel every bit as sweet and satisfying as Diwali goodies.</description>
-      <pubDate>Thu, 05 Nov 2026 10:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://bookriot.com/diwali-reads/</guid>
-    </item>
-    <item>
-      <title>[Books &amp; Literature] A Dystopia For Our Times: On Alan Moore’s V for Vendetta</title>
-      <link>https://lithub.com/a-dystopia-for-our-times-on-alan-moores-v-for-vendetta/</link>
-      <description>Literary Hub: Beneath the seventeenth-century Palace of Westminster there was a hidden Medieval undercroft, enduring like a line of erased poetry not fully obscured as new verse was written over it. The undercroft was some 77-feet long, 24-feet wide, and 10-feet tall:</description>
-      <pubDate>Thu, 05 Nov 2026 09:45:20 +0000</pubDate>
-      <guid isPermaLink="true">https://lithub.com/a-dystopia-for-our-times-on-alan-moores-v-for-vendetta/</guid>
-    </item>
-    <item>
-      <title>[Books &amp; Literature] Was one of the great novels of the Enlightenment written by a man who thought he was a werewolf?</title>
-      <link>https://www.theguardian.com/books/2026/nov/05/the-manuscript-found-in-saragossa-jan-potocki-exhibition-switzerland</link>
-      <description>The Guardian — Books: &lt;p&gt;Surreal, mysterious and with an outlandish origin story, Jan Potocki’s The Manuscript Found in Saragossa has amassed a cult following that includes Salman Rushdie and Jerry Garcia. But it’s the book’s global humanism makes it relevant now, say the curators of a new exhibition&lt;/p&gt;&lt;p&gt;A young Walloo</description>
-      <pubDate>Thu, 05 Nov 2026 09:43:48 +0000</pubDate>
-      <guid isPermaLink="true">https://www.theguardian.com/books/2026/nov/05/the-manuscript-found-in-saragossa-jan-potocki-exhibition-switzerland</guid>
-    </item>
-    <item>
-      <title>[Books &amp; Literature] Inside Eudora Welty’s Home in Jackson, Mississippi</title>
-      <link>https://lithub.com/inside-eudora-weltys-home-in-jackson-mississippi/</link>
-      <description>Literary Hub: The following is from These Long Shadows: Women&amp;#8217;s House Museums in the American South by Monica Nelson. Eudora Welty Writer 1909-2001 Jackson, Mississippi House Name: Eudora Welty House Construction: Built in 1925 Architect: Wyatt C, Hedrick Landmarked: 2002 Open To Public:</description>
-      <pubDate>Thu, 05 Nov 2026 09:40:12 +0000</pubDate>
-      <guid isPermaLink="true">https://lithub.com/inside-eudora-weltys-home-in-jackson-mississippi/</guid>
-    </item>
-    <item>
-      <title>[History] What can you do with a medieval ass? Here are 9 uses that are bound to surprise you</title>
-      <link>https://www.historyextra.com/membership/medieval-donkey-middle-ages-importance-what-used-for/</link>
-      <description>HistoryExtra: In the Middle Ages, the ass became synonymous with human idiocy – a comic figure representing foolish peasants, students too dull to learn, and their asinine teachers. But, says Dr Kathryn Smithies, the ass paradoxically also came to represent ‘the good Christian’ and could help you win an argument </description>
-      <pubDate>Thu, 05 Nov 2026 09:30:53 +0000</pubDate>
-      <guid isPermaLink="true">https://www.historyextra.com/membership/medieval-donkey-middle-ages-importance-what-used-for/</guid>
-    </item>
-    <item>
-      <title>[Books &amp; Literature] On Falling In and Out of Love With Dead Artists as an Art Historian</title>
-      <link>https://lithub.com/on-falling-in-and-out-of-love-with-dead-artists-as-an-art-historian/</link>
-      <description>Literary Hub: A few years ago, a student at the university where I’ve been teaching for the last decade asked me about my working process as an art historian. Without thinking too much about it, I said that I find the tools</description>
-      <pubDate>Thu, 05 Nov 2026 09:30:14 +0000</pubDate>
-      <guid isPermaLink="true">https://lithub.com/on-falling-in-and-out-of-love-with-dead-artists-as-an-art-historian/</guid>
-    </item>
-    <item>
-      <title>[Books &amp; Literature] 5 Book Reviews You Need to Read This Week</title>
-      <link>https://lithub.com/5-book-reviews-you-need-to-read-this-week-21/</link>
-      <description>Literary Hub: Our feast of fabulous reviews this week includes Dwight Garner on Annie Proulx Stories, Clare Clark on Louise Kennedy’s Stations, John Semly on William Gass’s The Tunnel, Daniel Mason on Tom Drury’s West of Loveland, and Nick Holdstock on William T. Vollman’s A Table for</description>
-      <pubDate>Thu, 05 Nov 2026 09:20:47 +0000</pubDate>
-      <guid isPermaLink="true">https://lithub.com/5-book-reviews-you-need-to-read-this-week-21/</guid>
-    </item>
-    <item>
-      <title>[Books &amp; Literature] ZZ Packer and Nafkote Tamirat on France’s Ongoing Student Protests</title>
-      <link>https://lithub.com/zz-packer-and-nafkote-tamirat-on-frances-ongoing-student-protests/</link>
-      <description>Literary Hub: American writers ZZ Packer and Nafkote Tamirat join co-hosts V.V. Ganeshananthan and Whitney Terrell from Paris to talk about recent mass demonstrations across France. They explain how the movement originated at the start of the academic year, with high school</description>
-      <pubDate>Thu, 05 Nov 2026 09:01:47 +0000</pubDate>
-      <guid isPermaLink="true">https://lithub.com/zz-packer-and-nafkote-tamirat-on-frances-ongoing-student-protests/</guid>
-    </item>
-    <item>
-      <title>[Books &amp; Literature] American Hagwon by Min Jin Lee review – a gloriously immersive follow-up to Pachinko</title>
-      <link>https://www.theguardian.com/books/2026/nov/05/american-hagwon-by-min-jin-lee-review-a-gloriously-immersive-follow-up-to-pachinko</link>
-      <description>The Guardian — Books: &lt;p&gt;A Korean family is willing to sacrifice everything for their children’s education, in the third book in Lee’s Diaspora Quartet&lt;/p&gt;&lt;p&gt;“An excellent hagwon,” according to one of the characters in Min&amp;nbsp;Jin Lee’s new novel, “is&amp;nbsp;everything.” Every year, Korean parents pay hefty sums to send t</description>
-      <pubDate>Thu, 05 Nov 2026 07:00:58 +0000</pubDate>
-      <guid isPermaLink="true">https://www.theguardian.com/books/2026/nov/05/american-hagwon-by-min-jin-lee-review-a-gloriously-immersive-follow-up-to-pachinko</guid>
-    </item>
-    <item>
-      <title>[Books &amp; Literature] Alexander: God, King, Man by Edmund Richardson review – a dazzling, dizzying adventure</title>
-      <link>https://www.theguardian.com/books/2026/nov/04/alexander-god-king-man-by-edmund-richardson-review-dazzling-dizzying-adventure</link>
-      <description>The Guardian — Books: &lt;p&gt;The winner of the 2026 Baillie Gifford prize is a riveting work of ancient history that feels startlingly present&lt;br /&gt;&lt;br /&gt;• &lt;a href=&quot;https://www.theguardian.com/books/2026/nov/04/edmund-richardson-alexander-god-king-man-wins-baillie-gifford-prize&quot;&gt;‘Blockbuster’ history of Alexander the Great w</description>
-      <pubDate>Wed, 04 Nov 2026 22:15:45 +0000</pubDate>
-      <guid isPermaLink="true">https://www.theguardian.com/books/2026/nov/04/alexander-god-king-man-by-edmund-richardson-review-dazzling-dizzying-adventure</guid>
-    </item>
-    <item>
-      <title>[News / World] British healthcare worker with Ebola evacuated from DR Congo to UK</title>
-      <link>https://www.theguardian.com/world/2026/nov/04/british-healthcare-worker-ebola-evacuated-drc-to-uk-document-shows</link>
-      <description>The Guardian — World: &lt;p&gt;Patient is ⁠in ​stable condition and will be transferred to a specialist ‘high consequence’ infectious disease unit&lt;/p&gt;&lt;p&gt;A British healthcare worker with Ebola is being evacuated from the Democratic Republic of the Congo to the UK for medical treatment, it has been confirmed.&lt;/p&gt;&lt;p&gt;“A British ci</description>
-      <pubDate>Wed, 04 Nov 2026 18:18:37 +0000</pubDate>
-      <guid isPermaLink="true">https://www.theguardian.com/world/2026/nov/04/british-healthcare-worker-ebola-evacuated-drc-to-uk-document-shows</guid>
-    </item>
-    <item>
-      <title>[Chicago] Find a print copy of the Chicago Reader</title>
-      <link>https://chicagoreader.com/reader/print-distribution-map/</link>
-      <description>Chicago Reader: &lt;figure&gt;&lt;img alt=&quot;Detail of 2022 Fall Theater &amp;amp; Arts Preview special issue cover showing autumn leaves and posters and flyers blowing past a Reader newspaper streetbox&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;497&quot; src=&quot;https://i0.wp.com/chicagoreader.com/wp-co</description>
-      <pubDate>Wed, 04 Nov 2026 18:00:29 +0000</pubDate>
-      <guid isPermaLink="true">https://chicagoreader.com/reader/print-distribution-map/</guid>
     </item>
 </channel></rss>
