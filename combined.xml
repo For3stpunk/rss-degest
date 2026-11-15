@@ -3,21 +3,245 @@
   <title>A Character Quiz — Combined Digest</title>
   <link>https://www.acharacterquiz.com</link>
   <description>News, politics, books, history, philosophy, and Chicago — merged into one feed</description>
-  <lastBuildDate>Sun, 15 Nov 2026 05:03:40 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 15 Nov 2026 13:30:15 +0000</lastBuildDate>
   
     <item>
-      <title>[News / World] New York Democratic Socialists urge Ocasio-Cortez to run for US president</title>
-      <link>https://www.aljazeera.com/news/2026/11/15/new-york-democratic-socialists-urge-ocasio-cortez-to-run-for-us-president?traffic_source=rss</link>
-      <description>Al Jazeera: Delegates at NYC-DSA convention pass resolution formally calling on Congresswoman AOC to run in 2028 presidential race.</description>
-      <pubDate>Sun, 15 Nov 2026 04:44:57 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/11/15/new-york-democratic-socialists-urge-ocasio-cortez-to-run-for-us-president?traffic_source=rss</guid>
+      <title>[Politics] Israeli strike in Gaza kills senior Hamas commander</title>
+      <link>https://thehill.com/policy/international/6221247-israel-kills-hamas-commander/</link>
+      <description>The Hill: Israeli strikes in the Gaza Strip killed a senior leader of the militant group Hamas on Sunday, Israel reported. The Israeli Defense Force (IDF) announced the death of Samir Abu Younis, a commander of Hamas’s Rafah Brigade — crediting an overnight strike that hit southern Gaza. The statement alleged</description>
+      <pubDate>Sun, 15 Nov 2026 13:06:46 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/policy/international/6221247-israel-kills-hamas-commander/</guid>
     </item>
     <item>
-      <title>[News / World] Video shows moment of Brooklyn building collapse from inside</title>
-      <link>https://www.aljazeera.com/video/newsfeed/2026/11/15/video-shows-moment-of-brooklyn-building-collapse-from-inside?traffic_source=rss</link>
-      <description>Al Jazeera: Newly released nanny cam footage shows the moment an apartment building collapsed in Brooklyn as children played inside.</description>
-      <pubDate>Sun, 15 Nov 2026 04:31:55 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/11/15/video-shows-moment-of-brooklyn-building-collapse-from-inside?traffic_source=rss</guid>
+      <title>[Politics] How lower courts became the last line of defense for the 2026 elections</title>
+      <link>https://thehill.com/opinion/judiciary/6218795-federal-judges-block-trump-election-interference/</link>
+      <description>The Hill: Democrats need to use their new majority in Congress to address partisan gerrymandering, strengthen the Voting Rights Act, and regulate the flood of dark money into politics, even if some reforms may not be possible until a new president is elected or new justices join the Supreme Court.</description>
+      <pubDate>Sun, 15 Nov 2026 13:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/opinion/judiciary/6218795-federal-judges-block-trump-election-interference/</guid>
+    </item>
+    <item>
+      <title>[News / World] Kayla ⁠⁠Harrison defeats Amanda Nunes to retain UFC bantamweight belt</title>
+      <link>https://www.aljazeera.com/sports/2026/11/15/kayla-%e2%81%a0%e2%81%a0harrison-defeats-amanda-nunes-to-retain-ufc-bantamweight-belt?traffic_source=rss</link>
+      <description>Al Jazeera: Harrison won by a fourth-round submission against MMA legend Nunes, who made a comeback after a three-year absence.</description>
+      <pubDate>Sun, 15 Nov 2026 12:50:50 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/sports/2026/11/15/kayla-%e2%81%a0%e2%81%a0harrison-defeats-amanda-nunes-to-retain-ufc-bantamweight-belt?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] Aid agencies struggle to help more than 50,000 Ethiopian refugees in Kenya</title>
+      <link>https://www.aljazeera.com/video/newsfeed/2026/11/15/aid-agencies-struggle-to-help-more-than-50000-ethiopian-refugees-in-kenya?traffic_source=rss</link>
+      <description>Al Jazeera: Aid agencies are struggling to provide food, medical care and shelter to more than 50,000 Ethiopian refugees in Kenya.</description>
+      <pubDate>Sun, 15 Nov 2026 12:50:20 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/11/15/aid-agencies-struggle-to-help-more-than-50000-ethiopian-refugees-in-kenya?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] Bahrain accuses Iran of attacking its territory to ‘settle’ score with US</title>
+      <link>https://www.aljazeera.com/news/2026/11/15/bahrain-accuses-iran-of-attacking-its-territory-to-settle-score-with-us?traffic_source=rss</link>
+      <description>Al Jazeera: Tehran says its air attacks on countries cooperating with the US are justified under international law.</description>
+      <pubDate>Sun, 15 Nov 2026 12:36:19 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/11/15/bahrain-accuses-iran-of-attacking-its-territory-to-settle-score-with-us?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] Australia crush New Zealand to win fourth Women’s Rugby League World Cup</title>
+      <link>https://www.aljazeera.com/sports/2026/11/15/australia-crush-new-zealand-to-win-fourth-womens-rugby-league-world-cup?traffic_source=rss</link>
+      <description>Al Jazeera: Australia dominated the first half and capitalised on the Kiwi Ferns’ errors to win 34-10 and clinch the trophy.</description>
+      <pubDate>Sun, 15 Nov 2026 12:21:28 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/sports/2026/11/15/australia-crush-new-zealand-to-win-fourth-womens-rugby-league-world-cup?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] Iran targets US military radar in Bahrain in ‘retaliatory’ drone strikes</title>
+      <link>https://www.aljazeera.com/video/newsfeed/2026/11/15/iran-targets-us-military-radar-in-bahrain-in-retaliatory-drone-strikes?traffic_source=rss</link>
+      <description>Al Jazeera: Iran’s IRGC says six drones were launched at a US radar installation at an air base in Bahrain.</description>
+      <pubDate>Sun, 15 Nov 2026 12:15:51 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/11/15/iran-targets-us-military-radar-in-bahrain-in-retaliatory-drone-strikes?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] Iran Attacks Bahrain for the Second Time in Days</title>
+      <link>https://www.nytimes.com/2026/11/15/world/middleeast/bahrain-iran-israel.html</link>
+      <description>NYT — World: The resumption of attacks after a two-month lull comes as peace talks between the U.S. and Iran appear to have stalled.</description>
+      <pubDate>Sun, 15 Nov 2026 12:07:04 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/15/world/middleeast/bahrain-iran-israel.html</guid>
+    </item>
+    <item>
+      <title>[News / World] Siege on Hebron’s Beit Ula industrial zone threatens Palestinian economy</title>
+      <link>https://www.aljazeera.com/economy/2026/11/15/siege-on-hebrons-beit-ula-industrial-zone-threatens-palestinian-economy?traffic_source=rss</link>
+      <description>Al Jazeera: Israel takes measures to crush Palestinian business in the occupied West Bank.</description>
+      <pubDate>Sun, 15 Nov 2026 12:02:45 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/economy/2026/11/15/siege-on-hebrons-beit-ula-industrial-zone-threatens-palestinian-economy?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[Books &amp; Literature] The unexpected power of fleeting friendships</title>
+      <link>https://www.theguardian.com/lifeandstyle/2026/nov/15/the-unexpected-power-of-fleeting-friendships</link>
+      <description>The Guardian — Books: &lt;p&gt;From Aristotle on, we’ve learned to see long-lasting relationships as more valuable. But what does that leave out?&lt;/p&gt;&lt;p&gt;In Russian, a &lt;em&gt;poputchik&lt;/em&gt; is a stranger you meet on a journey who you end up confessing everything to because you know you’ll never see them again. Like the English “fel</description>
+      <pubDate>Sun, 15 Nov 2026 12:00:14 +0000</pubDate>
+      <guid isPermaLink="true">https://www.theguardian.com/lifeandstyle/2026/nov/15/the-unexpected-power-of-fleeting-friendships</guid>
+    </item>
+    <item>
+      <title>[Books &amp; Literature] ‘She was a monster’: the real Patricia Highsmith, by the people who knew her</title>
+      <link>https://www.theguardian.com/books/2026/nov/15/she-was-a-monster-the-real-patricia-highsmith-by-the-people-who-knew-her</link>
+      <description>The Guardian — Books: &lt;p&gt;A new film starring Helen Mirren explores the Ripley writer’s later years, but was she really so rude and eccentric? Editors and publishers who worked with her look back&lt;/p&gt;&lt;p&gt;Publisher and bookseller Otto Penzler has loved Patricia Highsmith’s work all his life, but their&amp;nbsp;first meeting was </description>
+      <pubDate>Sun, 15 Nov 2026 12:00:12 +0000</pubDate>
+      <guid isPermaLink="true">https://www.theguardian.com/books/2026/nov/15/she-was-a-monster-the-real-patricia-highsmith-by-the-people-who-knew-her</guid>
+    </item>
+    <item>
+      <title>[Politics] Confirming judges, defense funding top of GOP’s lame-duck agenda: Cramer</title>
+      <link>https://thehill.com/homenews/senate/6221099-gop-lame-duck-agenda-cramer/</link>
+      <description>The Hill: Sen. Kevin Cramer (R-N.D.) said he and his fellow GOP senators will focus on confirming President Trump’s federal judge nominees during their remaining time leading the upper chamber, laying out the Republican Party&amp;#8217;s lame duck agenda in an interview Sunday. “What we need to do is make sure th</description>
+      <pubDate>Sun, 15 Nov 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/homenews/senate/6221099-gop-lame-duck-agenda-cramer/</guid>
+    </item>
+    <item>
+      <title>[News / World] Israel coalition talks put Arab party leader under pressure over Hamas</title>
+      <link>https://www.aljazeera.com/news/2026/11/15/israel-coalition-talks-put-arab-party-leader-under-pressure-over-hamas?traffic_source=rss</link>
+      <description>Al Jazeera: Mansour Abbas faces mounting pressure from Israel’s change bloc to denounce Hamas as a prerequisite for coalition role.</description>
+      <pubDate>Sun, 15 Nov 2026 11:56:26 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/11/15/israel-coalition-talks-put-arab-party-leader-under-pressure-over-hamas?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] Athletes rewrite the rules as Dakar 2026 Youth Olympics come to an end</title>
+      <link>https://www.aljazeera.com/sports/2026/11/15/dakar-youth-olympics-2026-senegal-games-come-to-an-end?traffic_source=rss</link>
+      <description>Al Jazeera: Hosts Senegal thrive, and exuberant athletes defy the shadows cast over the Games by politics and history.</description>
+      <pubDate>Sun, 15 Nov 2026 11:53:39 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/sports/2026/11/15/dakar-youth-olympics-2026-senegal-games-come-to-an-end?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[History] Gambling, sex parties and heavy drinking: the sordid lives of Regency ’rakes’</title>
+      <link>https://www.historyextra.com/period/georgian/gambling-sex-parties-and-heavy-drinking-the-sordid-lives-of-regency-rakes/</link>
+      <description>HistoryExtra: Scandalising high society and thrilling in the romance genre, the rake can be seen as immoral profligates or lovable rogues</description>
+      <pubDate>Sun, 15 Nov 2026 11:30:58 +0000</pubDate>
+      <guid isPermaLink="true">https://www.historyextra.com/period/georgian/gambling-sex-parties-and-heavy-drinking-the-sordid-lives-of-regency-rakes/</guid>
+    </item>
+    <item>
+      <title>[News / World] Three men sentenced to death in Jordan over fatal church mass shooting</title>
+      <link>https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>BBC News — World: The attack on funeral at a Greek Orthodox church killed nine and injured 34 others last month.</description>
+      <pubDate>Sun, 15 Nov 2026 11:06:32 +0000</pubDate>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&amp;at_campaign=rss</guid>
+    </item>
+    <item>
+      <title>[Politics] Democrats bullish on South after historic midterms gains</title>
+      <link>https://thehill.com/homenews/campaign/6219610-south-democrats-strategy-midterm-wins/</link>
+      <description>The Hill: Democrats are seeing new opportunities in the South after stunning midterm victories in Mississippi, South Carolina and Texas.&amp;#160; The party&amp;#8217;s wins were both big and broad: It flipped highly competitive Senate seats in North Carolina, South Carolina, Texas and Mississippi, delivered new Demo</description>
+      <pubDate>Sun, 15 Nov 2026 11:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/homenews/campaign/6219610-south-democrats-strategy-midterm-wins/</guid>
+    </item>
+    <item>
+      <title>[Politics] China stonewalls on cases of detained Americans, despite personal appeal from Trump</title>
+      <link>https://thehill.com/homenews/administration/6219762-trump-plans-apc-summit-demands/</link>
+      <description>The Hill: China has failed to engage with the U.S. over the fate of two Americans unjustly detained in the country, despite multiple personal appeals from President Trump and positive signals from Chinese President Xi Jinping. The lack of engagement on the Chinese side is out of character, according to source</description>
+      <pubDate>Sun, 15 Nov 2026 11:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/homenews/administration/6219762-trump-plans-apc-summit-demands/</guid>
+    </item>
+    <item>
+      <title>[Books &amp; Literature] Book Riot’s Deals of the Day for November 15, 2026</title>
+      <link>https://bookriot.com/book-riots-deals-of-the-day-for-november-15-2026/</link>
+      <description>Book Riot: What the digital age does to your body, a BIPOC cowboy romance, a cozy island fantasy, and more of today&#x27;s best book deals.</description>
+      <pubDate>Sun, 15 Nov 2026 11:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://bookriot.com/book-riots-deals-of-the-day-for-november-15-2026/</guid>
+    </item>
+    <item>
+      <title>[Politics] Lutnick Pushed to Weaken Chip Rules That Overlap With His Family Business</title>
+      <link>https://www.nytimes.com/2026/11/15/us/politics/trump-lutnick-ai-chips-cantor-fitzgerald.html</link>
+      <description>NYT — Politics: The commerce secretary has been writing new rules that would affect Southeast Asian data centers, some of which are clients of his former firm.</description>
+      <pubDate>Sun, 15 Nov 2026 10:02:05 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/15/us/politics/trump-lutnick-ai-chips-cantor-fitzgerald.html</guid>
+    </item>
+    <item>
+      <title>[Politics] After Midterms Triumph, Democrats Look Quickly and Eagerly Ahead to 2028</title>
+      <link>https://www.nytimes.com/2026/11/15/us/politics/democrats-2028-presidential-candidates.html</link>
+      <description>NYT — Politics: Politicians, donors and campaign strategists are already imagining a large and contentious field of presidential contenders.</description>
+      <pubDate>Sun, 15 Nov 2026 10:01:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/15/us/politics/democrats-2028-presidential-candidates.html</guid>
+    </item>
+    <item>
+      <title>[Politics] Embattled Federal Employees Look to a Democratic Congress for a Lifeline</title>
+      <link>https://www.nytimes.com/2026/11/15/us/politics/federal-employees-democratic-congress-lifeline.html</link>
+      <description>NYT — Politics: Former and current workers have found a sympathetic ear among Democrats set to take over the House and Senate. But any reversal of President Trump’s cuts are unlikely to happen immediately.</description>
+      <pubDate>Sun, 15 Nov 2026 10:00:59 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/15/us/politics/federal-employees-democratic-congress-lifeline.html</guid>
+    </item>
+    <item>
+      <title>[News / World] New Mexico wanted free childcare for all. This is what&#x27;s worked — and what hasn&#x27;t</title>
+      <link>https://www.npr.org/2026/11/15/nx-s1-6040194/new-mexico-free-universal-childcare-families</link>
+      <description>NPR News: A year ago in November, New Mexico became the first state to offer free childcare to every eligible family, regardless of income.</description>
+      <pubDate>Sun, 15 Nov 2026 10:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.npr.org/2026/11/15/nx-s1-6040194/new-mexico-free-universal-childcare-families</guid>
+    </item>
+    <item>
+      <title>[News / World] Midterm voters ended the long-running GOP dominance in state legislatures</title>
+      <link>https://www.npr.org/2026/11/15/nx-s1-6039175/midterms-legislatures-states-democrats-gop</link>
+      <description>NPR News: In several states, Democrats took control of legislatures that had been divided and they weakened GOP dominance in others. Issues on the agenda: More access to health care, new limits on school vouchers.</description>
+      <pubDate>Sun, 15 Nov 2026 10:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.npr.org/2026/11/15/nx-s1-6039175/midterms-legislatures-states-democrats-gop</guid>
+    </item>
+    <item>
+      <title>[News / World] A new generation of disability rights activists carry on Judy Heumann&#x27;s legacy</title>
+      <link>https://www.npr.org/2026/11/15/nx-s1-6002935/being-heumann-new-generation-disability-rights</link>
+      <description>NPR News: The film &lt;em&gt;Being Heumann&lt;/em&gt; tells the lesser-known story of the mother of the disability rights movement. A new generation of activists share how they &quot;carry the torch&quot; today.</description>
+      <pubDate>Sun, 15 Nov 2026 10:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.npr.org/2026/11/15/nx-s1-6002935/being-heumann-new-generation-disability-rights</guid>
+    </item>
+    <item>
+      <title>[News / World] Pope Leo speaks of community &#x27;suffering&#x27; on visit to remote Andes town</title>
+      <link>https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>BBC News — World: Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the Pope served as bishop from 2015 to 2023.</description>
+      <pubDate>Sun, 15 Nov 2026 09:57:25 +0000</pubDate>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&amp;at_campaign=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] After Decades of Blood and Mistrust, Doubts Over Who’s to Blame for an Israeli Hostage</title>
+      <link>https://www.nytimes.com/2026/11/15/world/europe/ron-arad-missing-israel-iran-asgari-hunt.html</link>
+      <description>NYT — World: Israeli spies kidnapped and killed Iranians. They were convinced that Tehran was to blame for a fallen airman. Alternative theories got little attention, until now.</description>
+      <pubDate>Sun, 15 Nov 2026 09:36:59 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/15/world/europe/ron-arad-missing-israel-iran-asgari-hunt.html</guid>
+    </item>
+    <item>
+      <title>[News / World] Fifth Canadian soldier dies from injuries caused by large fire at military base</title>
+      <link>https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>BBC News — World: Pte William Douglas Dal Bianco died from his injuries on Friday, a month after a fire that tore through CFB Wainwright.</description>
+      <pubDate>Sun, 15 Nov 2026 09:26:37 +0000</pubDate>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o?at_medium=RSS&amp;at_campaign=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] Israel kills Hamas commander in strike on Gaza camp, officials say</title>
+      <link>https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>BBC News — World: Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade.</description>
+      <pubDate>Sun, 15 Nov 2026 08:17:41 +0000</pubDate>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&amp;at_campaign=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] Copper wire upgrade behind US flight suspension, transport secretary says</title>
+      <link>https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>BBC News — World: The US government is trying to find out whether the chaos was caused by &quot;incompetence&quot; or faulty equipment.</description>
+      <pubDate>Sun, 15 Nov 2026 07:10:31 +0000</pubDate>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&amp;at_campaign=rss</guid>
+    </item>
+    <item>
+      <title>[History] Daily Quiz: 15 November</title>
+      <link>https://www.historyextra.com/membership/daily-history-trivia-quiz/</link>
+      <description>HistoryExtra: Test your history knowledge with our daily quiz – updated each morning at 7am UK time</description>
+      <pubDate>Sun, 15 Nov 2026 07:00:12 +0000</pubDate>
+      <guid isPermaLink="true">https://www.historyextra.com/membership/daily-history-trivia-quiz/</guid>
+    </item>
+    <item>
+      <title>[News / World] Is Italy the Model for Europe’s Future?</title>
+      <link>https://www.nytimes.com/2026/11/15/world/europe/italy-italianization-europe-horowitz.html</link>
+      <description>NYT — World: Over more than a quarter-century, I’ve watched Europe’s politics become more like Italy’s, with all the resulting instability, as the far right came in from the cold.</description>
+      <pubDate>Sun, 15 Nov 2026 05:01:24 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/15/world/europe/italy-italianization-europe-horowitz.html</guid>
+    </item>
+    <item>
+      <title>[News / World] In Europe, an Emboldened Iran Contributes to a Sense of Anxiety</title>
+      <link>https://www.nytimes.com/2026/11/15/world/europe/iran-attacks-threats-europe.html</link>
+      <description>NYT — World: Prosecutors and government officials believe Iran or its proxies are behind a series of security breaches and threats in Britain and Europe, unsettling the region.</description>
+      <pubDate>Sun, 15 Nov 2026 05:01:20 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/15/world/europe/iran-attacks-threats-europe.html</guid>
+    </item>
+    <item>
+      <title>[News / World] In Banff, a Grizzly Bear Known as ‘the Boss’ Rules the National Park</title>
+      <link>https://www.nytimes.com/2026/11/15/world/canada/grizzly-bear-boss-banff-national-park-alberta.html</link>
+      <description>NYT — World: Bear 122 has survived a train, cars and rival bears. Some fear the biggest threat to his life now is his own fame.</description>
+      <pubDate>Sun, 15 Nov 2026 05:01:10 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/15/world/canada/grizzly-bear-boss-banff-national-park-alberta.html</guid>
     </item>
     <item>
       <title>[News / World] Judge temporarily blocks Trump from moving ahead on Washington public golf course redevelopment</title>
@@ -34,46 +258,11 @@
       <guid isPermaLink="true">https://thehill.com/policy/technology/6221123-spacex-starship-historic-landing-lawmakers-react/</guid>
     </item>
     <item>
-      <title>[News / World] Zimbabwe’s HIV gains face a test among young people</title>
-      <link>https://www.aljazeera.com/news/2026/11/15/zimbabwes-hiv-gains-face-a-test-among-young-people?traffic_source=rss</link>
-      <description>Al Jazeera: New prevention tools offer hope, but reaching young people remains a challenge.</description>
-      <pubDate>Sun, 15 Nov 2026 04:13:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/11/15/zimbabwes-hiv-gains-face-a-test-among-young-people?traffic_source=rss</guid>
-    </item>
-    <item>
-      <title>[News / World] Monkey attacks woman inside residential complex in India</title>
-      <link>https://www.aljazeera.com/video/newsfeed/2026/11/15/monkey-attacks-woman-inside-residential-complex-in-india?traffic_source=rss</link>
-      <description>Al Jazeera: A woman was attacked and repeatedly bitten by a monkey at a residential apartment complex in India’s Gujarat state.</description>
-      <pubDate>Sun, 15 Nov 2026 03:39:39 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/11/15/monkey-attacks-woman-inside-residential-complex-in-india?traffic_source=rss</guid>
-    </item>
-    <item>
-      <title>[News / World] Italian artist reimagines Madonna paintings to expose Gaza’s pain</title>
-      <link>https://www.aljazeera.com/video/newsfeed/2026/11/15/aje-onl-nf_italian-artist-rips-madonna-painting-to-reveal-gaza-141126?traffic_source=rss</link>
-      <description>Al Jazeera: Italian artist Eduardo Castaldo has unveiled an artwork titled ‘Holy Mothers of Gaza’ inside Naples’ Pappacoda Chapel.</description>
-      <pubDate>Sun, 15 Nov 2026 03:30:29 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/11/15/aje-onl-nf_italian-artist-rips-madonna-painting-to-reveal-gaza-141126?traffic_source=rss</guid>
-    </item>
-    <item>
       <title>[News / World] Judge temporarily blocks Trump from closing Washington DC golf course for renovation</title>
       <link>https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>BBC News — World: It is the latest development in a months-long challenge to the president&#x27;s plans for East Potomac Golf Links.</description>
+      <description>BBC News — World: It is the latest development in a months-long challenge to the US president&#x27;s plans for East Potomac Golf Links.</description>
       <pubDate>Sun, 15 Nov 2026 03:21:04 +0000</pubDate>
       <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&amp;at_campaign=rss</guid>
-    </item>
-    <item>
-      <title>[News / World] Saudi-led coalition intercepts two missiles, two drones in Riyadh</title>
-      <link>https://www.aljazeera.com/news/2026/11/15/saudi-led-coalition-intercepts-two-missiles-two-drones-in-riyadh?traffic_source=rss</link>
-      <description>Al Jazeera: Fighting escalates in Yemen&amp;#039;s Marib and al-Jawf, as UN agency says more than 340,000 Yemenis displaced since August.</description>
-      <pubDate>Sun, 15 Nov 2026 02:59:06 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/11/15/saudi-led-coalition-intercepts-two-missiles-two-drones-in-riyadh?traffic_source=rss</guid>
-    </item>
-    <item>
-      <title>[News / World] Pope Leo speaks of community &#x27;suffering&#x27; on visit to remote Andes town</title>
-      <link>https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>BBC News — World: Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the pope served as bishop from 2015 to 2023.</description>
-      <pubDate>Sun, 15 Nov 2026 02:49:45 +0000</pubDate>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&amp;at_campaign=rss</guid>
     </item>
     <item>
       <title>[Politics] Judge Blocks Immediate Closure of East Potomac Park for Trump Golf Project</title>
@@ -90,20 +279,6 @@
       <guid isPermaLink="true">https://thehill.com/regulation/court-battles/6221069-judge-blocks-east-potomac-park-closure/</guid>
     </item>
     <item>
-      <title>[News / World] Iraq PM sacks nine officials over oil smuggling in pro-Iran stronghold</title>
-      <link>https://www.aljazeera.com/news/2026/11/15/iraq-pm-sacks-nine-officials-over-oil-smuggling-in-pro-iran-stronghold?traffic_source=rss</link>
-      <description>Al Jazeera: Dismissals follow probe that uncovered illegal oil refineries and smuggling in a region run by Kataib Hezbollah.</description>
-      <pubDate>Sun, 15 Nov 2026 01:54:55 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/11/15/iraq-pm-sacks-nine-officials-over-oil-smuggling-in-pro-iran-stronghold?traffic_source=rss</guid>
-    </item>
-    <item>
-      <title>[News / World] Netanyahu sends plea to Eisenkot for unity government</title>
-      <link>https://www.aljazeera.com/video/newsfeed/2026/11/15/netanyahu-sends-plea-to-eisenkot-for-unity-government?traffic_source=rss</link>
-      <description>Al Jazeera: Benjamin Netanyahu has issued a public plea to opposition leader Gadi Eisenkot to form a unity government.</description>
-      <pubDate>Sun, 15 Nov 2026 01:33:11 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/11/15/netanyahu-sends-plea-to-eisenkot-for-unity-government?traffic_source=rss</guid>
-    </item>
-    <item>
       <title>[News / World] FAA ground stop disrupts college football</title>
       <link>https://www.npr.org/2026/11/14/nx-s1-6041115/faa-ground-stop-college-football-delays</link>
       <description>NPR News: Some college football games were delayed a few hours on Saturday or postponed to Sunday. And in Oklahoma at least, there will be perks for fans to make up for the inconvenience, including cheap beers.</description>
@@ -118,13 +293,6 @@
       <guid isPermaLink="true">https://thehill.com/policy/energy-environment/6220821-wildfire-contamination-drinking-water-rises/</guid>
     </item>
     <item>
-      <title>[Politics] Carney says he’s ‘making progress’ with Trump on possible US-Canada trade deal</title>
-      <link>https://thehill.com/policy/international/6221010-carney-trump-canada-us-trade-progress/</link>
-      <description>The Hill: Canadian Prime Minister Mark Carney said Saturday trade negotiations between his government and the U.S. were progressing amid a monthslong tariff battle between the two countries.  The leader told reporters in Manila he had a conversation with President Trump, U.S. Trade Representative Jamieson Gre</description>
-      <pubDate>Sun, 15 Nov 2026 00:26:46 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/policy/international/6221010-carney-trump-canada-us-trade-progress/</guid>
-    </item>
-    <item>
       <title>[News / World] Florida city cancels St. Patrick&#x27;s Day parade, citing new anti-DEI law</title>
       <link>https://www.npr.org/2026/11/14/nx-s1-6041093/st-patricks-day-parade-canceled-florida-dei</link>
       <description>NPR News: A new Florida law that prohibits taxpayer dollars from going toward diversity initiatives has prompted Delray Beach to cancel its St. Patrick&#x27;s Day parade after a nearly 60-year run.</description>
@@ -132,32 +300,11 @@
       <guid isPermaLink="true">https://www.npr.org/2026/11/14/nx-s1-6041093/st-patricks-day-parade-canceled-florida-dei</guid>
     </item>
     <item>
-      <title>[Politics] Sunday shows preview: Democrats gear Trump administration probes amid leadership disputes</title>
-      <link>https://thehill.com/homenews/sunday-talk-shows/6220953-sunday-shows-trump-cabinet-democrats-congress/</link>
-      <description>The Hill: Democrats are charting their political future and issuing warnings to exercise their oversight powers against the Trump administration after gaining control of Congress with sweeping midterm election wins. This week, more races were called in Democrats’ favor in Mississippi and Colorado. The Alaska </description>
-      <pubDate>Sat, 14 Nov 2026 23:55:20 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/homenews/sunday-talk-shows/6220953-sunday-shows-trump-cabinet-democrats-congress/</guid>
-    </item>
-    <item>
-      <title>[Politics] Federalist Society’s celebrations mix with shock over Democratic sweep</title>
-      <link>https://thehill.com/policy/6220956-federalist-society-convention-midterm-shock/</link>
-      <description>The Hill: Two years ago, a champagne cork went flying&amp;#160;on the Federalist Society convention stage as panelists toasted recent Supreme Court wins. A celebratory mood was still on display at this year’s annual gathering of the conservative legal movement, but those feelings were mixed with shock from Democr</description>
-      <pubDate>Sat, 14 Nov 2026 23:25:26 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/policy/6220956-federalist-society-convention-midterm-shock/</guid>
-    </item>
-    <item>
       <title>[Politics] Ground Stop Highlights Chronic Vulnerabilities in Air Traffic System</title>
       <link>https://www.nytimes.com/2026/11/14/us/politics/ground-stop-air-traffic-faa.html</link>
       <description>NYT — Politics: The Federal Aviation Administration’s aging air traffic control infrastructure has had several disruptive failures in recent months, as officials have sought to make upgrades.</description>
       <pubDate>Sat, 14 Nov 2026 23:14:32 +0000</pubDate>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/14/us/politics/ground-stop-air-traffic-faa.html</guid>
-    </item>
-    <item>
-      <title>[Politics] Burchett rips Johnson, Thune over FAA funding: ‘Step up to the daggum plate’</title>
-      <link>https://thehill.com/homenews/house/6220943-burchett-urges-gop-aviation-funding/</link>
-      <description>The Hill: GOP Rep. Tim Burchett (Tenn.) called on his party&amp;#8217;s congressional leadership — House Speaker Mike Johnson (La.) and Senate Majority Leader John Thune (S.D.) to &amp;#8220;step up to the daggum plate&amp;#8221; Saturday morning, urging the pair to pass legislation funding air travel infrastructure upda</description>
-      <pubDate>Sat, 14 Nov 2026 23:08:06 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/homenews/house/6220943-burchett-urges-gop-aviation-funding/</guid>
     </item>
     <item>
       <title>[News / World] Maintenance gone awry caused nation-wide ground stop, says Transportation Secretary</title>
@@ -174,6 +321,13 @@
       <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&amp;at_campaign=rss</guid>
     </item>
     <item>
+      <title>[News / World] New Orleans port files $1m lawsuit over &#x27;miracle on the Mississippi&#x27; tanker collision</title>
+      <link>https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>BBC News — World: The lawsuit filed by New Orleans officials also requests that the tanker involved in the collision with the cruise ship be seized and sold to pay for damages.</description>
+      <pubDate>Sat, 14 Nov 2026 22:27:06 +0000</pubDate>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&amp;at_campaign=rss</guid>
+    </item>
+    <item>
       <title>[News / World] US has lost measles elimination status, global health authorities say</title>
       <link>https://www.npr.org/2026/11/14/nx-s1-6041119/us-measles-elimination-status-vaccines-cdc-paho</link>
       <description>NPR News: The U.S. has lost its status as a country where measles is eliminated, according to researchers with direct knowledge of the deliberations at the Pan American Health Organization.</description>
@@ -188,32 +342,11 @@
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/14/us/politics/trump-flights-air-traffic-social-media.html</guid>
     </item>
     <item>
-      <title>[News / World] &#x27;Can you believe it?&#x27;: SpaceX catches part of its Starship rocket on return to Earth</title>
-      <link>https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>BBC News — World: SpaceX has performed the historic catch using mechanical arms nicknamed &quot;chopsticks&quot;.</description>
-      <pubDate>Sat, 14 Nov 2026 22:09:40 +0000</pubDate>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&amp;at_campaign=rss</guid>
-    </item>
-    <item>
-      <title>[News / World] SpaceX successfully catches Starship and makes history</title>
-      <link>https://www.npr.org/2026/11/14/g-s1-153786/spacex-successfully-catches-starship-and-makes-history</link>
-      <description>NPR News: The company&#x27;s spacecraft returned to its Texas launchpad in dramatic fashion — by carefully lowering itself until two metal arms attached to the launch tower could secure it.</description>
-      <pubDate>Sat, 14 Nov 2026 21:42:41 +0000</pubDate>
-      <guid isPermaLink="true">https://www.npr.org/2026/11/14/g-s1-153786/spacex-successfully-catches-starship-and-makes-history</guid>
-    </item>
-    <item>
       <title>[Politics] Key Witness in Comey Case Attests to Justice Dept.’s Aggressive Tactics</title>
       <link>https://www.nytimes.com/2026/11/14/us/politics/comey-witness-justice-dept-aggressive-tactics.html</link>
       <description>NYT — Politics: A former aide to James Comey at the F.B.I. said the government had engaged in a “harassment campaign” in its efforts to secure witness testimony.</description>
       <pubDate>Sat, 14 Nov 2026 21:40:33 +0000</pubDate>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/14/us/politics/comey-witness-justice-dept-aggressive-tactics.html</guid>
-    </item>
-    <item>
-      <title>[Politics] Microsoft services fully restored after global disruptions</title>
-      <link>https://thehill.com/policy/technology/6220925-microsoft-services-fully-restored-after-global-disruptions/</link>
-      <description>The Hill: Microsoft confirmed its services are fully restored as of Saturday after the tech company faced a massive global outage impacting its platforms earlier in the week. “We have completed our efforts to address the underlying issue of the incident and restored service to the remaining impacted customers</description>
-      <pubDate>Sat, 14 Nov 2026 21:39:16 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/policy/technology/6220925-microsoft-services-fully-restored-after-global-disruptions/</guid>
     </item>
     <item>
       <title>[Politics] Democrats push back on Duffy’s demand for $50 billion to upgrade air traffic systems.</title>
@@ -223,32 +356,11 @@
       <guid isPermaLink="true">https://www.nytimes.com/live/2026/11/14/us/faa-nationwide-ground-stop-flights/democrats-congress-faa</guid>
     </item>
     <item>
-      <title>[News / World] Bomb found near ethanol plant in central Illinois forces evacuations</title>
-      <link>https://www.npr.org/2026/11/14/g-s1-153781/bomb-ethanol-plant-peoria-illinois-evacuations</link>
-      <description>NPR News: The bomb was discovered Friday afternoon at the BioUrja Renewables plant in Peoria. Officials say the bomb has been &quot;rendered safe,&quot; but called it a &quot;credible threat.&quot; The FBI is investigating.</description>
-      <pubDate>Sat, 14 Nov 2026 20:12:34 +0000</pubDate>
-      <guid isPermaLink="true">https://www.npr.org/2026/11/14/g-s1-153781/bomb-ethanol-plant-peoria-illinois-evacuations</guid>
-    </item>
-    <item>
       <title>[News / World] ‘Get Focused on London’: How Iran’s Agents Attacked European Targets</title>
       <link>https://www.nytimes.com/2026/11/13/world/europe/iran-attacks-europe-britain.html</link>
       <description>NYT — World: A wave of assaults in Britain and elsewhere in the spring sowed fear across Europe. Prosecutors shed new light on how Iran took aim at U.S. allies.</description>
       <pubDate>Sat, 14 Nov 2026 19:23:20 +0000</pubDate>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/13/world/europe/iran-attacks-europe-britain.html</guid>
-    </item>
-    <item>
-      <title>[News / World] &#x27;We can&#x27;t let them down&#x27; -- After midterm wins, Democrats turn to charting path ahead</title>
-      <link>https://www.npr.org/2026/11/14/nx-s1-6037777/democrats-midterms-whats-next-conference</link>
-      <description>NPR News: Democrats from across the country descended on Denver for a two-day conference to chart the course of their party after sweeping victories in the midterm elections.</description>
-      <pubDate>Sat, 14 Nov 2026 19:13:54 +0000</pubDate>
-      <guid isPermaLink="true">https://www.npr.org/2026/11/14/nx-s1-6037777/democrats-midterms-whats-next-conference</guid>
-    </item>
-    <item>
-      <title>[News / World] Copper wire upgrade caused nationwide flight suspension, US transport secretary says</title>
-      <link>https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>BBC News — World: The US government is trying to find out whether the chaos was caused by &quot;incompetence&quot; or faulty equipment.</description>
-      <pubDate>Sat, 14 Nov 2026 19:12:25 +0000</pubDate>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&amp;at_campaign=rss</guid>
     </item>
     <item>
       <title>[News / World] A ‘Generational Clash’ Is Fueling Europe’s Protests</title>
@@ -258,46 +370,11 @@
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/14/world/europe/student-protests-pensions-generations.html</guid>
     </item>
     <item>
-      <title>[News / World] Italy fines Meta €805m over accessing users&#x27; photos</title>
-      <link>https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>BBC News — World: The social media giant is accused of not informing 20 million users it had access to their photos.</description>
-      <pubDate>Sat, 14 Nov 2026 18:28:06 +0000</pubDate>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&amp;at_campaign=rss</guid>
-    </item>
-    <item>
-      <title>[News / World] Philippines wins first Eurovision Song Contest Asia</title>
-      <link>https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>BBC News — World: Front-runner Carmelle emerges victorious with her women&#x27;s empowerment anthem Sobra-Sobra.</description>
-      <pubDate>Sat, 14 Nov 2026 18:17:58 +0000</pubDate>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&amp;at_campaign=rss</guid>
-    </item>
-    <item>
-      <title>[News / World] Sotheby&#x27;s auction of $180m Van Gogh challenged over claims it was &#x27;sold under duress&#x27;</title>
-      <link>https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>BBC News — World: Sotheby&#x27;s says it will work with the heirs of a family who had previously owned the artwork to try and reach a solution.</description>
-      <pubDate>Sat, 14 Nov 2026 18:00:10 +0000</pubDate>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&amp;at_campaign=rss</guid>
-    </item>
-    <item>
-      <title>[News / World] South Sudan’s National Election, Its First, Will Be Delayed</title>
-      <link>https://www.nytimes.com/2026/11/14/world/africa/south-sudan-election.html</link>
-      <description>NYT — World: Analysts had warned that the vote, originally set for December, faced a legitimacy crisis. South Sudan has not held a national election since gaining independence in 2011.</description>
-      <pubDate>Sat, 14 Nov 2026 16:51:55 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/14/world/africa/south-sudan-election.html</guid>
-    </item>
-    <item>
       <title>[News / World] Ukraine’s Starshield Access Is Being Restricted Again, Zelensky Says</title>
       <link>https://www.nytimes.com/2026/11/14/world/europe/ukraine-starshield-zelensky.html</link>
       <description>NYT — World: President Volodymyr Zelensky said the system, which Ukraine uses to guide drones, was being throttled over Russian-occupied territory. SpaceX, its developer, has denied the claim.</description>
       <pubDate>Sat, 14 Nov 2026 13:57:37 +0000</pubDate>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/14/world/europe/ukraine-starshield-zelensky.html</guid>
-    </item>
-    <item>
-      <title>[Politics] What’s Behind the Trump-Huang Relationship?</title>
-      <link>https://www.nytimes.com/video/us/politics/100000011272223/whats-behind-the-trump-huang-relationship.html</link>
-      <description>NYT — Politics: President Trump’s show of support for Jensen Huang as he was under fire was a remarkable moment in a relationship that barely existed two years ago. Our White House correspondent Maggie Haberman explains how Mr. Trump came to see Mr. Huang as a modern-day Henry Ford.</description>
-      <pubDate>Sat, 14 Nov 2026 13:27:10 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/video/us/politics/100000011272223/whats-behind-the-trump-huang-relationship.html</guid>
     </item>
     <item>
       <title>[News / World] Choking fires, deadly heat and devastating floods: 2026 in extreme weather</title>
@@ -321,46 +398,11 @@
       <guid isPermaLink="true">https://bookriot.com/book-riots-deals-of-the-day-for-november-14-2026/</guid>
     </item>
     <item>
-      <title>[News / World] Trump’s Oil Grab in Venezuela Is Testing the Country’s National Identity</title>
-      <link>https://www.nytimes.com/2026/11/14/world/americas/trump-venezuela-oil.html</link>
-      <description>NYT — World: Long-held beliefs in Venezuela about sovereign control over oil are fraying as the U.S. lays claim to the country’s oil reserves.</description>
-      <pubDate>Sat, 14 Nov 2026 10:10:01 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/14/world/americas/trump-venezuela-oil.html</guid>
-    </item>
-    <item>
-      <title>[Politics] As Congress Plans Investigations, White House Prepares Ferocious Response</title>
-      <link>https://www.nytimes.com/2026/11/14/us/politics/congress-trump-investigations.html</link>
-      <description>NYT — Politics: The Trump administration has quietly been laying the groundwork for an aggressive all-out effort to thwart newly empowered Democrats’ attempts at oversight.</description>
-      <pubDate>Sat, 14 Nov 2026 10:02:21 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/14/us/politics/congress-trump-investigations.html</guid>
-    </item>
-    <item>
-      <title>[Politics] Top Democrat Eyes Filibuster-Proof Budget Bill to Unlock Affordability Agenda</title>
-      <link>https://www.nytimes.com/2026/11/14/us/politics/house-democrats-affordability-costs-budget.html</link>
-      <description>NYT — Politics: The lawmaker set to lead the House Budget Committee outlined Democrats’ options for forcing a negotiation with President Trump on an economic package to bring down living costs.</description>
-      <pubDate>Sat, 14 Nov 2026 10:01:49 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/14/us/politics/house-democrats-affordability-costs-budget.html</guid>
-    </item>
-    <item>
       <title>[Books &amp; Literature] ‘It’s like the wild west’: how AI has rocked the literary world</title>
       <link>https://www.theguardian.com/books/ng-interactive/2026/nov/14/its-like-the-wild-west-how-ai-has-rocked-the-literary-world</link>
       <description>The Guardian — Books: &lt;p&gt;With authors losing lucrative deals and writers removed from prize shortlists, accusations of AI use are sending shock waves through the publishing industry. Is it too late to turn the tide on machine writing?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;T&lt;/strong&gt;he romance novelist Coral Hart got her break writing books for </description>
       <pubDate>Sat, 14 Nov 2026 09:00:40 +0000</pubDate>
       <guid isPermaLink="true">https://www.theguardian.com/books/ng-interactive/2026/nov/14/its-like-the-wild-west-how-ai-has-rocked-the-literary-world</guid>
-    </item>
-    <item>
-      <title>[History] Daily Quiz: 14 November</title>
-      <link>https://www.historyextra.com/membership/daily-history-trivia-quiz/</link>
-      <description>HistoryExtra: Test your history knowledge with our daily quiz – updated each morning at 7am UK time</description>
-      <pubDate>Sat, 14 Nov 2026 07:00:07 +0000</pubDate>
-      <guid isPermaLink="true">https://www.historyextra.com/membership/daily-history-trivia-quiz/</guid>
-    </item>
-    <item>
-      <title>[News / World] Two Celebrity Cases Put a Spotlight on British Courts’ Gag Orders</title>
-      <link>https://www.nytimes.com/2026/11/14/world/europe/russell-brand-david-walliams-gag-order.html</link>
-      <description>NYT — World: Russell Brand and the TV personality David Walliams both persuaded courts to suppress misconduct allegations against them. Some say the libel laws need to change.</description>
-      <pubDate>Sat, 14 Nov 2026 05:01:07 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/14/world/europe/russell-brand-david-walliams-gag-order.html</guid>
     </item>
     <item>
       <title>[Chicago] New Bronzeville Development Will Only Displace Residents If New Bears Stadium Is Part Of Project</title>
@@ -375,13 +417,6 @@
       <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;682&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2025/07/072425-OHare-Airport-File-Photos-Colin-Boyle-5293.jpg?fit=1024%2C682&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figure&gt;Flights were canceled at b</description>
       <pubDate>Fri, 13 Nov 2026 22:17:55 +0000</pubDate>
       <guid isPermaLink="true">https://blockclubchicago.org/2026/11/13/nationwide-ground-stop-halts-flights-at-ohare-midway-airports/</guid>
-    </item>
-    <item>
-      <title>[News / World] Eisenkot Accuses Netanyahu of Fueling ‘Racist’ Hostility Against Arabs</title>
-      <link>https://www.nytimes.com/2026/11/13/world/middleeast/eisenkot-netanyahu-racism-arabs.html</link>
-      <description>NYT — World: Gadi Eisenkot sharply criticized Prime Minister Benjamin Netanyahu days after the Israeli leader attacked Arab lawmakers in a divisive speech.</description>
-      <pubDate>Fri, 13 Nov 2026 21:50:12 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/13/world/middleeast/eisenkot-netanyahu-racism-arabs.html</guid>
     </item>
     <item>
       <title>[Chicago] Filmmaker Fred Camper shares his Suicide Note</title>
@@ -475,13 +510,6 @@
 &lt;p&gt;The post &lt;a href=&quot;https://dailynous.com/2026/11/13/open-plato-project-releases-first-dialogue/&quot;&gt;Open Plato Project Relea</description>
       <pubDate>Fri, 13 Nov 2026 16:07:13 +0000</pubDate>
       <guid isPermaLink="true">https://dailynous.com/2026/11/13/open-plato-project-releases-first-dialogue/</guid>
-    </item>
-    <item>
-      <title>[News / World] Caught Between Killers: Ebola on One Side, Islamic State on the Other</title>
-      <link>https://www.nytimes.com/2026/11/13/world/africa/ebola-congo-isis.html</link>
-      <description>NYT — World: The new epicenter of Congo’s fast-spreading outbreak is a region scarred by rebel violence. Responders are struggling to help it.</description>
-      <pubDate>Fri, 13 Nov 2026 16:02:36 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/13/world/africa/ebola-congo-isis.html</guid>
     </item>
     <item>
       <title>[Chicago] Heroes of the Fourth Turning captures right-wing angst</title>
@@ -666,13 +694,6 @@
       <guid isPermaLink="true">https://bookriot.com/classic-mexican-books/</guid>
     </item>
     <item>
-      <title>[Books &amp; Literature] The Best Books of 2026, According to Amazon</title>
-      <link>https://bookriot.com/amazons-best-books-2026/</link>
-      <description>Book Riot: Amazon&#x27;s best books of the year include bestsellers and under-the-radar books alike.</description>
-      <pubDate>Thu, 12 Nov 2026 16:07:54 +0000</pubDate>
-      <guid isPermaLink="true">https://bookriot.com/amazons-best-books-2026/</guid>
-    </item>
-    <item>
       <title>[Books &amp; Literature] Transcription by Ben Lerner audiobook review – a meditation on memory for the smartphone era</title>
       <link>https://www.theguardian.com/books/2026/nov/12/transcription-by-ben-lerner-audiobook-review-a-mediation-on-memory-for-the-smartphone-era</link>
       <description>The Guardian — Books: &lt;p&gt;Actor Seth Numrich vividly captures the neurotic tendencies of a middle-aged man with a digital dependency, in an intense multilayered tale of family and storytelling&lt;/p&gt;&lt;p&gt;We meet the unnamed narrator of Transcription on a train to Providence, Rhode Island. He is going to interview his one-time </description>
@@ -686,26 +707,5 @@
 &lt;p&gt;The post &lt;a href=&quot;https://dailynous.com/2026/11/12/listening-and-diagnosing-guest-post/&quot;&gt;Listening and Diagnosing (guest post)&lt;/a&gt; appeared firs</description>
       <pubDate>Thu, 12 Nov 2026 14:52:17 +0000</pubDate>
       <guid isPermaLink="true">https://dailynous.com/2026/11/12/listening-and-diagnosing-guest-post/</guid>
-    </item>
-    <item>
-      <title>[News / World] Zimbabwean author Simbarashe Kundizeza cleared of using AI to write prize-winning story</title>
-      <link>https://www.theguardian.com/books/2026/nov/12/zimbabwean-author-simbarashe-kundizeza-cleared-ai-caine-prize-winning-story</link>
-      <description>The Guardian — World: &lt;p&gt;After a month-long investigation it was concluded that Kundizeza’s story The Blue Fighter, which won the £10,000 Caine prize, was ‘human-written’&lt;/p&gt;&lt;p&gt;The Zimbabwean author Simbarashe Kundizeza has been cleared of using AI to write a prize-winning short story, after the prestigious Caine prize f</description>
-      <pubDate>Thu, 12 Nov 2026 13:14:38 +0000</pubDate>
-      <guid isPermaLink="true">https://www.theguardian.com/books/2026/nov/12/zimbabwean-author-simbarashe-kundizeza-cleared-ai-caine-prize-winning-story</guid>
-    </item>
-    <item>
-      <title>[History] From teenage bride to child blinder: the brutal rise of Rome’s first female emperor</title>
-      <link>https://www.historyextra.com/membership/from-teenage-bride-to-child-blinder-the-brutal-rise-of-romes-first-female-emperor/</link>
-      <description>HistoryExtra: From teenage bride to ruler of the Roman Empire, Irene built a formidable political network, restored the veneration of icons and seized the imperial throne – but at a devastating cost to her own family. Edward J Watts charts her extraordinary life</description>
-      <pubDate>Thu, 12 Nov 2026 11:30:40 +0000</pubDate>
-      <guid isPermaLink="true">https://www.historyextra.com/membership/from-teenage-bride-to-child-blinder-the-brutal-rise-of-romes-first-female-emperor/</guid>
-    </item>
-    <item>
-      <title>[Philosophy] My grandfather been tell me a lot of story about Lasseter</title>
-      <link>https://aeon.co/videos/a-legendary-australian-gold-hunt-told-from-an-aboriginal-perspective</link>
-      <description>Aeon: &lt;p&gt;&lt;img alt=&quot;Painting of two people kneeling and a person in a hat by a campfire under a tree, near a river and colourful flowers.&quot; src=&quot;https://images.aeonmedia.co/images/02c07749-78d1-493a-a9e1-7e47e869d59a/nyinuta-nora-abbott-landscape-2.jpg?width=1200&amp;amp;quality=75&amp;amp;format=auto&quot; /&gt;&lt;/p&gt;&lt;p&gt;A s</description>
-      <pubDate>Thu, 12 Nov 2026 11:01:00 +0000</pubDate>
-      <guid isPermaLink="true">https://aeon.co/videos/a-legendary-australian-gold-hunt-told-from-an-aboriginal-perspective</guid>
     </item>
 </channel></rss>
