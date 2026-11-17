@@ -3,91 +3,351 @@
   <title>A Character Quiz — Combined Digest</title>
   <link>https://www.acharacterquiz.com</link>
   <description>News, politics, books, history, philosophy, and Chicago — merged into one feed</description>
-  <lastBuildDate>Tue, 17 Nov 2026 16:42:48 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 17 Nov 2026 23:45:08 +0000</lastBuildDate>
   
     <item>
-      <title>[News / World] Jensen Huang says he would return as Nvidia boss if asked by the board</title>
-      <link>https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>BBC News — World: Huang says he has had an &quot;outpouring&quot; of calls from investors and others calling for him to return.</description>
-      <pubDate>Tue, 17 Nov 2026 16:39:54 +0000</pubDate>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <title>[Politics] Markwayne Mullin Defends Flight to L.S.U.-Texas Game After Ground Stop</title>
+      <link>https://www.nytimes.com/2026/11/17/us/politics/mullin-lsu-football-plane.html</link>
+      <description>NYT — Politics: “We still gotta live our lives,” said the homeland security secretary, who is required to use government planes for personal travel. His department said he paid.</description>
+      <pubDate>Tue, 17 Nov 2026 23:38:01 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/17/us/politics/mullin-lsu-football-plane.html</guid>
     </item>
     <item>
-      <title>[Politics] Classified N.S.A. Network Goes Down, Causing Work Disruptions</title>
-      <link>https://www.nytimes.com/2026/11/17/us/politics/nsa-down-network-outage-nsanet.html</link>
-      <description>NYT — Politics: There are currently no signs that the outage is the result of a cyberattack or other nefarious activity, according to people familiar with the matter.</description>
-      <pubDate>Tue, 17 Nov 2026 16:36:18 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/17/us/politics/nsa-down-network-outage-nsanet.html</guid>
+      <title>[Politics] Democrats Assail RFK Jr. After U.S. Loses Measles Elimination Status</title>
+      <link>https://www.nytimes.com/2026/11/17/us/politics/rfk-jr-measles-democrats.html</link>
+      <description>NYT — Politics: Incoming senators and prospective presidential candidates blamed the health secretary’s history of vaccine skepticism for the rise of measles in the country.</description>
+      <pubDate>Tue, 17 Nov 2026 23:34:37 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/17/us/politics/rfk-jr-measles-democrats.html</guid>
     </item>
     <item>
-      <title>[Politics] Americans don’t care about beating China’s AI; we’d rather have safety</title>
-      <link>https://thehill.com/opinion/technology/6223533-us-ai-safety-regulation/</link>
-      <description>The Hill: Americans want guardrails, even at the expense of beating China.</description>
-      <pubDate>Tue, 17 Nov 2026 16:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/opinion/technology/6223533-us-ai-safety-regulation/</guid>
+      <title>[Politics] Ecuadorian fishermen sue Trump administration after surviving boat strike</title>
+      <link>https://thehill.com/regulation/court-battles/6226715-ecuadorian-fishermen-lawsuit-us-drones/</link>
+      <description>The Hill: More than a dozen Ecuadorian fishermen have filed a lawsuit against the U.S. government after surviving a military drone attack against their boat in the Pacific Ocean earlier this year, claiming they were wrongfully targeted for drug trafficking. The lawsuit, filed Monday by sixteen fishermen, alle</description>
+      <pubDate>Tue, 17 Nov 2026 23:30:48 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/regulation/court-battles/6226715-ecuadorian-fishermen-lawsuit-us-drones/</guid>
+    </item>
+    <item>
+      <title>[Politics] Hakeem Jeffries Embraces Medicare Expansion on Eve of Speaker Vote</title>
+      <link>https://www.nytimes.com/2026/11/17/us/politics/jeffries-medicare-expansion.html</link>
+      <description>NYT — Politics: The top House Democrat endorsed lowering the eligibility age, covering all children and adding vision, hearing and dental services, proposals seen as precursors to Medicare for All.</description>
+      <pubDate>Tue, 17 Nov 2026 23:25:31 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/17/us/politics/jeffries-medicare-expansion.html</guid>
+    </item>
+    <item>
+      <title>[Politics] For Democrats, a Leadership Fight Is Marring an Electoral Triumph</title>
+      <link>https://www.nytimes.com/2026/11/17/us/politics/democrats-leadership-battle-schumer-van-hollen.html</link>
+      <description>NYT — Politics: The contest between Senators Chuck Schumer and Chris Van Hollen to be majority leader is sowing party divisions and putting them on public display.</description>
+      <pubDate>Tue, 17 Nov 2026 23:23:41 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/17/us/politics/democrats-leadership-battle-schumer-van-hollen.html</guid>
+    </item>
+    <item>
+      <title>[News / World] Top spy agency suffers network outage, the latest US technical failure</title>
+      <link>https://www.aljazeera.com/video/newsfeed/2026/11/17/top-spy-agency-suffers-network-outage-the-latest-us-technical-failure?traffic_source=rss</link>
+      <description>Al Jazeera: A series of unfortunate events has plagued the US. Al Jazeera’s Emma Withrow breaks down what we know.</description>
+      <pubDate>Tue, 17 Nov 2026 23:19:12 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/11/17/top-spy-agency-suffers-network-outage-the-latest-us-technical-failure?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[Politics] Trump steps onto global stage weakened at home</title>
+      <link>https://thehill.com/homenews/administration/6226663-trump-midterm-losses-foreign-policy-asia-trip/</link>
+      <description>The Hill: President Trump is stepping onto the global stage politically weakened by the sweeping Republican losses in the midterm elections, largely seen as a referendum on Trump himself.&amp;#160; Trump is meeting with Indo-Pacific allies at the Association of Southeast Asian Nations (ASEAN) this week, before he</description>
+      <pubDate>Tue, 17 Nov 2026 23:15:19 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/homenews/administration/6226663-trump-midterm-losses-foreign-policy-asia-trip/</guid>
+    </item>
+    <item>
+      <title>[Politics] US officially a measles endemic country</title>
+      <link>https://thehill.com/newsletters/healthcare/6226673-us-officially-a-measles-endemic-country/</link>
+      <description>The Hill: Presented by Coalition to Strengthen America’s Healthcare {beacon} Healthcare Healthcare The Big Story&amp;#160; US officially a measles endemic country The Pan American Health Organization (PAHO) confirmed Tuesday that it was withdrawing the U.S.&amp;#8217;s measles elimination status, ending more than two</description>
+      <pubDate>Tue, 17 Nov 2026 23:12:13 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/newsletters/healthcare/6226673-us-officially-a-measles-endemic-country/</guid>
+    </item>
+    <item>
+      <title>[Politics] Iran Is Emboldened After Trump and GOP’s Election Losses, Officials Say</title>
+      <link>https://www.nytimes.com/2026/11/17/us/politics/iran-trump-midterms.html</link>
+      <description>NYT — Politics: Iran’s negotiating position has hardened since the midterms, U.S. and other Western officials say. An American lawmaker warned that Iran felt “strategically empowered.”</description>
+      <pubDate>Tue, 17 Nov 2026 23:11:02 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/17/us/politics/iran-trump-midterms.html</guid>
+    </item>
+    <item>
+      <title>[News / World] Haitians protest in support of El Salvador’s anti-gang troop deployment</title>
+      <link>https://www.aljazeera.com/news/2026/11/17/haitians-protest-in-support-of-el-salvadors-anti-gang-troop-deployment?traffic_source=rss</link>
+      <description>Al Jazeera: El Salvador&amp;#039;s security minister has confirmed the troops will leave once kidnapped technicians are rescued.</description>
+      <pubDate>Tue, 17 Nov 2026 23:09:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/11/17/haitians-protest-in-support-of-el-salvadors-anti-gang-troop-deployment?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] Nvidia reports bumper results as firm says it&#x27;s not reinstating Huang</title>
+      <link>https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>BBC News — World: Nvidia reported strong quarterly earnings on Tuesday amid the dramatic exit of ex-CEO Jensen Huang.</description>
+      <pubDate>Tue, 17 Nov 2026 23:03:39 +0000</pubDate>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&amp;at_campaign=rss</guid>
+    </item>
+    <item>
+      <title>[Politics] DOJ watchdog notes surge in misconduct complaints</title>
+      <link>https://thehill.com/homenews/administration/6226628-doj-opr-misconduct-complaints-surge/</link>
+      <description>The Hill: A Tuesday report reviewing the Justice Department’s (DOJ) top challenges noted a surge in professional responsibility complaints filed against the department’s prosecutors.  The report from DOJ’s Office of Inspector General (OIG) focused on a number of managerial issues, concluding that those facing</description>
+      <pubDate>Tue, 17 Nov 2026 22:51:24 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/homenews/administration/6226628-doj-opr-misconduct-complaints-surge/</guid>
+    </item>
+    <item>
+      <title>[Chicago] Cubs’ Wrigley Field Parking Expansion Advances, Along With Briar St. Theatre Conversion, Other Projects</title>
+      <link>https://blockclubchicago.org/2026/11/17/cubs-wrigley-field-parking-expansion-advances-along-with-briar-st-theatre-conversion-other-projects/</link>
+      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;The Wrigley Field Camry Lot parking area north of the ballpark in Wrigleyville. The Chicago Cubs are seeking city approval to expand the lot and add hundreds of parking spaces on nearby property they recently purchased.&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-</description>
+      <pubDate>Tue, 17 Nov 2026 22:51:13 +0000</pubDate>
+      <guid isPermaLink="true">https://blockclubchicago.org/2026/11/17/cubs-wrigley-field-parking-expansion-advances-along-with-briar-st-theatre-conversion-other-projects/</guid>
+    </item>
+    <item>
+      <title>[News / World] Thomas Markle charged over child sex abuse material in Philippines</title>
+      <link>https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>BBC News — World: Markle is being held in prison in the US on a separate charge and has previously denied all of the allegations.</description>
+      <pubDate>Tue, 17 Nov 2026 22:44:15 +0000</pubDate>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&amp;at_campaign=rss</guid>
+    </item>
+    <item>
+      <title>[Politics] Trump Administration Says It Will Not Use Ships to Deport Migrants</title>
+      <link>https://www.nytimes.com/2026/11/17/us/politics/boat-deport-golden-bear.html</link>
+      <description>NYT — Politics: The Homeland Security Department told Congress of the decision after The New York Times reported last month that it was considering deportations by sea.</description>
+      <pubDate>Tue, 17 Nov 2026 22:40:32 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/17/us/politics/boat-deport-golden-bear.html</guid>
+    </item>
+    <item>
+      <title>[News / World] Russian military plane crash in Siberia kills 19</title>
+      <link>https://www.aljazeera.com/news/2026/11/17/russian-military-plane-crash-in-siberia-kills-19?traffic_source=rss</link>
+      <description>Al Jazeera: Russia&amp;#039;s Defence Ministry says preliminary findings for the crash point to equipment failure.</description>
+      <pubDate>Tue, 17 Nov 2026 22:21:16 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/11/17/russian-military-plane-crash-in-siberia-kills-19?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[Politics] Ukraine talks yielding progress: Kushner</title>
+      <link>https://thehill.com/policy/international/6226498-ukraine-talks-yielding-progress-kushner/</link>
+      <description>The Hill: Jared Kushner, President Trump&amp;#8217;s son-in-law, said he and fellow U.S. special envoy Steve Witkoff are &amp;#8220;making progress&amp;#8221; toward bringing an end to war in Ukraine — though &amp;#8220;important challenges&amp;#8221; remain. “A final agreement will require difficult decisions. But we are making</description>
+      <pubDate>Tue, 17 Nov 2026 22:20:21 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/policy/international/6226498-ukraine-talks-yielding-progress-kushner/</guid>
+    </item>
+    <item>
+      <title>[Politics] Over half rank Trump their least favorite president of the past 25 years: Poll</title>
+      <link>https://thehill.com/homenews/administration/6226501-trump-presidential-poll-bush-obama-biden/</link>
+      <description>The Hill: A new poll shows over half of Americans ranked President Trump as their least favorite president this quarter century, though a sizable cohort also ranked him as their top choice. The Politico/PF Global survey asked respondents to rank presidents in the past 25 years from favorite to least favorite,</description>
+      <pubDate>Tue, 17 Nov 2026 22:20:15 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/homenews/administration/6226501-trump-presidential-poll-bush-obama-biden/</guid>
+    </item>
+    <item>
+      <title>[Politics] Nvidia reports strong third quarter after Huang departs</title>
+      <link>https://thehill.com/business/6226457-nvidia-q3-earnings-strong/</link>
+      <description>The Hill: Nvidia reported strong earnings for the third quarter on Tuesday, less than a week after former CEO and co-founder Jensen Huang left the company. The chipmaker reported $115.8 billion in revenue from July through September, an increase of 20 percent from the second quarter and 103 percent from the t</description>
+      <pubDate>Tue, 17 Nov 2026 22:11:53 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/business/6226457-nvidia-q3-earnings-strong/</guid>
+    </item>
+    <item>
+      <title>[Politics] RFK Jr.: US will ‘work to regain’ measles elimination status</title>
+      <link>https://thehill.com/policy/healthcare/6226425-us-loses-measles-elimination-status/</link>
+      <description>The Hill: Health and Human Services (HHS) Robert F. Kennedy Jr. said on Tuesday that the U.S. will “work to regain” its measles elimination status after officially losing it. “We will stop measles outbreaks, protect American families, and work to regain U.S. measles elimination status. I continue to recommend</description>
+      <pubDate>Tue, 17 Nov 2026 22:02:00 +0000</pubDate>
+      <guid isPermaLink="true">https://thehill.com/policy/healthcare/6226425-us-loses-measles-elimination-status/</guid>
+    </item>
+    <item>
+      <title>[News / World] US Fed’s Lisa Cook refuses to attend White House hearing</title>
+      <link>https://www.aljazeera.com/economy/2026/11/17/us-feds-lisa-cook-refuses-to-attend-white-house-hearing?traffic_source=rss</link>
+      <description>Al Jazeera: US President Donald Trump has been trying to fire Cook since August 2025.</description>
+      <pubDate>Tue, 17 Nov 2026 22:01:27 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/economy/2026/11/17/us-feds-lisa-cook-refuses-to-attend-white-house-hearing?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[Chicago] 2nd Ward Ald. Brian Hopkins Faces First Challenger In Reelection Bid</title>
+      <link>https://blockclubchicago.org/2026/11/17/2nd-ward-ald-brian-hopkins-faces-first-challenger-in-reelection-bid/</link>
+      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;683&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2025/12/CBP_6181-scaled.jpeg?fit=1024%2C683&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figure&gt;Both candidates are also facing challenges to their petitio</description>
+      <pubDate>Tue, 17 Nov 2026 21:58:10 +0000</pubDate>
+      <guid isPermaLink="true">https://blockclubchicago.org/2026/11/17/2nd-ward-ald-brian-hopkins-faces-first-challenger-in-reelection-bid/</guid>
+    </item>
+    <item>
+      <title>[News / World] Caribbean nations fear economic impact of shuttering citizenship program after EU threats</title>
+      <link>https://www.theguardian.com/world/2026/nov/17/st-kitts-nevis-citizenship-investment</link>
+      <description>The Guardian — World: &lt;p&gt;St Kitts and Nevis to wind down citizenship-by-investment program after EU warns of end to visa-free access&lt;/p&gt;&lt;p&gt;The decision by St Kitts and Nevis to end a lucrative programme offering citizenship to wealthy foreigners in exchange for investment threatens its economy and ability to support peop</description>
+      <pubDate>Tue, 17 Nov 2026 21:49:29 +0000</pubDate>
+      <guid isPermaLink="true">https://www.theguardian.com/world/2026/nov/17/st-kitts-nevis-citizenship-investment</guid>
+    </item>
+    <item>
+      <title>[Politics] Kevin Bleyer, Writer Behind Obama’s Speech Roasting Trump, Has Died at 54</title>
+      <link>https://www.nytimes.com/2026/11/17/obituaries/kevin-bleyer-dead.html</link>
+      <description>NYT — Politics: The Emmy Award-winning writer worked with Jon Stewart, Bill Maher and Barack Obama, and may just have helped motivate Donald Trump to run for office.</description>
+      <pubDate>Tue, 17 Nov 2026 21:46:19 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/17/obituaries/kevin-bleyer-dead.html</guid>
+    </item>
+    <item>
+      <title>[News / World] Isolated Brazilian tribe emerges amid alarm over threats to group’s way of life</title>
+      <link>https://www.theguardian.com/world/2026/nov/17/brazil-amazon-isolated-indigenous-people</link>
+      <description>The Guardian — World: &lt;p&gt;Indigenous Awá people of Amazon make contact with villagers and accept food to take back to territory&lt;/p&gt;&lt;p&gt;About 20 Indigenous people emerged from isolation in Brazil’s Amazon rainforest, several organizations reported on Tuesday, raising the alarm about increased invasions into the tribe’s terr</description>
+      <pubDate>Tue, 17 Nov 2026 21:40:56 +0000</pubDate>
+      <guid isPermaLink="true">https://www.theguardian.com/world/2026/nov/17/brazil-amazon-isolated-indigenous-people</guid>
+    </item>
+    <item>
+      <title>[News / World] UK hands NATO-assigned US soldier accused of Russia spying to US military</title>
+      <link>https://www.aljazeera.com/news/2026/11/17/uk-hands-nato-assigned-us-soldier-accused-of-russia-spying-to-us-military?traffic_source=rss</link>
+      <description>Al Jazeera: UK authorities have passed the investigation to the US &amp;#039;in line with existing international protocols&amp;#039;.</description>
+      <pubDate>Tue, 17 Nov 2026 21:35:24 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/11/17/uk-hands-nato-assigned-us-soldier-accused-of-russia-spying-to-us-military?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[Politics] A.I. Helps Find Major Security Bug in Java, a Software Platform Vital to the Internet</title>
+      <link>https://www.nytimes.com/2026/11/17/us/politics/ai-security-bug-java.html</link>
+      <description>NYT — Politics: The discovery by security company Calif shows A.I.’s ability to find gaping security holes in popular software. The Java flaw pointed to vulnerabilities in systems used by nearly all Fortune 500 companies.</description>
+      <pubDate>Tue, 17 Nov 2026 21:34:43 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/17/us/politics/ai-security-bug-java.html</guid>
+    </item>
+    <item>
+      <title>[History] Chicago History Museum to Host New Music Festival This Saturday</title>
+      <link>https://www.chicagohistory.org/chicago-history-museum-to-host-new-music-festival-this-saturday/</link>
+      <description>Chicago History Museum Blog: &lt;p&gt;Tickets available to Rock the Museum, a new music festival bringing the next generation of musicians to Chicago’s oldest cultural institution CHICAGO (November 16, 2026) – The Chicago History Museum &amp;#8230; &lt;a href=&quot;https://www.chicagohistory.org/chicago-history-museum-to-host-new-music-festival-</description>
+      <pubDate>Tue, 17 Nov 2026 21:31:34 +0000</pubDate>
+      <guid isPermaLink="true">https://www.chicagohistory.org/chicago-history-museum-to-host-new-music-festival-this-saturday/</guid>
+    </item>
+    <item>
+      <title>[News / World] UK sanctions Israeli settlement firms to protect two-state solution</title>
+      <link>https://www.aljazeera.com/video/newsfeed/2026/11/17/aje-onl-nf_uk-sanctions-eight-israeli-settlement-firms-171126?traffic_source=rss</link>
+      <description>Al Jazeera: The UK has imposed new sanctions on eight Israeli companies supporting illegal settlements in the occupied West Bank.</description>
+      <pubDate>Tue, 17 Nov 2026 21:28:31 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/11/17/aje-onl-nf_uk-sanctions-eight-israeli-settlement-firms-171126?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] ‘Zero transparency’: Inside Trump’s plans for Venezuela’s oil money</title>
+      <link>https://www.aljazeera.com/news/2026/11/17/zero-transparency-inside-trumps-plans-for-venezuelas-oil-money?traffic_source=rss</link>
+      <description>Al Jazeera: Democrats say they plan to investigate Trump&amp;#039;s dealings with Venezuela after winning control of Congress.</description>
+      <pubDate>Tue, 17 Nov 2026 21:26:42 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/11/17/zero-transparency-inside-trumps-plans-for-venezuelas-oil-money?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] Moment Russian military plane crashes in Siberia, killing 19</title>
+      <link>https://www.aljazeera.com/video/newsfeed/2026/11/17/moment-russian-military-plane-crashes-in-siberia-killing-19?traffic_source=rss</link>
+      <description>Al Jazeera: Footage captures the moment a Russian military transport aircraft crashes in the Kemerovo region</description>
+      <pubDate>Tue, 17 Nov 2026 21:25:43 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/11/17/moment-russian-military-plane-crashes-in-siberia-killing-19?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>[News / World] Putin&#x27;s Crimean Bridge partly collapses as Zelensky hails &#x27;unprecedented&#x27; attack by Ukraine</title>
+      <link>https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>BBC News — World: Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.</description>
+      <pubDate>Tue, 17 Nov 2026 21:24:35 +0000</pubDate>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&amp;at_campaign=rss</guid>
+    </item>
+    <item>
+      <title>[Chicago] String Of Armed Robberies Hit Gage Park Businesses, Police And Alderwoman Say</title>
+      <link>https://blockclubchicago.org/2026/11/17/string-of-armed-robberies-hit-gage-park-businesses-police-and-alderwoman-say/</link>
+      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;682&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2026/04/040626-Southwest-Side-Infrastructure-Colin-Boyle-4196.jpg?fit=1024%2C682&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figure&gt;An armed man has hit f</description>
+      <pubDate>Tue, 17 Nov 2026 21:20:57 +0000</pubDate>
+      <guid isPermaLink="true">https://blockclubchicago.org/2026/11/17/string-of-armed-robberies-hit-gage-park-businesses-police-and-alderwoman-say/</guid>
+    </item>
+    <item>
+      <title>[News / World] Russian military plane crashes, killing all 19 on board</title>
+      <link>https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>BBC News — World: Russia&#x27;s defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.</description>
+      <pubDate>Tue, 17 Nov 2026 21:06:11 +0000</pubDate>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&amp;at_campaign=rss</guid>
     </item>
     <item>
       <title>[News / World] US loses measles elimination status after 26 years amid record case numbers</title>
       <link>https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&amp;at_campaign=rss</link>
       <description>BBC News — World: States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s.</description>
-      <pubDate>Tue, 17 Nov 2026 16:26:22 +0000</pubDate>
+      <pubDate>Tue, 17 Nov 2026 21:04:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&amp;at_campaign=rss</guid>
     </item>
     <item>
-      <title>[Politics] Vance vows US won’t make long-term commitment to Iran war</title>
-      <link>https://thehill.com/homenews/administration/6225067-vance-denies-iran-forever-war/</link>
-      <description>The Hill: Vice President Vance on Monday vowed that the U.S. will not make a long-term commitment with the Iran war compared to past U.S.-Middle East wars in the past. Fox News host Laura Ingraham told Vance that he was being blamed for the memorandum of understanding between the U.S. and Iran not being a suc</description>
-      <pubDate>Tue, 17 Nov 2026 16:19:58 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/homenews/administration/6225067-vance-denies-iran-forever-war/</guid>
+      <title>[News / World] Eight-year-old Haitian boy returns home after release from ICE custody</title>
+      <link>https://www.theguardian.com/us-news/2026/nov/17/haitian-child-ice-custody-release</link>
+      <description>The Guardian — World: &lt;p&gt;Child reunited with family after he was detained by immigration agents in San Diego and transferred to Texas&lt;/p&gt;&lt;p&gt;An eight-year-old Haitian boy who was put into restraints and detained by immigration agents in San Diego on 4 November and transferred to a facility in &lt;a href=&quot;https://www.theguard</description>
+      <pubDate>Tue, 17 Nov 2026 20:59:56 +0000</pubDate>
+      <guid isPermaLink="true">https://www.theguardian.com/us-news/2026/nov/17/haitian-child-ice-custody-release</guid>
     </item>
     <item>
-      <title>[Politics] Measles Is Officially Back in the United States. What Now?</title>
-      <link>https://www.nytimes.com/2026/11/17/us/measles-us-whats-next.html</link>
-      <description>NYT — Politics: It will take years for the country to regain elimination status. In the meantime, communities will need to adopt numerous strategies to protect people.</description>
-      <pubDate>Tue, 17 Nov 2026 16:16:43 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/17/us/measles-us-whats-next.html</guid>
+      <title>[Chicago] Here’s How To Catch The CTA’s Holiday Train And Bus Starting Next Week</title>
+      <link>https://blockclubchicago.org/2026/11/17/heres-how-to-catch-the-ctas-holiday-train-and-bus-starting-next-week/</link>
+      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;682&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2024/12/120424-CTA-Holiday-Train-Colin-Boyle-6983.jpg?fit=1024%2C682&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figure&gt;Find the holiday bus starting Nov.</description>
+      <pubDate>Tue, 17 Nov 2026 20:45:00 +0000</pubDate>
+      <guid isPermaLink="true">https://blockclubchicago.org/2026/11/17/heres-how-to-catch-the-ctas-holiday-train-and-bus-starting-next-week/</guid>
     </item>
     <item>
-      <title>[News / World] Election-winning student movement enters Serbia’s new parliament</title>
-      <link>https://www.aljazeera.com/news/2026/11/17/election-winning-student-movement-enters-serbias-new-parliament?traffic_source=rss</link>
-      <description>Al Jazeera: Hundreds hail Student List lawmakers as the new parliament meets for the first time.</description>
-      <pubDate>Tue, 17 Nov 2026 16:13:48 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/11/17/election-winning-student-movement-enters-serbias-new-parliament?traffic_source=rss</guid>
+      <title>[News / World] Congo Ebola Outbreak: How Fear and Mistrust Drive Community Spread</title>
+      <link>https://www.nytimes.com/2026/11/17/world/africa/congo-ebola-community-transmission.html</link>
+      <description>NYT — World: As the Ebola virus spreads in eastern Congo, health teams struggle to curb fatal delays in seeking medical care and the widespread desire to treat sick relatives at home.</description>
+      <pubDate>Tue, 17 Nov 2026 20:44:22 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/17/world/africa/congo-ebola-community-transmission.html</guid>
     </item>
     <item>
-      <title>[Politics] Trump administration moves to restrict employer-sponsored green cards</title>
-      <link>https://thehill.com/homenews/administration/6225277-labor-proposes-perm-rule-changes/</link>
-      <description>The Hill: The Department of Labor has proposed a rule that would update the standards for employer-sponsored green cards for foreign workers, in a move to tighten regulations and “enhance” protections for American workers. The proposed changes to the permanent labor certification program, also known as PERM, </description>
-      <pubDate>Tue, 17 Nov 2026 16:11:34 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/homenews/administration/6225277-labor-proposes-perm-rule-changes/</guid>
+      <title>[News / World] Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says</title>
+      <link>https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>BBC News — World: Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.</description>
+      <pubDate>Tue, 17 Nov 2026 20:30:20 +0000</pubDate>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&amp;at_campaign=rss</guid>
     </item>
     <item>
-      <title>[Politics] US loses measles elimination status after more than 25 years</title>
-      <link>https://thehill.com/policy/healthcare/6225090-us-loses-measles-elimination-status/</link>
-      <description>The Hill: The U.S. on Tuesday officially lost its measles elimination status for the first time since it gained this distinction more than 25 years ago, with a count of more than 7,700 cases in the past two years and more than 10 deaths reported by states since 2025. The Pan American Health Organization (PAHO</description>
-      <pubDate>Tue, 17 Nov 2026 16:10:14 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/policy/healthcare/6225090-us-loses-measles-elimination-status/</guid>
+      <title>[News / World] Trump’s Whirlwind Asia Trip Begins in the Philippines</title>
+      <link>https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit</link>
+      <description>NYT — World: President Trump’s 48-hour trip started with a meeting with Southeast Asian leaders in Manila. He will later meet Xi Jinping of China and Vladimir Putin of Russia in Shenzhen, a Chinese economic hub.</description>
+      <pubDate>Tue, 17 Nov 2026 20:21:27 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit</guid>
     </item>
     <item>
-      <title>[Politics] O’Reilly: ‘Trump may be wrong in the way he handles Xi and Putin’</title>
-      <link>https://thehill.com/policy/international/6225307-oreilly-trump-xi-putin-strategy/</link>
-      <description>The Hill: Commentator Bill O’Reilly said Monday the way President Trump interacts with Chinese President Xi Jinping and Russian President Vladimir Putin may not be successful. “Trump may be wrong in the way he handles Xi and Putin by trying to get them into a circle of agreement. That may not work, but that&amp;#</description>
-      <pubDate>Tue, 17 Nov 2026 16:10:06 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/policy/international/6225307-oreilly-trump-xi-putin-strategy/</guid>
+      <title>[News / World] Ukraine Attacks Kerch Bridge Linking Russia to Occupied Crimea</title>
+      <link>https://www.nytimes.com/2026/11/17/world/europe/ukraine-kyiv-russia-kerch-bridge-crimea.html</link>
+      <description>NYT — World: Destroying the structure, the only one connecting Russia to the occupied Crimean Peninsula, has long been a top objective for Kyiv.</description>
+      <pubDate>Tue, 17 Nov 2026 19:41:03 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/17/world/europe/ukraine-kyiv-russia-kerch-bridge-crimea.html</guid>
     </item>
     <item>
-      <title>[News / World] US officially loses measles-free status after 26 years amid outbreak</title>
-      <link>https://www.aljazeera.com/news/2026/11/17/us-officially-loses-measles-free-status-after-26-years-amid-outbreak?traffic_source=rss</link>
-      <description>Al Jazeera: A major health organisation declared measles endemic in US for first time since 2000, reversing decades of progress.</description>
-      <pubDate>Tue, 17 Nov 2026 16:07:53 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/11/17/us-officially-loses-measles-free-status-after-26-years-amid-outbreak?traffic_source=rss</guid>
+      <title>[News / World] Prince William Brings Climate Prize to India, in an Electric Rickshaw</title>
+      <link>https://www.nytimes.com/2026/11/17/world/asia/prince-william-climate-prize-india-rickshaw.html</link>
+      <description>NYT — World: The three-wheeler that the heir to the British throne used was made by one of 15 finalists honored for creative environmental projects.</description>
+      <pubDate>Tue, 17 Nov 2026 18:59:25 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/17/world/asia/prince-william-climate-prize-india-rickshaw.html</guid>
     </item>
     <item>
-      <title>[News / World] Putin&#x27;s Crimea bridge partly collapses as Zelensky hails &#x27;unprecedented&#x27; attack by Ukraine</title>
-      <link>https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>BBC News — World: Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.</description>
-      <pubDate>Tue, 17 Nov 2026 16:07:41 +0000</pubDate>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <title>[News / World] Iran launches a third round of strikes on Bahrain, host of U.S. Navy&#x27;s 5th Fleet</title>
+      <link>https://www.npr.org/2026/11/17/nx-s1-6044255/us-iran-war-latest-bahrain</link>
+      <description>NPR News: Iran fired drones on Tuesday at a U.S. radar facility in Bahrain, and the U.S. retaliated by firing at Iranian targets along an important shipping route.</description>
+      <pubDate>Tue, 17 Nov 2026 18:34:31 +0000</pubDate>
+      <guid isPermaLink="true">https://www.npr.org/2026/11/17/nx-s1-6044255/us-iran-war-latest-bahrain</guid>
+    </item>
+    <item>
+      <title>[News / World] Ecuadorean Fishermen Who Survived U.S. Boat Strike Sue Trump Administration</title>
+      <link>https://www.nytimes.com/2026/11/17/world/americas/trump-us-boat-strikes-lawsuit-ecuador-fishermen.html</link>
+      <description>NYT — World: The first lawsuit by strike survivors targets a secretive U.S. military campaign that has killed more than 240 people.</description>
+      <pubDate>Tue, 17 Nov 2026 18:26:38 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/17/world/americas/trump-us-boat-strikes-lawsuit-ecuador-fishermen.html</guid>
+    </item>
+    <item>
+      <title>[Chicago] The Big Pop Show lives on as a live compilation</title>
+      <link>https://chicagoreader.com/music/gossip-wolf/big-pop-show-eli-schmitt-new-now-emahoy-tsege-mariam-gebru/</link>
+      <description>Chicago Reader: &lt;figure&gt;&lt;img alt=&quot;Ohio band Artificial Go play at this year&amp;#039;s Big Pop Show. This color flash photo is taken from side stage; the singer wears a red-and-white majorette&amp;#039;s outfit and leans forward over several sweaty audience members, and a guitarist is visible in the background&quot; class=&quot;atta</description>
+      <pubDate>Tue, 17 Nov 2026 18:01:25 +0000</pubDate>
+      <guid isPermaLink="true">https://chicagoreader.com/music/gossip-wolf/big-pop-show-eli-schmitt-new-now-emahoy-tsege-mariam-gebru/</guid>
+    </item>
+    <item>
+      <title>[News / World] From Failed Businessman to Accused Plotter in the Killing of Haiti’s Leader</title>
+      <link>https://www.nytimes.com/2026/11/17/world/americas/christian-sanon-trial-haiti-president-assassination.html</link>
+      <description>NYT — World: Prosecutors say Christian Sanon was a con man who oversaw a plan to assassinate the country’s president. His defense says he played no part in the plot’s fatal outcome.</description>
+      <pubDate>Tue, 17 Nov 2026 17:41:06 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/17/world/americas/christian-sanon-trial-haiti-president-assassination.html</guid>
+    </item>
+    <item>
+      <title>[News / World] Nvidia board says it does not intend to reinstate Jensen Huang as CEO</title>
+      <link>https://www.npr.org/2026/11/17/nx-s1-6044213/jensen-huang-nvidia-congress</link>
+      <description>NPR News: The former Nvidia CEO said he would be &quot;honored&quot; to return if the board allowed. But the board says it has no intention of reinstating him.</description>
+      <pubDate>Tue, 17 Nov 2026 17:36:31 +0000</pubDate>
+      <guid isPermaLink="true">https://www.npr.org/2026/11/17/nx-s1-6044213/jensen-huang-nvidia-congress</guid>
+    </item>
+    <item>
+      <title>[News / World] &#x27;It was really scary&#x27;: Mother describes sheltering during Russia strikes on Kyiv bridge</title>
+      <link>https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>BBC News — World: Moscow has targeted bridges in Kyiv, while Ukraine severely damaged a critical bridge linking Russia to occupied Crimea.</description>
+      <pubDate>Tue, 17 Nov 2026 17:19:57 +0000</pubDate>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&amp;at_campaign=rss</guid>
+    </item>
+    <item>
+      <title>[Philosophy] Nagel Wins Berggruen Prize</title>
+      <link>https://dailynous.com/2026/11/17/nagel-wins-berggruen-prize/</link>
+      <description>Daily Nous: &lt;p&gt;Thomas Nagel is the 2026 winner of the $1 million Berggruen Prize for Philosophy &amp;#38; Culture. The Berggruen Institute called Nagel, professor emeritus of philosophy [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://dailynous.com/2026/11/17/nagel-wins-berggruen-prize/&quot;&gt;Nagel Wins Berggruen Prize&lt;/a&gt; ap</description>
+      <pubDate>Tue, 17 Nov 2026 16:28:16 +0000</pubDate>
+      <guid isPermaLink="true">https://dailynous.com/2026/11/17/nagel-wins-berggruen-prize/</guid>
     </item>
     <item>
       <title>[Books &amp; Literature] Helen Garner Will Receive Our 2027 Hadada Award</title>
@@ -97,60 +357,11 @@
       <guid isPermaLink="true">https://www.theparisreview.org/blog/2026/11/17/helen-garner-will-receive-our-2027-hadada-award/</guid>
     </item>
     <item>
-      <title>[News / World] Trump’s Whirlwind Asia Trip Begins in the Philippines</title>
-      <link>https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit</link>
-      <description>NYT — World: President Trump’s 48-hour trip started with a meeting with Southeast Asian leaders in Manila. He will later meet Xi Jinping of China and Vladimir Putin of Russia in Shenzhen, a Chinese economic hub.</description>
-      <pubDate>Tue, 17 Nov 2026 16:02:17 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit</guid>
-    </item>
-    <item>
-      <title>[Politics] For true picture of Nov. 3, look at the states</title>
-      <link>https://thehill.com/opinion/campaign/6223965-state-level-political-shifts/</link>
-      <description>The Hill: Democratic gains in the 2026 midterm elections across various state offices and legislatures have significantly shifted the balance of power and strengthened the potential for abolishing the Electoral College through the National Popular Vote Compact.</description>
-      <pubDate>Tue, 17 Nov 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/opinion/campaign/6223965-state-level-political-shifts/</guid>
-    </item>
-    <item>
-      <title>[News / World] UK sanctions firms over Israeli West Bank settlements</title>
-      <link>https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>BBC News — World: It marks the first sanctions since the UK announced a tougher approach to Israeli actions in the territory.</description>
-      <pubDate>Tue, 17 Nov 2026 15:59:47 +0000</pubDate>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&amp;at_campaign=rss</guid>
-    </item>
-    <item>
-      <title>[News / World] Trump announces critical minerals agreements at Quad meeting in Manila</title>
-      <link>https://www.aljazeera.com/news/2026/11/17/trump-announces-critical-minerals-agreements-at-quad-meeting-in-manila?traffic_source=rss</link>
-      <description>Al Jazeera: US President Trump says the deals will prevent &amp;#039;coercion by any single foreign supplier&amp;#039;.</description>
-      <pubDate>Tue, 17 Nov 2026 15:59:41 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/11/17/trump-announces-critical-minerals-agreements-at-quad-meeting-in-manila?traffic_source=rss</guid>
-    </item>
-    <item>
-      <title>[News / World] Ukraine Attacks Kerch Bridge Linking Russia to Occupied Crimea</title>
-      <link>https://www.nytimes.com/2026/11/17/world/europe/ukraine-kyiv-russia-kerch-bridge-crimea.html</link>
-      <description>NYT — World: Destroying the structure, the only one connecting Russia to the occupied Crimean Peninsula, has long been a top objective for Kyiv.</description>
-      <pubDate>Tue, 17 Nov 2026 15:54:39 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/17/world/europe/ukraine-kyiv-russia-kerch-bridge-crimea.html</guid>
-    </item>
-    <item>
-      <title>[Politics] Huang agrees to testify before House lawmakers</title>
-      <link>https://thehill.com/homenews/house/6216614-jensen-huang-congress-testimony/</link>
-      <description>The Hill: Jensen Huang, the tech executive at the center of an alleged Chinese corporate espionage scandal, has agreed to testify before Congress in a closed-door briefing focused on threats to U.S. national security. House Foreign Affairs Committee Chair Brian Mast (R-Fla.), House Select Committee on China C</description>
-      <pubDate>Tue, 17 Nov 2026 15:53:00 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/homenews/house/6216614-jensen-huang-congress-testimony/</guid>
-    </item>
-    <item>
-      <title>[Politics] Live updates: Senators expect House to take up permitting reform; Trump kicks off Asia trip</title>
-      <link>https://thehill.com/homenews/administration/6224028-live-updates-donald-trump-asia-trip-xi-putin-talks-nvidia-senate-house/</link>
-      <description>The Hill: Permitting reform talk is dominating D.C. after the Senate took a key step toward advancing legislation. Bipartisan agreement on the need to streamline federal permitting for major energy and infrastructure projects has reached a critical juncture in Washington. Key lawmakers, industry leaders, acad</description>
-      <pubDate>Tue, 17 Nov 2026 15:52:34 +0000</pubDate>
-      <guid isPermaLink="true">https://thehill.com/homenews/administration/6224028-live-updates-donald-trump-asia-trip-xi-putin-talks-nvidia-senate-house/</guid>
-    </item>
-    <item>
-      <title>[News / World] Jerusalem Daily: Deadly settler pogroms persist</title>
-      <link>https://www.aljazeera.com/video/newsfeed/2026/11/17/jerusalem-daily-deadly-settler-pogroms-persist?traffic_source=rss</link>
-      <description>Al Jazeera: A Palestinian woman was killed in a settler shooting near Jericho, while Arab MPs in Israel seek Netanyahu probe.</description>
-      <pubDate>Tue, 17 Nov 2026 15:49:11 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/11/17/jerusalem-daily-deadly-settler-pogroms-persist?traffic_source=rss</guid>
+      <title>[News / World] Cash Hidden in Forests? Hungary Goes After Corruption Under Orban</title>
+      <link>https://www.nytimes.com/2026/11/17/world/europe/hungary-magyar-orban-corruption-cash.html</link>
+      <description>NYT — World: The new government says $20 million worth of bank notes uncovered in farmhouses and woods are the “tip of the iceberg.” Allies of Viktor Orban, the former prime minister, call it a witch hunt.</description>
+      <pubDate>Tue, 17 Nov 2026 16:00:01 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/17/world/europe/hungary-magyar-orban-corruption-cash.html</guid>
     </item>
     <item>
       <title>[History] Juan Carlos: from people&#x27;s king to Spain&#x27;s pariah</title>
@@ -158,13 +369,6 @@
       <description>HistoryExtra: Paul Preston charts the extraordinary rise and spectacular downfall of Juan Carlos I – from the boy Franco groomed to inherit his dictatorship, to the king who restored Spanish democracy, to disgraced exile</description>
       <pubDate>Tue, 17 Nov 2026 15:47:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.historyextra.com/membership/juan-carlos-from-peoples-king-spain-pariah-podcast/</guid>
-    </item>
-    <item>
-      <title>[News / World] Serbian actress and former MP doused with yoghurt outside parliament</title>
-      <link>https://www.aljazeera.com/video/newsfeed/2026/11/17/serbian-actress-and-former-mp-doused-with-yoghurt-outside-parliament?traffic_source=rss</link>
-      <description>Al Jazeera: Serbian actress and former MP Lidija Vukicevic, who is backing the ruling SNS party, had yoghurt poured over her as.</description>
-      <pubDate>Tue, 17 Nov 2026 15:46:45 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/11/17/serbian-actress-and-former-mp-doused-with-yoghurt-outside-parliament?traffic_source=rss</guid>
     </item>
     <item>
       <title>[Chicago] Pinksqueeze envision a better world for queer people on We Can Have It</title>
@@ -188,27 +392,6 @@
       <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&amp;at_campaign=rss</guid>
     </item>
     <item>
-      <title>[News / World] Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says</title>
-      <link>https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>BBC News — World: Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.</description>
-      <pubDate>Tue, 17 Nov 2026 15:36:11 +0000</pubDate>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&amp;at_campaign=rss</guid>
-    </item>
-    <item>
-      <title>[News / World] Houthi advance on Aden may spur resurgence of Yemen’s southern separatists</title>
-      <link>https://www.aljazeera.com/news/2026/11/17/houthi-advance-on-aden-sparks-resurgence-of-yemens-southern-separatists?traffic_source=rss</link>
-      <description>Al Jazeera: Southern separatists try to regain power to defend Aden as Saudi Arabia reshuffles its military command against Houthis.</description>
-      <pubDate>Tue, 17 Nov 2026 15:26:55 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/11/17/houthi-advance-on-aden-sparks-resurgence-of-yemens-southern-separatists?traffic_source=rss</guid>
-    </item>
-    <item>
-      <title>[News / World] Trump warns Iran over reported ‘dirty bomb’ threat plans against Washington</title>
-      <link>https://www.aljazeera.com/video/newsfeed/2026/11/17/trump-warns-iran-over-reported-dirty-bomb-threat-plans-against-washington?traffic_source=rss</link>
-      <description>Al Jazeera: President Donald Trump responded to a CNN report that Iran was working on plans to attack Washington, DC</description>
-      <pubDate>Tue, 17 Nov 2026 15:13:57 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/11/17/trump-warns-iran-over-reported-dirty-bomb-threat-plans-against-washington?traffic_source=rss</guid>
-    </item>
-    <item>
       <title>[News / World] Tracking China’s War of Words Against Japan</title>
       <link>https://www.nytimes.com/2026/11/17/world/asia/china-japan-propaganda-xi-takaichi.html</link>
       <description>NYT — World: Beijing is running a concerted campaign to paint Japan as an aggressor and resurgent military threat, according to a Times analysis.</description>
@@ -221,13 +404,6 @@
       <description>Book Riot: Here are Google Play&#x27;s picks for the best books of 2026, including favorite fantasy, light novel, picture book, and cookbook.</description>
       <pubDate>Tue, 17 Nov 2026 15:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://bookriot.com/google-plays-top-books-of-2026/</guid>
-    </item>
-    <item>
-      <title>[News / World] Is Iran plotting a ‘dirty bomb’ attack in the US? What we know</title>
-      <link>https://www.aljazeera.com/news/2026/11/17/is-iran-plotting-a-dirty-bomb-attack-in-the-us-what-we-know?traffic_source=rss</link>
-      <description>Al Jazeera: A CNN report quoting unnamed US officials alleges Tehran is developing plans for an attack on officials in Washington.</description>
-      <pubDate>Tue, 17 Nov 2026 14:59:39 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/11/17/is-iran-plotting-a-dirty-bomb-attack-in-the-us-what-we-know?traffic_source=rss</guid>
     </item>
     <item>
       <title>[Books &amp; Literature] TIME’s 100 Must-Read Books of 2026</title>
@@ -265,13 +441,6 @@
       <guid isPermaLink="true">https://blockclubchicago.org/2026/11/17/friends-of-tony-fitzpatrick-organize-tribute-to-late-artists-musical-talents/</guid>
     </item>
     <item>
-      <title>[Politics] Democrats Promised Lower Prices. What Can They Actually Do?</title>
-      <link>https://www.nytimes.com/2026/11/17/podcasts/the-daily/democrats-promised-lower-prices-what-can-they-actually-do.html</link>
-      <description>NYT — Politics: Three reporters talk about what options the party really has to try to bring down the cost of living.</description>
-      <pubDate>Tue, 17 Nov 2026 14:01:13 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/17/podcasts/the-daily/democrats-promised-lower-prices-what-can-they-actually-do.html</guid>
-    </item>
-    <item>
       <title>[Chicago] Chicago Public Schools Overtime Spending Surged To $150 Million. Watchdog Flags Oversight Gaps</title>
       <link>https://blockclubchicago.org/2026/11/17/chicago-public-schools-overtime-spending-surged-to-150-million-watchdog-flags-oversight-gaps/</link>
       <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;683&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2024/02/whitney-young-custodian-1395287966-scaled.jpeg?fit=1024%2C683&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figure&gt;A report from the district’s Offi</description>
@@ -286,41 +455,6 @@
       <guid isPermaLink="true">https://bookriot.com/book-riots-deals-of-the-day-for-november-17-2026/</guid>
     </item>
     <item>
-      <title>[Chicago] Inaugural ‘Pavo Pacers’ Run Brings Puerto Rican Tradition To Humboldt Park This Weekend</title>
-      <link>https://blockclubchicago.org/2026/11/17/inaugural-pavo-pacers-run-brings-puerto-rican-tradition-to-humboldt-park-this-weekend/</link>
-      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;682&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2025/01/011425-Humboldt-Park-Health-Center-Colin-Boyle-7783.jpg?fit=1024%2C682&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figure&gt;Organizers hope the even</description>
-      <pubDate>Tue, 17 Nov 2026 14:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://blockclubchicago.org/2026/11/17/inaugural-pavo-pacers-run-brings-puerto-rican-tradition-to-humboldt-park-this-weekend/</guid>
-    </item>
-    <item>
-      <title>[Chicago] West Ridge Nature Park Opens Learning Lodge: ‘You Have To Teach Kids To Love Nature’</title>
-      <link>https://blockclubchicago.org/2026/11/17/west-ridge-nature-park-opens-learning-lodge-you-have-to-teach-kids-to-love-nature/</link>
-      <description>Block Club Chicago: The lodge, which is used for field trips and other educational events, was installed this fall. The park advisory council is looking for volunteers to help with programs.</description>
-      <pubDate>Tue, 17 Nov 2026 14:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://blockclubchicago.org/2026/11/17/west-ridge-nature-park-opens-learning-lodge-you-have-to-teach-kids-to-love-nature/</guid>
-    </item>
-    <item>
-      <title>[Chicago] Proximo Padel Expands To Goose Island As Owners Seek To Introduce More Chicagoans To Growing Sport</title>
-      <link>https://blockclubchicago.org/2026/11/17/proximo-padel-expands-to-goose-island-as-owners-seek-to-introduce-more-chicagoans-to-growing-sport/</link>
-      <description>Block Club Chicago: The racket sport is having a moment in Chicago as courts continue to spring up across the city. Proximo&#x27;s new location will also feature a cafe and bar.</description>
-      <pubDate>Tue, 17 Nov 2026 14:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://blockclubchicago.org/2026/11/17/proximo-padel-expands-to-goose-island-as-owners-seek-to-introduce-more-chicagoans-to-growing-sport/</guid>
-    </item>
-    <item>
-      <title>[Chicago] CTA Safe Ride Specialists Are ‘Only A Start’ To Improving Safety On Transit, Riders Say</title>
-      <link>https://blockclubchicago.org/2026/11/17/cta-safe-ride-specialists-are-only-a-start-to-improving-safety-on-transit-riders-say/</link>
-      <description>Block Club Chicago: &lt;figure&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-rss-image-size size-rss-image-size wp-post-image&quot; height=&quot;682&quot; src=&quot;https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2026/11/110926-Safe-Ride-Specialists-Giacomo-Cain-5746.jpg?fit=1024%2C682&amp;amp;ssl=1&quot; width=&quot;1024&quot; /&gt;&lt;/figure&gt;The yearlong pilot launched i</description>
-      <pubDate>Tue, 17 Nov 2026 14:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://blockclubchicago.org/2026/11/17/cta-safe-ride-specialists-are-only-a-start-to-improving-safety-on-transit-riders-say/</guid>
-    </item>
-    <item>
-      <title>[News / World] From Failed Businessman to Accused Plotter in the Killing of Haiti’s Leader</title>
-      <link>https://www.nytimes.com/2026/11/17/world/christian-sanon-trial-haiti-president-assassination.html</link>
-      <description>NYT — World: Prosecutors say Christian Sanon was a con man who oversaw a plan to assassinate the country’s president. His defense says he played no part in the plot’s fatal outcome.</description>
-      <pubDate>Tue, 17 Nov 2026 13:44:41 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/17/world/christian-sanon-trial-haiti-president-assassination.html</guid>
-    </item>
-    <item>
       <title>[Books &amp; Literature] A novelist is back on the cover of TIME.</title>
       <link>https://lithub.com/a-novelist-is-back-on-the-cover-of-time/</link>
       <description>Literary Hub: Today, TIME Magazine has published their list of 100 &amp;#8220;must-read&amp;#8221; books of 2026, including Yesteryear by Caro Claire Burke, who is also featured on the magazine&amp;#8217;s cover. The last novelist to be featured on the cover of TIME was Taylor Jenkins Reid, in</description>
@@ -333,13 +467,6 @@
       <description>Book Riot: The best of the best in picture books</description>
       <pubDate>Tue, 17 Nov 2026 13:30:00 +0000</pubDate>
       <guid isPermaLink="true">https://bookriot.com/on-the-basis-of-artistic-merit/</guid>
-    </item>
-    <item>
-      <title>[News / World] These Ukrainians Aren’t in Combat. But They Deal With War Every Day.</title>
-      <link>https://www.nytimes.com/2026/11/17/world/europe/ukraine-war-civilians.html</link>
-      <description>NYT — World: A doctor, a gravedigger, a therapist and a pathologist share their war experiences.</description>
-      <pubDate>Tue, 17 Nov 2026 13:09:11 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/17/world/europe/ukraine-war-civilians.html</guid>
     </item>
     <item>
       <title>[News / World] Trump is in Asia ahead of Xi, Putin summit. And, tech leaders want Huang back at Nvidia</title>
@@ -375,13 +502,6 @@
       <description>NPR News: In late October, Google had the worst stock day in its history as a public company.&lt;em&gt; The Planet Money &lt;/em&gt;newsletter asks: has Google been caught in &quot;the innovator&#x27;s dilemma&quot;?</description>
       <pubDate>Tue, 17 Nov 2026 11:30:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.npr.org/sections/planet-money/2026/11/17/g-s1-153933/can-google-win-the-ai-race-without-killing-its-cash-cow</guid>
-    </item>
-    <item>
-      <title>[News / World] Nvidia partner Megaspeed being investigated by US government over chip exports</title>
-      <link>https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>BBC News — World: The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.</description>
-      <pubDate>Tue, 17 Nov 2026 11:17:32 +0000</pubDate>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&amp;at_campaign=rss</guid>
     </item>
     <item>
       <title>[Books &amp; Literature] The Best Debut Novel of the Century So Far</title>
@@ -433,60 +553,11 @@
       <guid isPermaLink="true">https://www.npr.org/2026/11/17/nx-s1-6043702/trump-arrives-philippines</guid>
     </item>
     <item>
-      <title>[Politics] As Trump Goes to China, A.I. Tensions Surge Amid Spying and Safety Fears</title>
-      <link>https://www.nytimes.com/2026/11/17/us/politics/trump-china-ai-tensions.html</link>
-      <description>NYT — Politics: The espionage concerns that led to Jensen Huang’s ouster at Nvidia highlight a core challenge to diplomacy between Washington and Beijing on A.I. advancement.</description>
-      <pubDate>Tue, 17 Nov 2026 10:22:54 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/17/us/politics/trump-china-ai-tensions.html</guid>
-    </item>
-    <item>
-      <title>[News / World] Congo Ebola Outbreak: How Fear and Mistrust Drive Community Spread</title>
-      <link>https://www.nytimes.com/2026/11/17/world/africa/congo-ebola-community-transmission.html</link>
-      <description>NYT — World: As the Ebola virus spreads in eastern Congo, health teams struggle to curb fatal delays in seeking medical care and the widespread desire to treat sick relatives at home.</description>
-      <pubDate>Tue, 17 Nov 2026 10:07:56 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/17/world/africa/congo-ebola-community-transmission.html</guid>
-    </item>
-    <item>
-      <title>[Politics] Trump’s Culture War, Amid Setbacks, Will Soon Face a Hostile Congress</title>
-      <link>https://www.nytimes.com/2026/11/17/arts/design/trump-congress-smithsonian-kennedy-center.html</link>
-      <description>NYT — Politics: The White House campaign to make major changes at the Smithsonian and the Kennedy Center has fallen short of its goals. Will it be further disrupted by a Democrat-led Congress?</description>
-      <pubDate>Tue, 17 Nov 2026 10:02:57 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/17/arts/design/trump-congress-smithsonian-kennedy-center.html</guid>
-    </item>
-    <item>
-      <title>[News / World] More people are getting the flu. Should you get a flu shot before you travel?</title>
-      <link>https://www.npr.org/2026/11/17/nx-s1-6043086/thanksgiving-travel-cold-flu-vaccine-shot-booster</link>
-      <description>NPR News: Thanksgiving is just around the corner, just as millions of Americans are expected to travel for the holidays. Another thing that&#x27;s upon us? Cold and flu season.</description>
-      <pubDate>Tue, 17 Nov 2026 10:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.npr.org/2026/11/17/nx-s1-6043086/thanksgiving-travel-cold-flu-vaccine-shot-booster</guid>
-    </item>
-    <item>
-      <title>[News / World] Does locking up a student&#x27;s cell phone improve test scores? A new study suggests so</title>
-      <link>https://www.npr.org/2026/11/17/nx-s1-6035684/school-cellphone-ban-learning-loss-yondr-research</link>
-      <description>NPR News: A new study of school cellphone bans finds they may help students make up for some of the learning they&#x27;ve lost since 2013 – a divergence from earlier study results.</description>
-      <pubDate>Tue, 17 Nov 2026 10:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.npr.org/2026/11/17/nx-s1-6035684/school-cellphone-ban-learning-loss-yondr-research</guid>
-    </item>
-    <item>
       <title>[News / World] She went to college to become a social worker. Now she&#x27;s joined the skilled trades</title>
       <link>https://www.npr.org/2026/11/17/nx-s1-6012818/skilled-trades-apprenticeship-college-data-centers-jobs</link>
       <description>NPR News: While the rise of AI continues to fuel the debate over whether college is worth the cost, apprenticeships in the skilled trades are having a moment, drawing in people of all backgrounds including college graduates.</description>
       <pubDate>Tue, 17 Nov 2026 10:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.npr.org/2026/11/17/nx-s1-6012818/skilled-trades-apprenticeship-college-data-centers-jobs</guid>
-    </item>
-    <item>
-      <title>[News / World] Carney and Xi Announce Canada-China Trade Pact</title>
-      <link>https://www.nytimes.com/2026/11/17/world/canada/carney-china-xi-trade-apec.html</link>
-      <description>NYT — World: The agreement between Canada and China and the cordial relations on display by their leaders contrast with the current Canada-U.S. relationship.</description>
-      <pubDate>Tue, 17 Nov 2026 09:46:43 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/17/world/canada/carney-china-xi-trade-apec.html</guid>
-    </item>
-    <item>
-      <title>[News / World] Indian woman gang-raped while pregnant in 2002 &#x27;heartbroken&#x27; after two perpetrators bailed</title>
-      <link>https://www.bbc.co.uk/news/articles/cr868wd2qg18o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>BBC News — World: Bilkis Bano has spoken of her &quot;pain, shock and disbelief&quot; at the top court order and vowed to fight back.</description>
-      <pubDate>Tue, 17 Nov 2026 09:27:44 +0000</pubDate>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cr868wd2qg18o?at_medium=RSS&amp;at_campaign=rss</guid>
     </item>
     <item>
       <title>[Books &amp; Literature] Belonging by Sonia Gandhi review – India’s elder stateswoman breaks her silence</title>
@@ -545,34 +616,6 @@
       <guid isPermaLink="true">https://www.historyextra.com/membership/daily-history-trivia-quiz/</guid>
     </item>
     <item>
-      <title>[News / World] Leaked Records Show Deutsche Bank Courting Russian Oligarchs</title>
-      <link>https://www.nytimes.com/2026/11/17/world/europe/deutsche-bank-russia-oligarchs-leaked-documents.html</link>
-      <description>NYT — World: “As you know we have a large Russian Oligarchs client population,” an analyst wrote as the bank braced for sanctions against wealthy clients.</description>
-      <pubDate>Tue, 17 Nov 2026 06:00:12 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/17/world/europe/deutsche-bank-russia-oligarchs-leaked-documents.html</guid>
-    </item>
-    <item>
-      <title>[News / World] European-made pesticides named in 1,605 poisoning reports in Brazil last year</title>
-      <link>https://www.theguardian.com/environment/2026/nov/17/european-made-pesticides-named-1605-brazil-poisoning-reports</link>
-      <description>The Guardian — World: &lt;p&gt;About a third of cases involved chemicals banned for use on EU farms, according to investigation by Unearthed and Public Eye &lt;/p&gt;&lt;p&gt;Pesticides sold by European chemical companies were named in more than 1,600 poisoning reports in Brazil last year, an investigation has found.&lt;/p&gt;&lt;p&gt;About a third o</description>
-      <pubDate>Tue, 17 Nov 2026 06:00:05 +0000</pubDate>
-      <guid isPermaLink="true">https://www.theguardian.com/environment/2026/nov/17/european-made-pesticides-named-1605-brazil-poisoning-reports</guid>
-    </item>
-    <item>
-      <title>[Politics] Trump Administration Divide on China Policy Breaks Into Public View</title>
-      <link>https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-policy.html</link>
-      <description>NYT — Politics: The airing of a fight over advanced A.I. chips shows how much the Nvidia scandal has deepened fissures inside the government, just as President Trump heads to a critical meeting with his Chinese counterpart.</description>
-      <pubDate>Tue, 17 Nov 2026 03:48:50 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-policy.html</guid>
-    </item>
-    <item>
-      <title>[Politics] Justice Alito Warns Court Overhaul Could Threaten Judicial Independence</title>
-      <link>https://www.nytimes.com/2026/11/16/us/politics/supreme-court-alito.html</link>
-      <description>NYT — Politics: The conservative justice connected proposals to alter the court’s composition to what he characterized as a campaign to intimidate the court.</description>
-      <pubDate>Tue, 17 Nov 2026 03:14:39 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/16/us/politics/supreme-court-alito.html</guid>
-    </item>
-    <item>
       <title>[News / World] Five EU states announce plans for immigration ‘return hubs’ in Rwanda</title>
       <link>https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda</link>
       <description>The Guardian — World: &lt;p&gt;Germany, Austria, Netherlands, Denmark and Greece likely to face challenges to policy criticised as ‘grave moral failing’&lt;/p&gt;&lt;p&gt;Five EU member states have announced plans to set up an offshore centre in Rwanda for people with no legal right to stay in Europe, in a pilot scheme that is expected to</description>
@@ -586,13 +629,6 @@
 &lt;p&gt;If we hope to keep our loved ones close for anot</description>
       <pubDate>Mon, 16 Nov 2026 23:57:46 +0000</pubDate>
       <guid isPermaLink="true">https://chicagoreader.com/city-life/holiday-gift-guide/chicago-gift-guide-gifts-under-30-2026/</guid>
-    </item>
-    <item>
-      <title>[Politics] Pilots Kept Contact With Controllers During Nationwide Halt to Flights</title>
-      <link>https://www.nytimes.com/2026/11/16/business/faa-ground-stop-pilots-radio-controllers.html</link>
-      <description>NYT — Politics: Pilots were generally able to maintain contact with air traffic controllers and airline staff on the ground despite an outage that caused a nearly five-hour halt to departures.</description>
-      <pubDate>Mon, 16 Nov 2026 23:39:24 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/16/business/faa-ground-stop-pilots-radio-controllers.html</guid>
     </item>
     <item>
       <title>[Books &amp; Literature] The Gatekeepers: Dispatch from an Israeli Jail</title>
@@ -673,42 +709,5 @@
       <description>Aeon: &lt;p&gt;&lt;img alt=&quot;Historic colour photo of a person in traditional attire on horseback with others in the background in an open field.&quot; src=&quot;https://images.aeonmedia.co/images/60bea515-b55f-48e9-9e81-4fe8bf8afde7/essay-uncavaliersurunepetiteeminencesurlagrandeplacedumarche_cadrageplusserre_a70091x.jpg?wi</description>
       <pubDate>Mon, 16 Nov 2026 11:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist</guid>
-    </item>
-    <item>
-      <title>[Philosophy] Philosophers Among Recent ERC Starting Grant Winners</title>
-      <link>https://dailynous.com/2026/11/16/philosophers-among-recent-erc-starting-grant-winners/</link>
-      <description>Daily Nous: &lt;p&gt;A few philosophers were among the winners of the European Research Council (ERC) Starting Grants announced earlier this season. They are: Piotr Bystranowski (Jagiellonian University)NormasNescio: [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://dailynous.com/2026/11/16/philosophers-among-recent-erc-sta</description>
-      <pubDate>Mon, 16 Nov 2026 11:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://dailynous.com/2026/11/16/philosophers-among-recent-erc-starting-grant-winners/</guid>
-    </item>
-    <item>
-      <title>[News / World] Relocation of Cape Town baboons to sanctuary ignites heated protests</title>
-      <link>https://www.theguardian.com/world/2026/nov/16/cape-town-baboons-relocation-protests</link>
-      <description>The Guardian — World: &lt;p&gt;Demonstrators tried to block vehicle carrying the baboons, whose capture authorities say is needed to protect both primate and human&lt;/p&gt;&lt;p&gt;The relocation of a troop of baboons in Cape Town to a wildlife sanctuary has triggered furious protests by local people opposed to their capture, which offic</description>
-      <pubDate>Mon, 16 Nov 2026 10:19:08 +0000</pubDate>
-      <guid isPermaLink="true">https://www.theguardian.com/world/2026/nov/16/cape-town-baboons-relocation-protests</guid>
-    </item>
-    <item>
-      <title>[History] Winners and losers of the Tudor Reformation</title>
-      <link>https://www.historyextra.com/membership/reformation-full-story-episode-4/</link>
-      <description>HistoryExtra: When Elizabeth I came to the throne, the fate of England’s church was far from set in stone</description>
-      <pubDate>Mon, 16 Nov 2026 10:13:09 +0000</pubDate>
-      <guid isPermaLink="true">https://www.historyextra.com/membership/reformation-full-story-episode-4/</guid>
-    </item>
-    <item>
-      <title>[Philosophy] Online Philosophy Resources Weekly Update</title>
-      <link>https://dailynous.com/2026/11/16/online-philosophy-resources-weekly-update-448/</link>
-      <description>Daily Nous: &lt;p&gt;New and revised entries at online philosophy resources, new reviews of philosophy books, new podcast episodes, recently published open access philosophy books, and more… . [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://dailynous.com/2026/11/16/online-philosophy-resources-weekly-update-448/&quot;&gt;Online Ph</description>
-      <pubDate>Mon, 16 Nov 2026 10:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://dailynous.com/2026/11/16/online-philosophy-resources-weekly-update-448/</guid>
-    </item>
-    <item>
-      <title>[History] Finding the fun in art history</title>
-      <link>https://www.historyextra.com/membership/finding-fun-art-history-podcast/</link>
-      <description>HistoryExtra: Alice Loxton traces the history of Britain through paintings, from a rural church in Wales to a munitions factory</description>
-      <pubDate>Mon, 16 Nov 2026 09:44:03 +0000</pubDate>
-      <guid isPermaLink="true">https://www.historyextra.com/membership/finding-fun-art-history-podcast/</guid>
     </item>
 </channel></rss>
